@@ -488,13 +488,6 @@
           tab.style.setProperty("--tab-bg", palette[0]);
           tab.style.setProperty("--tab-rule", palette[1]);
 
-          tab.addEventListener("click", function (event) {
-            event.preventDefault();
-            currentSection = index;
-            chapter.scrollIntoView({ behavior: "smooth", block: "start" });
-            history.replaceState(null, "", "#" + chapter.id);
-            updateSectionButtons();
-          });
 
           chapterTabs.appendChild(tab);
         });
@@ -522,7 +515,6 @@
           var isActive = a.dataset.target === sections[active].id;
           a.classList.toggle("active", isActive);
           a.setAttribute("aria-current", isActive ? "true" : "false");
-          if (isActive) a.scrollIntoView({behavior:"smooth", block:"nearest", inline:"center"});
         });
       }
 
