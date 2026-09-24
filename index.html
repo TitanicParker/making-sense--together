@@ -185,6 +185,7 @@
     .chapter {
       margin: 2.2em -22px;
       padding: 28px 22px 34px;
+      scroll-margin-top: 118px;
       border: 1px solid var(--chapter-rule);
       border-radius: 18px;
       background: var(--chapter-bg);
@@ -449,6 +450,7 @@
           var chapter = document.createElement("section");
           chapter.className = "chapter chapter-color-" + ((index % 14) + 1);
           chapter.dataset.chapter = String(index + 1);
+          chapter.id = heading.id + "-chapter";
 
           heading.parentNode.insertBefore(chapter, heading);
           var node = heading;
@@ -462,15 +464,16 @@
 
       function buildChapterTabs() {
         chapterTabs.innerHTML = "";
-        sections = Array.from(book.querySelectorAll("h2"));
+        sections = Array.from(book.querySelectorAll(".chapter"));
 
-        sections.forEach(function (heading, index) {
+        sections.forEach(function (chapter, index) {
+          var heading = chapter.querySelector("h2");
           var tab = document.createElement("a");
           var n = (index % 14) + 1;
           tab.className = "chapter-tab";
-          tab.href = "#" + heading.id;
+          tab.href = "#" + chapter.id;
           tab.textContent = String(index + 1);
-          tab.dataset.target = heading.id;
+          tab.dataset.target = chapter.id;
           tab.setAttribute("aria-label", "Chapter " + (index + 1) + ": " + heading.textContent);
           tab.title = heading.textContent;
 
@@ -484,6 +487,15 @@
 
           tab.style.setProperty("--tab-bg", palette[0]);
           tab.style.setProperty("--tab-rule", palette[1]);
+
+          tab.addEventListener("click", function (event) {
+            event.preventDefault();
+            currentSection = index;
+            chapter.scrollIntoView({ behavior: "smooth", block: "start" });
+            history.replaceState(null, "", "#" + chapter.id);
+            updateSectionButtons();
+          });
+
           chapterTabs.appendChild(tab);
         });
 
@@ -495,11 +507,11 @@
 
       function updateSectionButtons() {
         if (!sections.length) return;
-        var scrollY = window.scrollY + 120;
         var active = 0;
+        var threshold = 132;
 
         sections.forEach(function (section, index) {
-          if (section.offsetTop <= scrollY) active = index;
+          if (section.getBoundingClientRect().top <= threshold) active = index;
         });
 
         currentSection = active;
@@ -509,13 +521,16 @@
         document.querySelectorAll(".chapter-tab").forEach(function (a) {
           var isActive = a.dataset.target === sections[active].id;
           a.classList.toggle("active", isActive);
+          a.setAttribute("aria-current", isActive ? "true" : "false");
           if (isActive) a.scrollIntoView({behavior:"smooth", block:"nearest", inline:"center"});
         });
       }
 
       function goSection(delta) {
         var target = Math.max(0, Math.min(sections.length - 1, currentSection + delta));
+        currentSection = target;
         sections[target].scrollIntoView({ behavior: "smooth", block: "start" });
+        history.replaceState(null, "", "#" + sections[target].id);
       }
 
       function updateProgress() {
