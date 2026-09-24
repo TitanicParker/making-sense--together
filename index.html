@@ -531,7 +531,9 @@
         breaks: false
       });
 
-      fetch(safeFile, { cache: "no-store" })
+      var manuscriptUrl = safeFile + "?v=" + Date.now();
+
+      fetch(manuscriptUrl, { cache: "no-store" })
         .then(function (response) {
           if (!response.ok) throw new Error("Could not load " + safeFile + " (" + response.status + ")");
           return response.text();
