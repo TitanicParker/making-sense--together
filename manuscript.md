@@ -1285,13 +1285,13 @@ It did.
 
 Six kinds of change. Three ways a change might become enough. Three broad ways something might remain.
 
-Six times three times three: fifty-four possible combinations.
+If the three lists really were independent enough to cross, they yielded fifty-four candidate combinations.
 
-Nothing in the number proved that these were the only possibilities. They had not inspected every kind of understanding people could ever have. The number was not sacred. It might turn out that one of the six needed splitting, or two belonged together, or that an entirely different question mattered more.
+Nothing in the number proved that these were the only possibilities, or even that every crossing would survive close inspection. They had not inspected every kind of understanding people could ever have. The number was not sacred. One of the six might need splitting. Two might turn out to overlap. One of the three later questions might cut the territory in a different way.
 
-But the number did something useful.
+But crossing the questions did something useful.
 
-It made the puzzle harder to dismiss.
+It made the distinctions harder to blur.
 
 If the same few differences could combine in many ways, then ordinary moments that looked alike might not be alike at all. Two repairs could leave different things behind. Two answers could become enough for different reasons. The same object could take part in one kind of problem in the morning and another in the afternoon.
 
@@ -2783,13 +2783,13 @@ Three different combinations.
 
 Leila tapped the page.
 
-"This is what the fifty-four are for."
+"This is what the crossed questions might be for."
 
 Not to announce that the world comes in fifty-four boxes.
 
 Not to make every story obey a table.
 
-To notice that several different questions can cross one another.
+To test whether several different questions really can cross one another without collapsing into the same thing.
 
 A difference can become clear because of one decisive feature and remain as a usable skill.
 
@@ -2799,15 +2799,11 @@ Several things can become organized enough together that what remains is mainly 
 
 The combinations mattered.
 
-That was why fifty-four was more interesting than six.
+That was why crossing the questions was more interesting than merely listing six kinds of change.
 
-If all they had noticed were six kinds of change, the map would have stayed fairly flat.
+The same change might become enough in different ways, and what remained afterward might differ again. If those differences continued to hold up under difficult cases, the map would gain depth.
 
-But the same change could become enough in different ways.
-
-And what remained afterward could differ again.
-
-The map began to have depth.
+If they did not, the map—and the number—would have to change.
 
 Then something stranger happened.
 
@@ -3551,7 +3547,7 @@ The phrase itself had been too loose.
 
 What corrected the group was another person's account of what the deadline was for.
 
-The manager's meeting changed what the words had to mean in practice.
+The manager's meeting revealed what she had needed the words to mean in practice.
 
 They had all agreed with one another.
 
@@ -4222,1783 +4218,186 @@ The next puzzle would be whether the same recurring forms they had found in draw
 AUTHORING MAP — INVISIBLE TO THE READER
 ========================================
 
-THIS IS ONE CONTINUOUS MANUSCRIPT.
-Do not turn these notes into visible prose merely because they are here.
-They are obligations, recurrence cues, and puzzle positions for future chapters.
+This is a working instrument, not doctrine.
 
-WHAT MUST NEVER DIE
+GOVERNING EDITORIAL RULE
+------------------------
+Preserve the thought. Purify the language.
+
+The visible manuscript must remain a book, not a theory manual. Experience first. Recognition second. Naming last.
+
+WHAT THE BOOK CAN CURRENTLY CLAIM WITH CONFIDENCE
+--------------------------------------------------
+- Something can become clear enough to change what a person can notice, ask, expect, say, test, rely on, or do next without becoming certain or final.
+- Making sense and being right are different. A useful understanding can later be corrected.
+- Earlier understanding can enter later understanding without being repeated from zero.
+- Other people can participate in the formation of understanding without possessing identical thoughts.
+- Agreement is neither necessary nor sufficient for shared understanding.
+- Records, memory, habits, skills, obligations, unanswered questions, and renewed understanding are different ways in which something earlier can matter later. Do not hide those differences under one word such as "survival."
+- A later occasion can sometimes remain answerable to an earlier one despite changes of wording, person, setting, or route. The exact threshold of "same matter" remains open.
+
+THE CENTRAL PRESSURE THAT MUST REMAIN OPEN
+------------------------------------------
+Do not quietly assume that every case of understanding begins as a sharply formed unresolved question or ends in a resolution.
+
+Future chapters must test:
+- recognition without a prior felt problem;
+- contemplation and understanding that deepen while several interpretations remain live;
+- jokes, melodies, grief, aesthetic judgment, dreams, hallucinations, fiction, moral conflict;
+- bodily skill that is understood in practice but poorly articulated;
+- successful coordination with shallow or mistaken mutual understanding.
+
+If these cases do not fit, weaken the general account rather than forcing them into it.
+
+THE THREE QUESTIONS
 -------------------
-The book may change examples, characters, settings, vocabulary, scale, and eventual length.
-These movements must remain alive:
+The three questions remain useful working questions:
 
-- Something particular is unresolved. This is stronger than mere ignorance.
-- Something changes.
-- The change becomes enough for some purpose without requiring perfection or certainty.
-- What has been gained enters what happens next.
-- What remains may be a fact, distinction, relation, skill, effect, habit, question, warning, record, or way of checking.
-- Another person can participate in understanding without receiving an identical copy of another person's thought.
-- Communication can help produce understanding rather than merely transmit a finished result.
-- Agreement is not the measure of shared understanding. Disagreement can reveal that people are closely engaged with the same matter.
-- Making sense and being right are different. A genuine understanding can later be corrected.
-- Reality must retain the ability to push back: through consequences, failed predictions, machines, evidence, counterexamples, other people, or the thing itself.
-- What was understood can remain, fade, be forgotten, be recovered, be taught, be written, be translated, be challenged, or need to be understood again.
-- An unanswered question can survive too.
-- The same matter may continue across changed words, people, routes, records, and circumstances when what happens later can still answer, correct, contradict, fulfil, explain, or continue what was earlier at issue.
-- Human beings begin thinking amid other people's finished and unfinished work.
-- The easy reading must gradually expose a staggering implication: tiny acts of making sense can accumulate into a reality people can inhabit, test, correct, and extend together.
+1. What changed?
+2. Why was that enough here?
+3. What remained afterward?
 
-PEDAGOGICAL RULE
-----------------
-Experience first.
-Recognition second.
-Naming last.
-
-Never introduce a formal distinction merely because the authoring map knows it.
-Let the reader live through it before asking them to recognize it.
-
-The reader should repeatedly discover:
-"I have already seen this, but I did not yet know what I was seeing."
-
-PUZZLE CLOCK
-------------
-From here onward use a repeating 3 / 4 rhythm.
-
-A small puzzle arrives after roughly three chapters of lived material.
-A larger puzzle arrives after the next roughly three chapters, completing a seven-chapter pulse.
-
-Current positions:
-- Chapter 7  = LARGE PUZZLE
-- Chapter 11 = SMALL PUZZLE
-- Chapter 14 = LARGE PUZZLE
-- Chapter 18 = SMALL PUZZLE
-- Chapter 21 = LARGE PUZZLE
-- Chapter 25 = SMALL PUZZLE
-- Chapter 28 = LARGE PUZZLE
-
-Continue indefinitely by adding 4, then 3, then 4, then 3 chapters between puzzle positions as needed.
-Equivalent repeating puzzle intervals: +4, +3, +4, +3 ...
-
-SMALL PUZZLE RULE
------------------
-The small puzzle should feel almost irresistible rather than instructional.
-
-It should:
-- look back over the previous two or three chapters;
-- place unlike scenes beside one another;
-- ask what repeated;
-- sharpen one distinction;
-- avoid explaining the whole system;
-- give the reader a better question to carry forward.
-
-Typical forms:
-"What changed in all three?"
-"Which difference actually mattered?"
-"When did they know enough to continue?"
-"What remained after the immediate problem disappeared?"
-"Were these really the same kind of ending?"
-"What would have shown that they were wrong?"
-
-The reader should solve more than the prose solves for them.
-
-LARGE PUZZLE RULE
------------------
-The larger puzzle should look across the whole recent cycle.
-
-It should:
-- return to several earlier scenes;
-- make the recurrence unmistakable;
-- explicitly mention selected examples from the 54;
-- treat the 54 as meaningful recurring forms, not as boxes to memorize;
-- show that the examples cross very different parts of life;
-- reveal a larger consequence than the previous puzzle;
-- end by opening the next cycle.
-
-Never dump all 54 merely because this is a puzzle chapter.
-Each puzzle should reveal only what the surrounding book has earned.
+They are not yet proven to be exhaustive or independent.
 
 THE 54
 ------
-The 54 remain a middle-level map, not the foundation.
-
-They arise from three questions about one occasion:
-
-1. WHAT CHANGED?
-   - a difference became clear;
-   - something became possible or available;
-   - a connection became clear;
-   - something wrong was put right;
-   - separate things became one organized whole;
-   - something that still needed an answer got one.
-
-2. WHY WAS THAT ENOUGH?
-   - one particular thing decided the matter;
-   - several things together were required;
-   - something that had been controlling the next move stopped controlling it.
-
-3. WHAT REMAINED AFTERWARD?
-   - something was now established;
-   - what remained depended on how things stood in relation;
-   - what remained was mainly visible in what could now happen.
-
-6 × 3 × 3 = 54 possible combinations in the current working map.
-
-Do not present 54 as magical, proven exhaustive, or the final truth.
-The three questions are more robust than the exact lists.
-The larger inquiry is more robust than the three questions.
-
-IMPORTANT:
-Classify the episode or live question, not the physical object.
-The same drawer, train, promise, proof, brake, person, or sentence can participate in different forms depending on what was unresolved.
-
-FIRST FUTURE CYCLE
-==================
-
-CHAPTER 7 — LARGE PUZZLE
-Working role: First explicit retrospective recognition.
-
-Return to:
-- the drawer;
-- "enough" in soup and the curtain rail;
-- the breaker and what was kept;
-- the changing platform;
-- the parcel and leak disagreement;
-- the thermostat explanation that fought back.
-
-Question:
-These situations look unrelated. Why do they keep feeling structurally familiar?
-
-Let the reader notice several recurring forms before they are explained.
-
-Explicit 54 examples that may now be named in ordinary language:
-- telling two things apart;
-- seeing how things stand in relation;
-- putting something wrong right;
-- several parts needing to work together;
-- reaching an answer that lets the next thing begin;
-- discovering that something which seemed to govern the problem no longer does.
-
-The staggering turn:
-These may not merely be repair stories or examples of practical intelligence.
-The same kinds of change may recur whenever something becomes understandable enough to use.
-
-Do not:
-- list all 54;
-- introduce technical labels;
-- announce a grand theory;
-- turn the puzzle into a quiz with a single correct answer.
-
-End with a question that makes Chapter 8 necessary:
-If these shapes recur across unlike situations, how far do they travel?
-
-CHAPTER 8 — NEW CIRCUIT / LANGUAGE
-Working role: Tiny expression, large situation.
-
-Possible center:
-"There", "again", "that one", "not yet", "leave it".
-
-Show:
-A few words can do enormous work when people are already engaged with enough of the same situation.
-The words do not contain the whole understanding.
-They help another person find what matters.
-
-Must deepen:
-Communication is not packaging a finished private thought.
-Another person's response can change the original speaker's own understanding.
-
-Keep open:
-What makes two people still engaged with the same matter when their words, routes, and thoughts differ?
-
-CHAPTER 9 — SAME MATTER
-Working role: Continuity through difference.
-
-Possible center:
-A promise retold in different words, a disputed instruction, a map redrawn, or a proof explained two ways.
-
-Show:
-Same words are not required.
-Agreement is not required.
-Same person is not required.
-Same route is not required.
-
-Practical test:
-Can what happens in one occasion answer, contradict, correct, prove, fulfil, explain, or continue what was at issue in the other?
-
-Keep open:
-How much can change before revision becomes replacement?
-
-CHAPTER 10 — TIME
-Working role: What yesterday still wants.
-
-Possible center:
-A note, unfinished repair, promise, unanswered message, remembered warning, or problem left overnight.
-
-Show:
-Past and future can shape what matters now.
-An unfinished question can survive without anyone actively thinking about it every minute.
-A written mark can help but is not itself the understanding.
-
-Distinguish:
-still available;
-forgotten then recovered;
-understood anew.
-
-Keep open:
-What exactly survives when the original occasion is gone?
-
-CHAPTER 11 — SMALL PUZZLE
-Look back over Chapters 8–10.
-
-Puzzle:
-Three things survived change: wording, person, and time.
-What made them still about the same matter?
-
-Do not resolve the threshold fully.
-Let the reader test:
-"Does this later thing still bear directly on what was earlier at issue?"
-
-Sharpen:
-Revision versus replacement.
-Remembering versus working it out again.
-Same matter versus merely similar matter.
-
-No full 54 exposition here.
-At most point to one or two forms as echoes.
-
-CHAPTER 12 — RECEIVING UNFINISHED WORK
-Working role: Another person's question becomes mine.
-
-Possible center:
-Someone hands over a half-fixed object, incomplete calculation, draft recipe, partially understood family story, or unresolved practical task.
-
-Show:
-We do not inherit only answers.
-We inherit unfinishedness.
-Sometimes what another person could not settle becomes a live question for us.
-
-Deepen:
-Thinking begins amid work already underway.
-
-Keep open:
-How can a question remain one question across different people?
-
-CHAPTER 13 — WHAT CAN OUTLAST US
-Working role: Records, teaching, practices, corrections.
-
-Possible center:
-A written instruction survives its author but is ambiguous until used.
-A procedure is taught, then corrected in practice.
-A proof, recipe, repair note, or warning outlives the person who first wrote it.
-
-Show:
-A record can remain while its meaning is lost.
-Different records can support the same understanding.
-People can repeat correct words without understanding.
-
-Escalation:
-What human beings build together is not stored in sentences alone.
-
-Keep open:
-How can a result become publicly available without becoming frozen?
-
-CHAPTER 14 — LARGE PUZZLE
-Look across Chapters 8–14 and back to the first cycle.
-
-Explicitly bring selected 54 forms across:
-- gesture and language;
-- promise or obligation;
-- memory;
-- records;
-- disagreement;
-- correction;
-- teaching.
-
-Puzzle:
-Why do forms first noticed in drawers, trains, leaks, and heating also appear in words, promises, records, and teaching?
-
-Staggering turn:
-The recurring forms may belong not just to solitary problem-solving but to how understanding becomes available between people and across time.
-
-Deepen:
-Shared reality does not mean identical thoughts or universal agreement.
-It means enough connection to the same ongoing matter that what one person notices, says, tests, changes, or questions can genuinely alter what another can reasonably think or do next.
-
-End with:
-If understanding can outlast one person, what happens when whole groups begin from results and questions inherited from people they never met?
-
-SECOND FUTURE CYCLE
-===================
-
-CHAPTER 15 — INHERITED ANSWERS
-Possible center:
-A child uses a multiplication rule, traveller follows a map, worker follows a safety procedure, musician uses notation.
-
-Show:
-Useful understanding may begin from something we did not discover ourselves.
-Receiving an answer is not the same as understanding why it is right.
-
-Keep open:
-When is inherited knowledge genuinely ours?
-
-CHAPTER 16 — INHERITED QUESTIONS
-Possible center:
-A family mystery, scientific problem, civic dispute, unfinished proof, long-standing technical problem.
-
-Show:
-Questions can cross generations.
-No present participant need have begun the inquiry.
-
-Keep open:
-What makes the present problem still answerable to the earlier one?
-
-CHAPTER 17 — WHEN AGREEMENT IS WRONG
-Possible center:
-Several people agree on a mistaken explanation until evidence defeats it.
-
-Show:
-Agreement can be socially strong and epistemically weak.
-Disagreement can be closer to the matter than consensus.
-
-Do not:
-turn this into cynicism about agreement.
-
-Keep open:
-What besides present agreement can correct a group?
-
-CHAPTER 18 — SMALL PUZZLE
-Look back over Chapters 15–17.
-
-Puzzle:
-Which is more important for shared thinking: agreement, continuity, or the possibility of correction?
-
-Let examples do the work.
-
-Possible distinction to sharpen:
-A group can inherit a result, inherit a question, or inherit a mistake.
-
-CHAPTER 19 — MATHEMATICAL CASE
-Possible center:
-A simple pattern, proof, or parity example.
-
-Show:
-A conclusion can become a usable step inside another question.
-A counterexample can reopen what seemed settled.
-The "thing itself" need not be a physical object.
-
-Broaden correction:
-proof, counterexample, calculation, consequence.
-
-CHAPTER 20 — PROMISE / RULE / DUTY
-Possible center:
-Someone can physically leave yet still be bound by a promise, rule, appointment, or responsibility.
-
-Show:
-Physical possibility differs from what an action counts as.
-Meaning can shape what follows without physically preventing movement.
-
-Counterweight:
-Agreement cannot make a flooded road passable.
-Naming a broken brake "working" does not repair it.
-
-Keep open:
-Human reality contains more than physical obstruction without becoming arbitrary.
-
-CHAPTER 21 — LARGE PUZZLE
-Look across Chapters 15–21 and earlier cycles.
-
-Explicit 54 recurrence:
-Show selected forms operating in:
-- inherited knowledge;
-- inherited questions;
-- group error;
-- mathematics;
-- promises/rules;
-- practical correction.
-
-Puzzle:
-How can the same broad forms survive when the things involved are so different?
-
-Do not force one metaphysical answer.
-
-Staggering turn:
-Human beings can enter realities partly built before they arrived, act within them, test them, correct them, and leave altered conditions for people who come later.
-
-Open:
-What keeps this shared reality from becoming merely whatever people currently say it is?
-
-THIRD FUTURE CYCLE — PLACEHOLDER ONLY
-=====================================
-
-CHAPTERS 22–24
-Purpose:
-Move toward institutions, science, law, history, craft, collective memory, or other settings where many people contribute without sharing one present scene.
-
-CHAPTER 25 — SMALL PUZZLE
-Ask what allows many partial contributions to remain about one matter.
-
-CHAPTERS 26–27
-Push farther into translation, loss, recovery, conflicting records, and long-distance correction.
-
-CHAPTER 28 — LARGE PUZZLE
-Bring selected forms from the 54 into genuinely large human continuities.
-The reader should now feel that the simple scenes at the beginning were never small in implication.
-
-AD INFINITUM RULE
-=================
-After Chapter 28 do not invent filler merely to preserve the pattern.
-
-For every future chapter:
-1. Identify the live unresolved thing.
-2. Decide what becomes possible, clear, connected, corrected, organized, or answered.
-3. Know why that is enough here.
-4. Know what remains afterward.
-5. Let the result enter something later.
-6. Ask whether another person can participate.
-7. Leave room for correction.
-8. Ask how the matter can continue through time.
-9. Bring back something earlier with changed significance.
-10. Do not explain before the reader has experienced.
-
-For every SMALL PUZZLE:
-- gather recent scenes;
-- ask the reader to discriminate;
-- sharpen one question;
-- reveal less than the reader can now suspect.
-
-For every LARGE PUZZLE:
-- gather the cycle;
-- explicitly surface a few meaningful forms from the 54;
-- connect unlike domains;
-- enlarge the implication;
-- preserve uncertainty;
-- open the next horizon.
-
-The puzzles are not examinations.
-They are moments when the reader turns around and notices the shape of their own growing ability to see.
-
-The ultimate puzzle is not:
-"Can you memorize 54 forms?"
-
-It is:
-"How can small acts of making sense accumulate into a reality that people can enter together, continue, challenge, repair, and leave unfinished for others?"
-
-
-PROGRESS LEDGER — 1,029 CHAPTER HORIZON
-=======================================
-
-Tick rule:
-- [x] means the chapter is fully drafted in the visible manuscript and committed.
-- [ ] means the position is still available.
-- Do not tick a chapter merely because notes or a placeholder exist.
-- Puzzle labels are structural obligations, not necessarily visible chapter titles.
-- From Chapter 7 onward the repeating pulse is:
-  LARGE PUZZLE → 3 lived/deepening chapters → SMALL PUZZLE → 2 lived/deepening chapters → LARGE PUZZLE.
-  Seen as intervals between puzzles: 4, 3, 4, 3, forever.
-- Every 49 chapters is a SEASON checkpoint.
-- Every 343 chapters is a GRAND RETHINKING checkpoint.
-- The ledger is allowed to outlive any provisional stopping point. Chapter 1000 is an apparent cultural ending; Chapter 1029 is the mathematical completion of the third 343-chapter movement.
-
-
-SEASON 1 — Chapters 1–49
-- [x] Chapter 1 — The Drawer That Wouldn't Close — DRAFTED
-- [x] Chapter 2 — Enough — DRAFTED
-- [x] Chapter 3 — What You Get to Keep — DRAFTED
-- [x] Chapter 4 — Look Again — DRAFTED
-- [x] Chapter 5 — The Same Thing Between Us — DRAFTED
-- [x] Chapter 6 — When the Answer Fights Back — DRAFTED
-- [x] Chapter 7 — LARGE PUZZLE
-- [x] Chapter 8 — UNRESOLVED / NEW CIRCUIT
-- [x] Chapter 9 — ENOUGH TO GO ON
-- [x] Chapter 10 — WHAT REMAINS / ENTERS NEXT
-- [x] Chapter 11 — SMALL PUZZLE
-- [x] Chapter 12 — OTHER PERSON / SHARED MATTER
-- [x] Chapter 13 — RESISTANCE / CORRECTION / TIME
-- [x] Chapter 14 — LARGE PUZZLE
-- [x] Chapter 15 — UNRESOLVED / NEW CIRCUIT
-- [x] Chapter 16 — ENOUGH TO GO ON
-- [x] Chapter 17 — WHAT REMAINS / ENTERS NEXT
-- [x] Chapter 18 — SMALL PUZZLE
-- [x] Chapter 19 — OTHER PERSON / SHARED MATTER
-- [x] Chapter 20 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 21 — LARGE PUZZLE
-- [ ] Chapter 22 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 23 — ENOUGH TO GO ON
-- [ ] Chapter 24 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 25 — SMALL PUZZLE
-- [ ] Chapter 26 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 27 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 28 — LARGE PUZZLE
-- [ ] Chapter 29 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 30 — ENOUGH TO GO ON
-- [ ] Chapter 31 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 32 — SMALL PUZZLE
-- [ ] Chapter 33 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 34 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 35 — LARGE PUZZLE
-- [ ] Chapter 36 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 37 — ENOUGH TO GO ON
-- [ ] Chapter 38 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 39 — SMALL PUZZLE
-- [ ] Chapter 40 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 41 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 42 — LARGE PUZZLE
-- [ ] Chapter 43 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 44 — ENOUGH TO GO ON
-- [ ] Chapter 45 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 46 — SMALL PUZZLE
-- [ ] Chapter 47 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 48 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 49 — LARGE PUZZLE
-
-SEASON 2 — Chapters 50–98
-- [ ] Chapter 50 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 51 — ENOUGH TO GO ON
-- [ ] Chapter 52 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 53 — SMALL PUZZLE
-- [ ] Chapter 54 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 55 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 56 — LARGE PUZZLE
-- [ ] Chapter 57 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 58 — ENOUGH TO GO ON
-- [ ] Chapter 59 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 60 — SMALL PUZZLE
-- [ ] Chapter 61 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 62 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 63 — LARGE PUZZLE
-- [ ] Chapter 64 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 65 — ENOUGH TO GO ON
-- [ ] Chapter 66 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 67 — SMALL PUZZLE
-- [ ] Chapter 68 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 69 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 70 — LARGE PUZZLE
-- [ ] Chapter 71 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 72 — ENOUGH TO GO ON
-- [ ] Chapter 73 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 74 — SMALL PUZZLE
-- [ ] Chapter 75 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 76 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 77 — LARGE PUZZLE
-- [ ] Chapter 78 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 79 — ENOUGH TO GO ON
-- [ ] Chapter 80 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 81 — SMALL PUZZLE
-- [ ] Chapter 82 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 83 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 84 — LARGE PUZZLE
-- [ ] Chapter 85 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 86 — ENOUGH TO GO ON
-- [ ] Chapter 87 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 88 — SMALL PUZZLE
-- [ ] Chapter 89 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 90 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 91 — LARGE PUZZLE
-- [ ] Chapter 92 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 93 — ENOUGH TO GO ON
-- [ ] Chapter 94 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 95 — SMALL PUZZLE
-- [ ] Chapter 96 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 97 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 98 — LARGE PUZZLE
-
-SEASON 3 — Chapters 99–147
-- [ ] Chapter 99 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 100 — ENOUGH TO GO ON
-- [ ] Chapter 101 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 102 — SMALL PUZZLE
-- [ ] Chapter 103 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 104 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 105 — LARGE PUZZLE
-- [ ] Chapter 106 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 107 — ENOUGH TO GO ON
-- [ ] Chapter 108 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 109 — SMALL PUZZLE
-- [ ] Chapter 110 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 111 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 112 — LARGE PUZZLE
-- [ ] Chapter 113 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 114 — ENOUGH TO GO ON
-- [ ] Chapter 115 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 116 — SMALL PUZZLE
-- [ ] Chapter 117 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 118 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 119 — LARGE PUZZLE
-- [ ] Chapter 120 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 121 — ENOUGH TO GO ON
-- [ ] Chapter 122 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 123 — SMALL PUZZLE
-- [ ] Chapter 124 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 125 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 126 — LARGE PUZZLE
-- [ ] Chapter 127 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 128 — ENOUGH TO GO ON
-- [ ] Chapter 129 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 130 — SMALL PUZZLE
-- [ ] Chapter 131 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 132 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 133 — LARGE PUZZLE
-- [ ] Chapter 134 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 135 — ENOUGH TO GO ON
-- [ ] Chapter 136 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 137 — SMALL PUZZLE
-- [ ] Chapter 138 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 139 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 140 — LARGE PUZZLE
-- [ ] Chapter 141 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 142 — ENOUGH TO GO ON
-- [ ] Chapter 143 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 144 — SMALL PUZZLE
-- [ ] Chapter 145 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 146 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 147 — LARGE PUZZLE
-
-SEASON 4 — Chapters 148–196
-- [ ] Chapter 148 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 149 — ENOUGH TO GO ON
-- [ ] Chapter 150 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 151 — SMALL PUZZLE
-- [ ] Chapter 152 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 153 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 154 — LARGE PUZZLE
-- [ ] Chapter 155 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 156 — ENOUGH TO GO ON
-- [ ] Chapter 157 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 158 — SMALL PUZZLE
-- [ ] Chapter 159 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 160 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 161 — LARGE PUZZLE
-- [ ] Chapter 162 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 163 — ENOUGH TO GO ON
-- [ ] Chapter 164 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 165 — SMALL PUZZLE
-- [ ] Chapter 166 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 167 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 168 — LARGE PUZZLE
-- [ ] Chapter 169 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 170 — ENOUGH TO GO ON
-- [ ] Chapter 171 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 172 — SMALL PUZZLE
-- [ ] Chapter 173 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 174 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 175 — LARGE PUZZLE
-- [ ] Chapter 176 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 177 — ENOUGH TO GO ON
-- [ ] Chapter 178 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 179 — SMALL PUZZLE
-- [ ] Chapter 180 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 181 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 182 — LARGE PUZZLE
-- [ ] Chapter 183 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 184 — ENOUGH TO GO ON
-- [ ] Chapter 185 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 186 — SMALL PUZZLE
-- [ ] Chapter 187 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 188 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 189 — LARGE PUZZLE
-- [ ] Chapter 190 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 191 — ENOUGH TO GO ON
-- [ ] Chapter 192 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 193 — SMALL PUZZLE
-- [ ] Chapter 194 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 195 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 196 — LARGE PUZZLE
-
-SEASON 5 — Chapters 197–245
-- [ ] Chapter 197 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 198 — ENOUGH TO GO ON
-- [ ] Chapter 199 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 200 — SMALL PUZZLE
-- [ ] Chapter 201 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 202 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 203 — LARGE PUZZLE
-- [ ] Chapter 204 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 205 — ENOUGH TO GO ON
-- [ ] Chapter 206 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 207 — SMALL PUZZLE
-- [ ] Chapter 208 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 209 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 210 — LARGE PUZZLE
-- [ ] Chapter 211 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 212 — ENOUGH TO GO ON
-- [ ] Chapter 213 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 214 — SMALL PUZZLE
-- [ ] Chapter 215 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 216 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 217 — LARGE PUZZLE
-- [ ] Chapter 218 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 219 — ENOUGH TO GO ON
-- [ ] Chapter 220 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 221 — SMALL PUZZLE
-- [ ] Chapter 222 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 223 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 224 — LARGE PUZZLE
-- [ ] Chapter 225 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 226 — ENOUGH TO GO ON
-- [ ] Chapter 227 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 228 — SMALL PUZZLE
-- [ ] Chapter 229 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 230 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 231 — LARGE PUZZLE
-- [ ] Chapter 232 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 233 — ENOUGH TO GO ON
-- [ ] Chapter 234 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 235 — SMALL PUZZLE
-- [ ] Chapter 236 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 237 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 238 — LARGE PUZZLE
-- [ ] Chapter 239 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 240 — ENOUGH TO GO ON
-- [ ] Chapter 241 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 242 — SMALL PUZZLE
-- [ ] Chapter 243 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 244 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 245 — LARGE PUZZLE
-
-SEASON 6 — Chapters 246–294
-- [ ] Chapter 246 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 247 — ENOUGH TO GO ON
-- [ ] Chapter 248 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 249 — SMALL PUZZLE
-- [ ] Chapter 250 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 251 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 252 — LARGE PUZZLE
-- [ ] Chapter 253 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 254 — ENOUGH TO GO ON
-- [ ] Chapter 255 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 256 — SMALL PUZZLE
-- [ ] Chapter 257 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 258 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 259 — LARGE PUZZLE
-- [ ] Chapter 260 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 261 — ENOUGH TO GO ON
-- [ ] Chapter 262 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 263 — SMALL PUZZLE
-- [ ] Chapter 264 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 265 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 266 — LARGE PUZZLE
-- [ ] Chapter 267 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 268 — ENOUGH TO GO ON
-- [ ] Chapter 269 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 270 — SMALL PUZZLE
-- [ ] Chapter 271 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 272 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 273 — LARGE PUZZLE
-- [ ] Chapter 274 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 275 — ENOUGH TO GO ON
-- [ ] Chapter 276 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 277 — SMALL PUZZLE
-- [ ] Chapter 278 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 279 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 280 — LARGE PUZZLE
-- [ ] Chapter 281 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 282 — ENOUGH TO GO ON
-- [ ] Chapter 283 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 284 — SMALL PUZZLE
-- [ ] Chapter 285 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 286 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 287 — LARGE PUZZLE
-- [ ] Chapter 288 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 289 — ENOUGH TO GO ON
-- [ ] Chapter 290 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 291 — SMALL PUZZLE
-- [ ] Chapter 292 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 293 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 294 — LARGE PUZZLE
-
-SEASON 7 — Chapters 295–343
-- [ ] Chapter 295 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 296 — ENOUGH TO GO ON
-- [ ] Chapter 297 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 298 — SMALL PUZZLE
-- [ ] Chapter 299 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 300 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 301 — LARGE PUZZLE
-- [ ] Chapter 302 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 303 — ENOUGH TO GO ON
-- [ ] Chapter 304 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 305 — SMALL PUZZLE
-- [ ] Chapter 306 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 307 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 308 — LARGE PUZZLE
-- [ ] Chapter 309 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 310 — ENOUGH TO GO ON
-- [ ] Chapter 311 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 312 — SMALL PUZZLE
-- [ ] Chapter 313 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 314 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 315 — LARGE PUZZLE
-- [ ] Chapter 316 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 317 — ENOUGH TO GO ON
-- [ ] Chapter 318 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 319 — SMALL PUZZLE
-- [ ] Chapter 320 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 321 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 322 — LARGE PUZZLE
-- [ ] Chapter 323 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 324 — ENOUGH TO GO ON
-- [ ] Chapter 325 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 326 — SMALL PUZZLE
-- [ ] Chapter 327 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 328 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 329 — LARGE PUZZLE
-- [ ] Chapter 330 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 331 — ENOUGH TO GO ON
-- [ ] Chapter 332 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 333 — SMALL PUZZLE
-- [ ] Chapter 334 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 335 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 336 — LARGE PUZZLE
-- [ ] Chapter 337 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 338 — ENOUGH TO GO ON
-- [ ] Chapter 339 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 340 — SMALL PUZZLE
-- [ ] Chapter 341 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 342 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 343 — LARGE PUZZLE
-
-SEASON 8 — Chapters 344–392
-GRAND RETHINKING BEGINS HERE
-- [ ] Chapter 344 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 345 — ENOUGH TO GO ON
-- [ ] Chapter 346 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 347 — SMALL PUZZLE
-- [ ] Chapter 348 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 349 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 350 — LARGE PUZZLE
-- [ ] Chapter 351 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 352 — ENOUGH TO GO ON
-- [ ] Chapter 353 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 354 — SMALL PUZZLE
-- [ ] Chapter 355 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 356 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 357 — LARGE PUZZLE
-- [ ] Chapter 358 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 359 — ENOUGH TO GO ON
-- [ ] Chapter 360 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 361 — SMALL PUZZLE
-- [ ] Chapter 362 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 363 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 364 — LARGE PUZZLE
-- [ ] Chapter 365 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 366 — ENOUGH TO GO ON
-- [ ] Chapter 367 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 368 — SMALL PUZZLE
-- [ ] Chapter 369 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 370 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 371 — LARGE PUZZLE
-- [ ] Chapter 372 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 373 — ENOUGH TO GO ON
-- [ ] Chapter 374 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 375 — SMALL PUZZLE
-- [ ] Chapter 376 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 377 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 378 — LARGE PUZZLE
-- [ ] Chapter 379 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 380 — ENOUGH TO GO ON
-- [ ] Chapter 381 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 382 — SMALL PUZZLE
-- [ ] Chapter 383 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 384 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 385 — LARGE PUZZLE
-- [ ] Chapter 386 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 387 — ENOUGH TO GO ON
-- [ ] Chapter 388 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 389 — SMALL PUZZLE
-- [ ] Chapter 390 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 391 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 392 — LARGE PUZZLE
-
-SEASON 9 — Chapters 393–441
-- [ ] Chapter 393 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 394 — ENOUGH TO GO ON
-- [ ] Chapter 395 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 396 — SMALL PUZZLE
-- [ ] Chapter 397 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 398 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 399 — LARGE PUZZLE
-- [ ] Chapter 400 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 401 — ENOUGH TO GO ON
-- [ ] Chapter 402 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 403 — SMALL PUZZLE
-- [ ] Chapter 404 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 405 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 406 — LARGE PUZZLE
-- [ ] Chapter 407 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 408 — ENOUGH TO GO ON
-- [ ] Chapter 409 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 410 — SMALL PUZZLE
-- [ ] Chapter 411 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 412 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 413 — LARGE PUZZLE
-- [ ] Chapter 414 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 415 — ENOUGH TO GO ON
-- [ ] Chapter 416 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 417 — SMALL PUZZLE
-- [ ] Chapter 418 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 419 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 420 — LARGE PUZZLE
-- [ ] Chapter 421 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 422 — ENOUGH TO GO ON
-- [ ] Chapter 423 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 424 — SMALL PUZZLE
-- [ ] Chapter 425 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 426 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 427 — LARGE PUZZLE
-- [ ] Chapter 428 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 429 — ENOUGH TO GO ON
-- [ ] Chapter 430 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 431 — SMALL PUZZLE
-- [ ] Chapter 432 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 433 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 434 — LARGE PUZZLE
-- [ ] Chapter 435 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 436 — ENOUGH TO GO ON
-- [ ] Chapter 437 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 438 — SMALL PUZZLE
-- [ ] Chapter 439 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 440 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 441 — LARGE PUZZLE
-
-SEASON 10 — Chapters 442–490
-- [ ] Chapter 442 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 443 — ENOUGH TO GO ON
-- [ ] Chapter 444 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 445 — SMALL PUZZLE
-- [ ] Chapter 446 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 447 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 448 — LARGE PUZZLE
-- [ ] Chapter 449 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 450 — ENOUGH TO GO ON
-- [ ] Chapter 451 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 452 — SMALL PUZZLE
-- [ ] Chapter 453 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 454 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 455 — LARGE PUZZLE
-- [ ] Chapter 456 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 457 — ENOUGH TO GO ON
-- [ ] Chapter 458 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 459 — SMALL PUZZLE
-- [ ] Chapter 460 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 461 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 462 — LARGE PUZZLE
-- [ ] Chapter 463 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 464 — ENOUGH TO GO ON
-- [ ] Chapter 465 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 466 — SMALL PUZZLE
-- [ ] Chapter 467 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 468 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 469 — LARGE PUZZLE
-- [ ] Chapter 470 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 471 — ENOUGH TO GO ON
-- [ ] Chapter 472 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 473 — SMALL PUZZLE
-- [ ] Chapter 474 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 475 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 476 — LARGE PUZZLE
-- [ ] Chapter 477 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 478 — ENOUGH TO GO ON
-- [ ] Chapter 479 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 480 — SMALL PUZZLE
-- [ ] Chapter 481 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 482 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 483 — LARGE PUZZLE
-- [ ] Chapter 484 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 485 — ENOUGH TO GO ON
-- [ ] Chapter 486 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 487 — SMALL PUZZLE
-- [ ] Chapter 488 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 489 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 490 — LARGE PUZZLE
-
-SEASON 11 — Chapters 491–539
-- [ ] Chapter 491 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 492 — ENOUGH TO GO ON
-- [ ] Chapter 493 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 494 — SMALL PUZZLE
-- [ ] Chapter 495 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 496 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 497 — LARGE PUZZLE
-- [ ] Chapter 498 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 499 — ENOUGH TO GO ON
-- [ ] Chapter 500 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 501 — SMALL PUZZLE
-- [ ] Chapter 502 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 503 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 504 — LARGE PUZZLE
-- [ ] Chapter 505 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 506 — ENOUGH TO GO ON
-- [ ] Chapter 507 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 508 — SMALL PUZZLE
-- [ ] Chapter 509 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 510 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 511 — LARGE PUZZLE
-- [ ] Chapter 512 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 513 — ENOUGH TO GO ON
-- [ ] Chapter 514 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 515 — SMALL PUZZLE
-- [ ] Chapter 516 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 517 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 518 — LARGE PUZZLE
-- [ ] Chapter 519 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 520 — ENOUGH TO GO ON
-- [ ] Chapter 521 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 522 — SMALL PUZZLE
-- [ ] Chapter 523 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 524 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 525 — LARGE PUZZLE
-- [ ] Chapter 526 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 527 — ENOUGH TO GO ON
-- [ ] Chapter 528 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 529 — SMALL PUZZLE
-- [ ] Chapter 530 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 531 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 532 — LARGE PUZZLE
-- [ ] Chapter 533 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 534 — ENOUGH TO GO ON
-- [ ] Chapter 535 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 536 — SMALL PUZZLE
-- [ ] Chapter 537 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 538 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 539 — LARGE PUZZLE
-
-SEASON 12 — Chapters 540–588
-- [ ] Chapter 540 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 541 — ENOUGH TO GO ON
-- [ ] Chapter 542 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 543 — SMALL PUZZLE
-- [ ] Chapter 544 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 545 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 546 — LARGE PUZZLE
-- [ ] Chapter 547 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 548 — ENOUGH TO GO ON
-- [ ] Chapter 549 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 550 — SMALL PUZZLE
-- [ ] Chapter 551 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 552 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 553 — LARGE PUZZLE
-- [ ] Chapter 554 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 555 — ENOUGH TO GO ON
-- [ ] Chapter 556 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 557 — SMALL PUZZLE
-- [ ] Chapter 558 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 559 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 560 — LARGE PUZZLE
-- [ ] Chapter 561 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 562 — ENOUGH TO GO ON
-- [ ] Chapter 563 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 564 — SMALL PUZZLE
-- [ ] Chapter 565 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 566 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 567 — LARGE PUZZLE
-- [ ] Chapter 568 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 569 — ENOUGH TO GO ON
-- [ ] Chapter 570 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 571 — SMALL PUZZLE
-- [ ] Chapter 572 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 573 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 574 — LARGE PUZZLE
-- [ ] Chapter 575 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 576 — ENOUGH TO GO ON
-- [ ] Chapter 577 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 578 — SMALL PUZZLE
-- [ ] Chapter 579 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 580 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 581 — LARGE PUZZLE
-- [ ] Chapter 582 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 583 — ENOUGH TO GO ON
-- [ ] Chapter 584 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 585 — SMALL PUZZLE
-- [ ] Chapter 586 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 587 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 588 — LARGE PUZZLE
-
-SEASON 13 — Chapters 589–637
-- [ ] Chapter 589 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 590 — ENOUGH TO GO ON
-- [ ] Chapter 591 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 592 — SMALL PUZZLE
-- [ ] Chapter 593 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 594 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 595 — LARGE PUZZLE
-- [ ] Chapter 596 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 597 — ENOUGH TO GO ON
-- [ ] Chapter 598 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 599 — SMALL PUZZLE
-- [ ] Chapter 600 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 601 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 602 — LARGE PUZZLE
-- [ ] Chapter 603 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 604 — ENOUGH TO GO ON
-- [ ] Chapter 605 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 606 — SMALL PUZZLE
-- [ ] Chapter 607 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 608 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 609 — LARGE PUZZLE
-- [ ] Chapter 610 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 611 — ENOUGH TO GO ON
-- [ ] Chapter 612 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 613 — SMALL PUZZLE
-- [ ] Chapter 614 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 615 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 616 — LARGE PUZZLE
-- [ ] Chapter 617 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 618 — ENOUGH TO GO ON
-- [ ] Chapter 619 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 620 — SMALL PUZZLE
-- [ ] Chapter 621 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 622 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 623 — LARGE PUZZLE
-- [ ] Chapter 624 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 625 — ENOUGH TO GO ON
-- [ ] Chapter 626 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 627 — SMALL PUZZLE
-- [ ] Chapter 628 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 629 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 630 — LARGE PUZZLE
-- [ ] Chapter 631 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 632 — ENOUGH TO GO ON
-- [ ] Chapter 633 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 634 — SMALL PUZZLE
-- [ ] Chapter 635 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 636 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 637 — LARGE PUZZLE
-
-SEASON 14 — Chapters 638–686
-- [ ] Chapter 638 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 639 — ENOUGH TO GO ON
-- [ ] Chapter 640 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 641 — SMALL PUZZLE
-- [ ] Chapter 642 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 643 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 644 — LARGE PUZZLE
-- [ ] Chapter 645 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 646 — ENOUGH TO GO ON
-- [ ] Chapter 647 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 648 — SMALL PUZZLE
-- [ ] Chapter 649 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 650 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 651 — LARGE PUZZLE
-- [ ] Chapter 652 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 653 — ENOUGH TO GO ON
-- [ ] Chapter 654 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 655 — SMALL PUZZLE
-- [ ] Chapter 656 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 657 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 658 — LARGE PUZZLE
-- [ ] Chapter 659 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 660 — ENOUGH TO GO ON
-- [ ] Chapter 661 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 662 — SMALL PUZZLE
-- [ ] Chapter 663 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 664 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 665 — LARGE PUZZLE
-- [ ] Chapter 666 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 667 — ENOUGH TO GO ON
-- [ ] Chapter 668 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 669 — SMALL PUZZLE
-- [ ] Chapter 670 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 671 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 672 — LARGE PUZZLE
-- [ ] Chapter 673 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 674 — ENOUGH TO GO ON
-- [ ] Chapter 675 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 676 — SMALL PUZZLE
-- [ ] Chapter 677 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 678 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 679 — LARGE PUZZLE
-- [ ] Chapter 680 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 681 — ENOUGH TO GO ON
-- [ ] Chapter 682 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 683 — SMALL PUZZLE
-- [ ] Chapter 684 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 685 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 686 — LARGE PUZZLE
-
-SEASON 15 — Chapters 687–735
-GRAND RETHINKING BEGINS HERE
-- [ ] Chapter 687 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 688 — ENOUGH TO GO ON
-- [ ] Chapter 689 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 690 — SMALL PUZZLE
-- [ ] Chapter 691 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 692 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 693 — LARGE PUZZLE
-- [ ] Chapter 694 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 695 — ENOUGH TO GO ON
-- [ ] Chapter 696 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 697 — SMALL PUZZLE
-- [ ] Chapter 698 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 699 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 700 — LARGE PUZZLE
-- [ ] Chapter 701 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 702 — ENOUGH TO GO ON
-- [ ] Chapter 703 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 704 — SMALL PUZZLE
-- [ ] Chapter 705 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 706 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 707 — LARGE PUZZLE
-- [ ] Chapter 708 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 709 — ENOUGH TO GO ON
-- [ ] Chapter 710 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 711 — SMALL PUZZLE
-- [ ] Chapter 712 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 713 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 714 — LARGE PUZZLE
-- [ ] Chapter 715 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 716 — ENOUGH TO GO ON
-- [ ] Chapter 717 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 718 — SMALL PUZZLE
-- [ ] Chapter 719 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 720 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 721 — LARGE PUZZLE
-- [ ] Chapter 722 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 723 — ENOUGH TO GO ON
-- [ ] Chapter 724 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 725 — SMALL PUZZLE
-- [ ] Chapter 726 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 727 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 728 — LARGE PUZZLE
-- [ ] Chapter 729 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 730 — ENOUGH TO GO ON
-- [ ] Chapter 731 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 732 — SMALL PUZZLE
-- [ ] Chapter 733 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 734 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 735 — LARGE PUZZLE
-
-SEASON 16 — Chapters 736–784
-- [ ] Chapter 736 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 737 — ENOUGH TO GO ON
-- [ ] Chapter 738 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 739 — SMALL PUZZLE
-- [ ] Chapter 740 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 741 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 742 — LARGE PUZZLE
-- [ ] Chapter 743 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 744 — ENOUGH TO GO ON
-- [ ] Chapter 745 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 746 — SMALL PUZZLE
-- [ ] Chapter 747 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 748 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 749 — LARGE PUZZLE
-- [ ] Chapter 750 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 751 — ENOUGH TO GO ON
-- [ ] Chapter 752 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 753 — SMALL PUZZLE
-- [ ] Chapter 754 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 755 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 756 — LARGE PUZZLE
-- [ ] Chapter 757 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 758 — ENOUGH TO GO ON
-- [ ] Chapter 759 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 760 — SMALL PUZZLE
-- [ ] Chapter 761 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 762 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 763 — LARGE PUZZLE
-- [ ] Chapter 764 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 765 — ENOUGH TO GO ON
-- [ ] Chapter 766 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 767 — SMALL PUZZLE
-- [ ] Chapter 768 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 769 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 770 — LARGE PUZZLE
-- [ ] Chapter 771 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 772 — ENOUGH TO GO ON
-- [ ] Chapter 773 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 774 — SMALL PUZZLE
-- [ ] Chapter 775 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 776 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 777 — LARGE PUZZLE
-- [ ] Chapter 778 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 779 — ENOUGH TO GO ON
-- [ ] Chapter 780 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 781 — SMALL PUZZLE
-- [ ] Chapter 782 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 783 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 784 — LARGE PUZZLE
-
-SEASON 17 — Chapters 785–833
-- [ ] Chapter 785 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 786 — ENOUGH TO GO ON
-- [ ] Chapter 787 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 788 — SMALL PUZZLE
-- [ ] Chapter 789 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 790 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 791 — LARGE PUZZLE
-- [ ] Chapter 792 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 793 — ENOUGH TO GO ON
-- [ ] Chapter 794 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 795 — SMALL PUZZLE
-- [ ] Chapter 796 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 797 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 798 — LARGE PUZZLE
-- [ ] Chapter 799 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 800 — ENOUGH TO GO ON
-- [ ] Chapter 801 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 802 — SMALL PUZZLE
-- [ ] Chapter 803 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 804 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 805 — LARGE PUZZLE
-- [ ] Chapter 806 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 807 — ENOUGH TO GO ON
-- [ ] Chapter 808 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 809 — SMALL PUZZLE
-- [ ] Chapter 810 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 811 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 812 — LARGE PUZZLE
-- [ ] Chapter 813 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 814 — ENOUGH TO GO ON
-- [ ] Chapter 815 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 816 — SMALL PUZZLE
-- [ ] Chapter 817 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 818 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 819 — LARGE PUZZLE
-- [ ] Chapter 820 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 821 — ENOUGH TO GO ON
-- [ ] Chapter 822 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 823 — SMALL PUZZLE
-- [ ] Chapter 824 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 825 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 826 — LARGE PUZZLE
-- [ ] Chapter 827 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 828 — ENOUGH TO GO ON
-- [ ] Chapter 829 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 830 — SMALL PUZZLE
-- [ ] Chapter 831 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 832 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 833 — LARGE PUZZLE
-
-SEASON 18 — Chapters 834–882
-- [ ] Chapter 834 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 835 — ENOUGH TO GO ON
-- [ ] Chapter 836 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 837 — SMALL PUZZLE
-- [ ] Chapter 838 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 839 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 840 — LARGE PUZZLE
-- [ ] Chapter 841 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 842 — ENOUGH TO GO ON
-- [ ] Chapter 843 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 844 — SMALL PUZZLE
-- [ ] Chapter 845 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 846 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 847 — LARGE PUZZLE
-- [ ] Chapter 848 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 849 — ENOUGH TO GO ON
-- [ ] Chapter 850 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 851 — SMALL PUZZLE
-- [ ] Chapter 852 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 853 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 854 — LARGE PUZZLE
-- [ ] Chapter 855 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 856 — ENOUGH TO GO ON
-- [ ] Chapter 857 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 858 — SMALL PUZZLE
-- [ ] Chapter 859 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 860 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 861 — LARGE PUZZLE
-- [ ] Chapter 862 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 863 — ENOUGH TO GO ON
-- [ ] Chapter 864 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 865 — SMALL PUZZLE
-- [ ] Chapter 866 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 867 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 868 — LARGE PUZZLE
-- [ ] Chapter 869 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 870 — ENOUGH TO GO ON
-- [ ] Chapter 871 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 872 — SMALL PUZZLE
-- [ ] Chapter 873 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 874 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 875 — LARGE PUZZLE
-- [ ] Chapter 876 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 877 — ENOUGH TO GO ON
-- [ ] Chapter 878 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 879 — SMALL PUZZLE
-- [ ] Chapter 880 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 881 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 882 — LARGE PUZZLE
-
-SEASON 19 — Chapters 883–931
-- [ ] Chapter 883 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 884 — ENOUGH TO GO ON
-- [ ] Chapter 885 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 886 — SMALL PUZZLE
-- [ ] Chapter 887 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 888 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 889 — LARGE PUZZLE
-- [ ] Chapter 890 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 891 — ENOUGH TO GO ON
-- [ ] Chapter 892 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 893 — SMALL PUZZLE
-- [ ] Chapter 894 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 895 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 896 — LARGE PUZZLE
-- [ ] Chapter 897 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 898 — ENOUGH TO GO ON
-- [ ] Chapter 899 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 900 — SMALL PUZZLE
-- [ ] Chapter 901 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 902 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 903 — LARGE PUZZLE
-- [ ] Chapter 904 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 905 — ENOUGH TO GO ON
-- [ ] Chapter 906 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 907 — SMALL PUZZLE
-- [ ] Chapter 908 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 909 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 910 — LARGE PUZZLE
-- [ ] Chapter 911 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 912 — ENOUGH TO GO ON
-- [ ] Chapter 913 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 914 — SMALL PUZZLE
-- [ ] Chapter 915 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 916 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 917 — LARGE PUZZLE
-- [ ] Chapter 918 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 919 — ENOUGH TO GO ON
-- [ ] Chapter 920 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 921 — SMALL PUZZLE
-- [ ] Chapter 922 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 923 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 924 — LARGE PUZZLE
-- [ ] Chapter 925 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 926 — ENOUGH TO GO ON
-- [ ] Chapter 927 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 928 — SMALL PUZZLE
-- [ ] Chapter 929 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 930 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 931 — LARGE PUZZLE
-
-SEASON 20 — Chapters 932–980
-- [ ] Chapter 932 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 933 — ENOUGH TO GO ON
-- [ ] Chapter 934 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 935 — SMALL PUZZLE
-- [ ] Chapter 936 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 937 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 938 — LARGE PUZZLE
-- [ ] Chapter 939 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 940 — ENOUGH TO GO ON
-- [ ] Chapter 941 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 942 — SMALL PUZZLE
-- [ ] Chapter 943 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 944 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 945 — LARGE PUZZLE
-- [ ] Chapter 946 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 947 — ENOUGH TO GO ON
-- [ ] Chapter 948 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 949 — SMALL PUZZLE
-- [ ] Chapter 950 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 951 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 952 — LARGE PUZZLE
-- [ ] Chapter 953 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 954 — ENOUGH TO GO ON
-- [ ] Chapter 955 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 956 — SMALL PUZZLE
-- [ ] Chapter 957 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 958 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 959 — LARGE PUZZLE
-- [ ] Chapter 960 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 961 — ENOUGH TO GO ON
-- [ ] Chapter 962 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 963 — SMALL PUZZLE
-- [ ] Chapter 964 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 965 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 966 — LARGE PUZZLE
-- [ ] Chapter 967 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 968 — ENOUGH TO GO ON
-- [ ] Chapter 969 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 970 — SMALL PUZZLE
-- [ ] Chapter 971 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 972 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 973 — LARGE PUZZLE
-- [ ] Chapter 974 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 975 — ENOUGH TO GO ON
-- [ ] Chapter 976 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 977 — SMALL PUZZLE
-- [ ] Chapter 978 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 979 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 980 — LARGE PUZZLE
-
-SEASON 21 — Chapters 981–1029
-FINAL SEASON OF THE THIRD 343-CHAPTER MOVEMENT
-
-- [ ] Chapter 981 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 982 — ENOUGH TO GO ON
-- [ ] Chapter 983 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 984 — SMALL PUZZLE
-- [ ] Chapter 985 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 986 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 987 — LARGE PUZZLE
-- [ ] Chapter 988 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 989 — ENOUGH TO GO ON
-- [ ] Chapter 990 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 991 — SMALL PUZZLE
-- [ ] Chapter 992 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 993 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 994 — LARGE PUZZLE
-- [ ] Chapter 995 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 996 — ENOUGH TO GO ON
-- [ ] Chapter 997 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 998 — SMALL PUZZLE
-- [ ] Chapter 999 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 1000 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 1001 — LARGE PUZZLE
-- [ ] Chapter 1002 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 1003 — ENOUGH TO GO ON
-- [ ] Chapter 1004 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 1005 — SMALL PUZZLE
-- [ ] Chapter 1006 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 1007 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 1008 — LARGE PUZZLE
-- [ ] Chapter 1009 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 1010 — ENOUGH TO GO ON
-- [ ] Chapter 1011 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 1012 — SMALL PUZZLE
-- [ ] Chapter 1013 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 1014 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 1015 — LARGE PUZZLE
-- [ ] Chapter 1016 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 1017 — ENOUGH TO GO ON
-- [ ] Chapter 1018 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 1019 — SMALL PUZZLE
-- [ ] Chapter 1020 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 1021 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 1022 — LARGE PUZZLE
-- [ ] Chapter 1023 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 1024 — ENOUGH TO GO ON
-- [ ] Chapter 1025 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 1026 — SMALL PUZZLE
-- [ ] Chapter 1027 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 1028 — RESISTANCE / CORRECTION / TIME
-- [ ] Chapter 1029 — LARGE PUZZLE / THIRD GRAND MOVEMENT COMPLETE
-
-
-THE LAST EXTRA 29 — CHAPTERS 1001–1029
-=======================================
-
-These are not bonus chapters.
-They complete the mathematics that Chapter 1000 leaves unfinished.
-
-1000 is culturally suggestive of completion.
-Inside the book's own seven-based structure it is position 6 of a week:
-one step before a large puzzle.
-
-1001 supplies that withheld turn.
-1029 = 3 × 343 = 3 × 7³.
-The architecture completes there even if the inquiry does not.
-
-CHAPTER 1001 — THE WITHHELD ENDING / LARGE PUZZLE
---------------------------------------------------
-Purpose:
-Let the reader look back at one thousand chapters and ask:
-"What have we actually been doing?"
-
-Do not summarize the whole book.
-Use a very small present scene if possible.
-
-The reader should now be able to notice without instruction:
-- what is unresolved;
-- what changed;
-- why it became enough;
-- what remained;
-- how another person could enter;
-- what could correct the understanding;
-- how the result might enter later life.
-
-The staggering recognition:
-The reader has become more capable of seeing these things than they were at the beginning.
-
-End by refusing monumentality.
-Begin the final four weeks.
-
-WEEK 144 — CHAPTERS 1002–1008 — ONE THING
-------------------------------------------
-Strip the scale back down.
-
-Possible material:
-one object;
-one small practical difficulty;
-one distinction;
-one test;
-one correction.
-
-Avoid:
-institutions, historical sweep, grand claims.
-
-Question underneath the week:
-How much of the whole book was already present in the smallest case?
-
-Chapter 1005 — SMALL PUZZLE:
-Put the first three tiny events beside one another.
-Ask what changed and what became enough.
-
-Chapter 1008 — LARGE PUZZLE:
-Return to the opening scale of the book.
-Let the reader see that the small case was never philosophically small.
-
-WEEK 145 — CHAPTERS 1009–1015 — TWO PEOPLE
--------------------------------------------
-Strip the situation to two people and one matter.
-
-Across the week:
-- one notices something;
-- the other misses or misunderstands it;
-- a gesture, word, example, or action redirects attention;
-- disagreement becomes precise;
-- a test or consequence matters to both;
-- each person's understanding is altered by the exchange.
-
-Do not create a mystical shared mind.
-Do not require identical thoughts.
-
-Chapter 1012 — SMALL PUZZLE:
-Where did the decisive change happen?
-In one person, the other, the exchange, the thing they were dealing with, or some combination?
-
-Chapter 1015 — LARGE PUZZLE:
-Ask:
-"Where, exactly, did the understanding belong?"
-
-Answer only as far as the book has earned:
-different people can contribute to one developing understanding without possessing identical mental contents.
-
-WEEK 146 — CHAPTERS 1016–1022 — SOMEONE ABSENT
------------------------------------------------
-Introduce absence and time.
-
-Possible carriers:
-a note;
-an old repair;
-a recorded instruction;
-a proof;
-a marked-up book;
-a promise;
-an unfinished calculation;
-a question left by someone no longer available.
-
-The living must recover enough of what was at issue to continue.
-
-Chapter 1019 — SMALL PUZZLE:
-What survived?
-The words?
-The object?
-The question?
-The relation between them?
-The ability to resume?
-
-Distinguish:
-remaining available;
-being remembered;
-being reconstructed;
-being understood anew.
-
-Chapter 1022 — LARGE PUZZLE:
-Ask:
-"How can something remain available when the original act of understanding is gone?"
-
-Do not collapse the answer into records.
-A record may remain while its meaning is lost.
-Different records may support the same continuation.
-
-WEEK 147 — CHAPTERS 1023–1029 — SOMEONE NOT YET HERE
------------------------------------------------------
-Turn the temporal direction around.
-
-The question is no longer:
-"What can we receive from people before us?"
-
-It becomes:
-"What are we leaving for people who are not here yet?"
-
-Possible events:
-- someone repairs something properly because another person will rely on it later;
-- someone records why a decision was made;
-- someone preserves uncertainty instead of falsely closing it;
-- someone leaves a question open;
-- someone teaches a child how to find out when an answer stops working;
-- someone changes a procedure after discovering a failure;
-- someone writes for a reader they cannot know.
-
-Chapter 1026 — SMALL PUZZLE:
-What exactly are we able to leave?
-An answer?
-A method?
-A warning?
-A distinction?
-A responsibility?
-An unfinished question?
-
-Chapter 1029 — LARGE PUZZLE / ARCHITECTURAL COMPLETION
--------------------------------------------------------
-Mathematical position:
-3 × 343 = 3 × 7³.
-
-Do not make this a conventional conclusion.
-
-The architecture may finish.
-The inquiry must remain alive.
-
-Desired final-scale event:
-something ordinary;
-possibly a child and an adult;
-a genuine question;
-an answer beginning;
-a hesitation;
-a recognition that they do not yet know;
-a decision to look.
-
-The final movement should contain, without listing them:
-- an inherited world;
-- an unresolved question;
-- two or more people;
-- uncertainty that is preserved rather than hidden;
-- something beyond present preference that can answer back;
-- the possibility of correction;
-- a future understanding beginning from an unfinished present.
-
-The deepest final reversal:
-The book has spent 1029 chapters showing how answers can enter what comes next.
-It should end by showing how an unanswered question can do the same.
-
-Do not end with:
-"Here is what it all means."
-
-End with the structure complete and the matter still open.
-
-FINAL MATHEMATICAL NOTE FOR AUTHORING
--------------------------------------
-7   = one week.
-49  = 7² = one season.
-343 = 7³ = one grand movement.
-1029 = 3 × 343 = completion of three grand movements.
-
-Chapter 1000 is therefore not the mathematical ending.
-It is a deliberately persuasive false ending:
-a round human number that arrives one chapter before the next large puzzle.
-
-The book's own structure should quietly teach:
-what looks finished depends on what question is being asked.
-
-
-HOW TO USE THE LEDGER WHILE WRITING
------------------------------------
-Before drafting any unchecked chapter:
-1. Read its role in the ledger.
-2. Read the nearest earlier puzzle placeholder.
-3. Identify one short return from the previous 1–3 chapters.
-4. Identify one longer return from an earlier week or season when useful.
-5. Decide what is genuinely new here.
-6. Decide what could push back against the current understanding.
-7. Decide what remains afterward.
-8. Only then choose the scene.
-
-When a chapter is finished:
-- change its checkbox from [ ] to [x];
-- if it is a SMALL PUZZLE, verify that it retrospectively compares recent chapters;
-- if it is a LARGE PUZZLE, verify that selected meaningful forms from the 54 appear explicitly;
-- at a SEASON checkpoint, verify that the book has corrected or complicated at least one assumption it previously encouraged;
-- at a GRAND RETHINKING checkpoint, reconsider the book's own account rather than merely extending it.
-
+The 6 x 3 x 3 crossing is a candidate middle-level map, not a discovered periodic table of thought.
+
+Current working answers to the three questions are:
+
+What changed?
+- a difference became clear;
+- something became possible or available;
+- a connection became clear;
+- something wrong was put right;
+- separate things became one organized whole;
+- something that still needed an answer got one.
+
+Why was that enough?
+- one particular thing decided the matter;
+- several things together were required;
+- something that had been controlling the next move stopped controlling it.
+
+What remained afterward?
+- something was established;
+- what remained depended on how things stood in relation;
+- what remained was mainly visible in what could now happen.
+
+Do not assume these lists are mutually exclusive.
+
+Specific pressure points:
+- "settlement" may describe a higher-level ending that can accompany the other kinds of change;
+- "repair" may depend on differentiation, relation, or integration;
+- focal/distributed describe how support is arranged, while release may describe a different kind of mechanism and can itself be focal or distributed;
+- an established result can also be relational and efficacious.
+
+Therefore:
+- never infer validity from 6 x 3 x 3 arithmetic;
+- do not force one episode into one cell;
+- do not use future examples merely to confirm the map;
+- deliberately seek cases where coordinates overlap, collapse, or fail;
+- let the 54 shrink, change, or disappear if the three questions continue to work without it.
+
+SAME-MATTER PROBLEM
+-------------------
+Current heuristic:
+
+A later occasion may still concern the same matter when what happens later can answer, contradict, correct, fulfil, prove, explain, or continue what was earlier at issue.
+
+This is useful but incomplete.
+
+"Enough remains" and "bears directly" cannot be allowed to become circular substitutes for "same."
+"Same for what?" is a helpful test, but purpose-relativity cannot make sameness arbitrary.
+
+Future borderline cases should include:
+- a promise paraphrased until it becomes easier to keep;
+- a scientific model revised until its central object changes;
+- a translated proof using different primitives;
+- a family story whose disputed detail becomes the whole point;
+- a legal rule applied after the institution that created it has changed.
+
+Do not force a sharp universal boundary if the cases do not provide one.
+
+COMMUNICATION AND SHARED REALITY
+--------------------------------
+Keep the modest claim:
+successful communication often works by helping another person take up differences, relations, tests, arrangements, limits, and stopping points that make the matter intelligible.
+
+Do not inflate this into:
+- communication and understanding are identical;
+- an understanding literally exists "between" people as a separate mind;
+- successful coordination proves deep mutual understanding.
+
+Let shared reality remain a practical notion:
+different people are connected closely enough to an ongoing matter that what one notices, says, does, tests, or questions can genuinely affect what the others can reasonably think or do next, while the matter remains capable of resisting them.
+
+SPIRAL FORM
+-----------
+Every chapter is one turn of the spiral.
+
+Each chapter should contain, in miniature:
+- something not yet clear;
+- a change;
+- enoughness without false finality;
+- what enters next;
+- another person or the possibility of another person;
+- something capable of correction;
+- some reach beyond the immediate moment.
+
+Each chapter has a different centre of gravity, but no chapter should postpone the whole book until later.
+
+Do not impose a fixed 3/4 puzzle clock, seven-chapter week, 49-chapter season, 343-chapter movement, 1,000-chapter false ending, or 1,029-chapter mathematical completion.
+
+Those patterns were authorial scaffolding, not discoveries. If a recurrence becomes artistically useful, earn it locally. Do not preserve it because the arithmetic is neat.
+
+READER RHYTHM
+-------------
+The visible reader uses one colored bubble per chapter and one distinct chapter color.
+Do not encode theoretical status, puzzle positions, or the 54 into the navigation.
+
+STYLE WARNINGS
+--------------
+The recurring domestic cast is useful but can become engineered.
+
+Watch for:
+- characters becoming theory puppets;
+- too many repairs, kitchens, tools, and household malfunctions;
+- banter arriving on schedule;
+- explanatory paragraphs after the scene has already made the point;
+- repeated pivots such as "That mattered," "The interesting thing is," and "This is common";
+- anthropomorphizing reality or questions when it hides the mechanism rather than illuminating it.
+
+Bring in other domains only when they create real pressure, not to decorate the theory.
+
+NEXT STRESS TESTS
+-----------------
+Before building much farther, write chapters that genuinely threaten the current account.
+
+Strong candidates:
+1. A melody that becomes intelligible without a clear problem being solved.
+2. A joke understood instantly but difficult to explain.
+3. A bodily skill someone can perform but cannot successfully teach in words.
+4. Two people who coordinate successfully while misunderstanding one another's reasons.
+5. A case where two interpretations remain equally live and the gain is precisely knowing that both must remain open.
+6. A same-matter borderline where reasonable people can disagree about whether revision has become replacement.
+
+Do not design these scenes so the framework wins.
+Let them decide what survives.
+
+CURRENT VISIBLE PROGRESS
+------------------------
+Chapters 1–20 are drafted.
+
+Do not maintain a thousand-chapter placeholder ledger.
+
+Before each new chapter:
+- reread the end of the visible manuscript;
+- identify what this chapter genuinely adds or threatens;
+- make one earlier scene return only if its meaning changes;
+- ask what could show the current understanding wrong;
+- keep the whole spiral present;
+- stop when the chapter has earned its ending.
+
+The book is allowed to discover its own length.
 
 -->
