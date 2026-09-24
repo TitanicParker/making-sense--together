@@ -163,6 +163,30 @@
       box-shadow: 0 4px 14px rgba(50,40,28,.13);
     }
 
+    .chapter-tab.pattern-turn {
+      position: relative;
+      font-weight: 800;
+      box-shadow: 0 0 0 2px var(--paper), 0 0 0 4px var(--accent);
+    }
+
+    .chapter-tab.pattern-turn::after {
+      content: "54";
+      position: absolute;
+      right: -7px;
+      top: -8px;
+      min-width: 20px;
+      height: 20px;
+      padding: 0 4px;
+      border-radius: 999px;
+      display: grid;
+      place-items: center;
+      background: var(--ink);
+      color: var(--paper-2);
+      font: 800 9px/1 ui-sans-serif, system-ui, sans-serif;
+      letter-spacing: .02em;
+      box-shadow: 0 2px 7px rgba(0,0,0,.18);
+    }
+
     .layout {
       max-width: 1100px;
       margin: 0 auto;
@@ -199,6 +223,38 @@
     .chapter > h2:first-child {
       margin-top: 0;
       padding-top: 0;
+    }
+
+    .chapter.pattern-turn {
+      border-width: 2px;
+      box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--chapter-rule) 45%, transparent);
+    }
+
+    .pattern-kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      margin: 0 0 14px;
+      padding: 5px 9px;
+      border: 1px solid var(--chapter-rule);
+      border-radius: 999px;
+      background: color-mix(in srgb, var(--paper-2) 70%, transparent);
+      font: 800 10px/1.2 ui-sans-serif, system-ui, sans-serif;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .pattern-kicker::before {
+      content: "54";
+      display: grid;
+      place-items: center;
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      background: var(--ink);
+      color: var(--paper-2);
+      font-size: 9px;
+      letter-spacing: 0;
     }
 
     .chapter-color-1  { --chapter-bg:#f7dfd8; --chapter-rule:#ddb6aa; }
@@ -450,9 +506,17 @@
         var headings = Array.from(book.querySelectorAll("h2"));
         headings.forEach(function (heading, index) {
           var chapter = document.createElement("section");
+          var chapterNumber = index + 1;
+          var isPatternTurn = chapterNumber >= 7 && (chapterNumber - 7) % 6 === 0;
+
           chapter.className = "chapter chapter-color-" + ((index % 14) + 1);
-          chapter.dataset.chapter = String(index + 1);
+          chapter.dataset.chapter = String(chapterNumber);
           chapter.id = heading.id + "-chapter";
+
+          if (isPatternTurn) {
+            chapter.classList.add("pattern-turn");
+            chapter.dataset.patternTurn = "54";
+          }
 
           heading.parentNode.insertBefore(chapter, heading);
           var node = heading;
@@ -460,6 +524,13 @@
             var next = node.nextSibling;
             chapter.appendChild(node);
             node = next;
+          }
+
+          if (isPatternTurn) {
+            var kicker = document.createElement("div");
+            kicker.className = "pattern-kicker";
+            kicker.textContent = "Recurring forms";
+            chapter.insertBefore(kicker, heading);
           }
         });
       }
@@ -473,6 +544,7 @@
           var tab = document.createElement("button");
           var n = (index % 14) + 1;
           tab.className = "chapter-tab";
+          if (chapter.classList.contains("pattern-turn")) tab.classList.add("pattern-turn");
           tab.type = "button";
           tab.textContent = String(index + 1);
           tab.dataset.target = chapter.id;
