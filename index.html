@@ -148,6 +148,8 @@
       place-items: center;
       text-decoration: none;
       color: var(--ink);
+      padding: 0;
+      cursor: pointer;
       font: 700 11px/1 ui-sans-serif, system-ui, sans-serif;
       box-shadow: 0 3px 10px rgba(50,40,28,.06);
       transition: transform .15s ease, box-shadow .15s ease, outline-color .15s ease;
@@ -468,10 +470,10 @@
 
         sections.forEach(function (chapter, index) {
           var heading = chapter.querySelector("h2");
-          var tab = document.createElement("a");
+          var tab = document.createElement("button");
           var n = (index % 14) + 1;
           tab.className = "chapter-tab";
-          tab.href = "#" + chapter.id;
+          tab.type = "button";
           tab.textContent = String(index + 1);
           tab.dataset.target = chapter.id;
           tab.setAttribute("aria-label", "Chapter " + (index + 1) + ": " + heading.textContent);
@@ -488,6 +490,12 @@
           tab.style.setProperty("--tab-bg", palette[0]);
           tab.style.setProperty("--tab-rule", palette[1]);
 
+          tab.addEventListener("click", function () {
+            currentSection = index;
+            var top = chapter.getBoundingClientRect().top + window.pageYOffset - 118;
+            window.scrollTo({ top: top, behavior: "smooth" });
+            history.replaceState(null, "", "#" + chapter.id);
+          });
 
           chapterTabs.appendChild(tab);
         });
