@@ -338,3 +338,387 @@ That did not make the question useless.
 It kept it alive.
 
 The useful ending to a problem is often not the point where nothing more could ever be said. It is the point where we have enough to continue without pretending the future has promised not to surprise us.
+
+
+## What You Get to Keep
+
+Nora learned the fuse box because the kettle stopped working.
+
+At first this seemed unlikely to become useful knowledge. The kitchen lights were on. The fridge was humming. The toaster worked. Only the sockets along one wall had gone dead, including the one beside the kettle.
+
+Ben opened the cupboard under the stairs and looked at the row of switches.
+
+"They're labelled."
+
+"Generously."
+
+Someone had written KITCHEN beside one breaker, DOWN beside another, SOCKETS beside two different ones, and left three blank.
+
+Ben pointed to the breaker marked KITCHEN.
+
+"Try that."
+
+Nora reset it. Nothing happened.
+
+She reset one marked SOCKETS. Still nothing.
+
+"Other one?"
+
+The second SOCKETS breaker restored the kettle, the lamp beside the bread bin and the charger on the counter.
+
+"That one, then."
+
+Nora found a pen and changed the label to KITCHEN WALL.
+
+Ben looked at her.
+
+"Bold."
+
+"It just proved itself."
+
+For the rest of the evening, the discovery disappeared into use. The kettle boiled. Tea happened. Nobody stood in the hallway admiring the new accuracy of the fuse box.
+
+A month later Nora plugged in a small heater near the same counter and the sockets died again. She did not inspect the kettle, move the toaster, or wonder whether the socket itself had failed. She walked straight to the cupboard and reset the breaker marked KITCHEN WALL.
+
+This time she barely thought about it.
+
+Something that had once required trial, uncertainty and checking had become a step inside another task.
+
+That is one of the quietest changes in ordinary understanding. What was once the thing we were trying to work out becomes part of how we work something else out.
+
+Years of living are full of this. A route that once needed a map becomes the way to work. A word that once had to be sounded out becomes part of a sentence. A mathematical result that once required a page of proof becomes one line in a later argument. A child who once had to watch every movement of a shoelace eventually ties it while thinking about something else.
+
+Nora would not have said she was "remembering the fuse box" each time. She simply knew where to go.
+
+Then an electrician came.
+
+The old kitchen circuit had been overloaded often enough that Nora finally asked someone to look at it properly. He replaced part of the board, split the sockets across two circuits and wrote new labels in neat block capitals.
+
+Nora watched him work but did not memorize the changes. The important thing, she thought, was that the problem had been fixed.
+
+Three weeks later Leila came over to help paint the kitchen. She plugged a sander into the wall socket. The breaker tripped.
+
+"I know this one," Nora said.
+
+She opened the cupboard and reached automatically for the old KITCHEN WALL position.
+
+The switch was already up.
+
+She stared for a second.
+
+"Oh."
+
+Leila leaned around the cupboard door.
+
+"Helpful?"
+
+"Previously."
+
+They read the new labels. One now said KITCHEN EAST. Another said KITCHEN WEST.
+
+"Which are we?"
+
+Nora looked back toward the room as if the wall might have developed a compass.
+
+"Apparently west."
+
+She reset KITCHEN WEST.
+
+The sander came back to life.
+
+Leila smiled.
+
+"Knowledge restored."
+
+"Knowledge relocated."
+
+The old understanding had not vanished completely. Nora still knew that the dead sockets were likely connected to a breaker rather than individually broken. She still knew where the board was and what kind of test would tell them whether they had found the right switch. What had failed was one smaller piece: which exact switch controlled that wall.
+
+That mattered.
+
+Something can remain useful even after part of it becomes wrong.
+
+The label on the old board had once helped Nora. After the rewiring, relying on it would have misled her. The useful thing was not loyalty to the old answer. It was knowing what sort of question to ask again.
+
+Leila unplugged the sander.
+
+"Should we write 'paint wall' on this one?"
+
+"No."
+
+"You're learning restraint."
+
+Nora found a piece of masking tape and wrote KITCHEN WEST — COUNTER WALL underneath the electrician's label.
+
+"You've learned a lot of restraint."
+
+The label was not the knowledge itself. It could fade, be peeled off, become wrong after another change, or be read by someone who had no idea which wall it meant. But it gave a later person somewhere to begin.
+
+That happened sooner than expected.
+
+Nora went away for a weekend and asked her neighbour, Arun, to feed the cat. On Saturday morning he texted:
+
+Kitchen sockets dead. Is there a trick?
+
+Nora replied:
+
+Cupboard under stairs. KITCHEN WEST. If that doesn't do it, don't keep guessing.
+
+Arun sent back a photograph of the fuse box with his finger beside the switch.
+
+This one?
+
+Yes.
+
+A minute later:
+
+Sorted.
+
+Nora had not given him her memory of the kettle, the old labels, the electrician or the sander. Most of that would have been useless to him anyway. She gave him enough of the earlier result to let him act in the present situation, and he checked that he had understood before he did.
+
+Months later, when Arun's own hallway lights failed, he opened his fuse box and looked first for a tripped breaker. He found one. Reset it. The lights stayed dark.
+
+Instead of trying every switch, he stopped.
+
+Different house. Different fault.
+
+He called an electrician.
+
+The useful part of what he had learned at Nora's had not been "resetting breakers fixes electricity." It had been smaller and better: sometimes a result tells you what to try next, and sometimes the failure of that next step tells you not to keep pretending you already know.
+
+What we keep from an understanding is rarely the whole moment in which we reached it. The room falls away. The exact words fade. The person who pointed something out may not be there. What remains may be a fact, a habit, a question, a way of checking, a skill, a warning, a label, a remembered mistake.
+
+And whatever remains can change again.
+
+It can become easier to use.
+
+It can become vague.
+
+It can be written down badly.
+
+It can be taught well.
+
+It can survive when the reason for it has been forgotten.
+
+It can fail in a new situation and have to be worked out again.
+
+That is not a defect in understanding. It is part of how understanding gets a life beyond the moment that produced it.
+
+By the time the kettle boils, the question that mattered has usually disappeared.
+
+What it changed may stay for years.
+
+
+## Look Again
+
+Nora and Leila were standing under the departure board when Leila said, "Platform four."
+
+Nora looked up.
+
+"Where?"
+
+"Second line."
+
+The board was crowded with destinations, delays and platform numbers. Nora had been reading the first line because it showed a train leaving at the right time. Leila had been reading the destination.
+
+"That's not ours," Leila said. "Same time. Different train."
+
+Nora moved her eyes down one row.
+
+There it was.
+
+Platform 4.
+
+They started walking.
+
+Nothing had been transferred whole from Leila's mind into Nora's. Leila had noticed something Nora had missed, then used three words to change where Nora looked. The board did the rest.
+
+At the stairs to platform four, the display flickered.
+
+4 became 6.
+
+Leila stopped.
+
+Nora nearly walked into her.
+
+"What?"
+
+Leila pointed upward.
+
+The number changed again, briefly disappearing before returning as 6.
+
+"Seriously?"
+
+They turned around.
+
+A man behind them looked at the sign, then at the stream of people changing direction.
+
+"Is that the north train?"
+
+"I think so," Nora said.
+
+Leila said, "Check the destination."
+
+The man did.
+
+"Right. Thanks."
+
+For a few minutes, the three of them were coordinated by almost nothing: a changing number, a destination, the time, and the practical fact that they all wanted the same train. They did not need the same reasons for travelling or the same picture of the station. They needed enough of the same situation for one person's noticing to matter to the others.
+
+At platform six, the train was not there.
+
+The screen said ON TIME.
+
+The clock said it should have arrived two minutes ago.
+
+Nora frowned.
+
+"That's reassuring."
+
+An announcement began overhead, blurred by the station roof. Leila caught only the last words.
+
+"...remain on platform four."
+
+They looked at each other.
+
+"No."
+
+"Did she say four?"
+
+"I heard four."
+
+"So did I."
+
+The man from the stairs had followed them. He laughed when he saw their faces.
+
+"I heard six."
+
+Three people. One announcement. Two answers.
+
+They waited for the message to repeat.
+
+This time they moved closer to the speaker.
+
+The voice came again: passengers for their train should remain on platform six.
+
+Leila looked at Nora.
+
+"Six."
+
+"Six."
+
+The man nodded.
+
+Nobody had changed their mind because the others outvoted them. They had listened again.
+
+A minute later the train rounded the bend and entered platform six.
+
+That settled more than the announcement had.
+
+On the train, Nora said, "I definitely heard four the first time."
+
+"So did I."
+
+"You said you did."
+
+"I was wrong with confidence."
+
+"Useful skill."
+
+They found two seats facing each other.
+
+Across the aisle, the man who had followed them sat down and opened a newspaper.
+
+The exchange was over. The platform number had become part of what happened next so completely that nobody needed to keep discussing it. They were on the train. The answer had vanished into the journey.
+
+Half an hour later the train stopped unexpectedly between stations.
+
+No announcement came.
+
+Five minutes passed.
+
+Then ten.
+
+Leila checked the time.
+
+"We're going to miss the connection."
+
+"Maybe."
+
+"We've got twelve minutes."
+
+"We're not moving."
+
+"Excellent analysis."
+
+Around them, phones appeared. People refreshed apps. Someone near the door announced that there was a signalling problem. Someone else said there had been an accident farther up the line.
+
+Nora opened the railway app.
+
+It still showed their train as running normally.
+
+"So much for that."
+
+The man across the aisle looked up from his paper.
+
+"They've just said twenty minutes on the station account."
+
+"Where?"
+
+He turned his phone around.
+
+Nora read the post.
+
+Leila read it too.
+
+Now they had something new to plan from.
+
+"If it's twenty, we miss the connection."
+
+"There's another one forty minutes later."
+
+"Can we use the same tickets?"
+
+Nora did not know.
+
+Leila did not know.
+
+The man across the aisle did.
+
+"Usually yes on delays like this. But ask the guard."
+
+He was not giving them a finished world. He was giving them a next move.
+
+When the guard finally came through, Leila asked.
+
+"Yes," she said. "Your tickets will be accepted on the next service."
+
+That small answer changed the mood of the journey. The delay had not disappeared. They had not become pleased about it. But the question that had been pressing on them—what happens if we miss the connection?—had lost most of its force.
+
+They could wait.
+
+At the next station, Nora repeated the same information to a couple staring anxiously at the departure board.
+
+"The guard said these tickets are fine on the next train."
+
+The woman looked relieved.
+
+"Definitely?"
+
+"That's what she told us. You can check with her too."
+
+Nora did not ask the woman to trust her private certainty. She passed on what she had been told and left the way back to its source open.
+
+Months later, Nora would remember the journey mainly as the day the platforms kept changing. Leila remembered the bad coffee they bought during the forty-minute wait.
+
+But both of them kept something from the morning.
+
+When a sign changed, look again.
+
+When an announcement was unclear, repeat it.
+
+When someone offered information, ask what it rested on.
+
+And when another person saw what you had missed, do not treat that as a defeat.
+
+Sometimes another pair of eyes simply gives the world another chance to become clear.
