@@ -1,0 +1,546 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A quiet reading view for manuscript.md">
+  <title>Making Sense Together</title>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
+
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #f6f0e5;
+      --paper-2: #fffdf8;
+      --ink: #27241f;
+      --muted: #716b61;
+      --line: #d9d0c2;
+      --accent: #70543c;
+      --accent-soft: #eadfce;
+      --shadow: 0 18px 55px rgba(50, 40, 28, .11);
+      --reader-size: 19px;
+      --measure: 720px;
+    }
+
+    html[data-theme="dark"] {
+      color-scheme: dark;
+      --paper: #171614;
+      --paper-2: #201e1b;
+      --ink: #eee9df;
+      --muted: #aaa297;
+      --line: #3b3732;
+      --accent: #d5b28d;
+      --accent-soft: #342b23;
+      --shadow: 0 18px 55px rgba(0, 0, 0, .28);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.72;
+    }
+
+    button, select {
+      font: inherit;
+      color: inherit;
+    }
+
+    .progress {
+      position: fixed;
+      inset: 0 0 auto 0;
+      height: 3px;
+      z-index: 50;
+      background: transparent;
+    }
+
+    .progress > div {
+      height: 100%;
+      width: 0;
+      background: var(--accent);
+      transition: width .08s linear;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 40;
+      min-height: 56px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 8px 16px;
+      border-bottom: 1px solid var(--line);
+      background: color-mix(in srgb, var(--paper) 92%, transparent);
+      backdrop-filter: blur(12px);
+    }
+
+    .brand {
+      min-width: 0;
+      flex: 1;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: 14px;
+      font-weight: 700;
+      letter-spacing: .02em;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .control {
+      border: 1px solid var(--line);
+      background: var(--paper-2);
+      border-radius: 999px;
+      min-width: 36px;
+      height: 36px;
+      padding: 0 11px;
+      cursor: pointer;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: 13px;
+    }
+
+    .control:hover { border-color: var(--accent); }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(220px, 280px) minmax(0, 1fr);
+      gap: 0;
+      max-width: 1260px;
+      margin: 0 auto;
+    }
+
+    aside {
+      position: sticky;
+      top: 57px;
+      height: calc(100vh - 57px);
+      overflow: auto;
+      padding: 28px 20px 40px;
+      border-right: 1px solid var(--line);
+      font-family: ui-sans-serif, system-ui, sans-serif;
+    }
+
+    aside h2 {
+      margin: 0 0 12px;
+      font-size: 12px;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    #toc {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    #toc li { margin: 2px 0; }
+
+    #toc a {
+      display: block;
+      padding: 6px 8px;
+      border-radius: 8px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 13px;
+      line-height: 1.35;
+    }
+
+    #toc a:hover,
+    #toc a.active {
+      color: var(--ink);
+      background: var(--accent-soft);
+    }
+
+    #toc .depth-3 a {
+      padding-left: 20px;
+      font-size: 12px;
+    }
+
+    main {
+      min-width: 0;
+      padding: 56px 7vw 96px;
+    }
+
+    .book {
+      max-width: var(--measure);
+      margin: 0 auto;
+      padding: 48px 54px 72px;
+      background: var(--paper-2);
+      box-shadow: var(--shadow);
+      border: 1px solid var(--line);
+      border-radius: 4px;
+      font-size: var(--reader-size);
+    }
+
+    article > h1:first-child {
+      font-size: clamp(2.5rem, 7vw, 4.5rem);
+      line-height: .98;
+      letter-spacing: -.045em;
+      margin: .1em 0 .35em;
+      text-wrap: balance;
+    }
+
+    h1, h2, h3, h4 {
+      line-height: 1.15;
+      scroll-margin-top: 82px;
+      text-wrap: balance;
+    }
+
+    h2 {
+      margin: 3.2em 0 .8em;
+      padding-top: .35em;
+      font-size: 1.75em;
+      letter-spacing: -.02em;
+    }
+
+    h3 {
+      margin: 2.2em 0 .6em;
+      font-size: 1.25em;
+    }
+
+    p { margin: 1.05em 0; }
+
+    blockquote {
+      margin: 1.7em 0;
+      padding: .2em 0 .2em 1.25em;
+      border-left: 3px solid var(--accent);
+      color: var(--muted);
+    }
+
+    hr {
+      border: 0;
+      border-top: 1px solid var(--line);
+      margin: 3em 0;
+    }
+
+    a { color: var(--accent); }
+
+    code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: .86em;
+      background: var(--accent-soft);
+      padding: .12em .3em;
+      border-radius: 4px;
+    }
+
+    pre {
+      overflow: auto;
+      padding: 1em;
+      border: 1px solid var(--line);
+      background: var(--paper);
+      border-radius: 8px;
+      line-height: 1.5;
+    }
+
+    pre code { background: transparent; padding: 0; }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      display: block;
+      overflow-x: auto;
+      margin: 1.6em 0;
+      font-size: .9em;
+    }
+
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: .55em .75em;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    img { max-width: 100%; height: auto; }
+
+    .status {
+      max-width: var(--measure);
+      margin: 16vh auto 0;
+      padding: 28px;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .chapter-nav {
+      max-width: var(--measure);
+      margin: 28px auto 0;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+    }
+
+    .chapter-nav button {
+      flex: 1;
+      border: 1px solid var(--line);
+      background: var(--paper-2);
+      padding: 12px 14px;
+      border-radius: 9px;
+      cursor: pointer;
+    }
+
+    .chapter-nav button:disabled {
+      opacity: .35;
+      cursor: default;
+    }
+
+    @media (max-width: 860px) {
+      .layout { display: block; }
+      aside {
+        display: none;
+        position: fixed;
+        inset: 57px 0 0 0;
+        height: auto;
+        z-index: 30;
+        background: var(--paper);
+        border-right: 0;
+      }
+      body.toc-open aside { display: block; }
+      main { padding: 28px 12px 70px; }
+      .book { padding: 34px 24px 52px; border-radius: 0; }
+      #tocToggle { display: inline-block; }
+    }
+
+    @media (min-width: 861px) {
+      #tocToggle { display: none; }
+    }
+
+    @media print {
+      .topbar, aside, .progress, .chapter-nav { display: none !important; }
+      .layout { display: block; }
+      main { padding: 0; }
+      .book {
+        max-width: none;
+        border: 0;
+        box-shadow: none;
+        padding: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="progress" aria-hidden="true"><div id="progressBar"></div></div>
+
+  <header class="topbar">
+    <button class="control" id="tocToggle" aria-label="Open contents">☰</button>
+    <div class="brand" id="brand">Making Sense Together</div>
+    <div class="toolbar">
+      <button class="control" id="smaller" aria-label="Smaller text">A−</button>
+      <button class="control" id="larger" aria-label="Larger text">A+</button>
+      <button class="control" id="width" aria-label="Toggle reading width">↔</button>
+      <button class="control" id="theme" aria-label="Toggle theme">◐</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside id="sidebar">
+      <h2>Contents</h2>
+      <ol id="toc"></ol>
+    </aside>
+
+    <main>
+      <div class="status" id="status">Opening the manuscript…</div>
+      <article class="book" id="book" hidden></article>
+      <nav class="chapter-nav" id="chapterNav" hidden>
+        <button id="prevChapter">← Previous section</button>
+        <button id="nextChapter">Next section →</button>
+      </nav>
+    </main>
+  </div>
+
+  <script>
+    (function () {
+      var params = new URLSearchParams(location.search);
+      var requested = params.get("file") || "manuscript.md";
+      var safeFile = /^[A-Za-z0-9._/-]+\.md$/i.test(requested) && requested.indexOf("..") === -1
+        ? requested
+        : "manuscript.md";
+
+      var book = document.getElementById("book");
+      var status = document.getElementById("status");
+      var toc = document.getElementById("toc");
+      var brand = document.getElementById("brand");
+      var progressBar = document.getElementById("progressBar");
+      var chapterNav = document.getElementById("chapterNav");
+      var prevChapter = document.getElementById("prevChapter");
+      var nextChapter = document.getElementById("nextChapter");
+      var sections = [];
+      var currentSection = 0;
+
+      function slugify(text) {
+        return text.toLowerCase()
+          .replace(/<[^>]*>/g, "")
+          .replace(/[^a-z0-9\s-]/g, "")
+          .trim()
+          .replace(/\s+/g, "-")
+          .replace(/-+/g, "-") || "section";
+      }
+
+      function makeUniqueIds() {
+        var seen = {};
+        book.querySelectorAll("h1,h2,h3").forEach(function (heading) {
+          var base = slugify(heading.textContent);
+          var id = base;
+          var n = 2;
+          while (seen[id]) {
+            id = base + "-" + n;
+            n += 1;
+          }
+          seen[id] = true;
+          heading.id = id;
+        });
+      }
+
+      function buildToc() {
+        toc.innerHTML = "";
+        sections = Array.from(book.querySelectorAll("h2"));
+        var headings = book.querySelectorAll("h2,h3");
+
+        headings.forEach(function (heading) {
+          var li = document.createElement("li");
+          li.className = "depth-" + heading.tagName.substring(1);
+
+          var a = document.createElement("a");
+          a.href = "#" + heading.id;
+          a.textContent = heading.textContent;
+          a.dataset.target = heading.id;
+          a.addEventListener("click", function () {
+            document.body.classList.remove("toc-open");
+          });
+
+          li.appendChild(a);
+          toc.appendChild(li);
+        });
+
+        if (sections.length) {
+          chapterNav.hidden = false;
+          updateSectionButtons();
+        }
+      }
+
+      function updateSectionButtons() {
+        if (!sections.length) return;
+        var scrollY = window.scrollY + 120;
+        var active = 0;
+
+        sections.forEach(function (section, index) {
+          if (section.offsetTop <= scrollY) active = index;
+        });
+
+        currentSection = active;
+        prevChapter.disabled = active === 0;
+        nextChapter.disabled = active === sections.length - 1;
+
+        document.querySelectorAll("#toc a").forEach(function (a) {
+          a.classList.toggle("active", a.dataset.target === sections[active].id);
+        });
+      }
+
+      function goSection(delta) {
+        var target = Math.max(0, Math.min(sections.length - 1, currentSection + delta));
+        sections[target].scrollIntoView({ behavior: "smooth", block: "start" });
+      }
+
+      function updateProgress() {
+        var doc = document.documentElement;
+        var max = doc.scrollHeight - doc.clientHeight;
+        var pct = max > 0 ? (doc.scrollTop / max) * 100 : 0;
+        progressBar.style.width = pct + "%";
+        updateSectionButtons();
+      }
+
+      marked.setOptions({
+        gfm: true,
+        breaks: false
+      });
+
+      fetch(safeFile, { cache: "no-store" })
+        .then(function (response) {
+          if (!response.ok) throw new Error("Could not load " + safeFile + " (" + response.status + ")");
+          return response.text();
+        })
+        .then(function (markdown) {
+          var rawHtml = marked.parse(markdown);
+          book.innerHTML = DOMPurify.sanitize(rawHtml);
+          makeUniqueIds();
+          buildToc();
+
+          var title = book.querySelector("h1");
+          if (title) {
+            brand.textContent = title.textContent;
+            document.title = title.textContent;
+          }
+
+          status.hidden = true;
+          book.hidden = false;
+
+          if (location.hash) {
+            requestAnimationFrame(function () {
+              var target = document.getElementById(location.hash.slice(1));
+              if (target) target.scrollIntoView();
+            });
+          }
+
+          updateProgress();
+        })
+        .catch(function (error) {
+          status.innerHTML =
+            "<strong>The reader is ready, but no manuscript could be opened.</strong><br><br>" +
+            "Create <code>manuscript.md</code> in this repository, then reload the page.<br><br>" +
+            "<small>" + String(error.message).replace(/[<>]/g, "") + "</small>";
+        });
+
+      document.getElementById("theme").addEventListener("click", function () {
+        var dark = document.documentElement.dataset.theme === "dark";
+        document.documentElement.dataset.theme = dark ? "" : "dark";
+        localStorage.setItem("reader-theme", dark ? "light" : "dark");
+      });
+
+      document.getElementById("smaller").addEventListener("click", function () {
+        var n = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--reader-size")) || 19;
+        document.documentElement.style.setProperty("--reader-size", Math.max(15, n - 1) + "px");
+      });
+
+      document.getElementById("larger").addEventListener("click", function () {
+        var n = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--reader-size")) || 19;
+        document.documentElement.style.setProperty("--reader-size", Math.min(26, n + 1) + "px");
+      });
+
+      document.getElementById("width").addEventListener("click", function () {
+        var current = getComputedStyle(document.documentElement).getPropertyValue("--measure").trim();
+        document.documentElement.style.setProperty("--measure", current === "900px" ? "720px" : "900px");
+      });
+
+      document.getElementById("tocToggle").addEventListener("click", function () {
+        document.body.classList.toggle("toc-open");
+      });
+
+      prevChapter.addEventListener("click", function () { goSection(-1); });
+      nextChapter.addEventListener("click", function () { goSection(1); });
+
+      var savedTheme = localStorage.getItem("reader-theme");
+      if (savedTheme === "dark") document.documentElement.dataset.theme = "dark";
+
+      window.addEventListener("scroll", updateProgress, { passive: true });
+      window.addEventListener("resize", updateProgress);
+      document.addEventListener("keydown", function (event) {
+        if (event.altKey && event.key === "ArrowLeft") goSection(-1);
+        if (event.altKey && event.key === "ArrowRight") goSection(1);
+      });
+    })();
+  </script>
+</body>
+</html>
