@@ -185,6 +185,52 @@
       font-size: var(--reader-size);
     }
 
+    .chapter {
+      margin: 2.2em -22px;
+      padding: 28px 22px 34px;
+      border: 1px solid var(--chapter-rule);
+      border-radius: 18px;
+      background: var(--chapter-bg);
+      transition: background .25s ease, border-color .25s ease;
+    }
+
+    .chapter:first-of-type { margin-top: 2.6em; }
+
+    .chapter > h2:first-child {
+      margin-top: 0;
+      padding-top: 0;
+    }
+
+    .chapter-color-1  { --chapter-bg:#f7dfd8; --chapter-rule:#ddb6aa; }
+    .chapter-color-2  { --chapter-bg:#f5e8c8; --chapter-rule:#dac897; }
+    .chapter-color-3  { --chapter-bg:#e8efd3; --chapter-rule:#c7d3a5; }
+    .chapter-color-4  { --chapter-bg:#dceee5; --chapter-rule:#b7d4c5; }
+    .chapter-color-5  { --chapter-bg:#dceaf2; --chapter-rule:#b7cddc; }
+    .chapter-color-6  { --chapter-bg:#e4e1f2; --chapter-rule:#c4bfdc; }
+    .chapter-color-7  { --chapter-bg:#eee0ec; --chapter-rule:#d1b9ce; }
+    .chapter-color-8  { --chapter-bg:#f2dfcf; --chapter-rule:#d8baa3; }
+    .chapter-color-9  { --chapter-bg:#e8e3d4; --chapter-rule:#cbc3ad; }
+    .chapter-color-10 { --chapter-bg:#dfe9d8; --chapter-rule:#becdae; }
+    .chapter-color-11 { --chapter-bg:#dbe7ec; --chapter-rule:#b8ccd4; }
+    .chapter-color-12 { --chapter-bg:#e6deea; --chapter-rule:#c8bad0; }
+    .chapter-color-13 { --chapter-bg:#f0e1d8; --chapter-rule:#d5bbae; }
+    .chapter-color-14 { --chapter-bg:#e4ead7; --chapter-rule:#c4cfaa; }
+
+    html[data-theme="dark"] .chapter-color-1  { --chapter-bg:#35221f; --chapter-rule:#6b433b; }
+    html[data-theme="dark"] .chapter-color-2  { --chapter-bg:#342d1f; --chapter-rule:#665838; }
+    html[data-theme="dark"] .chapter-color-3  { --chapter-bg:#27301f; --chapter-rule:#4d5d3a; }
+    html[data-theme="dark"] .chapter-color-4  { --chapter-bg:#20302a; --chapter-rule:#3b5f50; }
+    html[data-theme="dark"] .chapter-color-5  { --chapter-bg:#202d35; --chapter-rule:#3b5868; }
+    html[data-theme="dark"] .chapter-color-6  { --chapter-bg:#292638; --chapter-rule:#514b70; }
+    html[data-theme="dark"] .chapter-color-7  { --chapter-bg:#342534; --chapter-rule:#674866; }
+    html[data-theme="dark"] .chapter-color-8  { --chapter-bg:#352820; --chapter-rule:#6a4d3d; }
+    html[data-theme="dark"] .chapter-color-9  { --chapter-bg:#302d26; --chapter-rule:#5d5648; }
+    html[data-theme="dark"] .chapter-color-10 { --chapter-bg:#273023; --chapter-rule:#4d5d43; }
+    html[data-theme="dark"] .chapter-color-11 { --chapter-bg:#222e32; --chapter-rule:#405961; }
+    html[data-theme="dark"] .chapter-color-12 { --chapter-bg:#2e2733; --chapter-rule:#594b63; }
+    html[data-theme="dark"] .chapter-color-13 { --chapter-bg:#332722; --chapter-rule:#654d43; }
+    html[data-theme="dark"] .chapter-color-14 { --chapter-bg:#293023; --chapter-rule:#505d42; }
+
     article > h1:first-child {
       font-size: clamp(2.5rem, 7vw, 4.5rem);
       line-height: .98;
@@ -311,6 +357,11 @@
       body.toc-open aside { display: block; }
       main { padding: 28px 12px 70px; }
       .book { padding: 34px 24px 52px; border-radius: 0; }
+      .chapter {
+        margin: 1.7em -12px;
+        padding: 24px 16px 28px;
+        border-radius: 14px;
+      }
       #tocToggle { display: inline-block; }
     }
 
@@ -404,6 +455,23 @@
         });
       }
 
+      function wrapChapters() {
+        var headings = Array.from(book.querySelectorAll("h2"));
+        headings.forEach(function (heading, index) {
+          var chapter = document.createElement("section");
+          chapter.className = "chapter chapter-color-" + ((index % 14) + 1);
+          chapter.dataset.chapter = String(index + 1);
+
+          heading.parentNode.insertBefore(chapter, heading);
+          var node = heading;
+          while (node && (node === heading || node.tagName !== "H2")) {
+            var next = node.nextSibling;
+            chapter.appendChild(node);
+            node = next;
+          }
+        });
+      }
+
       function buildToc() {
         toc.innerHTML = "";
         sections = Array.from(book.querySelectorAll("h2"));
@@ -476,6 +544,7 @@
           var rawHtml = marked.parse(markdown);
           book.innerHTML = DOMPurify.sanitize(rawHtml);
           makeUniqueIds();
+          wrapChapters();
           buildToc();
 
           var title = book.querySelector("h1");
