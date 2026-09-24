@@ -1145,3 +1145,468 @@ The old lesson had not become a rule telling him what every electrical failure m
 It had become something quieter.
 
 Do not let the first answer become harder to move than the problem itself.
+
+
+<!--
+AUTHORING MAP — INVISIBLE TO THE READER
+========================================
+
+THIS IS ONE CONTINUOUS MANUSCRIPT.
+Do not turn these notes into visible prose merely because they are here.
+They are obligations, recurrence cues, and puzzle positions for future chapters.
+
+WHAT MUST NEVER DIE
+-------------------
+The book may change examples, characters, settings, vocabulary, scale, and eventual length.
+These movements must remain alive:
+
+- Something particular is unresolved. This is stronger than mere ignorance.
+- Something changes.
+- The change becomes enough for some purpose without requiring perfection or certainty.
+- What has been gained enters what happens next.
+- What remains may be a fact, distinction, relation, skill, effect, habit, question, warning, record, or way of checking.
+- Another person can participate in understanding without receiving an identical copy of another person's thought.
+- Communication can help produce understanding rather than merely transmit a finished result.
+- Agreement is not the measure of shared understanding. Disagreement can reveal that people are closely engaged with the same matter.
+- Making sense and being right are different. A genuine understanding can later be corrected.
+- Reality must retain the ability to push back: through consequences, failed predictions, machines, evidence, counterexamples, other people, or the thing itself.
+- What was understood can remain, fade, be forgotten, be recovered, be taught, be written, be translated, be challenged, or need to be understood again.
+- An unanswered question can survive too.
+- The same matter may continue across changed words, people, routes, records, and circumstances when what happens later can still answer, correct, contradict, fulfil, explain, or continue what was earlier at issue.
+- Human beings begin thinking amid other people's finished and unfinished work.
+- The easy reading must gradually expose a staggering implication: tiny acts of making sense can accumulate into a reality people can inhabit, test, correct, and extend together.
+
+PEDAGOGICAL RULE
+----------------
+Experience first.
+Recognition second.
+Naming last.
+
+Never introduce a formal distinction merely because the authoring map knows it.
+Let the reader live through it before asking them to recognize it.
+
+The reader should repeatedly discover:
+"I have already seen this, but I did not yet know what I was seeing."
+
+PUZZLE CLOCK
+------------
+From here onward use a repeating 3 / 4 rhythm.
+
+A small puzzle arrives after roughly three chapters of lived material.
+A larger puzzle arrives after the next roughly three chapters, completing a seven-chapter pulse.
+
+Current positions:
+- Chapter 7  = LARGE PUZZLE
+- Chapter 11 = SMALL PUZZLE
+- Chapter 14 = LARGE PUZZLE
+- Chapter 18 = SMALL PUZZLE
+- Chapter 21 = LARGE PUZZLE
+- Chapter 25 = SMALL PUZZLE
+- Chapter 28 = LARGE PUZZLE
+
+Continue indefinitely by adding 4, then 3, then 4, then 3 chapters between puzzle positions as needed.
+Equivalent repeating puzzle intervals: +4, +3, +4, +3 ...
+
+SMALL PUZZLE RULE
+-----------------
+The small puzzle should feel almost irresistible rather than instructional.
+
+It should:
+- look back over the previous two or three chapters;
+- place unlike scenes beside one another;
+- ask what repeated;
+- sharpen one distinction;
+- avoid explaining the whole system;
+- give the reader a better question to carry forward.
+
+Typical forms:
+"What changed in all three?"
+"Which difference actually mattered?"
+"When did they know enough to continue?"
+"What remained after the immediate problem disappeared?"
+"Were these really the same kind of ending?"
+"What would have shown that they were wrong?"
+
+The reader should solve more than the prose solves for them.
+
+LARGE PUZZLE RULE
+-----------------
+The larger puzzle should look across the whole recent cycle.
+
+It should:
+- return to several earlier scenes;
+- make the recurrence unmistakable;
+- explicitly mention selected examples from the 54;
+- treat the 54 as meaningful recurring forms, not as boxes to memorize;
+- show that the examples cross very different parts of life;
+- reveal a larger consequence than the previous puzzle;
+- end by opening the next cycle.
+
+Never dump all 54 merely because this is a puzzle chapter.
+Each puzzle should reveal only what the surrounding book has earned.
+
+THE 54
+------
+The 54 remain a middle-level map, not the foundation.
+
+They arise from three questions about one occasion:
+
+1. WHAT CHANGED?
+   - a difference became clear;
+   - something became possible or available;
+   - a connection became clear;
+   - something wrong was put right;
+   - separate things became one organized whole;
+   - something that still needed an answer got one.
+
+2. WHY WAS THAT ENOUGH?
+   - one particular thing decided the matter;
+   - several things together were required;
+   - something that had been controlling the next move stopped controlling it.
+
+3. WHAT REMAINED AFTERWARD?
+   - something was now established;
+   - what remained depended on how things stood in relation;
+   - what remained was mainly visible in what could now happen.
+
+6 × 3 × 3 = 54 possible combinations in the current working map.
+
+Do not present 54 as magical, proven exhaustive, or the final truth.
+The three questions are more robust than the exact lists.
+The larger inquiry is more robust than the three questions.
+
+IMPORTANT:
+Classify the episode or live question, not the physical object.
+The same drawer, train, promise, proof, brake, person, or sentence can participate in different forms depending on what was unresolved.
+
+FIRST FUTURE CYCLE
+==================
+
+CHAPTER 7 — LARGE PUZZLE
+Working role: First explicit retrospective recognition.
+
+Return to:
+- the drawer;
+- "enough" in soup and the curtain rail;
+- the breaker and what was kept;
+- the changing platform;
+- the parcel and leak disagreement;
+- the thermostat explanation that fought back.
+
+Question:
+These situations look unrelated. Why do they keep feeling structurally familiar?
+
+Let the reader notice several recurring forms before they are explained.
+
+Explicit 54 examples that may now be named in ordinary language:
+- telling two things apart;
+- seeing how things stand in relation;
+- putting something wrong right;
+- several parts needing to work together;
+- reaching an answer that lets the next thing begin;
+- discovering that something which seemed to govern the problem no longer does.
+
+The staggering turn:
+These may not merely be repair stories or examples of practical intelligence.
+The same kinds of change may recur whenever something becomes understandable enough to use.
+
+Do not:
+- list all 54;
+- introduce technical labels;
+- announce a grand theory;
+- turn the puzzle into a quiz with a single correct answer.
+
+End with a question that makes Chapter 8 necessary:
+If these shapes recur across unlike situations, how far do they travel?
+
+CHAPTER 8 — NEW CIRCUIT / LANGUAGE
+Working role: Tiny expression, large situation.
+
+Possible center:
+"There", "again", "that one", "not yet", "leave it".
+
+Show:
+A few words can do enormous work when people are already engaged with enough of the same situation.
+The words do not contain the whole understanding.
+They help another person find what matters.
+
+Must deepen:
+Communication is not packaging a finished private thought.
+Another person's response can change the original speaker's own understanding.
+
+Keep open:
+What makes two people still engaged with the same matter when their words, routes, and thoughts differ?
+
+CHAPTER 9 — SAME MATTER
+Working role: Continuity through difference.
+
+Possible center:
+A promise retold in different words, a disputed instruction, a map redrawn, or a proof explained two ways.
+
+Show:
+Same words are not required.
+Agreement is not required.
+Same person is not required.
+Same route is not required.
+
+Practical test:
+Can what happens in one occasion answer, contradict, correct, prove, fulfil, explain, or continue what was at issue in the other?
+
+Keep open:
+How much can change before revision becomes replacement?
+
+CHAPTER 10 — TIME
+Working role: What yesterday still wants.
+
+Possible center:
+A note, unfinished repair, promise, unanswered message, remembered warning, or problem left overnight.
+
+Show:
+Past and future can shape what matters now.
+An unfinished question can survive without anyone actively thinking about it every minute.
+A written mark can help but is not itself the understanding.
+
+Distinguish:
+still available;
+forgotten then recovered;
+understood anew.
+
+Keep open:
+What exactly survives when the original occasion is gone?
+
+CHAPTER 11 — SMALL PUZZLE
+Look back over Chapters 8–10.
+
+Puzzle:
+Three things survived change: wording, person, and time.
+What made them still about the same matter?
+
+Do not resolve the threshold fully.
+Let the reader test:
+"Does this later thing still bear directly on what was earlier at issue?"
+
+Sharpen:
+Revision versus replacement.
+Remembering versus working it out again.
+Same matter versus merely similar matter.
+
+No full 54 exposition here.
+At most point to one or two forms as echoes.
+
+CHAPTER 12 — RECEIVING UNFINISHED WORK
+Working role: Another person's question becomes mine.
+
+Possible center:
+Someone hands over a half-fixed object, incomplete calculation, draft recipe, partially understood family story, or unresolved practical task.
+
+Show:
+We do not inherit only answers.
+We inherit unfinishedness.
+Sometimes what another person could not settle becomes a live question for us.
+
+Deepen:
+Thinking begins amid work already underway.
+
+Keep open:
+How can a question remain one question across different people?
+
+CHAPTER 13 — WHAT CAN OUTLAST US
+Working role: Records, teaching, practices, corrections.
+
+Possible center:
+A written instruction survives its author but is ambiguous until used.
+A procedure is taught, then corrected in practice.
+A proof, recipe, repair note, or warning outlives the person who first wrote it.
+
+Show:
+A record can remain while its meaning is lost.
+Different records can support the same understanding.
+People can repeat correct words without understanding.
+
+Escalation:
+What human beings build together is not stored in sentences alone.
+
+Keep open:
+How can a result become publicly available without becoming frozen?
+
+CHAPTER 14 — LARGE PUZZLE
+Look across Chapters 8–14 and back to the first cycle.
+
+Explicitly bring selected 54 forms across:
+- gesture and language;
+- promise or obligation;
+- memory;
+- records;
+- disagreement;
+- correction;
+- teaching.
+
+Puzzle:
+Why do forms first noticed in drawers, trains, leaks, and heating also appear in words, promises, records, and teaching?
+
+Staggering turn:
+The recurring forms may belong not just to solitary problem-solving but to how understanding becomes available between people and across time.
+
+Deepen:
+Shared reality does not mean identical thoughts or universal agreement.
+It means enough connection to the same ongoing matter that what one person notices, says, tests, changes, or questions can genuinely alter what another can reasonably think or do next.
+
+End with:
+If understanding can outlast one person, what happens when whole groups begin from results and questions inherited from people they never met?
+
+SECOND FUTURE CYCLE
+===================
+
+CHAPTER 15 — INHERITED ANSWERS
+Possible center:
+A child uses a multiplication rule, traveller follows a map, worker follows a safety procedure, musician uses notation.
+
+Show:
+Useful understanding may begin from something we did not discover ourselves.
+Receiving an answer is not the same as understanding why it is right.
+
+Keep open:
+When is inherited knowledge genuinely ours?
+
+CHAPTER 16 — INHERITED QUESTIONS
+Possible center:
+A family mystery, scientific problem, civic dispute, unfinished proof, long-standing technical problem.
+
+Show:
+Questions can cross generations.
+No present participant need have begun the inquiry.
+
+Keep open:
+What makes the present problem still answerable to the earlier one?
+
+CHAPTER 17 — WHEN AGREEMENT IS WRONG
+Possible center:
+Several people agree on a mistaken explanation until evidence defeats it.
+
+Show:
+Agreement can be socially strong and epistemically weak.
+Disagreement can be closer to the matter than consensus.
+
+Do not:
+turn this into cynicism about agreement.
+
+Keep open:
+What besides present agreement can correct a group?
+
+CHAPTER 18 — SMALL PUZZLE
+Look back over Chapters 15–17.
+
+Puzzle:
+Which is more important for shared thinking: agreement, continuity, or the possibility of correction?
+
+Let examples do the work.
+
+Possible distinction to sharpen:
+A group can inherit a result, inherit a question, or inherit a mistake.
+
+CHAPTER 19 — MATHEMATICAL CASE
+Possible center:
+A simple pattern, proof, or parity example.
+
+Show:
+A conclusion can become a usable step inside another question.
+A counterexample can reopen what seemed settled.
+The "thing itself" need not be a physical object.
+
+Broaden correction:
+proof, counterexample, calculation, consequence.
+
+CHAPTER 20 — PROMISE / RULE / DUTY
+Possible center:
+Someone can physically leave yet still be bound by a promise, rule, appointment, or responsibility.
+
+Show:
+Physical possibility differs from what an action counts as.
+Meaning can shape what follows without physically preventing movement.
+
+Counterweight:
+Agreement cannot make a flooded road passable.
+Naming a broken brake "working" does not repair it.
+
+Keep open:
+Human reality contains more than physical obstruction without becoming arbitrary.
+
+CHAPTER 21 — LARGE PUZZLE
+Look across Chapters 15–21 and earlier cycles.
+
+Explicit 54 recurrence:
+Show selected forms operating in:
+- inherited knowledge;
+- inherited questions;
+- group error;
+- mathematics;
+- promises/rules;
+- practical correction.
+
+Puzzle:
+How can the same broad forms survive when the things involved are so different?
+
+Do not force one metaphysical answer.
+
+Staggering turn:
+Human beings can enter realities partly built before they arrived, act within them, test them, correct them, and leave altered conditions for people who come later.
+
+Open:
+What keeps this shared reality from becoming merely whatever people currently say it is?
+
+THIRD FUTURE CYCLE — PLACEHOLDER ONLY
+=====================================
+
+CHAPTERS 22–24
+Purpose:
+Move toward institutions, science, law, history, craft, collective memory, or other settings where many people contribute without sharing one present scene.
+
+CHAPTER 25 — SMALL PUZZLE
+Ask what allows many partial contributions to remain about one matter.
+
+CHAPTERS 26–27
+Push farther into translation, loss, recovery, conflicting records, and long-distance correction.
+
+CHAPTER 28 — LARGE PUZZLE
+Bring selected forms from the 54 into genuinely large human continuities.
+The reader should now feel that the simple scenes at the beginning were never small in implication.
+
+AD INFINITUM RULE
+=================
+After Chapter 28 do not invent filler merely to preserve the pattern.
+
+For every future chapter:
+1. Identify the live unresolved thing.
+2. Decide what becomes possible, clear, connected, corrected, organized, or answered.
+3. Know why that is enough here.
+4. Know what remains afterward.
+5. Let the result enter something later.
+6. Ask whether another person can participate.
+7. Leave room for correction.
+8. Ask how the matter can continue through time.
+9. Bring back something earlier with changed significance.
+10. Do not explain before the reader has experienced.
+
+For every SMALL PUZZLE:
+- gather recent scenes;
+- ask the reader to discriminate;
+- sharpen one question;
+- reveal less than the reader can now suspect.
+
+For every LARGE PUZZLE:
+- gather the cycle;
+- explicitly surface a few meaningful forms from the 54;
+- connect unlike domains;
+- enlarge the implication;
+- preserve uncertainty;
+- open the next horizon.
+
+The puzzles are not examinations.
+They are moments when the reader turns around and notices the shape of their own growing ability to see.
+
+The ultimate puzzle is not:
+"Can you memorize 54 forms?"
+
+It is:
+"How can small acts of making sense accumulate into a reality that people can enter together, continue, challenge, repair, and leave unfinished for others?"
+-->
