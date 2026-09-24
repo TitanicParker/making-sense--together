@@ -1611,7 +1611,7 @@ It is:
 "How can small acts of making sense accumulate into a reality that people can enter together, continue, challenge, repair, and leave unfinished for others?"
 
 
-PROGRESS LEDGER — 1,000 CHAPTER HORIZON
+PROGRESS LEDGER — 1,029 CHAPTER HORIZON
 =======================================
 
 Tick rule:
@@ -1624,7 +1624,7 @@ Tick rule:
   Seen as intervals between puzzles: 4, 3, 4, 3, forever.
 - Every 49 chapters is a SEASON checkpoint.
 - Every 343 chapters is a GRAND RETHINKING checkpoint.
-- The ledger is allowed to outlive the current book length. It is a horizon, not a promise that exactly 1,000 visible chapters must be published.
+- The ledger is allowed to outlive any provisional stopping point. Chapter 1000 is an apparent cultural ending; Chapter 1029 is the mathematical completion of the third 343-chapter movement.
 
 
 SEASON 1 — Chapters 1–49
@@ -2649,7 +2649,9 @@ SEASON 20 — Chapters 932–980
 - [ ] Chapter 979 — RESISTANCE / CORRECTION / TIME
 - [ ] Chapter 980 — LARGE PUZZLE
 
-SEASON 21 — Chapters 981–1000
+SEASON 21 — Chapters 981–1029
+FINAL SEASON OF THE THIRD 343-CHAPTER MOVEMENT
+
 - [ ] Chapter 981 — UNRESOLVED / NEW CIRCUIT
 - [ ] Chapter 982 — ENOUGH TO GO ON
 - [ ] Chapter 983 — WHAT REMAINS / ENTERS NEXT
@@ -2670,6 +2672,242 @@ SEASON 21 — Chapters 981–1000
 - [ ] Chapter 998 — SMALL PUZZLE
 - [ ] Chapter 999 — OTHER PERSON / SHARED MATTER
 - [ ] Chapter 1000 — RESISTANCE / CORRECTION / TIME
+- [ ] Chapter 1001 — LARGE PUZZLE
+- [ ] Chapter 1002 — UNRESOLVED / NEW CIRCUIT
+- [ ] Chapter 1003 — ENOUGH TO GO ON
+- [ ] Chapter 1004 — WHAT REMAINS / ENTERS NEXT
+- [ ] Chapter 1005 — SMALL PUZZLE
+- [ ] Chapter 1006 — OTHER PERSON / SHARED MATTER
+- [ ] Chapter 1007 — RESISTANCE / CORRECTION / TIME
+- [ ] Chapter 1008 — LARGE PUZZLE
+- [ ] Chapter 1009 — UNRESOLVED / NEW CIRCUIT
+- [ ] Chapter 1010 — ENOUGH TO GO ON
+- [ ] Chapter 1011 — WHAT REMAINS / ENTERS NEXT
+- [ ] Chapter 1012 — SMALL PUZZLE
+- [ ] Chapter 1013 — OTHER PERSON / SHARED MATTER
+- [ ] Chapter 1014 — RESISTANCE / CORRECTION / TIME
+- [ ] Chapter 1015 — LARGE PUZZLE
+- [ ] Chapter 1016 — UNRESOLVED / NEW CIRCUIT
+- [ ] Chapter 1017 — ENOUGH TO GO ON
+- [ ] Chapter 1018 — WHAT REMAINS / ENTERS NEXT
+- [ ] Chapter 1019 — SMALL PUZZLE
+- [ ] Chapter 1020 — OTHER PERSON / SHARED MATTER
+- [ ] Chapter 1021 — RESISTANCE / CORRECTION / TIME
+- [ ] Chapter 1022 — LARGE PUZZLE
+- [ ] Chapter 1023 — UNRESOLVED / NEW CIRCUIT
+- [ ] Chapter 1024 — ENOUGH TO GO ON
+- [ ] Chapter 1025 — WHAT REMAINS / ENTERS NEXT
+- [ ] Chapter 1026 — SMALL PUZZLE
+- [ ] Chapter 1027 — OTHER PERSON / SHARED MATTER
+- [ ] Chapter 1028 — RESISTANCE / CORRECTION / TIME
+- [ ] Chapter 1029 — LARGE PUZZLE / THIRD GRAND MOVEMENT COMPLETE
+
+
+THE LAST EXTRA 29 — CHAPTERS 1001–1029
+=======================================
+
+These are not bonus chapters.
+They complete the mathematics that Chapter 1000 leaves unfinished.
+
+1000 is culturally suggestive of completion.
+Inside the book's own seven-based structure it is position 6 of a week:
+one step before a large puzzle.
+
+1001 supplies that withheld turn.
+1029 = 3 × 343 = 3 × 7³.
+The architecture completes there even if the inquiry does not.
+
+CHAPTER 1001 — THE WITHHELD ENDING / LARGE PUZZLE
+--------------------------------------------------
+Purpose:
+Let the reader look back at one thousand chapters and ask:
+"What have we actually been doing?"
+
+Do not summarize the whole book.
+Use a very small present scene if possible.
+
+The reader should now be able to notice without instruction:
+- what is unresolved;
+- what changed;
+- why it became enough;
+- what remained;
+- how another person could enter;
+- what could correct the understanding;
+- how the result might enter later life.
+
+The staggering recognition:
+The reader has become more capable of seeing these things than they were at the beginning.
+
+End by refusing monumentality.
+Begin the final four weeks.
+
+WEEK 144 — CHAPTERS 1002–1008 — ONE THING
+------------------------------------------
+Strip the scale back down.
+
+Possible material:
+one object;
+one small practical difficulty;
+one distinction;
+one test;
+one correction.
+
+Avoid:
+institutions, historical sweep, grand claims.
+
+Question underneath the week:
+How much of the whole book was already present in the smallest case?
+
+Chapter 1005 — SMALL PUZZLE:
+Put the first three tiny events beside one another.
+Ask what changed and what became enough.
+
+Chapter 1008 — LARGE PUZZLE:
+Return to the opening scale of the book.
+Let the reader see that the small case was never philosophically small.
+
+WEEK 145 — CHAPTERS 1009–1015 — TWO PEOPLE
+-------------------------------------------
+Strip the situation to two people and one matter.
+
+Across the week:
+- one notices something;
+- the other misses or misunderstands it;
+- a gesture, word, example, or action redirects attention;
+- disagreement becomes precise;
+- a test or consequence matters to both;
+- each person's understanding is altered by the exchange.
+
+Do not create a mystical shared mind.
+Do not require identical thoughts.
+
+Chapter 1012 — SMALL PUZZLE:
+Where did the decisive change happen?
+In one person, the other, the exchange, the thing they were dealing with, or some combination?
+
+Chapter 1015 — LARGE PUZZLE:
+Ask:
+"Where, exactly, did the understanding belong?"
+
+Answer only as far as the book has earned:
+different people can contribute to one developing understanding without possessing identical mental contents.
+
+WEEK 146 — CHAPTERS 1016–1022 — SOMEONE ABSENT
+-----------------------------------------------
+Introduce absence and time.
+
+Possible carriers:
+a note;
+an old repair;
+a recorded instruction;
+a proof;
+a marked-up book;
+a promise;
+an unfinished calculation;
+a question left by someone no longer available.
+
+The living must recover enough of what was at issue to continue.
+
+Chapter 1019 — SMALL PUZZLE:
+What survived?
+The words?
+The object?
+The question?
+The relation between them?
+The ability to resume?
+
+Distinguish:
+remaining available;
+being remembered;
+being reconstructed;
+being understood anew.
+
+Chapter 1022 — LARGE PUZZLE:
+Ask:
+"How can something remain available when the original act of understanding is gone?"
+
+Do not collapse the answer into records.
+A record may remain while its meaning is lost.
+Different records may support the same continuation.
+
+WEEK 147 — CHAPTERS 1023–1029 — SOMEONE NOT YET HERE
+-----------------------------------------------------
+Turn the temporal direction around.
+
+The question is no longer:
+"What can we receive from people before us?"
+
+It becomes:
+"What are we leaving for people who are not here yet?"
+
+Possible events:
+- someone repairs something properly because another person will rely on it later;
+- someone records why a decision was made;
+- someone preserves uncertainty instead of falsely closing it;
+- someone leaves a question open;
+- someone teaches a child how to find out when an answer stops working;
+- someone changes a procedure after discovering a failure;
+- someone writes for a reader they cannot know.
+
+Chapter 1026 — SMALL PUZZLE:
+What exactly are we able to leave?
+An answer?
+A method?
+A warning?
+A distinction?
+A responsibility?
+An unfinished question?
+
+Chapter 1029 — LARGE PUZZLE / ARCHITECTURAL COMPLETION
+-------------------------------------------------------
+Mathematical position:
+3 × 343 = 3 × 7³.
+
+Do not make this a conventional conclusion.
+
+The architecture may finish.
+The inquiry must remain alive.
+
+Desired final-scale event:
+something ordinary;
+possibly a child and an adult;
+a genuine question;
+an answer beginning;
+a hesitation;
+a recognition that they do not yet know;
+a decision to look.
+
+The final movement should contain, without listing them:
+- an inherited world;
+- an unresolved question;
+- two or more people;
+- uncertainty that is preserved rather than hidden;
+- something beyond present preference that can answer back;
+- the possibility of correction;
+- a future understanding beginning from an unfinished present.
+
+The deepest final reversal:
+The book has spent 1029 chapters showing how answers can enter what comes next.
+It should end by showing how an unanswered question can do the same.
+
+Do not end with:
+"Here is what it all means."
+
+End with the structure complete and the matter still open.
+
+FINAL MATHEMATICAL NOTE FOR AUTHORING
+-------------------------------------
+7   = one week.
+49  = 7² = one season.
+343 = 7³ = one grand movement.
+1029 = 3 × 343 = completion of three grand movements.
+
+Chapter 1000 is therefore not the mathematical ending.
+It is a deliberately persuasive false ending:
+a round human number that arrives one chapter before the next large puzzle.
+
+The book's own structure should quietly teach:
+what looks finished depends on what question is being asked.
 
 
 HOW TO USE THE LEDGER WHILE WRITING
