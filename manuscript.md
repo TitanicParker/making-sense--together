@@ -1147,6 +1147,1468 @@ It had become something quieter.
 Do not let the first answer become harder to move than the problem itself.
 
 
+## What Keeps Happening?
+
+A few evenings after the heating was fixed, Ben found Nora at the kitchen table with a screwdriver beside a bowl of soup.
+
+He looked at the screwdriver.
+
+"Should I be worried?"
+
+"The drawer is fine."
+
+"The soup?"
+
+"Also fine."
+
+"Then why are you armed?"
+
+Nora had been tightening the handle on a saucepan lid. One screw had worked loose. She turned it once more, checked the handle and put the screwdriver down.
+
+Ben watched her.
+
+"You test everything now."
+
+"You say that like the boiler didn't spend a day proving you wrong."
+
+"It proved one particular theory wrong."
+
+"Your theory."
+
+"An important theory."
+
+Leila arrived while they were still arguing and took the empty chair.
+
+Within ten minutes the conversation had collected half a dozen small disasters: the drawer that would not close, the soup that needed more salt, the curtain rail that was level but not secure, the breaker that Nora later reached for automatically, the train platform that changed beneath their certainty, the parcel with the right address and the wrong person, the leak in the ceiling, the thermostat that had been doing exactly what Ben accused it of doing for the wrong reason.
+
+Leila looked from one of them to the other.
+
+"Do you two hear yourselves?"
+
+"No," Ben said. "We try not to."
+
+"These aren't the same problem."
+
+Nora said, "Obviously."
+
+"Then why do you keep telling them as if they belong together?"
+
+That stopped them.
+
+The drawer and the train had almost nothing in common as objects. Neither did soup and a parcel. A boiler did not resemble a promise, a route or a loose bracket. Yet the stories did keep falling beside one another.
+
+Nora began with the simplest possibility.
+
+"In some of them we noticed a difference."
+
+"The two train lines," Ben said.
+
+"The loose side of the drawer."
+
+"The label and the person who actually lived there," Leila added.
+
+Sometimes that was what changed: two things that had been blurred together became distinct enough to matter.
+
+But not always.
+
+With the curtain rail, they had not merely distinguished two things. They had made something possible. The curtain could finally be hung and used.
+
+With the leak, several observations had become connected: the dark patch, the flat above, the pipe, the timing of the water. A relation that had been unclear became clearer.
+
+With the drawer and the heating, something wrong had been put right.
+
+With some problems, separate pieces had to work together before anything useful existed at all. A route was open only when the whole route was passable. A rail was secure only when the brackets, wall and fixings held together.
+
+And sometimes the important change was simply that a question which had been pressing on them finally had an answer.
+
+"Which platform?"
+
+"Six."
+
+"Whose parcel?"
+
+"The former tenant's."
+
+"Can we use the same ticket?"
+
+"Yes."
+
+Those were different endings. Yet they all changed what could happen next.
+
+Leila drew six short marks on the back of an envelope.
+
+"So far we've got: tell things apart, make something possible, see a connection, put something right, get several things working as one, answer the question."
+
+Ben looked at the envelope.
+
+"That's annoyingly tidy."
+
+"It gets worse," Nora said.
+
+Because even when the change was similar, what made it enough could differ.
+
+Sometimes one particular thing decided the matter. The name on the message settled who had ordered the parcel. The cracked wood beside the runner explained why tightening the screw had only worked briefly.
+
+Sometimes no single part was enough. The whole train route had to be available. A bracket, plug and wall all had to hold. Several things together made the difference.
+
+And sometimes something became enough because an old concern stopped governing the next move. Once the guard said the tickets would be accepted, the missed connection was still inconvenient, but it no longer controlled the whole journey. Once they knew the stain in Karim's new flat was old, the question of an active leak lost its grip.
+
+Leila added three marks beneath the six.
+
+Ben said, "Please don't tell me there is another row."
+
+There was.
+
+Afterward, something remained.
+
+Sometimes a simple determination remained: this is the right switch; that is the platform; this parcel belongs to that person.
+
+Sometimes what remained only made sense through a relation: the pads sit evenly against the rim; this pipe runs beneath that patch; this instruction belongs to that promise.
+
+Sometimes what remained was easiest to see in what could now happen: the drawer closed, the brake stopped the wheel, the rail held the curtain, the person could find the way.
+
+Leila added three more marks.
+
+Then she stared at the envelope.
+
+"Six, three, three."
+
+Ben saw it a moment later.
+
+"Fifty-four."
+
+Nora laughed.
+
+"That sounds absurd."
+
+It did.
+
+Six kinds of change. Three ways a change might become enough. Three broad ways something might remain.
+
+Six times three times three: fifty-four possible combinations.
+
+Nothing in the number proved that these were the only possibilities. They had not inspected every kind of understanding people could ever have. The number was not sacred. It might turn out that one of the six needed splitting, or two belonged together, or that an entirely different question mattered more.
+
+But the number did something useful.
+
+It made the puzzle harder to dismiss.
+
+If the same few differences could combine in many ways, then ordinary moments that looked alike might not be alike at all. Two repairs could leave different things behind. Two answers could become enough for different reasons. The same object could take part in one kind of problem in the morning and another in the afternoon.
+
+And the reverse was stranger.
+
+A saucepan, a train, a parcel, a mathematical question and a disagreement might have almost nothing material in common, yet the change that mattered in each could have the same shape.
+
+Ben picked up the envelope.
+
+"So what do we do with fifty-four?"
+
+"Nothing yet," Leila said.
+
+"Good system."
+
+"I mean it. If we start trying to force everything into little boxes, we'll stop looking."
+
+That was the danger.
+
+A map can help someone see a country. It can also make them stare at the map while walking into a wall.
+
+The more interesting use of the number was as a question.
+
+When something suddenly made sense, what had actually changed?
+
+Why was that enough?
+
+What, if anything, remained afterward?
+
+Those questions were small enough to ask almost anywhere.
+
+A child finally hearing the difference between two sounds.
+
+A mechanic finding which part is loose.
+
+Two friends realizing they have been arguing about different things.
+
+A doctor connecting symptoms.
+
+A student seeing why a proof works.
+
+Someone discovering that the reason they had been waiting no longer applies.
+
+Someone receiving an answer.
+
+Someone learning that no answer is justified yet.
+
+The examples were easy.
+
+The implication was not.
+
+If these recurring shapes really could appear across repair, language, mathematics, disagreement, memory, plans and promises, then they were not merely tricks for solving household problems.
+
+They might be telling us something about how a situation becomes clear enough for a human being to continue.
+
+Leila folded the envelope and pushed it toward Nora.
+
+"Keep that."
+
+Nora put it in the drawer.
+
+The same drawer that had once refused to close.
+
+It shut without complaint.
+
+For the moment, at least, that was enough.
+
+The harder question was how far those shapes would travel.
+
+## There
+
+Karim was helping his niece Amira build a small wooden desk.
+
+The instructions had six pictures and almost no words. Amira had already attached two legs. The third would not sit flat.
+
+Karim crouched beside her.
+
+"That one's backwards."
+
+Amira looked at the leg.
+
+"No it isn't."
+
+"It is."
+
+"They're all the same."
+
+"They look the same."
+
+She held the loose leg beside the one already fitted.
+
+"See?"
+
+Karim nearly said yes. Then he noticed a small drilled hole near one edge.
+
+"There."
+
+Amira looked at his finger.
+
+"Where?"
+
+"That little hole."
+
+She turned the leg.
+
+"Oh."
+
+One word had done almost nothing by itself.
+
+There could have meant the floor, the screw, the picture, the edge of the board, the hole, the whole leg. What made it useful was everything already around it: the desk, the failed attempt, Karim's finger, Amira's attention, the two pieces lying side by side.
+
+She reversed the leg and tried again.
+
+The holes lined up.
+
+"Again," Karim said.
+
+She took it out.
+
+"What?"
+
+"Put it back the wrong way."
+
+"Why?"
+
+"So I can see something."
+
+Amira rolled her eyes but did it.
+
+Karim compared the two positions.
+
+He had thought the drilled hole was the reason the leg had to face one way. Now, looking more carefully, he saw that the hole did not matter to the fixing at all. The real difference was a shallow cut on the inner face that cleared the metal bracket.
+
+"Wait."
+
+"You said it was the hole."
+
+"I know."
+
+"So you were wrong."
+
+"Very efficiently."
+
+They turned the leg again.
+
+Karim pointed to the cut.
+
+"That."
+
+Amira ran her thumb over it.
+
+"This bit?"
+
+"Yes. Watch what happens when it's the other way."
+
+She fitted it incorrectly. The cut faced outward. The bracket pressed against the flat wood and the leg sat a few millimetres proud.
+
+Then she reversed it.
+
+The bracket settled into the cut.
+
+Amira smiled.
+
+"Oh."
+
+Karim had begun by trying to give her an answer. Her resistance had made him look again. By the time she understood the leg, his own understanding was better too.
+
+They kept building.
+
+"Which screw?"
+
+"The short one."
+
+"This?"
+
+"No, the other short one."
+
+"They're the same."
+
+"Put them together."
+
+Amira did.
+
+One was two millimetres longer.
+
+"That is rude," she said.
+
+Later Karim held the desktop while she tightened the frame.
+
+"More?"
+
+"A little."
+
+"Now?"
+
+"Not yet."
+
+She turned the Allen key.
+
+"Now?"
+
+Karim moved the desk.
+
+"Now."
+
+The words were tiny.
+
+This. There. Again. More. Not yet. Now.
+
+None of them contained very much. Yet each could change what the other person did because the larger situation was already doing most of the work.
+
+At one point Amira looked at the instruction sheet and said, "It says this piece goes first."
+
+Karim checked.
+
+She was right.
+
+They had attached the crossbar too early.
+
+"Do we have to undo it?"
+
+"Probably."
+
+"That's terrible."
+
+"It is a serious tragedy."
+
+They removed four screws.
+
+The desk went backward in order to go forward.
+
+Later, when it finally stood upright, Amira pushed down on each corner.
+
+One rocked.
+
+"Not done," she said.
+
+Karim looked under the frame.
+
+"Which leg?"
+
+Amira did not answer.
+
+She pressed the corners again, watched the movement and pointed.
+
+"There."
+
+Karim followed her finger.
+
+The back left foot was not touching the floor.
+
+He had taught her the word several hours earlier without teaching it at all. The word was already hers. More importantly, she had learned what kind of noticing could make it useful.
+
+They adjusted the foot.
+
+The rocking stopped.
+
+A week later Amira was doing a school project with another child. Karim heard them from the kitchen.
+
+"No, look. There."
+
+A pause.
+
+"Oh."
+
+He could not see what they were looking at.
+
+He did not know what "there" meant.
+
+He did not need to.
+
+The word was doing its work inside a situation that belonged to them.
+
+Language often looks as though it carries meaning from one mind to another. Sometimes it does carry a great deal. A warning shouted across a street can arrive before the situation is shared.
+
+But much ordinary communication works differently.
+
+Someone points.
+
+Someone repeats.
+
+Someone chooses an example.
+
+Someone says the same thing another way.
+
+Someone performs the action.
+
+Someone says, "No, not that part."
+
+The other person begins to see.
+
+And sometimes, in trying to show the other person, the first person discovers that they had not seen clearly either.
+
+The desk ended up in Amira's room beneath the window.
+
+Months later one of its feet loosened.
+
+She did not remember which sentence Karim had used when they first adjusted it. She probably did not remember that conversation at all.
+
+She knelt, pressed the corners and watched.
+
+The desk moved.
+
+"There," she said to herself.
+
+Then she reached underneath.
+
+## Still About That
+
+Ben had promised Amira he would come to her school play.
+
+The first version of the promise was made in the kitchen while she was eating toast.
+
+"You'll come?"
+
+"Yes."
+
+"Actually come?"
+
+"Yes."
+
+"Not say you forgot?"
+
+"I have never forgotten anything."
+
+Nora looked up.
+
+Amira ignored him.
+
+"Friday. Six o'clock."
+
+"I'll be there."
+
+Three days later the school sent a message. The play had been moved to half past six.
+
+Amira forwarded it to Ben with one line.
+
+Still coming?
+
+Ben replied:
+
+Of course.
+
+On Friday afternoon his train was delayed.
+
+At six fifteen he texted Nora.
+
+Tell her I might miss the start.
+
+Nora was already at the school.
+
+She showed Amira the message.
+
+Amira frowned.
+
+"He said he'd be here."
+
+"He is trying."
+
+"That isn't being here."
+
+The play began at six thirty-five.
+
+Ben arrived at six forty-two.
+
+He slipped into the back row while a group of children dressed as trees were singing.
+
+Afterward Amira came out still wearing green face paint.
+
+"You missed my first bit."
+
+"I know. I'm sorry."
+
+"You promised."
+
+Ben started to say, "I promised I'd come."
+
+Then stopped.
+
+That was true in one sense. It was also a way of changing the promise after the fact.
+
+The exact words had been "I'll be there." But words do not always decide by themselves what was undertaken.
+
+Amira had asked whether he would come to the play. She had given the time. She had asked because his being there mattered during the performance, not merely at some point before the building closed.
+
+Ben could not rescue himself by treating the sentence as if it had arrived without a situation.
+
+"I was late," he said.
+
+Amira considered this.
+
+"Very."
+
+"Very."
+
+"Seven minutes."
+
+"I see you've done the prosecution's calculations."
+
+"What?"
+
+"Nothing."
+
+She forgave him before he had finished apologizing.
+
+The promise did not disappear, though.
+
+A month later Ben was telling Karim the story.
+
+"I promised I'd be at her play and the train was late."
+
+Karim said, "Did you get there?"
+
+"Seven minutes late."
+
+"So you mostly kept it."
+
+Nora, who was making tea, turned around.
+
+"Mostly?"
+
+Karim laughed.
+
+"You know what I mean."
+
+They did.
+
+Or thought they did.
+
+A promise could be retold in many ways.
+
+I'll be there.
+
+I'll come to the play.
+
+I won't miss it.
+
+You can expect me at six thirty.
+
+Those sentences were not identical. In the right circumstances they could nevertheless bear on the same undertaking.
+
+But not every change of wording would preserve it.
+
+If Ben had later said, "I promised to visit the school sometime that evening," he would not merely be paraphrasing. He would be making the promise easier to keep by changing what counted.
+
+This gives a practical way to test whether two versions are still about the same thing.
+
+Could they come apart?
+
+Could one be kept while the other was broken?
+
+If yes, an important difference has appeared.
+
+"I'll come to the play" and "I'll stand outside the school at midnight" can both involve the same building and the same person. They are not the same promise.
+
+Months later Amira asked Ben to collect a package from a shop.
+
+"It closes at five."
+
+"I'll get it."
+
+"Today."
+
+"Yes."
+
+At four forty-five he was still at work.
+
+He saw the time and stood up.
+
+A colleague said, "Can this wait until tomorrow?"
+
+Ben looked at his phone.
+
+"No."
+
+The shop was ten minutes away.
+
+Nothing physical prevented him from staying at his desk. The door was not locked. Nobody was pushing him toward the street.
+
+But his earlier words had changed what leaving and staying now meant.
+
+He collected the package at four fifty-eight.
+
+When he handed it to Amira that evening she said, "You remembered."
+
+He had.
+
+But even that was not quite enough to explain what had happened.
+
+The promise had survived from one moment to another because later actions could still count as keeping it or failing it.
+
+The words had changed.
+
+The place had changed.
+
+Several hours had passed.
+
+Different people had spoken about it.
+
+Yet the later moment still answered to the earlier one.
+
+That is one of the ways a matter can remain the same without remaining identical.
+
+Not because every detail is preserved.
+
+Because what happens later can still bear directly on what was at issue before.
+
+A reply can answer a question asked yesterday.
+
+Evidence found next week can contradict today's explanation.
+
+A payment can fulfil an earlier debt.
+
+A proof written in different notation can establish the same claim.
+
+An apology can respond to an old injury.
+
+A repaired hinge can answer a problem someone else first noticed.
+
+The connection is not guaranteed.
+
+People change subjects while using the same words.
+
+They preserve a subject while using different words.
+
+They remember badly.
+
+They revise.
+
+They replace.
+
+The boundary is not always sharp.
+
+But without any boundary at all, correction would become impossible. Every time an answer failed, we could simply say we had meant something else.
+
+Amira's play made the point more cleanly than Ben preferred.
+
+He had arrived.
+
+He had also been late.
+
+Both were true.
+
+The promise was still the same matter because the later facts could count for or against whether he had kept it.
+
+That was why seven minutes mattered.
+
+## What Yesterday Still Wants
+
+Nora found the note on Monday morning.
+
+DO NOT USE LEFT TAP.
+
+It was written in thick black marker and taped above the kitchen sink in the office where she had started working two weeks earlier.
+
+The tap looked normal.
+
+She asked the person beside her.
+
+"What's wrong with it?"
+
+"No idea."
+
+"Who put the note there?"
+
+"No idea."
+
+The right tap worked. The left one stayed untouched.
+
+For three days the note did its job without anyone understanding why.
+
+Then someone new joined the office, filled a bottle from the left tap and flooded the cupboard beneath the sink.
+
+The flexible hose had a split.
+
+A maintenance worker shut off the water, replaced it and removed the note.
+
+Nora looked at the square of clean wall where the tape had been.
+
+The warning had survived longer than the understanding behind it.
+
+It had still been useful.
+
+That was worth noticing.
+
+A person did not need to remember the original leak for the note to affect what happened later. The mark on the wall connected people who had never spoken about the problem.
+
+But the note was not the same thing as understanding the problem.
+
+It said what not to do.
+
+It did not say what had failed, how certain anyone was, when the fault began or what would make the tap safe again.
+
+If the hose had been repaired during the weekend and nobody removed the note, the same words would have become misleading.
+
+A record can preserve something.
+
+It can also preserve it after it has stopped being true.
+
+Later that week Nora came home and saw a strip of masking tape on her own fridge.
+
+BUY BATTERIES — SMOKE ALARM
+
+She had written it on Saturday.
+
+She had completely forgotten.
+
+The note returned the unfinished task to her.
+
+That was different from simply continuing to know it.
+
+On Saturday the need for batteries had been clear. By Monday the thought was gone from her mind. The tape did not preserve an unbroken act of remembering. It helped the question become live again.
+
+She bought the batteries.
+
+A month later she heard a smoke alarm chirping in the flat above.
+
+Without any note, she immediately thought: battery.
+
+That was different again.
+
+Nothing had to restore the old question. Something from the earlier occasion had become ready to use.
+
+These differences are easy to blur because we use the same phrase for all of them.
+
+"I remembered."
+
+But sometimes something remained available without interruption.
+
+Sometimes it disappeared and was recovered.
+
+Sometimes only a mark remained and helped us reconstruct what mattered.
+
+Sometimes the old situation taught us enough that a new situation became easier to understand.
+
+And sometimes we merely think we remember.
+
+Ben demonstrated that last possibility.
+
+He came into Nora's kitchen carrying a packet of screws.
+
+"These are the ones we used on your curtain rail."
+
+"No they're not."
+
+"They are."
+
+"They're too short."
+
+He looked at the packet.
+
+"I bought the same size."
+
+"You bought the size you remember."
+
+They found the spare screw from the original fitting in a jar.
+
+Nora put them side by side.
+
+Ben's new screw was shorter.
+
+"Hm."
+
+"History has spoken."
+
+"I reject this archive."
+
+His memory had felt direct. The old screw disagreed.
+
+Neither memory nor record was automatically sovereign. The spare screw could have come from another job. The packet could have been labelled incorrectly. They still had to connect the evidence to the matter at hand.
+
+That evening Nora looked again at the blank place above the sink in her office.
+
+The warning was gone because the fault was gone.
+
+That was the best possible fate for it.
+
+Some records are meant to endure.
+
+Others succeed by becoming unnecessary.
+
+A map can be thrown away after the journey.
+
+A shopping list can be crossed out.
+
+A temporary rule can disappear when the danger ends.
+
+An unanswered question can remain for years.
+
+The interesting thing is not simply how long a mark lasts.
+
+It is what later people can still do with what remains.
+
+The note above the tap had reached Nora from an unknown person.
+
+The masking tape on the fridge had reached Monday Nora from Saturday Nora.
+
+The spare screw had contradicted Ben's memory.
+
+Yesterday can still make demands on today.
+
+But it does not do so merely by surviving physically.
+
+Something has to make the old mark, object, promise, question or result matter again now.
+
+## Still the Same?
+
+At Leila's flat, three things were lying on the table.
+
+A photograph of the desk Karim and Amira had built.
+
+A screenshot of Ben's message about the school play.
+
+The old note from Nora's office sink, which she had taken down after the repair because she liked the bluntness of it.
+
+DO NOT USE LEFT TAP.
+
+Leila had asked everyone to bring "something that survived."
+
+Ben looked at the collection.
+
+"This is what happens when you make friends with people who overthink household maintenance."
+
+Karim picked up the photograph.
+
+"The desk still exists."
+
+"That wasn't the point," Leila said.
+
+"Then your instructions were poor."
+
+She ignored him.
+
+The desk story had travelled through Karim. The promise had travelled through changed wording and later action. The tap warning had travelled through time after the person who wrote it had disappeared from the situation.
+
+Three very different things had continued.
+
+But what, exactly, had stayed the same?
+
+Not the words.
+
+Karim and Amira could say "there," "that bit," "the cut," or say nothing and point.
+
+Not the people.
+
+The tap warning had reached Nora without its writer.
+
+Not continuous memory.
+
+Nora had forgotten the batteries until her own note reminded her.
+
+Not agreement.
+
+Ben and Amira could disagree about whether arriving seven minutes late counted as keeping the promise.
+
+The temptation was to answer with something vague: the meaning stayed the same.
+
+But meanings can change too.
+
+The note above the tap had once meant danger. After the hose was replaced, leaving the note there would have preserved the words while destroying their usefulness.
+
+Leila turned Ben's phone toward him.
+
+"What makes this still about your promise?"
+
+He read his own message.
+
+Tell her I might miss the start.
+
+"Because that's what it was about."
+
+"Excellent."
+
+"You know what I mean."
+
+She did.
+
+The later message could still affect the earlier undertaking.
+
+It could explain what happened.
+
+His arrival could count toward keeping the promise.
+
+His lateness could count against it.
+
+Amira's complaint could correct his attempt to make the promise smaller after the fact.
+
+The later occasion still bore directly on the earlier one.
+
+Karim tapped the photograph.
+
+"So the desk?"
+
+"If the desk starts rocking tomorrow, what we learned while building it might matter."
+
+"And if this is a different desk?"
+
+"It might still help, but it wouldn't be the same problem."
+
+That distinction was small and important.
+
+A new problem can resemble an old one without continuing it.
+
+An old problem can continue through enormous changes.
+
+The same promise can be discussed by different people in different words on different days.
+
+Two identical-looking screws can belong to unrelated repairs.
+
+Sameness depends partly on what is being asked.
+
+Same for what?
+
+The desk before and after painting is the same desk if the question is who owns it.
+
+It may not be the same surface if the question is what needs sanding.
+
+A revised map may be the same route for getting home and a different map for studying how the neighbourhood used to look.
+
+A person can be the same person and hold a different view.
+
+There is no single trick that settles every case.
+
+But one question kept helping:
+
+Does what happens here still answer to what was at issue there?
+
+Can it answer it?
+
+Contradict it?
+
+Correct it?
+
+Fulfil it?
+
+Explain it?
+
+Continue it?
+
+If not, perhaps the connection has become merely historical or similar.
+
+If yes, something important may still be the same even when almost everything visible has changed.
+
+Leila picked up the sink note.
+
+"This one failed eventually."
+
+"No," Nora said. "The hose was fixed."
+
+"Exactly. The note stopped being true."
+
+Karim smiled.
+
+"So the problem succeeded so hard that the warning failed."
+
+"Something like that."
+
+They laughed.
+
+But the joke contained the puzzle.
+
+Sometimes continuation means preserving an answer.
+
+Sometimes it means preserving the ability to revise the answer.
+
+Sometimes the most faithful thing we can do with an old instruction is stop following it.
+
+## The Half-Finished Thing
+
+On Saturday morning Karim left a wooden box outside Ben's flat.
+
+There was a note on top.
+
+FOR THE WINDOW SEAT.
+ONE SIDE WRONG.
+CALL ME.
+
+Ben carried it inside.
+
+The box was meant to fit beneath the bay window in Karim's new flat. It would become a low storage bench with a cushion on top.
+
+Three sides were already joined.
+
+One side was lying loose.
+
+There were pencil lines on the wood, two drilled holes and one hole that had been filled with a matchstick and glue.
+
+Ben called him.
+
+"What have you done?"
+
+"Very little successfully."
+
+"Which side is wrong?"
+
+"That's the problem."
+
+Karim explained.
+
+He had measured the space, cut the panels and started assembling. The box fitted between the walls at the front but jammed halfway back.
+
+"The bay narrows?"
+
+"I thought that."
+
+"You measured?"
+
+"Front and back."
+
+"And?"
+
+"Same."
+
+"Then what is wrong?"
+
+"That is why the box is at your house."
+
+Ben looked at the pieces.
+
+Karim was not handing him an answer.
+
+He was handing him a question already shaped by several failed attempts.
+
+The pencil lines told Ben where Karim had measured.
+
+The filled hole showed where a screw had first gone.
+
+The loose panel showed which part Karim had stopped trusting.
+
+None of those marks explained themselves.
+
+Ben took the box to Karim's flat.
+
+They slid it into the bay.
+
+It stopped.
+
+Ben checked the side walls.
+
+"Same width."
+
+"I told you."
+
+He put a level on the floor.
+
+The bubble moved sharply.
+
+"Floor rises."
+
+Karim stared.
+
+They measured from the floor to the underside of the window ledge at the front, then farther back.
+
+The available height dropped by eleven millimetres.
+
+The box was not too wide.
+
+It was too tall at the back.
+
+Karim looked at his pencil marks.
+
+"I never measured height."
+
+"You measured the question you thought you had."
+
+"Thank you, philosopher."
+
+They trimmed the back edge.
+
+The box slid into place.
+
+A problem had passed from one person to another without being reset to zero.
+
+Ben did not have to rediscover that the front width was correct. Karim had already checked it.
+
+He did not have to repeat every failed screw position. The wood showed some of that history.
+
+He also could not trust every inherited assumption. Karim's note said one side was wrong. It turned out no side was wrong in the way he meant.
+
+This is common.
+
+We receive finished things from other people: a recipe, a route, a formula, a repaired hinge, a word, a decision.
+
+But we also receive unfinished things.
+
+A half-written sentence.
+
+A bug somebody cannot reproduce.
+
+A family story with one part nobody can explain.
+
+A scientific question.
+
+A broken machine with three parts already replaced.
+
+A disagreement that began before we entered the room.
+
+The unfinishedness can itself survive the handover.
+
+Karim's question became Ben's question because Ben's next actions could still answer it.
+
+What makes the box jam?
+
+The person changed.
+
+The room did not.
+
+The box did not.
+
+The history of failed attempts became part of the new attempt.
+
+Later, Ben told Nora the story.
+
+"So the useful thing Karim gave you was being wrong?"
+
+"Partly."
+
+"He'll be pleased."
+
+"He gave me a narrower problem."
+
+That was true too.
+
+Wrong attempts can leave useful boundaries.
+
+This screw is not enough.
+
+That explanation fails.
+
+The front width is not the issue.
+
+The train is not on platform four.
+
+The uncertainty changes shape.
+
+A person who comes later can begin from that changed shape.
+
+A week after the window seat was finished, Karim lifted the lid and found Ben's level inside.
+
+He texted him.
+
+You left this.
+
+Ben replied:
+
+Keep it. Apparently you need supervision.
+
+Karim kept it.
+
+Months later he used it while hanging shelves.
+
+The tool survived the job.
+
+So did the memory that a level floor should not be assumed.
+
+But the most interesting thing that had survived was neither.
+
+It was the possibility that one person's unfinished question could become another person's work without ceasing to be the same question.
+
+## For Whoever Comes Next
+
+Nora's mother kept a recipe card in a tin above the fridge.
+
+The card was older than Nora.
+
+At the top, in blue ink, was written:
+
+BROWN BREAD
+
+Underneath came a short list of ingredients and a set of instructions that became less helpful as they progressed.
+
+Mix dry.
+Add buttermilk.
+Do not overwork.
+Hot oven.
+Until ready.
+
+Nora held up the card.
+
+"Until ready?"
+
+Her mother shrugged.
+
+"That's what it says."
+
+"How long?"
+
+"Depends."
+
+"On what?"
+
+"The dough. The oven. The size of the loaf."
+
+"This is not a recipe. This is a threat."
+
+They made it anyway.
+
+Nora measured everything precisely.
+
+Her mother did not.
+
+At the point where the card said Add buttermilk, Nora poured in the amount written.
+
+Her mother stopped her before the last splash.
+
+"Enough."
+
+"The card says all of it."
+
+"The flour's different."
+
+Nora looked at the bowl.
+
+"How can you tell?"
+
+"Mix it."
+
+She did.
+
+The dough came together stiffly.
+
+"Add a little more."
+
+"How much?"
+
+"A little."
+
+"You people have spent generations refusing numbers."
+
+Her mother laughed.
+
+They shaped the loaf.
+
+Nora wanted to knead it smooth.
+
+"Don't."
+
+"Why?"
+
+"That's what 'do not overwork' means."
+
+"I know what the sentence means."
+
+Her mother put her hands into the dough, folded it twice and stopped.
+
+"No. You know the words."
+
+That irritated Nora because it was true.
+
+The card had survived perfectly well.
+
+The ability to use it had not been stored entirely on the card.
+
+Some of it lived in what her mother noticed: how wet the flour was, how the dough moved under her fingers, how much resistance counted as enough, what the crust looked like before the loaf was actually done.
+
+When it went into the oven, Nora set a timer.
+
+When the timer rang, her mother looked at the loaf and said, "Five more."
+
+"Based on?"
+
+"Look at it."
+
+Nora looked.
+
+It looked like bread.
+
+Her mother tapped the bottom.
+
+The sound was dull.
+
+Five minutes later she tapped it again.
+
+Hollow.
+
+"There."
+
+Nora wrote on the card:
+
+ABOUT 40–45 MIN. TAP BOTTOM. HOLLOW = READY.
+
+Her mother read the addition.
+
+"Better."
+
+"So I have improved the family archive."
+
+"You have made it longer."
+
+The next time Nora made the bread alone, the extra line helped.
+
+It did not make the loaf automatic.
+
+Her kitchen was warmer. Her flour absorbed more liquid. She nearly added too much but remembered how the dough had felt in her mother's hands.
+
+The loaf was good.
+
+Not identical.
+
+Good.
+
+Months later Leila asked for the recipe.
+
+Nora photographed the card.
+
+Then she sent another message.
+
+Don't trust the buttermilk amount completely. Stop when the dough comes together. And don't knead it like normal bread.
+
+Leila replied:
+
+How will I know?
+
+Nora stared at the question.
+
+She could hear herself asking the same thing.
+
+She sent a short video the next time she made it.
+
+"This is what I mean by together. See how it holds but still looks rough?"
+
+Leila tried.
+
+Her first loaf was dense.
+
+She sent a photograph.
+
+Nora asked, "Did you knead it?"
+
+A pause.
+
+Maybe.
+
+The second loaf was better.
+
+The recipe was moving again.
+
+It had crossed from card to hands, from one kitchen to another, from words to demonstration and back to words.
+
+No single version contained the whole thing.
+
+The card mattered.
+
+So did the person reading it.
+
+So did the flour.
+
+So did the loaf that came out of the oven.
+
+A record can outlast the person who made it. That is one of the great ordinary powers of writing.
+
+But survival is not the same as successful continuation.
+
+A sentence can remain readable while nobody knows what it meant.
+
+An instruction can be repeated after the conditions that made it useful have changed.
+
+A proof can sit in a book unread.
+
+A warning can remain on a wall after the danger is gone.
+
+A recipe can survive while the practice needed to use it disappears.
+
+And the reverse can happen too.
+
+People can preserve an understanding while changing the words completely.
+
+Nora eventually rewrote the bread recipe for Amira.
+
+She did not copy the old card exactly.
+
+She included a photograph, a rough time, what the dough should look like and one sentence in capital letters:
+
+STOP MIXING BEFORE YOU THINK IT LOOKS FINISHED.
+
+Amira read it.
+
+"That is not normal advice."
+
+"It is for this."
+
+"Who wrote the first one?"
+
+"My grandmother."
+
+"Did she write this bit?"
+
+"No. Mum taught me that."
+
+"So whose recipe is it?"
+
+Nora looked at the old card.
+
+There was no clean answer.
+
+The bread had passed through different hands, corrections, kitchens, flour, ovens and words.
+
+Nobody had kept it alive by freezing it.
+
+They had kept it alive by making enough of it available for another person to do the thing again, notice when it was going wrong and change what needed changing.
+
+Amira folded the new sheet and put it into her school bag.
+
+"For cooking class."
+
+Nora almost told her not to lose it.
+
+Then she thought about the old card upstairs in the tin, Leila's messages, the video on her phone and the feel of the dough in her own hands.
+
+The recipe no longer had one home.
+
+That was not a failure of preservation.
+
+It was how it had survived.
+
+
+
 <!--
 AUTHORING MAP — INVISIBLE TO THE READER
 ========================================
@@ -1634,13 +3096,13 @@ SEASON 1 — Chapters 1–49
 - [x] Chapter 4 — Look Again — DRAFTED
 - [x] Chapter 5 — The Same Thing Between Us — DRAFTED
 - [x] Chapter 6 — When the Answer Fights Back — DRAFTED
-- [ ] Chapter 7 — LARGE PUZZLE
-- [ ] Chapter 8 — UNRESOLVED / NEW CIRCUIT
-- [ ] Chapter 9 — ENOUGH TO GO ON
-- [ ] Chapter 10 — WHAT REMAINS / ENTERS NEXT
-- [ ] Chapter 11 — SMALL PUZZLE
-- [ ] Chapter 12 — OTHER PERSON / SHARED MATTER
-- [ ] Chapter 13 — RESISTANCE / CORRECTION / TIME
+- [x] Chapter 7 — LARGE PUZZLE
+- [x] Chapter 8 — UNRESOLVED / NEW CIRCUIT
+- [x] Chapter 9 — ENOUGH TO GO ON
+- [x] Chapter 10 — WHAT REMAINS / ENTERS NEXT
+- [x] Chapter 11 — SMALL PUZZLE
+- [x] Chapter 12 — OTHER PERSON / SHARED MATTER
+- [x] Chapter 13 — RESISTANCE / CORRECTION / TIME
 - [ ] Chapter 14 — LARGE PUZZLE
 - [ ] Chapter 15 — UNRESOLVED / NEW CIRCUIT
 - [ ] Chapter 16 — ENOUGH TO GO ON
