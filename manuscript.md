@@ -145,3 +145,196 @@ Perhaps the bedside drawer would turn out to have a different fault. Perhaps lif
 But they were no longer where they had been a moment earlier.
 
 Now there was something they could look at together.
+
+
+## Enough
+
+A week after the drawer, Ben was making soup when he stopped with the salt in his hand.
+
+"Try that."
+
+Nora tasted from the wooden spoon.
+
+"Needs more."
+
+"How much more?"
+
+She shrugged. "Some."
+
+This was not the kind of problem that came with a mark on a ruler. Ben added a small pinch, stirred, and handed the spoon back.
+
+"Again?"
+
+She tasted.
+
+"Better."
+
+"Better enough?"
+
+Nora tasted once more, slower this time.
+
+"Yes."
+
+Ben put the salt away.
+
+There was still more they could have done. The soup could have been smoother. The onions could have cooked another two minutes. A little lemon might have sharpened it. Someone with a different taste might have wanted more pepper. Nothing about the word "enough" meant that the soup had reached a perfect and final state.
+
+It meant they could serve dinner.
+
+That difference is easy to miss because some small problems have hard edges. A drawer closes or it does not. A plug fits or it does not. But much of life would remain permanently unfinished if the only acceptable ending were that nothing could possibly be improved.
+
+Ben filled two bowls and carried them to the table.
+
+Nora tasted hers again.
+
+"Actually, maybe a little more salt."
+
+He looked at her.
+
+"You said enough."
+
+"I changed my mind."
+
+"That seems illegal."
+
+She laughed, but the soup had already become a slightly different question. At the stove they had been deciding whether it was ready to serve. At the table Nora was deciding whether she wanted more salt in her own bowl. The answer to one did not have to settle the other.
+
+Ben passed her the shaker.
+
+The next evening their mother came by and reheated what was left. She tasted it before sitting down.
+
+"Bit salty."
+
+Nora looked at Ben.
+
+He said nothing.
+
+Three people could taste the same pot and reach different stopping points without anyone having misunderstood what soup was. "Enough" did not float free. Enough for whom, for what, under which conditions? Yet neither was it merely arbitrary. A spoonful of salt would have ruined the pot however confidently Ben declared it perfect.
+
+Later that month the same question appeared in a less forgiving form.
+
+Nora was helping a friend, Leila, put up a curtain rail. They had drilled the holes, inserted the plugs and tightened the brackets. The rail looked straight from the floor.
+
+"Done," Leila said.
+
+Nora put the level on top.
+
+The bubble sat just inside the line.
+
+"That's fine."
+
+Leila leaned closer.
+
+"It's not exactly centred."
+
+"It doesn't need to be exactly centred."
+
+"That's a dangerous sentence."
+
+They loosened one bracket, raised it perhaps two millimetres, tightened it again and checked.
+
+The bubble moved closer to the middle.
+
+Leila smiled. "There."
+
+Nora stepped back. The rail looked exactly as straight as it had before.
+
+They hung the curtain.
+
+That should have been the end of it. But when Leila pulled the curtain fully to one side, the right bracket shifted away from the wall.
+
+"Not done," Nora said.
+
+The level had answered one question. It had not answered another.
+
+The rail was straight enough. It was not yet secure enough.
+
+They removed the loose screw and found that the plug had spun inside an oversized hole. Leila wanted to use a larger screw. Nora wanted a better fixing.
+
+"It'll hold."
+
+"Until it doesn't."
+
+"Everything holds until it doesn't."
+
+"Very reassuring."
+
+They tried the larger screw. It tightened firmly. Leila pulled on the rail with both hands.
+
+Nothing moved.
+
+Nora pulled harder.
+
+Still nothing.
+
+"Enough?"
+
+Leila looked at her.
+
+"You tell me."
+
+Nora let go.
+
+"Enough."
+
+They both knew this was not certainty. Neither could see the future inside the wall. The plaster might be weaker than it looked. Someone might later hang something heavier from the rail. A hidden crack might spread.
+
+What they had was narrower and more useful. They had tested the rail in ways that mattered for the job they were actually doing, and nothing they had seen gave them a reason to keep working.
+
+That was enough to hang the curtain and make tea.
+
+Two days later Leila sent Nora a photograph.
+
+The bracket was hanging crooked.
+
+Underneath she had written: "Your definition of enough has resigned."
+
+Nora called her.
+
+"What happened?"
+
+"My nephew used the curtain as a climbing rope."
+
+"That was not in the specification."
+
+"It is now."
+
+They laughed, but the failure changed something. The repair had not been meaningless because a new demand later defeated it. The rail had held curtains perfectly well. What changed was the load it was expected to survive.
+
+When Nora came back, they did not simply repeat the old repair more carefully. They asked a different question: what would hold if a child pulled down hard on the fabric?
+
+They found the stud, changed the fixing and tested the rail again. Leila pulled until Nora told her to stop.
+
+"Why stop?"
+
+"Because I would like to keep the wall."
+
+This time "enough" had moved.
+
+Months afterward Leila was helping her sister mount a coat rack. Her sister reached for the supplied wall plugs.
+
+Leila looked at the coats, then at the wall.
+
+"How much weight is going on this?"
+
+"Why?"
+
+"Because 'the screw is tight' and 'the rack will hold' are not the same thing."
+
+Her sister waited.
+
+Leila tapped the wall, found the stud and changed where the rack would go.
+
+She did not tell the story of the curtain rail. She did not need to. What had once been an annoying little failure had become part of how she approached a new job.
+
+And what she passed on was not a rule saying that every screw must go into a stud. In another wall, for another load, a different fixing might be perfectly good. What survived was a question: enough for what?
+
+That question could travel farther than the original curtain rail because it did not require anyone to remember the room, the bracket, the photograph or the nephew.
+
+But it could still be wrong in a new case. A future wall might demand another question. A new material might fail in a way neither Nora nor Leila had seen before. Someone else might know a better test.
+
+That did not make the question useless.
+
+It kept it alive.
+
+The useful ending to a problem is often not the point where nothing more could ever be said. It is the point where we have enough to continue without pretending the future has promised not to surprise us.
