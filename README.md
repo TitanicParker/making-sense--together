@@ -1,8 +1,8 @@
 # Making Sense Together
 
-**Making Sense Together** is a 37-chapter philosophical inquiry into how something becomes intelligible enough, at a particular scale and for a live matter, that inquiry or action can continue.
+**Making Sense Together** is a philosophical inquiry into how something becomes intelligible enough, at a particular scale and for a live matter, that inquiry or action can continue. The book now opens with a Chapter Zero and closes with an Afterword around 37 numbered chapters.
 
-The project combines literary scenes, a three-question method of discernment, a 54-coordinate formal field, and a digital reference environment.
+The project combines literary scenes, a three-question method of discernment, a 54-coordinate formal field, and a digital reference environment. Its current framing distinguishes the minimal phenomenon from the taxonomy itself: there is substantial evidence for prelinguistic and nonhuman instances of the basic situated architecture, while the exact 6 × 3 × 3 morphology remains a proposal to be tested.
 
 ## Read
 
