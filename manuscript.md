@@ -403,6 +403,18 @@ Enough for what?
 
 All three completions are **Focal**, but “enough” is doing different work: a question can be settled so action proceeds, a repair can be adequate only relative to a governing load, and a relation can guide the next decision. The chapter separates stopping, adequacy and practical consequence without treating any of them as finality.
 
+### Five questions
+
+1. **What changed in each event?** How is deciding the soup is ready different from securing the rail and from letting expected load guide the coat-rack decision?
+
+2. **What makes each change enough?** What is the decisive point in the soup, the rail, and the coat-rack case, and why is each completion Focal?
+
+3. **What remains afterward?** Why does the soup decision persist as permission to serve, the rail repair through its relation to expected load, and the coat-rack judgment as guidance for action?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Focal × Efficacy**, **Repair × Focal × Bearing**, and **Relating × Focal × Efficacy** from the events.
+
+5. **How do the short expressions compress those forms?** What do **“arrived,” “rightly weighted,”** and **“answered”** each say about what became enough and what could happen next?
+
 ## What You Get to Keep
 
 Nora learned the fuse box because the kettle stopped working.
@@ -561,6 +573,18 @@ By the time the kettle boils, the question that mattered has usually disappeared
 **Differentiation × Focal × Efficacy → #3 — “this far”**
 
 What persists from an understanding need not persist uniformly. One determination can stand, one part can lose authority when conditions change, and a surviving distinction can remain chiefly as a limit on future action. Persistence is selective rather than all-or-nothing.
+
+### Five questions
+
+1. **What changed in each event?** What becomes settled when the breaker is labelled, what becomes differentiated after rewiring, and what practical boundary becomes available to Arun?
+
+2. **What makes each change enough?** Why is one identified breaker decisive in the first event, why does the old location have to lose its authority in the second, and what focal discrimination matters in the third?
+
+3. **What remains afterward?** Why does the breaker identification stand, why does the surviving knowledge remain through changed conditions, and why does the later result persist as an ability to stop?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Focal × Standing**, **Differentiation × Release × Bearing**, and **Differentiation × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“chosen,” “more and less,”** and **“this far”** reveal about what was kept, lost, and bounded?
 
 ## Look Again
 
@@ -781,6 +805,18 @@ What lasted was less tidy than a rule: look again when the sign changes, listen 
 
 The first two events both leave a **Standing** result, but one corrects an error while the other settles a live question. The third changes scale: what one person learned becomes distributed access for others and persists in what they can now do with it.
 
+### Five questions
+
+1. **What changed in each event?** What is corrected about the platform, what is settled about the tickets, and what becomes newly available to the other passengers?
+
+2. **What makes each change enough?** Why do the platform and ticket cases gather around one decisive point, while the information in the third event becomes sufficient across several people?
+
+3. **What remains afterward?** Why do the first two results stand as established determinations, while the third persists in what the passengers can now use and verify?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Repair × Focal × Standing**, **Settlement × Focal × Standing**, and **Opening × Distributed × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“set right,” “chosen,”** and **“available throughout”** say about correction, settlement, and distributed use?
+
 ## The Same Thing Between Us
 
 Leila's neighbour Karim knocked on her door one evening holding a parcel.
@@ -992,6 +1028,18 @@ Because by then, enough of the story existed between them for the word to find i
 
 The parcel is settled by a course of action, while the two stain cases are resolved by identifying what the visible mark bears on. Similar-looking situations can share a coordinate, but only when the same kind of relation is what makes them intelligible.
 
+### Five questions
+
+1. **What changed in each event?** What is settled about the parcel, and what relation is discovered in each of the two stain cases?
+
+2. **What makes each change enough?** Why does the parcel case gather around a determinate route, and why does each stain case gather around one decisive source?
+
+3. **What remains afterward?** Why does the parcel result persist as a course of action, while the stain results persist through the relation between mark and source?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Focal × Efficacy** for the parcel and **Relating × Focal × Bearing** for both stains.
+
+5. **How do the short expressions compress those forms?** Why is the parcel **“arrived,”** while both stain cases are **“held against”** despite involving different causes?
+
 ## When the Answer Fights Back
 
 Ben had been sure about the thermostat.
@@ -1198,6 +1246,18 @@ Do not let the first answer become harder to move than the problem itself.
 **Differentiation × Focal × Standing → #1 — “this”**
 
 The chapter shows three different ways reality can push back: an old answer can lose authority, a causal relation can reorganize the facts without erasing them, and testing can isolate the thing at fault. Correction is not one single operation.
+
+### Five questions
+
+1. **What changed in each event?** What happens to the thermostat answer, what relation does the engineer establish, and what becomes determinate about the kettle?
+
+2. **What makes each change enough?** Why must the thermostat fix lose its authority, why is poor circulation the decisive explanatory source, and why is the kettle itself the focal object in the last event?
+
+3. **What remains afterward?** Why does the failed thermostat solution stand as a limit, why does the circulation result remain through a causal relation, and why does the kettle fault remain as an established determination?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Repair × Release × Standing**, **Relating × Focal × Bearing**, and **Differentiation × Focal × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“a better limit,” “held against,”** and **“this”** each preserve from the event?
 
 ## What Keeps Happening?
 
@@ -1425,6 +1485,18 @@ The harder question was how far those shapes would travel.
 **Integration × Distributed × Standing → #40 — “each in its place”**
 
 The first two events differentiate the dimensions; the third integrates them. This is the chapter where the coordinate system itself becomes an object of understanding: first its distinctions stand out, then they are organized into a provisional whole.
+
+### Five questions
+
+1. **What changed in each event?** What distinctions become available in the first two events, and what becomes organized into a whole in the third?
+
+2. **What makes each change enough?** Why do all three depend on a plurality of cases or elements rather than one decisive point?
+
+3. **What remains afterward?** Why do the six kinds, the two threefold distinctions, and the fifty-four combinations all remain as standing structures for later use?
+
+4. **How do those answers produce the coordinates?** Why do the first two become **Differentiation × Distributed × Standing**, while the third becomes **Integration × Distributed × Standing**?
+
+5. **How do the short expressions compress those forms?** What is captured by **“within this”** in the first two events and by **“each in its place”** in the third?
 
 ## There
 
@@ -1677,6 +1749,18 @@ Then she reached underneath.
 
 A single relation can make orientation intelligible, but repairing the whole desk requires several coordinated corrections. What survives most strongly is not the original answer but a distributed capacity to direct attention and continue effectively.
 
+### Five questions
+
+1. **What changed in each event?** What relation fixes the desk-leg orientation, what is repaired in the assembly, and what new possibility of attention becomes available later?
+
+2. **What makes each change enough?** Why is the shallow cut a decisive point, why does the repair require several coordinated corrections, and why does the later opening show itself across more than one use?
+
+3. **What remains afterward?** Why does orientation persist through a relation, while the repair and later opening persist in what can now be done?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Distributed × Efficacy**, and **Opening × Distributed × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“held against,” “turn where it fails,”** and **“available throughout”** each make visible about the completed event?
+
 ## Still About That
 
 Ben had promised Amira he would come to her school play.
@@ -1900,6 +1984,18 @@ That was why seven minutes mattered.
 
 The same undertaking can survive changes in wording because later events still bear on it. The chapter distinguishes continuity of relation from identity of expression, and then shows that a relation can persist not only as something understood but as something that changes action.
 
+### Five questions
+
+1. **What changed in each event?** What relation makes Ben's late arrival intelligible, what distinction emerges among descriptions of the promise, and what later action does a promise affect?
+
+2. **What makes each change enough?** Why is the lateness assessed at a focal point, why does the undertaking require several descriptions to become clear, and why does the later promise become decisive in one practical choice?
+
+3. **What remains afterward?** Why do the first two results persist through relations, while the third persists by changing what Ben does?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Differentiation × Distributed × Bearing**, and **Relating × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“held against,” “this, here,”** and **“answered”** disclose about an undertaking that survives wording and enters action?
+
 ## What Yesterday Still Wants
 
 Nora found the note on Monday morning.
@@ -2070,6 +2166,18 @@ Something has to make the old mark, object, promise, question or result matter a
 **Repair × Focal × Standing → #28 — “set right”**
 
 What survives from the past can reopen a possibility, restore a task, or correct a memory. The chapter therefore separates persistence from uninterrupted presence: something can matter again after having fallen out of attention.
+
+### Five questions
+
+1. **What changed in each event?** What becomes available when the warning is ignored, what returns through Nora's note, and what is corrected when Ben's memory meets the old screw?
+
+2. **What makes each change enough?** Why does the warning have to cease governing behaviour, why is the note a focal reopening point, and why is the old screw decisive evidence?
+
+3. **What remains afterward?** Why does the exposed fault stand, why does the restored task persist as something Nora can act on, and why does the corrected screw determination stand?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Release × Standing**, **Opening × Focal × Efficacy**, and **Repair × Focal × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“free to choose,” “more ways open,”** and **“set right”** each say about how something from before changes the present?
 
 ## Still the Same?
 
