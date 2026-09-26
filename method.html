@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Method, scope, experiments, and editorial status for Making Sense Together.">
+<title>Method — Making Sense Together</title>
+<style>
+:root{color-scheme:light;--paper:#f6f0e5;--paper-2:#fffdf8;--ink:#27241f;--muted:#716b61;--line:#d9d0c2;--accent:#70543c;--accent-soft:#eadfce;--shadow:0 18px 55px rgba(50,40,28,.11)}
+html[data-theme="dark"]{color-scheme:dark;--paper:#171614;--paper-2:#201e1b;--ink:#eee9df;--muted:#aaa297;--line:#3b3732;--accent:#d5b28d;--accent-soft:#342b23;--shadow:0 18px 55px rgba(0,0,0,.28)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,"Times New Roman",serif;line-height:1.68}
+button{font:inherit;color:inherit}
+.topbar{position:sticky;top:0;z-index:20;min-height:56px;display:flex;align-items:center;gap:12px;padding:8px 16px;border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(12px)}
+.brand{min-width:0;flex:1;font:700 14px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.toolbar{display:flex;align-items:center;gap:6px;overflow-x:auto;scrollbar-width:none}.toolbar::-webkit-scrollbar{display:none}
+.control{flex:0 0 auto;border:1px solid var(--line);background:var(--paper-2);border-radius:999px;min-width:36px;height:36px;padding:0 11px;cursor:pointer;font:13px ui-sans-serif,system-ui,sans-serif;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;color:var(--ink)}
+.control:hover{border-color:var(--accent)}
+main{max-width:960px;margin:0 auto;padding:40px 18px 90px}.paper{background:var(--paper-2);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:10px;padding:38px clamp(22px,6vw,68px)}
+h1{font-size:clamp(2.1rem,6vw,4rem);line-height:1;margin:0 0 14px;letter-spacing:-.04em}h2{margin:2.5em 0 .65em;font-size:1.65rem;letter-spacing:-.02em;scroll-margin-top:80px}h3{margin:1.8em 0 .5em;font-size:1.15rem}
+.lede{font-size:1.12rem;color:var(--muted);max-width:760px}.callout{margin:22px 0;padding:16px 18px;border-left:3px solid var(--accent);background:var(--accent-soft);font:14px/1.6 ui-sans-serif,system-ui,sans-serif}
+.path{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px;margin:22px 0}.path a{padding:14px;border:1px solid var(--line);border-radius:9px;text-decoration:none;color:var(--ink);background:var(--paper);font:700 13px/1.35 ui-sans-serif,system-ui,sans-serif}.path a span{display:block;margin-top:4px;color:var(--muted);font-weight:500}
+table{width:100%;border-collapse:collapse;margin:18px 0;font:13px/1.45 ui-sans-serif,system-ui,sans-serif}th,td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.04em}
+code{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--paper);padding:2px 5px;border-radius:4px}.small{font:13px/1.55 ui-sans-serif,system-ui,sans-serif;color:var(--muted)}
+a{color:var(--accent)}blockquote{margin:1.4em 0;padding:.2em 0 .2em 18px;border-left:3px solid var(--line);font-size:1.05rem}
+@media(max-width:760px){.brand{display:none}.topbar{padding:8px}.toolbar{width:100%}.control{font-size:12px;padding:0 9px}main{padding:18px 8px 50px}.paper{padding:26px 18px}.path{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header class="topbar"><div class="brand">Making Sense Together · Method</div><div class="toolbar">
+<a class="control" href="index.html">Reader</a>
+<a class="control" href="definitions.html">Definitions</a>
+<a class="control" href="forms.html">54 Forms</a>
+<a class="control" href="semantic-fields.html">Semantic Field</a>
+<button class="control" id="theme" aria-label="Toggle theme">◐</button>
+</div></header>
+<main><article class="paper">
+<h1>Method and technical notes</h1>
+<p class="lede">This page makes the formal and experimental layer of <em>Making Sense Together</em> inspectable without requiring the reader to open repository notes or spreadsheets.</p>
+<div class="path">
+<a href="index.html">Read the book<span>37 chapters and 111 coda events</span></a>
+<a href="definitions.html">Use the definitions<span>15 canonical definitions</span></a>
+<a href="forms.html">Inspect the forms<span>54 generated coordinates</span></a>
+<a href="semantic-fields.html">Feel the field<span>five attractors per coordinate</span></a>
+</div>
+
+<h2 id="scope">Scope</h2>
+<p>The system concerns a <strong>completed local achievement of intelligibility at the scale under discussion</strong>. A larger matter can remain unresolved while something local becomes clear enough, settled enough, repaired enough, or otherwise complete enough for inquiry or action to continue.</p>
+<p>Sense here is not identified with truth, certainty, consensus, exhaustive explanation, or finality. An intelligible achievement may later be questioned, corrected, forgotten, taught, inherited, revised, or used as material for a larger inquiry.</p>
+
+<h2 id="three-questions">The three questions</h2>
+<p>Every completed form is considered in terms of three independently discerned answers:</p>
+<table><thead><tr><th>Question</th><th>Dimension</th><th>What it specifies</th></tr></thead><tbody>
+<tr><td><strong>What changed?</strong></td><td>Transformation Pattern</td><td>The kind of unresolvedness decisively altered.</td></tr>
+<tr><td><strong>What made the change sufficient?</strong></td><td>Completion Topology</td><td>The structural shape by which that change became enough.</td></tr>
+<tr><td><strong>What remained?</strong></td><td>Persistence Mode</td><td>The mode in which the achieved result remains available.</td></tr>
+</tbody></table>
+<p>The answer to one question does not determine either of the others. The definitions page gives the exact canonical wording for all fifteen terms.</p>
+
+<h2 id="field">Why there are 54 forms</h2>
+<p>The present field crosses six Transformation Patterns with three Completion Topologies and three Persistence Modes:</p>
+<blockquote><strong>6 × 3 × 3 = 54</strong></blockquote>
+<p>An event instantiates a coordinate; it does not create the coordinate. There is therefore no isolated “55th form” while the present axes and values remain unchanged. A new value, a split or merger of a present value, failure of axis-independence, or another constitutive dimension would regenerate the field rather than append one miscellaneous box.</p>
+
+<h2 id="reading-method">How the book uses the system</h2>
+<p>Each chapter works first as a chapter. The coda then identifies three local achievements of intelligibility and gives each a coordinate and compact expression. Five questions invite the reader to reconstruct what changed, what made it enough, and what remained.</p>
+<div class="callout"><strong>Pedagogical movement:</strong> see it first → name it second → compose it third → compress it last. Looking at the supplied answer is allowed; the questions are for discernment, not examination recall.</div>
+<p>The optional Practice mode in the reader hides answer-bearing coordinate material and explanatory coda glosses until the reader chooses to compare.</p>
+
+<h2 id="short-forms">What the ultra-short expressions are</h2>
+<p>The 54 canonical ultra-short expressions are not miniature definitions. The coordinate supplies the formal distinction. The short expression supplies a compressed human cue toward recognition.</p>
+<p>The expressions can therefore be individually underdetermining without making the forms themselves indistinct. A useful formulation is:</p>
+<blockquote>The openness belongs to the language; the distinction belongs to the form.</blockquote>
+<p>The 54 canonical expressions are frozen for the present edition.</p>
+
+<h2 id="recognition-experiment">Blind recognition and cue ablation</h2>
+<p>An internal model experiment tested whether three linguistic layers could lead a reasoner back to the canonical coordinate when the coordinate itself was withheld:</p>
+<ol>
+<li>the canonical ultra-short expression;</li>
+<li>an X→Y schematic sentence inherited from earlier work;</li>
+<li>an ordinary-language house-rule sentence.</li>
+</ol>
+<p>With all three cues present, all 54 coordinates were recovered exactly in that test.</p>
+<table><thead><tr><th>Condition</th><th>Transformation</th><th>Completion</th><th>Persistence</th><th>Exact coordinate</th></tr></thead><tbody>
+<tr><td>Ultra-short only</td><td>50/54</td><td>30/54</td><td>28/54</td><td>16/54</td></tr>
+<tr><td>X→Y only</td><td>48/54</td><td>36/54</td><td>20/54</td><td>13/54</td></tr>
+<tr><td>House-rule only</td><td>43/54</td><td>50/54</td><td>45/54</td><td>31/54</td></tr>
+<tr><td>Ultra-short + X→Y</td><td>53/54</td><td>38/54</td><td>28/54</td><td>21/54</td></tr>
+<tr><td>Ultra-short + house rule</td><td>52/54</td><td>52/54</td><td>47/54</td><td>43/54</td></tr>
+<tr><td>X→Y + house rule</td><td>52/54</td><td>53/54</td><td>45/54</td><td>42/54</td></tr>
+<tr><td><strong>All three cues</strong></td><td><strong>54/54</strong></td><td><strong>54/54</strong></td><td><strong>54/54</strong></td><td><strong>54/54</strong></td></tr>
+</tbody></table>
+<p>The pattern suggests complementarity rather than redundancy: the compressed expressions carry different parts of the recoverable structure, and their conjunction can make the invariant more determinate than any one layer alone.</p>
+<p class="small"><strong>Limit.</strong> These are internal semantic-robustness experiments. They do not establish that every human reader will classify every case identically, that every generated coordinate must occur in ordinary life, or that model recovery proves the ontology of the field.</p>
+
+<h2 id="semantic-field">The semantic-field exercise</h2>
+<p>A later generation exercise asked for ten different 3–5 word attractors for each of the 54 cells. The aim was not to improve or replace the canonical expressions, but to see whether distinct ordinary-language entrances could repeatedly occupy the same structural region.</p>
+<p>The exercise produced a clear compositional pattern:</p>
+<ul>
+<li>Transformation contributes the kind of sense being altered: difference, possibility, connection, repair, whole, settlement.</li>
+<li>Completion contributes the shape of enoughness: a point, a field, or release from an earlier governing condition.</li>
+<li>Persistence contributes what remains available: a standing result, a result held through relation, or a changed capacity for what follows.</li>
+</ul>
+<p>Some generated phrases were natural and vivid; others exposed the machinery too visibly or became linguistically strained. That boundary is useful. Formal composability does not by itself guarantee good ordinary language.</p>
+<div class="callout"><strong>Public presentation.</strong> The site therefore publishes a curated matrix of five attractors for each coordinate rather than the raw spreadsheet or all ten generated candidates. The matrix is meant to give a palpable feel for the semantic basin around each invariant while preserving the canonical expression as canonical.</div>
+<p><a href="semantic-fields.html">Open the 54 × 5 semantic field.</a></p>
+
+<h2 id="historical-material">Historical material</h2>
+<p>Earlier Sentence Engine work used a different framing: operator / orientation / closure and X→Y sentence-level completion. Some X→Y language has been useful as a recognition layer in the experiments, but historical numerical correspondence does not make the older definitions canonical for the present book.</p>
+
+<h2 id="editorial-status">Editorial status</h2>
+<p>The architecture is stable. The literary manuscript, coda structure, three axes, fifteen definitions, and 54 canonical ultra-short expressions are fixed for the present edition unless new evidence demonstrates a substantive problem.</p>
+<p>Current work is therefore limited to proofing, interaction checks, publication packaging, and clearly separated experiments.</p>
+
+<h2 id="mechanical-checks">Mechanical checks</h2>
+<p>A healthy build has 37 chapters, 37 “Three events” sections, 37 “Five questions” sections, 111 numbered coda event statements, 111 coordinate lines, and 54 canonical short expressions. Coordinate numbers must agree with their Transformation × Completion × Persistence positions, and manuscript short expressions must agree with the canonical ledger.</p>
+</article></main>
+<script>
+(function(){var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")}})();
+</script>
+</body></html>
