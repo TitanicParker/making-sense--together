@@ -42,8 +42,6 @@ She lifted the front slightly and tried again.
 
 The drawer slid all the way home.
 
-They looked at each other.
-
 "So it's dropping," Nora said.
 
 "Looks like it."
@@ -54,9 +52,7 @@ They took the drawer out. The left runner sat loose against the cabinet, and one
 
 Nora tightened it.
 
-They put the drawer back.
-
-She pushed.
+They put the drawer back. She pushed.
 
 It closed.
 
@@ -98,8 +94,6 @@ Nora leaned closer.
 
 He pressed it again.
 
-There it was.
-
 Tightening the screw had pulled the split together just enough to make the drawer behave. Once the weight of the cutlery returned, the wood opened again.
 
 "So tightening it did work," Ben said.
@@ -108,7 +102,7 @@ Tightening the screw had pulled the split together just enough to make the drawe
 
 "Still counts."
 
-The screw had mattered. It just had not mattered in the way they first thought.
+The screw had mattered, just not in the way they first thought.
 
 Nora fetched a small clamp and some wood glue.
 
@@ -126,9 +120,7 @@ For the rest of the evening, the knives lived beside the chopping board.
 
 The next morning Nora removed the clamp and put the drawer back. Instead of tipping the cutlery in, she loaded it gradually.
 
-Ben opened and closed the drawer with half the weight inside.
-
-Then with all of it.
+Ben opened and closed the drawer with half the weight inside, then with all of it.
 
 "Again," Nora said.
 
@@ -142,9 +134,9 @@ Nora opened it once, then closed it herself.
 
 "Now."
 
-Ben had first noticed the dropping edge. Nora had first tried lifting the drawer. He had doubted the glue. She had watched the split close under pressure. They had not needed to notice the same things at the same time.
+Ben had noticed the dropping edge. Nora had tried lifting the drawer. He had doubted the glue. She had watched the split close under pressure. They had not needed to notice the same things at the same time.
 
-"There" had worked because Ben could give Nora somewhere to look. "Again" worked because there was a movement worth repeating. "Now" worked because the drawer had survived a test they both understood without having to spell it out.
+"There" gave them somewhere to look. "Again" gave them a movement to repeat. "Now" came only after the drawer had survived the test.
 
 Months later, in a different flat, Nora pulled open a bedside drawer that sagged as it came toward her.
 
@@ -176,13 +168,27 @@ Her friend watched the edge.
 
 "Yes."
 
-"Good."
-
 "Does that mean the runner's split?"
 
 Nora looked underneath.
 
 "Maybe. Let's see."
+
+### Three events
+
+**1. Nora and Ben discover that the drawer drops on one side rather than being blocked by cutlery.**
+
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. They discover split wood in the runner after tightening the screw only fixes the drawer temporarily.**
+
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+**3. Months later, Nora tests another drawer by lifting it and directs her friend to observe what changes.**
+
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+All three events complete around a focal point, but the work done at that point changes: first a contrast becomes clear, then an earlier fault-account is corrected, and later a test opens a new way to proceed. The first two results persist through what they bear on; the third persists as something Nora can do.
 
 ## Enough
 
