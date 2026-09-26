@@ -4105,9 +4105,9 @@ All three occupy the same cell because each turns on a decisive distinction whos
 
 1. **What changed in each event?** What distinction matters in the promise, the exam phone, and the “KEEP CLOSED” door?
 
-2. **What makes each change enough?** In each case, what focal rule, promise or practical situation makes the distinction operative?
+2. **What makes each change enough?** In the promise, the exam and the door case, what exactly makes the distinction operative? Identify the feature before naming its topology.
 
-3. **What remains afterward?** Why does each result persist through its relation to an undertaking, rule or purpose rather than as a free-standing fact?
+3. **What remains afterward?** What is still available in each case, and what does that result depend on?
 
 4. **How do those answers produce the same coordinate three times?** Reconstruct **Differentiation × Focal × Bearing** in each event.
 
@@ -4510,9 +4510,9 @@ The same coordinate recurs as the musical relation deepens from cello, to clarin
 
 1. **What changed in each event?** What relation becomes audible between Mara's violin line and the cello, what further relation appears with the clarinet, and what becomes available to Tess through Mara's demonstration?
 
-2. **What makes each change enough?** In each case, what focal musical relation supplies the decisive point of understanding?
+2. **What makes each change enough?** In each musical event, what makes the new hearing sufficient? Point to what actually does the work before naming its topology.
 
-3. **What remains afterward?** Why does each result persist through the relation among musical parts rather than as an isolated fact?
+3. **What remains afterward?** What does Mara or Tess now have that was not available before, and what must that result continue to be heard through?
 
 4. **How do those answers produce the same coordinate three times?** Reconstruct **Relating × Focal × Bearing** in each event.
 
@@ -4753,9 +4753,9 @@ The chapter distinguishes explanation from uptake, then shows that a relation ca
 
 1. **What changed in each event?** What distinction becomes clear when explanation fails to produce laughter, what relation succeeds in the later situation, and what dependency is exposed when similar words fail elsewhere?
 
-2. **What makes each change enough?** What focal contrast or situational relation is decisive in each event?
+2. **What makes each change enough?** In each event, what turns the situation from merely described to sufficiently understood?
 
-3. **What remains afterward?** Why does the first result persist through a distinction, the second through an effect in Mateo's response, and the third through a dependence on context?
+3. **What remains afterward?** What survives the first failed explanation, the later laugh, and the final failed repetition? Describe the residue before naming its mode.
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Bearing**, **Relating × Focal × Efficacy**, and **Relating × Focal × Bearing**.
 
@@ -5040,9 +5040,9 @@ The chapter separates saying from doing, then shows a skill emerging through coo
 
 1. **What changed in each event?** What distinction becomes clear when verbal instruction fails, what becomes integrated when Sami learns to ride, and what previously unnoticed movement becomes explicit for Aisha?
 
-2. **What makes each change enough?** Why is the failed teaching attempt focal in the first event, why does learning require several coordinated attempts and cues, and why is teaching itself the focal occasion in the third?
+2. **What makes each change enough?** What makes the failure of verbal instruction sufficient in the first event, the riding sufficient in the second, and Aisha's noticing sufficient in the third?
 
-3. **What remains afterward?** Why do the first and third results stand as determinate recognitions, while the second persists as a bodily capacity?
+3. **What remains afterward?** What is available after each event: a determination, a capacity, a newly noticed movement, or something else?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Standing**, **Integration × Distributed × Efficacy**, and **Differentiation × Focal × Standing**.
 
@@ -5295,9 +5295,9 @@ The three events move from successful coordination, through an explicit repair, 
 
 1. **What changed in each event?** What becomes integrated in the successful stage-wall movement, what is repaired after the disruption, and what relation becomes intelligible during the brake failure?
 
-2. **What makes each change enough?** Why does the first depend on both performers together, why does the wrist tap become a focal repair point, and why is Eli's improvised movement the decisive cue in the third?
+2. **What makes each change enough?** What makes the wall movement work in the first event, the repaired cue sufficient in the second, and the improvised response sufficient in the third?
 
-3. **What remains afterward?** Why do all three results persist in what the pair can do together, even though they arise through different structures?
+3. **What remains afterward?** What can Eli and Sana now do in each case, and how differently is that capacity secured?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Integration × Distributed × Efficacy**, **Repair × Focal × Efficacy**, and **Relating × Focal × Efficacy**.
 
@@ -5566,9 +5566,9 @@ The chapter shows that opening and settlement can coexist at different scales. O
 
 1. **What changed in each event?** What interpretive possibilities open in the reading group, what fact becomes settled by the interview, and what new interpretation opens later?
 
-2. **What makes each change enough?** Why does the first opening depend on several interpretations, why is the interview focal in settling Daniel's status, and why is Celia's interpretation focal in the third?
+2. **What makes each change enough?** What is required before the first interpretive field is genuinely open, before Daniel's status is settled, and before Celia's later interpretation counts as a new possibility?
 
-3. **What remains afterward?** Why do the first and third results persist through their relation to the text, while Daniel's death stands as an established fact?
+3. **What remains afterward?** Which result remains as an established determination, and which remain only through continued relation to the story?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Distributed × Bearing**, **Settlement × Focal × Standing**, and **Opening × Focal × Bearing**.
 
@@ -5877,9 +5877,9 @@ The chapter separates representation from resemblance. A map can preserve one we
 
 1. **What changed in each event?** What relation becomes clear between the metro diagram and the network, what becomes integrated when the new line is added, and what boundary becomes operative in Tomas's later use?
 
-2. **What makes each change enough?** Why does the first depend on several preserved and distorted relations, why does the second require several features to be reorganized together, and why is the physical interchange the focal boundary in the third?
+2. **What makes each change enough?** What has to be taken together for the map's distortion to become intelligible, for the revision to work, and for Tomas to discover the map's limit?
 
-3. **What remains afterward?** Why do the first two results persist through relations, while the third persists as a practical limit on use?
+3. **What remains afterward?** What can still be relied on in each case, and what relation or practical boundary keeps that result in place?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Distributed × Bearing**, **Integration × Distributed × Bearing**, and **Differentiation × Focal × Efficacy**.
 
@@ -6268,9 +6268,9 @@ The ticket changes Ruth's understanding without licensing a total explanation, a
 
 1. **What changed in each event?** What new relation changes Ruth's understanding, what overreach is repaired by Tom's intervention, and what practical question becomes settled when Ruth keeps one thing and gives away another?
 
-2. **What makes each change enough?** Why is the ticket focal in the first event, why does the second complete by releasing a total explanation, and why does the third depend on several considerations across two objects?
+2. **What makes each change enough?** What makes the ticket matter in the first event, what has to stop governing in the second, and what considerations have to come together before Ruth can act in the third?
 
-3. **What remains afterward?** Why does the first result persist through a relation, the second as a better-bounded determination, and the third as changed continuation?
+3. **What remains afterward?** What is left by the new relation, by the checked overreach, and by Ruth's decision?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Release × Standing**, and **Settlement × Distributed × Efficacy**.
 
@@ -6569,9 +6569,9 @@ Translation opens several viable routes rather than one exact substitute. A live
 
 1. **What changed in each event?** What possibilities open when Elena and her father make different translations, what further possibility opens in the improvised wedding version, and what relation persists across Sofia's later wording?
 
-2. **What makes each change enough?** Why does the first depend on several renderings, why is the live utterance focal in the second, and why does the third depend on continuity across several versions?
+2. **What makes each change enough?** What has to happen before the first translations count as viable alternatives, before the improvised speech works, and before Sofia's later wording still counts as carrying something forward?
 
-3. **What remains afterward?** Why do the first and third persist through relations to the original and later versions, while the second persists in successful communicative action?
+3. **What remains afterward?** What survives in each case: a relation among versions, an accomplished communicative effect, or something else?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Distributed × Bearing**, **Opening × Focal × Efficacy**, and **Relating × Distributed × Bearing**.
 
@@ -6790,9 +6790,9 @@ The chapter makes adequacy range-sensitive. A model's success varies across case
 
 1. **What changed in each event?** What difference in the model's adequacy becomes clear, what attribution is repaired when the sensor is replaced, and what boundary becomes operative in the colleague's later use?
 
-2. **What makes each change enough?** Why does the first depend on a range of cases, why is replacing the sensor decisive in the second, and why is the out-of-range application focal in the third?
+2. **What makes each change enough?** What evidence is required before the model's range becomes clear, before the sensor is blamed rather than the model, and before the colleague's use is rejected?
 
-3. **What remains afterward?** Why does the first result persist through the relation between swing size and adequacy, the second as an established correction, and the third as a practical limit on use?
+3. **What remains afterward?** What does Mina now know or know how to do in each event, and how is that result constrained?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Repair × Focal × Standing**, and **Differentiation × Focal × Efficacy**.
 
@@ -7272,9 +7272,9 @@ The chapter separates disagreement between memories from disagreement about fact
 
 1. **What changed in each event?** What difference becomes explicit between Anna's and Beth's memories, what disputed facts become settled by the video, and what is repaired when later evidence alters both accounts?
 
-2. **What makes each change enough?** Why does the first require both memories together, why is the video a focal evidential source, and why is later evidence the decisive corrective intervention in the third?
+2. **What makes each change enough?** What has to be compared before the disagreement becomes determinate, what makes the video sufficient for some facts, and what makes the later evidence sufficient to alter both accounts?
 
-3. **What remains afterward?** Why does the first result persist through the relation between two memories, the second as settled facts, and the third through revised accounts that still remain distinct?
+3. **What remains afterward?** What survives as a relation between memories, what survives as established fact, and what survives in the revised accounts?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Settlement × Focal × Standing**, and **Repair × Focal × Bearing**.
 
@@ -7724,9 +7724,9 @@ Better understanding does not guarantee agreement. The chapter distinguishes fac
 
 1. **What changed in each event?** What distinction becomes explicit between factual agreement and practical disagreement, what failed strategy is repaired by being released, and what project vulnerability is repaired by Priya's intervention?
 
-2. **What makes each change enough?** Why does the first depend on both positions together, why does the second complete when the workaround loses its claim to solve the conflict, and why is Priya's intervention focal in the third?
+2. **What makes each change enough?** What must be held together before the disagreement is fully visible, what has to fail before the workaround is no longer allowed to govern, and what makes Priya's intervention sufficient?
 
-3. **What remains afterward?** Why does the first result persist through a shared situation, the second as an established limit of the strategy, and the third as a more resilient way for the project to continue?
+3. **What remains afterward?** What is still available after the disagreement is clarified, the workaround fails, and the project's dependence is reduced?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Repair × Release × Standing**, and **Repair × Focal × Efficacy**.
 
@@ -8172,9 +8172,9 @@ A single constraint can settle what cannot be done, while the solution belongs t
 
 1. **What changed in each event?** What becomes settled when the panel cannot reach the room, what becomes integrated when several specialists alter the exhibition, and what completed whole emerges even though no one knows every decision?
 
-2. **What makes each change enough?** Why is the blocked route focal in the first event, and why do the second and third require a distributed plurality of people, decisions and changes?
+2. **What makes each change enough?** What settles the impossibility of the original room, and what has to come together before the altered exhibition genuinely works?
 
-3. **What remains afterward?** Why does the first result stand as a constraint, while the second and third persist in the exhibition's functioning?
+3. **What remains afterward?** What is established by the failed route, and what remains available in the finished exhibition despite no one person containing the whole account?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Focal × Standing** and the repeated **Integration × Distributed × Efficacy** of the final two events.
 
@@ -8385,9 +8385,9 @@ The same departure first fails against what came before, then becomes intelligib
 
 1. **What changed in each event?** What relation makes Mara's departure fail, what is repaired when earlier material is restored, and what new interpretive possibility opens when a reader responds to the novel?
 
-2. **What makes each change enough?** Why is the departure focal in the first event, why is the restored material the decisive intervention in the second, and why is the reader's interpretation focal in the third?
+2. **What makes each change enough?** What is sufficient to make the departure fail at first, to make it work after revision, and to make the reader's interpretation genuinely available?
 
-3. **What remains afterward?** Why do all three results persist through their relation to the same fictional action rather than as isolated determinations?
+3. **What remains afterward?** What continues to hold across all three events, and through what does each result remain intelligible?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Focal × Bearing**, and **Opening × Focal × Bearing**.
 
@@ -8656,9 +8656,9 @@ The book closes by separating continuation from preservation of the original obj
 
 1. **What changed in each event?** What is settled when the old drawer is discarded, what is repaired when the old lifting test fails on the new drawer, and what distinction becomes clear about what has continued?
 
-2. **What makes each change enough?** Why does the first complete by releasing the old drawer's claim on what comes next, why is the spatula focal in the second, and why does the third require comparison across several differences between the old and new situations?
+2. **What makes each change enough?** What has to cease governing before the old drawer can be let go, what settles the new sticking drawer, and what has to be compared before Nora can say that something continued?
 
-3. **What remains afterward?** Why does the first result persist as changed continuation, the second as a corrected determination, and the third through its bearing across two episodes?
+3. **What remains afterward?** What is available after the old drawer is released, after the spatula is found, and after Nora distinguishes what continued from what did not?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Release × Efficacy**, **Repair × Focal × Standing**, and **Differentiation × Distributed × Bearing**.
 
