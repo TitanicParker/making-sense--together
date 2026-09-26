@@ -7380,15 +7380,7 @@ Mae laughed.
 
 "Now you can see something I don't."
 
-They invited two other students over.
-
-One preferred the first handle.
-
-"It feels generous."
-
-The other preferred the second.
-
-"The first looks stuck on."
+They invited two other students over. One preferred the first handle because it felt generous; another preferred the second because the first looked stuck on.
 
 Ravi looked at Mae.
 
@@ -7396,25 +7388,7 @@ Ravi looked at Mae.
 
 "No. It is excellent."
 
-"Three people, three answers."
-
-"Four."
-
-"You don't count."
-
-"I especially count."
-
-They started pointing.
-
-Not voting.
-
-The first handle made the body look narrower.
-
-The second made the jug look taller.
-
-The first looked stable from the side but crowded from above.
-
-The second looked elegant empty but felt less secure when full.
+They started pointing rather than voting: width, height, crowding, security when full.
 
 Ravi filled both with water.
 
@@ -7518,17 +7492,11 @@ Weeks later a visitor picked up Ravi's third jug from the shop shelf.
 
 "I love the handle."
 
-Ravi asked, "Why?"
-
-The visitor looked surprised.
+"Why?"
 
 "It feels like it belongs there."
 
 Ravi smiled.
-
-He knew at least four different ways that sentence could be challenged.
-
-He also knew exactly what she meant.
 
 ### Three events
 
@@ -7898,25 +7866,9 @@ The practice had moved around it.
 
 "What are we actually trying to know?" Maya asked.
 
-Nobody answered immediately.
+"Who's on the water, in what boat, and when they're due back."
 
-Eventually someone said:
-
-"Who's on the water."
-
-Another member added:
-
-"And what boat they're in."
-
-"And when they're due back."
-
-"And who to call if they don't return."
-
-The board had been one way of keeping that information available.
-
-The app was another.
-
-Neither was the point by itself.
+The board had been one way of keeping that information available. The app was another.
 
 But that did not mean the old wording had become meaningless.
 
@@ -8394,9 +8346,7 @@ The editor looked at the pages.
 
 That answer pleased Lia more than it should have.
 
-Mara had no life outside the book, but that did not make the ending free of everything Lia had already written.
-
-Lia could change the earlier chapters. She could change Mara. But each change altered what the final departure had to answer to.
+Mara had no life outside the book, but the ending still had to answer to what Lia had already written.
 
 Months later, at a reading, someone asked why Mara left without saying goodbye.
 
@@ -8603,11 +8553,7 @@ That could have been the whole thing.
 
 She stood there for a moment anyway.
 
-The old repair had entered the new problem.
-
-But not as an answer.
-
-It had offered a move.
+The old repair had entered the new problem, not as an answer but as a move:
 
 Lift the drawer.
 
@@ -8615,11 +8561,7 @@ Watch what changes.
 
 This time nothing changed.
 
-That failure was useful immediately.
-
-The new drawer was not the old drawer.
-
-The same gesture had become a test rather than a conclusion.
+That failure was useful immediately. The same gesture had become a test rather than a conclusion.
 
 Later Ben came over.
 
