@@ -254,6 +254,61 @@
       font-size: 1.25em;
     }
 
+    .technical-section {
+      margin: 2.4em -4px 0;
+      padding: 18px 18px 20px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: color-mix(in srgb, var(--paper-2) 72%, var(--accent-soft));
+    }
+
+    .technical-section + .technical-section {
+      margin-top: 14px;
+    }
+
+    .technical-section h3 {
+      margin: 0 0 .9em;
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: 1rem;
+      letter-spacing: .02em;
+    }
+
+    .technical-section p,
+    .technical-section ol {
+      font-size: .92em;
+    }
+
+    .technical-section ol {
+      padding-left: 1.35em;
+    }
+
+    .technical-section li {
+      margin: .8em 0;
+    }
+
+    .technical-label {
+      display: inline-block;
+      margin-left: 8px;
+      color: var(--muted);
+      font: 600 11px/1 ui-sans-serif, system-ui, sans-serif;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+    }
+
+    .form-link {
+      display: inline-block;
+      margin-left: 8px;
+      padding: 2px 7px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      color: var(--accent);
+      text-decoration: none;
+      font: 700 11px/1.4 ui-sans-serif, system-ui, sans-serif;
+      vertical-align: middle;
+    }
+
+    .form-link:hover { border-color: var(--accent); }
+
     p { margin: 1.05em 0; }
 
     blockquote {
@@ -438,6 +493,42 @@
         });
       }
 
+      function wrapTechnicalSections() {
+        book.querySelectorAll(".chapter").forEach(function (chapter) {
+          Array.from(chapter.querySelectorAll("h3")).forEach(function (heading) {
+            var title = heading.textContent.trim();
+            if (title !== "Three events" && title !== "Five questions") return;
+
+            var box = document.createElement("section");
+            box.className = "technical-section " + (title === "Three events" ? "coda-section" : "questions-section");
+            heading.parentNode.insertBefore(box, heading);
+
+            var node = heading;
+            while (node && (node === heading || node.tagName !== "H3")) {
+              var next = node.nextSibling;
+              box.appendChild(node);
+              node = next;
+            }
+
+            var label = document.createElement("span");
+            label.className = "technical-label";
+            label.textContent = title === "Three events" ? "coordinates" : "discernment";
+            heading.appendChild(label);
+          });
+
+          chapter.querySelectorAll(".coda-section strong").forEach(function (strong) {
+            var match = strong.textContent.match(/→ #(\d+)\s/);
+            if (!match) return;
+            var a = document.createElement("a");
+            a.className = "form-link";
+            a.href = "forms.html?form=" + match[1];
+            a.textContent = "Form #" + match[1];
+            a.setAttribute("aria-label", "Open canonical form " + match[1]);
+            strong.insertAdjacentElement("afterend", a);
+          });
+        });
+      }
+
       function buildChapterTabs() {
         chapterTabs.innerHTML = "";
         sections = Array.from(book.querySelectorAll(".chapter"));
@@ -511,6 +602,7 @@
           book.innerHTML = DOMPurify.sanitize(rawHtml);
           makeUniqueIds();
           wrapChapters();
+          wrapTechnicalSections();
           buildChapterTabs();
 
           var title = book.querySelector("h1");
