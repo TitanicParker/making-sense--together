@@ -4,12 +4,16 @@ This file records the current canonical structure of the project so that future 
 
 ## Canonical reading system
 
-The current project is a four-part reading environment:
+The current project is a public reading environment with six principal surfaces:
 
-- `manuscript.md` — the 37-chapter book, including 111 coda events and five-question discernment sections.
+- `manuscript.md` — the 37-chapter book source, including 111 coda events and five-question discernment sections.
 - `index.html` — the primary reader, including chapter navigation, technical-layer styling, direct form links, the live three-question guide, and optional Practice mode.
 - `definitions.html` — the canonical definition and discernment guide.
 - `forms.html` — the 54-form reference, including filtering, manuscript usage, exact form links, and revision conditions for the generated field.
+- `semantic-fields.html` — a readable 54 × 5 matrix of curated ordinary-language attractors around the canonical forms.
+- `method.html` — the public method, scope, experiment record, limitations, and editorial status.
+
+The public HTML pages cross-link these surfaces so the technical structure is inspectable without opening repository Markdown files.
 
 The two older lookup pages are redirects only:
 
@@ -134,9 +138,15 @@ The 54 ultra-short expressions are canonical for the present manuscript and ledg
 
 They are **not miniature definitions** and should not be revised merely because they do not literally encode all three axes. Their role is as compressed human recognition cues or attractors toward the invariant structure.
 
-Internal blind-recovery and cue-ablation experiments support treating the three linguistic layers as complementary rather than redundant: the ultra-short expression, X→Y sentence, and ordinary house-rule sentence each carry partial structure, while the full triplet recovered all 54 canonical coordinates in the blind test. See `SHORT_FORM_EXPERIMENT.md`.
+Internal blind-recovery and cue-ablation experiments support treating the three linguistic layers as complementary rather than redundant: the ultra-short expression, X→Y sentence, and ordinary house-rule sentence each carry partial structure, while the full triplet recovered all 54 canonical coordinates in the blind test. The public account is in `method.html`; the repository record remains in `SHORT_FORM_EXPERIMENT.md`.
 
 Do not modify the canonical short-expression layer on stylistic grounds. Any future change should require new evidence that a form persistently fails to support recognition of its canonical coordinate.
+
+## Semantic field
+
+A separate generation exercise produced ten 3–5 word candidate attractors for every coordinate. The raw spreadsheet and full candidate set are not part of the published site. Instead, `semantic-fields.html` presents five curated examples per cell, selected for readability, structural clarity, and variation.
+
+These examples are exploratory. They do not replace the canonical ultra-short expressions. Their role is to make the overlap between formal structure and ordinary meaning palpable.
 
 ## Experimental / historical material
 
@@ -178,4 +188,4 @@ A healthy current build should have:
 
 ## Current editorial state
 
-The architecture is considered stable. Current work should be limited to local editorial, pedagogical, interaction, consistency, or experimental-language refinement unless new evidence demonstrates a structural problem.
+The architecture is considered stable. The repository is in finalization. Current work should be limited to proofing, interaction and accessibility checks, publication packaging, consistency verification, and clearly separated experiments unless new evidence demonstrates a structural problem.
