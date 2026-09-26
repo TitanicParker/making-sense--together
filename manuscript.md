@@ -1,5 +1,111 @@
 # Making Sense Together
 
+## Chapter Zero — Before Language
+
+Before there was a word for an edge, a body could meet one.
+
+Before anyone could explain a route, something could be blocked and then become passable. Before a rule could be stated, an action could fail and another action could work. Before a child could say *I know*, the child could hesitate at a slope, test it, decide whether to descend, and carry something from that encounter into the next one.
+
+This book is about that kind of change.
+
+Not knowledge in the usual sense. Not reasoning as a sequence of propositions. Not truth, interpretation, communication, problem-solving, learning or consciousness taken separately.
+
+It is about the event in which a situation becomes intelligible enough for something to follow.
+
+That event is so ordinary that it usually disappears inside what comes after it. A drawer closes. A promise is understood. A route becomes usable. A mistake is corrected. A joke lands. A disagreement becomes exact enough to remain a disagreement. A person learns how to balance. A question stops demanding an answer. We remember the result, if we remember anything. The transition itself is rarely treated as an object.
+
+Yet there is a difference between having no way through and having one.
+
+There is a difference between a situation in which the important contrast is unavailable and one in which it can be seen. Between a relation that is merely present and one that has become consequential. Between a failed arrangement and one that has been put right. Between several parts and a working whole. Between a live demand and a matter that has, for now and at this scale, become settled.
+
+And there is another difference which is easier to miss: the difference between what changed, what made that change enough, and what remained afterward.
+
+Those three questions are the formal wager of this book.
+
+**What changed?**
+
+**What made the change sufficient?**
+
+**What remained?**
+
+They sound almost embarrassingly simple. The claim is that they do not ask the same question three times.
+
+A difference can become clear because one decisive thing settles it, because several things together make it enough, or because something that had governed the situation loses its authority. And what has been achieved may remain simply as a determination, may remain only through a relation on which it continues to depend, or may remain as a changed capacity in what can happen next.
+
+Cross those distinctions and a field appears.
+
+The book eventually gives that field fifty-four coordinates. Those coordinates are not meant as fifty-four kinds of story, fifty-four kinds of person, or fifty-four kinds of thought. They are proposed forms of **completed local intelligibility**: ways in which something can become enough at a particular scale for a particular live matter.
+
+The scale matters.
+
+A fact can be settled while an interpretation remains open. A repair can be enough for the job at hand and later fail under a demand nobody had yet made. Two people can understand enough to disagree without sharing the same account. A test can fail and still leave behind a better way of looking. Completion here does not mean perfection, certainty or finality. It means that one demand has changed enough for the situation to become differently available.
+
+This is why the book begins with a drawer.
+
+Nothing about a sticking drawer requires philosophy. Nora does not need a theory of intelligibility. Ben does not need the word *bearing*. The wood does not need to cooperate with their first explanation.
+
+They push. They look. They try. Something that seemed like a blockage becomes a drop. A screw matters and then does not matter in the way they thought. A split appears. A repair holds. Months later, part of what was learned survives without the original words, the original object or even an exact memory of the event.
+
+The point is not that every ordinary repair secretly contains a philosophical system.
+
+The point is that philosophy arrives late.
+
+The world has already been making demands. Bodies have already been finding limits. Actions have already been succeeding and failing. Relations have already been discovered through what they permit and prevent. Something has already been carried from one encounter into another before anyone gives that persistence a name.
+
+There is good reason to think that this is not merely a feature of adult human language.
+
+Preverbal infants learn action possibilities by exploring the relation between their bodies and the world. A slope that is descendable while crawling may have to be learned again when walking begins. The achievement is not simply a sentence stored in the head. It belongs to a relation among body, posture, surface and terrain, and it changes what the infant will attempt next.
+
+Nonhuman animals provide more distant but still instructive cases. New Caledonian crows have spontaneously combined inadequate tool parts into longer tools when the task required it, then reused and extended the construction. Great apes can abandon a previously successful strategy when the physical situation changes and search for another. Elephants can withhold action until a partner is in the right relation to a cooperative task.
+
+None of this licenses the claim that an infant, crow, ape or elephant is silently running the fifty-four forms.
+
+It licenses a more basic claim.
+
+A creature can encounter insufficiency, reorganize its relation to a situation, reach a locally adequate basis for proceeding or withholding action, and retain something that changes later engagement without first putting the achievement into words.
+
+Language does something extraordinary to this older capacity.
+
+It lets a distinction be named. It lets an absent situation be brought back. It lets one person's achievement become another person's starting point. It lets a limit be stated, a reason challenged, a result written down, a procedure taught, a disagreement preserved, an institution maintained after its founders die. Culture does not merely decorate making sense. It changes its reach, fidelity, duration and combinability.
+
+But amplification is not the same as origin.
+
+The possibility explored here is that language and culture are downstream from a more earthly fact: situated beings must find ways for a world to become sufficiently available to them that something can happen next.
+
+There are important intellectual predecessors to this thought.
+
+John Dewey made the transformation of an indeterminate situation central to his theory of inquiry. Ludwig Wittgenstein challenged the idea that understanding was a private mental occurrence and repeatedly asked what it is to be able to “go on.” Karl Weick made practical sufficiency central to organizational sensemaking. Brenda Dervin decomposed situated sense-making episodes into recurrent structural parts. Pragmatism, phenomenology, ecological psychology, enactivism, ethnomethodology, distributed cognition and studies of situated action have all loosened the old picture in which understanding sits neatly inside an individual mind.
+
+This book does not need those traditions not to exist.
+
+Its stronger claim begins where they leave an opening.
+
+What happens if the common unit is neither inquiry, communication, belief, representation, information behaviour, rule-following nor problem-solving, but the **locally completed transition into intelligibility itself**?
+
+What if practical, social, mathematical, interpretive, bodily and material cases can be compared directly at that level?
+
+And what if the transition has an internal morphology that becomes visible only when three questions are kept apart:
+
+what changed,
+
+what made it enough,
+
+and how the achieved result remains available?
+
+The fifty-four forms are one answer to that question.
+
+They may prove incomplete. One of the present distinctions may need to divide. Two may prove to be one. Another dimension may be required. If so, the field should change.
+
+That is not a weakness of the proposal. It is what makes the proposal testable.
+
+The stronger the claim becomes, the more precisely it must be allowed to fail.
+
+So begin with the drawer.
+
+Do not look for the theory yet.
+
+Watch what happens when the first explanation stops being enough.
+
 ## The Drawer That Wouldn't Close
 
 Nora was trying to put the knives away when the kitchen drawer stopped halfway in.
@@ -8663,4 +8769,151 @@ The old drawer is released, the inherited test fails productively, and what cont
 4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Release × Efficacy**, **Repair × Focal × Standing**, and **Differentiation × Distributed × Bearing**.
 
 5. **How do the short expressions compress those forms?** What do **“nothing further is owed,” “set right,”** and **“this, here”** reveal about letting an old answer end while something from the earlier understanding still continues?
+
+## Afterword — What Was There Before the Words
+
+At the end of the book the old drawer is gone.
+
+The repair is gone with it.
+
+Nora's memory of the repair is incomplete. The first answer does not survive. Even the old test fails when she tries it on the new drawer.
+
+And still something continues.
+
+That was the problem the book had been circling from the beginning.
+
+If understanding were the possession of a correct representation, we would expect its identity to lie in preserving the answer. If it were simply memory, we would expect it to fail when the details disappear. If it were merely a sentence, it would survive only insofar as the sentence survived.
+
+But Nora has something else.
+
+She has a situation that can now push back against her differently.
+
+The old lifting move does not solve the new problem. Its failure matters. It helps make another kind of problem available. The residue of the earlier achievement is not obedience to an old answer but a changed relation to what counts as evidence.
+
+That small fact opens onto the larger claim.
+
+The phenomenon studied here does not appear to begin with language.
+
+Developmental research gives unusually clear examples in infants who cannot yet tell us what they know. They explore uncertain slopes and surfaces, gradually calibrating what their current bodies can do. What becomes available is relational: this body, in this posture, on this surface, at this angle. Change the posture from crawling to walking and much of the calibration must be achieved again.
+
+Comparative research pushes the same architecture outside our species. A crow meets tool parts that are individually insufficient and constructs a relation among them that makes the food reachable. An ape's repeatedly successful method is physically disabled; the old solution loses control and another is found. An elephant waits because the action works only when another animal and another rope are in the required relation.
+
+These cases do not prove that animals possess our concepts of difference, release, bearing or settlement.
+
+They establish something more modest and, for this book, more important.
+
+The basic sequence does not require a sentence.
+
+There can be a live insufficiency.
+
+There can be a reorganization of engagement.
+
+There can be a local criterion after which exploration changes and action can proceed, stop or be withheld.
+
+And there can be a residue: a discrimination, a relation-specific calibration, a changed expectation, a reusable capacity.
+
+That architecture is older than explanation.
+
+It is also older than the book's taxonomy.
+
+Nothing in the present evidence establishes that the six Transformation Patterns, three Completion Topologies and three Persistence Modes are biological universals. Nothing establishes that all fifty-four crossings occur in preverbal infants or other species. Nothing establishes that the same mechanism produces a crow's tool construction, a child's slope calibration, a mathematical proof and Nora's drawer repair.
+
+Those would be different claims.
+
+The present claim is structural.
+
+Several very different mechanisms may instantiate the same form of achievement.
+
+That possibility is common elsewhere. Walking, swimming and flying are not one mechanism merely because all are movement. A classification can identify a form without pretending that every instance has the same machinery underneath it.
+
+But a structural classification earns its keep only if its distinctions matter.
+
+That is where the fifty-four forms cease to be a decorative grid and become a research proposal.
+
+If Standing, Bearing and Efficacy are genuinely different modes of persistence, then achievements classified differently should sometimes behave differently when context changes. A result that simply stands should not have the same vulnerabilities as one whose identity depends on a continuing relation. A capacity should have a different profile of transfer and loss from a determination.
+
+If Focal, Distributed and Release are genuinely different shapes of completion, they should produce different patterns when one component is removed, a decisive locus changes, or a formerly governing constraint disappears.
+
+If the six Transformation Patterns are real distinctions rather than six descriptions laid over the same change, then cases sharing an endpoint should still differ systematically according to what kind of unresolvedness was altered.
+
+Those are empirical questions.
+
+The book does not answer them.
+
+It makes them askable.
+
+That may be the most consequential change in the claim.
+
+The intellectual traditions nearest this project already contain much of its surrounding territory. Dewey made situations, not merely private representations, objects of transformation. Weick showed how practical sense can be sufficient without being perfect. Wittgenstein made “going on” central to understanding. Dervin gave situated sense-making an episodic structure. Ecological and enactive work showed how meaningful organization can belong to organism–environment relations. Distributed cognition showed how cognitive work can exceed one head.
+
+The contribution proposed here is therefore not that humanity somehow failed to notice understanding until now.
+
+It is that a broader class of events can be isolated from those neighbouring traditions and compared directly.
+
+A drawer repair.
+
+A promise.
+
+A mathematical relation.
+
+A disagreement.
+
+A translation.
+
+A route.
+
+A remembered event.
+
+A bodily skill.
+
+A rule.
+
+A story.
+
+A collective achievement nobody individually contains.
+
+Treat them not first as examples of different disciplines, but as possible instances of the same more primitive question:
+
+**How did this become intelligible enough for what followed?**
+
+Then keep asking.
+
+**What changed?**
+
+**What made that change enough?**
+
+**What remained?**
+
+The answers proposed in this book generate fifty-four forms.
+
+Whether nature, development, culture and experiment continue to respect those distinctions is now an open question rather than an assumption.
+
+That is where the project should end.
+
+Not with the claim that the fifty-four have been proved universal.
+
+With something both smaller and larger.
+
+Smaller, because the field remains corrigible.
+
+Larger, because the phenomenon it is trying to articulate appears not to be confined to philosophy, or language, or culture, or even to our species.
+
+Language lets us say what happened.
+
+Culture lets us keep it.
+
+Inquiry lets us test it.
+
+A book lets us place several such achievements beside one another and ask whether their forms recur.
+
+But before all of those, there is a creature in a situation for which something is not yet enough.
+
+Something changes.
+
+At some point it becomes enough.
+
+Something remains.
+
+Then the world is available differently.
+
 
