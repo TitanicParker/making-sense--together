@@ -19,6 +19,12 @@
     .orientation{margin:14px 0 0;padding:13px 15px;border-left:3px solid var(--accent);background:var(--accent-soft);font:13px/1.55 ui-sans-serif,system-ui,sans-serif}
     .orientation strong{font-weight:800}
     .orientation .triad{display:block;margin-top:6px;font-weight:700}
+    .explore{display:inline-block;margin-top:6px;padding:2px 7px;border:1px solid var(--line);border-radius:999px;color:var(--accent);text-decoration:none;font:700 11px/1.4 ui-sans-serif,system-ui,sans-serif}
+    tr:target td{background:var(--accent-soft)}
+    .axis-map{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:12px}
+    .axis-card{display:block;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--paper-2);text-decoration:none;color:var(--ink);font:12px/1.4 ui-sans-serif,system-ui,sans-serif}
+    .axis-card strong{display:block;margin-bottom:3px}
+    @media(max-width:720px){.axis-map{grid-template-columns:1fr}}
     .tools{display:flex;flex-wrap:wrap;gap:8px;padding:14px 18px;border-bottom:1px solid var(--line);background:var(--paper)}
     .tools input,.tools select{height:36px;border:1px solid var(--line);border-radius:7px;background:var(--paper-2);padding:0 10px;font:13px ui-sans-serif,system-ui,sans-serif}
     .tools input{min-width:220px;flex:1}
@@ -39,7 +45,7 @@
 <a class="control" href="index.html">Reader</a><a class="control" href="forms.html">54 Forms</a><button class="control" id="theme" aria-label="Toggle theme">◐</button>
 </div></header>
 <main><section class="panel">
-<div class="intro"><h1>The 15 definitions</h1><p class="lede">A lookup table for the three questions, the three dimensions, and the twelve definitions that answer them. Start with the event; use the table to decide what to notice.</p><div class="orientation"><strong>Discern the three answers independently.</strong> Knowing what changed does not tell you what made that change sufficient; neither answer tells you how the achieved result remains available. <span class="triad">What changed? → Transformation · What made it sufficient? → Completion · What remained? → Persistence</span></div></div>
+<div class="intro"><h1>The 15 definitions</h1><p class="lede">A lookup table for the three questions, the three dimensions, and the twelve definitions that answer them. Start with the event; use the table to decide what to notice.</p><div class="orientation"><strong>Discern the three answers independently.</strong> Knowing what changed does not tell you what made that change sufficient; neither answer tells you how the achieved result remains available. <span class="triad">What changed? → Transformation · What made it sufficient? → Completion · What remained? → Persistence</span><div class="axis-map"><a class="axis-card" href="#definition-transformation-pattern"><strong>What changed?</strong>Transformation Pattern</a><a class="axis-card" href="#definition-completion-topology"><strong>What made it sufficient?</strong>Completion Topology</a><a class="axis-card" href="#definition-persistence-mode"><strong>What remained?</strong>Persistence Mode</a></div></div></div>
 <div class="table-wrap"><table><thead><tr><th>#</th><th>Question</th><th>Axis / definition</th><th>Canonical definition</th><th>Look for</th><th>Plain check</th></tr></thead><tbody id="rows"></tbody></table></div>
 <div class="status" id="status">Loading the canonical ledger…</div>
 </section></main>
@@ -63,6 +69,13 @@ var cues={
 "Efficacy":["The result remains as capacity, rule, effect or changed continuation.","What can now happen because of this?"]
 };
 var q=function(n){if(n<=9)return "What changed?";if(n<=12)return "What made it sufficient?";return "What remained?";}
+function slugify(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")}
+function exploreHref(x){
+  if(x.n>=4&&x.n<=9)return "forms.html?t="+encodeURIComponent(x.name);
+  if(x.n>=10&&x.n<=12)return "forms.html?c="+encodeURIComponent(x.name);
+  if(x.n>=13&&x.n<=15)return "forms.html?p="+encodeURIComponent(x.name);
+  return "forms.html";
+}
 fetch("working_54_canonical_forms_with_chapter_placeholders.md",{cache:"no-store"}).then(function(r){if(!r.ok)throw Error("Could not load ledger");return r.text()}).then(function(md){
 var re=/\*\*(\d+)\. ([^*]+)\*\*\s*\n\s*([^\n]+(?:\n(?!\s*\*\*\d+\.)[^\n]+)*)/g,m,items=[];
 while((m=re.exec(md))&&items.length<15){items.push({n:+m[1],name:m[2].trim(),def:m[3].trim().replace(/\n+/g," ")})}
@@ -71,7 +84,10 @@ items.forEach(function(x){
 var family=x.n<=9?"Transformation":x.n<=12?"Completion":"Persistence";
 if(family!==last){var gr=document.createElement("tr");gr.className="group";gr.innerHTML="<td colspan='6'>"+family+"</td>";tbody.appendChild(gr);last=family}
 var c=cues[x.name]||["",""];
-var tr=document.createElement("tr");tr.innerHTML="<td>"+x.n+"</td><td>"+q(x.n)+"</td><td><strong>"+x.name+"</strong></td><td>"+x.def+"</td><td>"+c[0]+"</td><td><em>"+c[1]+"</em></td>";tbody.appendChild(tr)
+var tr=document.createElement("tr");
+tr.id="definition-"+slugify(x.name);
+tr.innerHTML="<td>"+x.n+"</td><td>"+q(x.n)+"</td><td><strong>"+x.name+"</strong><br><a class='explore' href='"+exploreHref(x)+"'>Explore forms</a></td><td>"+x.def+"</td><td>"+c[0]+"</td><td><em>"+c[1]+"</em></td>";
+tbody.appendChild(tr)
 });
 document.getElementById("status").hidden=true;
 }).catch(function(e){document.getElementById("status").textContent=e.message});
