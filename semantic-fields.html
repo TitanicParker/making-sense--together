@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="A readable semantic field for the 54 canonical forms in Making Sense Together.">
+<title>Semantic Field — Making Sense Together</title>
+<style>
+:root{color-scheme:light;--paper:#f6f0e5;--paper-2:#fffdf8;--ink:#27241f;--muted:#716b61;--line:#d9d0c2;--accent:#70543c;--accent-soft:#eadfce;--shadow:0 18px 55px rgba(50,40,28,.11)}
+html[data-theme="dark"]{color-scheme:dark;--paper:#171614;--paper-2:#201e1b;--ink:#eee9df;--muted:#aaa297;--line:#3b3732;--accent:#d5b28d;--accent-soft:#342b23;--shadow:0 18px 55px rgba(0,0,0,.28)}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,"Times New Roman",serif;line-height:1.55}
+button,input,select{font:inherit;color:inherit}
+.topbar{position:sticky;top:0;z-index:20;min-height:56px;display:flex;align-items:center;gap:12px;padding:8px 16px;border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(12px)}
+.brand{min-width:0;flex:1;font:700 14px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.toolbar{display:flex;align-items:center;gap:6px;overflow-x:auto;scrollbar-width:none}.toolbar::-webkit-scrollbar{display:none}
+.control{flex:0 0 auto;border:1px solid var(--line);background:var(--paper-2);border-radius:999px;min-width:36px;height:36px;padding:0 11px;cursor:pointer;font:13px ui-sans-serif,system-ui,sans-serif;text-decoration:none;display:inline-flex;align-items:center;justify-content:center;color:var(--ink)}
+.control:hover{border-color:var(--accent)}
+main{max-width:1320px;margin:0 auto;padding:34px 18px 72px}.panel{background:var(--paper-2);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:10px;overflow:hidden}
+.intro{padding:24px 26px 18px;border-bottom:1px solid var(--line)}h1{font-size:clamp(1.7rem,4vw,2.7rem);line-height:1.05;margin:0 0 10px;letter-spacing:-.03em}
+.lede{margin:0;color:var(--muted);font:14px/1.55 ui-sans-serif,system-ui,sans-serif;max-width:900px}
+.note{margin:14px 0 0;padding:13px 15px;border-left:3px solid var(--accent);background:var(--accent-soft);font:13px/1.55 ui-sans-serif,system-ui,sans-serif}
+.note strong{font-weight:800}.note a{color:var(--accent);font-weight:700}
+.tools{display:flex;flex-wrap:wrap;gap:8px;padding:14px 18px;border-bottom:1px solid var(--line);background:var(--paper)}
+.tools input,.tools select{height:36px;border:1px solid var(--line);border-radius:7px;background:var(--paper-2);padding:0 10px;font:13px ui-sans-serif,system-ui,sans-serif}.tools input{min-width:240px;flex:1}
+.table-wrap{overflow:auto;max-height:74vh}table{width:100%;border-collapse:separate;border-spacing:0;min-width:1180px;font-size:14px}
+th,td{padding:12px;text-align:left;vertical-align:top;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+th{position:sticky;top:0;z-index:5;background:var(--paper);font:700 11px/1.3 ui-sans-serif,system-ui,sans-serif;color:var(--muted);text-transform:uppercase;letter-spacing:.035em}
+td:first-child,th:first-child{position:sticky;left:0;z-index:4;background:var(--paper-2)}th:first-child{z-index:6;background:var(--paper)}
+td:last-child,th:last-child{border-right:0}.group td{background:var(--accent-soft)!important;font:800 12px/1.2 ui-sans-serif,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em}
+.short{font-weight:800;font-size:15px}.coordinate{font:12px/1.45 ui-sans-serif,system-ui,sans-serif}.coordinate a{color:var(--accent);text-decoration:none;font-weight:700}.coordinate a:hover{text-decoration:underline}
+.core{min-width:260px}.examples{min-width:310px}.example{display:inline-block;margin:0 5px 6px 0;padding:4px 8px;border:1px solid var(--line);border-radius:999px;background:var(--paper);font:12px/1.35 ui-sans-serif,system-ui,sans-serif}
+.form-link{display:inline-block;margin-top:6px;color:var(--accent);font:700 11px/1.4 ui-sans-serif,system-ui,sans-serif;text-decoration:none}.form-link:hover{text-decoration:underline}
+.status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
+tr.highlight td{background:var(--accent-soft)}
+@media(max-width:760px){.brand{display:none}.topbar{padding:8px}.toolbar{width:100%}main{padding:18px 8px 48px}.intro{padding:20px 16px}.control{font-size:12px;padding:0 9px}.table-wrap{max-height:none}}
+</style>
+</head>
+<body>
+<header class="topbar"><div class="brand">Making Sense Together · Semantic Field</div><div class="toolbar">
+<a class="control" href="index.html">Reader</a>
+<a class="control" href="definitions.html">Definitions</a>
+<a class="control" href="forms.html">54 Forms</a>
+<a class="control" href="method.html">Method</a>
+<button class="control" id="theme" aria-label="Toggle theme">◐</button>
+</div></header>
+<main><section class="panel">
+<div class="intro">
+<h1>The semantic field</h1>
+<p class="lede">Five ordinary-language attractors for each of the 54 canonical coordinates. These phrases are exploratory: they are ways of approaching the invariant from different directions, not replacements for the canonical short forms and not definitions.</p>
+<div class="note"><strong>How this page was made.</strong> Ten 3–5 word candidates were generated for every invariant after blind-recovery, cue-ablation, and repeated reconstruction work. Five were curated here for ordinary readability, structural clarity, and variation. The underlying spreadsheet is intentionally not published. <a href="method.html#semantic-field">Read the method.</a></div>
+</div>
+<div class="tools">
+<select id="t"><option value="">All transformations</option><option>Differentiation</option><option>Opening</option><option>Relating</option><option>Repair</option><option>Integration</option><option>Settlement</option></select>
+<select id="c"><option value="">All completion topologies</option><option>Focal</option><option>Distributed</option><option>Release</option></select>
+<select id="p"><option value="">All persistence modes</option><option>Standing</option><option>Bearing</option><option>Efficacy</option></select>
+<input id="s" type="search" placeholder="Search a form, coordinate, core, or example…">
+</div>
+<div class="table-wrap"><table>
+<thead><tr><th>#</th><th>Canonical short form</th><th>Coordinate</th><th>Recurring semantic core</th><th>Five attractors</th></tr></thead>
+<tbody id="rows"></tbody>
+</table></div>
+<div class="status" id="status">Loading the canonical forms…</div>
+</section></main>
+<script>
+(function(){
+var orderT=["Differentiation","Opening","Relating","Repair","Integration","Settlement"];
+var orderC=["Focal","Distributed","Release"];
+var orderP=["Standing","Bearing","Efficacy"];
+var tCore={
+"Differentiation":"A difference becomes definite",
+"Opening":"A possibility becomes available",
+"Relating":"A connection becomes determinate",
+"Repair":"A failure is brought back into workable fit",
+"Integration":"Separate parts become one organized whole",
+"Settlement":"A live matter comes sufficiently to rest"
+};
+var cCore={"Focal":"at a particular point","Distributed":"across the relevant field","Release":"because an earlier constraint loses control"};
+var pCore={"Standing":"and the achieved result simply remains.","Bearing":"and it continues through the relation or condition that supports it.","Efficacy":"and it remains as a changed capacity for what can happen next."};
+var examples=[null,["difference becomes clear here","this contrast now remains","one boundary holds its place","distinction settles at this point","here the edge stays"],["difference here holds by contrast","this contrast depends on comparison","boundary holds through placement here","this split rides on context","this mark turns on fit"],["difference here changes what follows","this contrast redirects action","one boundary now guides action","this split enables action","this separation steers what follows"],["difference spreads across the whole","contrast stays across the field","distinction remains throughout the set","sorting holds across all parts","mark maps across the system"],["difference holds across connected parts","boundary depends on the network","edge persists through mutual fit","line lives across the links","separation holds through the web"],["difference across the field works","boundary guides action throughout","split enables coordinated action","sorting steers the whole system","mark changes action throughout"],["difference remains after old grip","old rule gone distinction stays","edge remains beyond old terms","line survives the old frame","separation stays beyond prior rules"],["difference holds on new terms","boundary rests on new fit","new fit carries distinction","line stays through new fit","separation holds after rules loosen"],["old block gone difference works","freed boundary changes what follows","edge works once limits loosen","line enables action beyond blocks","separation changes life beyond limits"],["way becomes clear here","this path now remains","one route holds its place","room settles at this point","here the possibility stays"],["way here holds by destination","route holds through connections here","here possibility stays through network","space stays because link holds","this way-through turns on direction"],["way here changes what follows","this path redirects action","one route now guides action","this access enables action","this space steers what follows"],["way spreads across the whole","path stays across the field","room remains throughout the set","option holds across all parts","way-through maps across the system"],["way holds across connected parts","route depends on the network","possibility persists through mutual fit","passage lives across the links","space holds through the web"],["way across the field works","route guides action throughout","access enables coordinated action","option steers the whole system","way-through changes action throughout"],["way remains after old grip","old rule gone room stays","possibility remains beyond old terms","passage survives the old frame","space stays beyond prior rules"],["way holds on new terms","route rests on new fit","new fit carries room","passage stays through new fit","space holds after rules loosen"],["old block gone way works","freed route changes what follows","possibility works once limits loosen","passage enables action beyond blocks","space changes life beyond limits"],["link becomes clear here","this connection now remains","one correspondence holds its place","pairing settles at this point","here the tie stays"],["link here holds by counterpart","correspondence holds through response here","one pairing rests on pattern","here tie stays through pivot","pattern stays because answer holds"],["link here changes what follows","this connection redirects action","one correspondence now guides action","this response enables action","this pattern steers what follows"],["link spreads across the whole","connection stays across the field","pairing remains throughout the set","exchange holds across all parts","interplay maps across the system"],["link holds across connected parts","correspondence depends on the network","tie persists through mutual fit","alignment lives across the links","pattern holds through the web"],["link across the field works","correspondence guides action throughout","response enables coordinated action","exchange steers the whole system","interplay changes action throughout"],["link remains after old grip","old rule gone pairing stays","tie remains beyond old terms","alignment survives the old frame","pattern stays beyond prior rules"],["link holds on new terms","correspondence rests on new fit","new fit carries pairing","alignment stays through new fit","pattern holds after rules loosen"],["old block gone link works","freed correspondence changes what follows","tie works once limits loosen","alignment enables action beyond blocks","pattern changes life beyond limits"],["fix becomes clear here","this correction now remains","one adjustment holds its place","rebalance settles at this point","here the redirection stays"],["fix here holds by fit","this correction depends on standard","one rebalance rests on counterweight","one realignment holds with balance","remedy stays because criterion holds"],["fix here changes what follows","this correction redirects action","one adjustment now guides action","this mending enables action","this remedy steers what follows"],["fix spreads across the whole","correction stays across the field","rebalance remains throughout the set","realignment holds across all parts","recovery maps across the system"],["fix holds across connected parts","adjustment depends on the network","redirection persists through mutual fit","reset lives across the links","remedy holds through the web"],["fix across the field works","adjustment guides action throughout","mending enables coordinated action","realignment steers the whole system","recovery changes action throughout"],["fix remains after old grip","old rule gone rebalance stays","redirection remains beyond old terms","reset survives the old frame","remedy stays beyond prior rules"],["fix holds on new terms","adjustment rests on new fit","new fit carries rebalance","reset stays through new fit","remedy holds after rules loosen"],["old block gone fix works","freed adjustment changes what follows","redirection works once limits loosen","reset enables action beyond blocks","remedy changes life beyond limits"],["whole becomes clear here","this joining now remains","one coherence holds its place","assembly settles at this point","here the unity stays"],["whole here holds by arrangement","this joining depends on support","one assembly rests on fit","here unity stays through coordination","one interlock holds with structure"],["whole here changes what follows","this joining redirects action","one coherence now guides action","this fit enables action","this cohesion steers what follows"],["whole spreads across the whole","joining stays across the field","assembly remains throughout the set","interlock holds across all parts","combination maps across the system"],["whole holds across connected parts","coherence depends on the network","unity persists through mutual fit","togetherness lives across the links","cohesion holds through the web"],["whole across the field works","coherence guides action throughout","fit enables coordinated action","interlock steers the whole system","combination changes action throughout"],["whole remains after old grip","old rule gone assembly stays","unity remains beyond old terms","togetherness survives the old frame","cohesion stays beyond prior rules"],["whole holds on new terms","coherence rests on new fit","new fit carries assembly","togetherness stays through new fit","cohesion holds after rules loosen"],["old block gone whole works","freed coherence changes what follows","unity works once limits loosen","togetherness enables action beyond blocks","cohesion changes life beyond limits"],["resolution becomes clear here","this answer now remains","one closure holds its place","decision settles at this point","here the rest stays"],["resolution here holds by condition","closure holds through frame here","one decision rests on basis","here rest stays through terms","endpoint stays because point holds"],["resolution here changes what follows","this answer redirects action","one closure now guides action","this ending enables action","this endpoint steers what follows"],["resolution spreads across the whole","answer stays across the field","decision remains throughout the set","enough holds across all parts","resting-point maps across the system"],["resolution holds across connected parts","closure depends on the network","rest persists through mutual fit","conclusion lives across the links","endpoint holds through the web"],["resolution across the field works","closure guides action throughout","ending enables coordinated action","enough steers the whole system","resting-point changes action throughout"],["resolution remains after old grip","old rule gone decision stays","rest remains beyond old terms","conclusion survives the old frame","endpoint stays beyond prior rules"],["resolution holds on new terms","closure rests on new fit","new fit carries decision","conclusion stays through new fit","endpoint holds after rules loosen"],["old block gone resolution works","freed closure changes what follows","rest works once limits loosen","conclusion enables action beyond blocks","endpoint changes life beyond limits"]];
+var data=[];
+function cardNo(t,c,p){return orderT.indexOf(t)*9+orderC.indexOf(c)*3+orderP.indexOf(p)+1}
+function slugify(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"")}
+function core(t,c,p){return tCore[t]+" "+cCore[c]+", "+pCore[p]}
+fetch("working_54_canonical_forms_with_chapter_placeholders.md",{cache:"no-store"}).then(function(r){if(!r.ok)throw Error("Could not load canonical ledger");return r.text()}).then(function(md){
+var shorts={};md.replace(/^\s*(\d+)\. \*\*(.+?)\*\*\s*$/gm,function(_,n,x){n=+n;if(n>=1&&n<=54)shorts[n]=x;return _});
+orderT.forEach(function(t){orderC.forEach(function(c){orderP.forEach(function(p){var n=cardNo(t,c,p);data.push({n:n,t:t,c:c,p:p,short:shorts[n]||"",core:core(t,c,p),examples:examples[n]||[]})})})});
+var params=new URLSearchParams(location.search),requested=params.get("form");
+var qt=params.get("t"),qc=params.get("c"),qp=params.get("p");
+if(qt&&orderT.indexOf(qt)>-1)document.getElementById("t").value=qt;
+if(qc&&orderC.indexOf(qc)>-1)document.getElementById("c").value=qc;
+if(qp&&orderP.indexOf(qp)>-1)document.getElementById("p").value=qp;
+render();
+if(requested&&/^\d+$/.test(requested)){var row=document.querySelector("tr[data-form='"+requested+"']");Array.from(document.querySelectorAll("#rows tr[data-form]")).forEach(function(r){r.hidden=r!==row});if(row){row.classList.add("highlight");setTimeout(function(){row.scrollIntoView({block:"center"})},0)}}
+document.getElementById("status").hidden=true;
+}).catch(function(e){document.getElementById("status").textContent=e.message});
+function render(){
+var tv=document.getElementById("t").value,cv=document.getElementById("c").value,pv=document.getElementById("p").value,q=document.getElementById("s").value.toLowerCase().trim();
+var rows=document.getElementById("rows");rows.innerHTML="";var last="";
+data.filter(function(x){var hay=(x.n+" "+x.short+" "+x.t+" "+x.c+" "+x.p+" "+x.core+" "+x.examples.join(" ")).toLowerCase();return(!tv||x.t===tv)&&(!cv||x.c===cv)&&(!pv||x.p===pv)&&(!q||hay.indexOf(q)>-1)}).forEach(function(x){
+if(!tv&&x.t!==last){var g=document.createElement("tr");g.className="group";g.innerHTML="<td colspan='5'>"+x.t+"</td>";rows.appendChild(g);last=x.t}
+var tr=document.createElement("tr");tr.dataset.form=String(x.n);
+var coord="<a href='definitions.html#definition-"+slugify(x.t)+"'>"+x.t+"</a> × <a href='definitions.html#definition-"+slugify(x.c)+"'>"+x.c+"</a> × <a href='definitions.html#definition-"+slugify(x.p)+"'>"+x.p+"</a>";
+var chips=x.examples.map(function(v){return "<span class='example'>"+v+"</span>"}).join("");
+tr.innerHTML="<td>"+x.n+"</td><td><div class='short'>"+x.short+"</div><a class='form-link' href='forms.html?form="+x.n+"'>Open canonical form</a></td><td class='coordinate'>"+coord+"</td><td class='core'>"+x.core+"</td><td class='examples'>"+chips+"</td>";
+rows.appendChild(tr)
+});
+}
+["t","c","p","s"].forEach(function(id){document.getElementById(id).addEventListener(id==="s"?"input":"change",render)});
+var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";
+document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")};
+})();
+</script>
+</body></html>
