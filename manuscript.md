@@ -40,7 +40,7 @@ They both paused.
 
 "Looks like it."
 
-A few seconds earlier Nora had been sorting through spoons and peelers because the problem seemed to be something blocking the drawer. Now the utensils had become almost irrelevant. Nothing about them had changed. What had changed was what she was looking for.
+A few seconds earlier Nora had been sorting through spoons and peelers because the problem seemed to be something blocking the drawer. Now she was watching the left edge. The utensils had become almost irrelevant. Nothing about them had changed. The same drawer had given them a different thing to notice.
 
 They took the drawer out and found the left runner loose against the cabinet. One screw stood slightly proud. Nora tightened it, replaced the drawer, and pushed.
 
@@ -70,9 +70,9 @@ This time neither of them touched the cutlery. Ben lifted the front as Nora had 
 
 "Or the screw wasn't the problem."
 
-They removed the drawer a second time. The screw was tight. Around it, however, the wood of the runner had split. Tightening the screw had pulled the pieces together just enough to make the drawer behave for a while. Under the weight of the cutlery, the split opened again.
+They removed the drawer a second time. The screw was tight. Around it, however, the wood of the runner had split. Tightening the screw had pulled the split together just enough to make the drawer behave for a while. Under the weight of the cutlery, the wood opened again.
 
-Their first answer had not been foolish. The drawer really had worked after Nora tightened the screw. They had found something wrong, changed it, tested the result, and gone back to cooking. They had enough reason to move on.
+Their first answer had not been foolish. The drawer really had worked after Nora tightened the screw. The screw had mattered. But it had mattered because it was holding damaged wood together, not because a loose screw was the whole fault. They had changed something real, tested it, and had enough reason to go back to cooking.
 
 They had also been wrong about why the drawer was dropping.
 
@@ -126,7 +126,7 @@ She lifted the front of the drawer.
 
 It moved differently.
 
-That was enough to make her look at the runners before emptying everything inside.
+She did not know yet what that meant. But it was enough to make her look at the runners before emptying everything inside.
 
 A friend standing beside her asked what she was doing.
 
@@ -138,7 +138,7 @@ Nora opened the drawer again.
 
 "Oh."
 
-Nothing had been handed over whole. Her friend had not received Nora's old morning in the kitchen. She had been given somewhere to look, something to compare, a movement to watch. From there she could see for herself.
+Nothing had been handed over whole. Her friend had not received Nora's old morning in the kitchen, or even a diagnosis of this drawer. She had been given somewhere to look, something to compare, a movement to watch. From there she could see for herself.
 
 Perhaps the bedside drawer would turn out to have a different fault. Perhaps lifting it would mislead them this time. They would have to test that too.
 
