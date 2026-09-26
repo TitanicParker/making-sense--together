@@ -33,10 +33,19 @@ td:last-child,th:last-child{border-right:0}.group td{background:var(--accent-sof
 .status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
 tr.highlight td{background:var(--accent-soft)}
 @media(max-width:760px){.brand{display:none}.topbar{padding:8px}.toolbar{width:100%}main{padding:18px 8px 48px}.intro{padding:20px 16px}.control{font-size:12px;padding:0 9px}.table-wrap{max-height:none}}
+
+.mobile-nav-toggle{display:none}
+@media(max-width:760px){
+  .topbar{flex-wrap:wrap}
+  .mobile-nav-toggle{display:inline-flex;margin-left:auto}
+  .topbar .toolbar{display:none;width:100%;flex-wrap:wrap;overflow:visible;padding:4px 0 2px}
+  .topbar.nav-open .toolbar{display:flex}
+  .topbar .toolbar .control{flex:0 0 auto}
+}
 </style>
 </head>
 <body>
-<header class="topbar"><div class="brand">Making Sense Together · Semantic Field</div><div class="toolbar">
+<header class="topbar"><div class="brand">Making Sense Together · Semantic Field</div><button class="control mobile-nav-toggle" id="mobileNavToggle" aria-expanded="false" aria-controls="siteToolbar">Menu</button><div class="toolbar" id="siteToolbar">
 <a class="control" href="strongest-claim.html">Claim</a>
 <a class="control" href="index.html">Reader</a>
 <a class="control" href="definitions.html">Definitions</a>
@@ -109,6 +118,25 @@ rows.appendChild(tr)
 ["t","c","p","s"].forEach(function(id){document.getElementById(id).addEventListener(id==="s"?"input":"change",render)});
 var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";
 document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")};
+})();
+</script>
+
+<script>
+(function(){
+  var topbar=document.querySelector('.topbar');
+  var toggle=document.getElementById('mobileNavToggle');
+  if(!topbar||!toggle)return;
+  function closeMenu(){
+    topbar.classList.remove('nav-open');
+    toggle.setAttribute('aria-expanded','false');
+    toggle.textContent='Menu';
+  }
+  toggle.addEventListener('click',function(){
+    var open=topbar.classList.toggle('nav-open');
+    toggle.setAttribute('aria-expanded',open?'true':'false');
+    toggle.textContent=open?'Close':'Menu';
+  });
+  window.addEventListener('resize',function(){if(window.innerWidth>760)closeMenu()});
 })();
 </script>
 </body></html>
