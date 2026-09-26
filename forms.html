@@ -87,6 +87,10 @@ if(current&&k){var j=i+1;while(j<lines.length&&!lines[j].trim())j++;var gloss=li
 var used=data.filter(function(x){return x.uses.length>0}).length;
 var events=data.reduce(function(sum,x){return sum+x.uses.length},0);
 document.getElementById("usageSummary").textContent=" In this manuscript, "+events+" coda events instantiate "+used+" of the 54 coordinates.";
+var requestedForm=new URLSearchParams(location.search).get("form");
+if(requestedForm && /^\d+$/.test(requestedForm)){
+  document.getElementById("s").value=requestedForm;
+}
 render();document.getElementById("status").hidden=true;
 }).catch(function(e){document.getElementById("status").textContent=e.message});
 function render(){
