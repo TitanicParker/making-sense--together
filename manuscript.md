@@ -4448,7 +4448,7 @@ Then stopped looking.
 
 The clarinet entered.
 
-She heard it immediately.
+She heard it immediately. The held violin note now sat differently in the phrase because another line arrived through it.
 
 After that she could not quite hear the passage as she had before.
 
@@ -7100,7 +7100,7 @@ The rail held.
 
 The worn centre remained where old timber remained.
 
-The new pieces began acquiring marks of their own.
+The new pieces began acquiring marks of their own. Feet crossed them. Hands took the rail. Nothing about their newness prevented them from doing the work of the staircase.
 
 Months later Lea returned for another job.
 
