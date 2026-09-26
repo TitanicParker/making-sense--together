@@ -1067,3 +1067,79 @@ Successful coordination can arise from distributed organization without shared e
 **Opening × Focal × Bearing → #11 — “from here, either way”**
 
 The chapter shows that opening and settlement can coexist at different scales. One fact can become fixed while the larger interpretive field remains open, and uncertainty can become more structured without becoming failure.
+
+
+### Chapter 26 — Not to Scale
+
+#### Three events
+
+**1. Nia shows Tomas that the metro diagram preserves network connections while deliberately distorting geographical distance and shape.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+**2. Adding a new line forces Nia to change parts of the diagram while preserving other features.**  
+**Integration × Distributed × Bearing → #41 — “held together across”**
+
+**3. Tomas later uses the diagram successfully while recognizing that it does not tell him how easy a physical interchange will be.**  
+**Differentiation × Focal × Efficacy → #3 — “this far”**
+
+The chapter separates representation from resemblance. A map can preserve one web of relations, reorganize itself while remaining a whole, and still have a practical boundary beyond which competent use requires another source.
+
+### Chapter 27 — Nothing to Fix
+
+#### Three events
+
+**1. Finding her mother's old bus ticket changes how Ruth understands her mother's habit of keeping scraps of paper.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Tom prevents Ruth from treating that new understanding as an explanation of everything her mother kept.**  
+**Repair × Release × Standing → #34 — “a better limit”**
+
+**3. Ruth eventually gives away the coat while keeping the ticket without resolving everything it means to her.**  
+**Settlement × Distributed × Efficacy → #51 — “settled across the cases”**
+
+A new relation can illuminate without explaining everything. The chapter then repairs an overreach by releasing its authority and ends with action becoming possible before interpretation is complete.
+
+### Chapter 28 — Say It Another Way
+
+#### Three events
+
+**1. Elena and her father produce different English versions of a sentence from his Spanish wedding speech.**  
+**Opening × Distributed × Bearing → #14 — “reachable across”**
+
+**2. Her father delivers an improvised English version at the wedding that differs from both written versions.**  
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+**3. Sofia later changes the wording again while preserving something her father recognizes in it.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+Translation opens several viable routes rather than one exact substitute. A live utterance can make one route effective, while later continuity depends on a relation carried across changing words.
+
+### Chapter 29 — Close Enough to Predict
+
+#### Three events
+
+**1. The pendulum's simple prediction matches small swings more closely than large swings.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. Replacing a faulty sensor shows that an apparent failure of the model was caused by the measurement equipment.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**3. Mina later identifies a case in which a colleague has used the approximation beyond the range where it is adequate.**  
+**Differentiation × Focal × Efficacy → #3 — “this far”**
+
+The chapter makes adequacy range-sensitive. A model's success varies across cases, an apparent failure can be corrected by one decisive test, and a learned boundary can persist as practical restraint in later use.
+
+### Chapter 30 — Original
+
+#### Three events
+
+**1. Lea discovers that the staircase already contains materials and repairs from several different periods.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**2. Lea and Marcus replace some damaged material while retaining other existing parts.**  
+**Repair × Distributed × Bearing → #32 — “right between both”**
+
+**3. The new material gradually becomes part of the working staircase without settling which parts should be called original.**  
+**Integration × Distributed × Bearing → #41 — “held together across”**
+
+The staircase becomes intelligible as historically differentiated, then repair preserves it through relations among retained and replaced parts. Integration can succeed before the question of originality receives a final answer.
