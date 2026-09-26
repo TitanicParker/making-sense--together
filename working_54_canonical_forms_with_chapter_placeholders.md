@@ -1143,3 +1143,109 @@ The chapter makes adequacy range-sensitive. A model's success varies across case
 **Integration × Distributed × Bearing → #41 — “held together across”**
 
 The staircase becomes intelligible as historically differentiated, then repair preserves it through relations among retained and replaced parts. Integration can succeed before the question of originality receives a final answer.
+
+
+### Chapter 31 — That's Not How It Happened
+
+#### Three events
+
+**1. Anna and Beth discover that they remember the same childhood argument differently.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. A home video settles some disputed facts while leaving other parts of the event unresolved.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**3. Later evidence changes both sisters' accounts without making their memories identical.**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+The chapter separates disagreement between memories from disagreement about facts. Evidence can settle one part of an event and repair both accounts without collapsing them into one identical memory.
+
+### Chapter 32 — It Still Looks Wrong
+
+#### Three events
+
+**1. Mae judges Ravi's technically sound jug handle to look too heavy even though it does not weigh more.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. Comparing different jugs makes several visual and practical features of the handles available for discussion.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+**3. A later display context changes how Mae judges a handle she had previously criticized.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+The chapter first separates visual judgment from literal weight, then opens a wider field of features through comparison. The final judgment changes because the handle's bearing within a new context changes.
+
+### Chapter 33 — We Agree on What Happened
+
+#### Three events
+
+**1. Nessa and Daniel agree about the facts of Priya's situation while disagreeing about what they should do.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. Their attempt to manage the problem indirectly fails to remove the conflict.**  
+**Repair × Release × Standing → #34 — “a better limit”**
+
+**3. Priya reduces the project's dependence on her without resolving the disagreement about confidentiality.**  
+**Repair × Focal × Efficacy → #30 — “the burden moves”**
+
+Better understanding does not guarantee agreement. The chapter distinguishes factual convergence from practical judgment, exposes the limit of one failed strategy, and then shows a local repair that changes what can happen without resolving the whole normative conflict.
+
+### Chapter 34 — The Old Rule
+
+#### Three events
+
+**1. The rowing club disputes whether its old written sign-out rule still requires use of the physical board after an app is introduced.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+**2. Failure of the app forces the club to use the board and exposes gaps in both systems.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**3. The club creates a revised practice and rewrites the rule to describe it.**  
+**Repair × Distributed × Efficacy → #33 — “turn where it fails”**
+
+A changed practice reopens the meaning of an inherited rule, failure exposes distinctions that were hidden while things worked, and revision repairs the system by coordinating several elements rather than preserving wording unchanged.
+
+### Chapter 35 — No One Knows the Whole Thing
+
+#### Three events
+
+**1. A museum panel cannot reach the room for which the exhibition was designed.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**2. Several specialists alter different parts of the exhibition so the panel can be installed elsewhere.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. The completed exhibition works coherently even though no individual member of the team knows all of the decisions that produced it.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+A single constraint can settle what cannot be done, while the solution belongs to distributed integration. The repeated final coordinate makes the point explicit: coherent achievement need not be contained inside one knower.
+
+### Chapter 36 — She Wouldn't Do That
+
+#### Three events
+
+**1. Lia's editor rejects Mara's abrupt departure because it does not fit the character established earlier in the novel.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Lia restores earlier material that makes the departure intelligible without giving it a simple new explanation.**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+**3. A reader later gives Lia an interpretation of Mara's departure that Lia herself had not formed.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+The same fictional action can first fail through its relation to what came before, then be repaired by changing that relation, and later open into an interpretation the author did not possess. Intelligibility here exceeds both isolated action and authorial intention.
+
+### Chapter 37 — The Drawer Comes Out
+
+#### Three events
+
+**1. Nora and Ben remove the old repaired drawer and allow it to be discarded during the kitchen renovation.**  
+**Settlement × Release × Efficacy → #54 — “nothing further is owed”**
+
+**2. Nora applies the old lifting test to a new sticking drawer, finds that it changes nothing and discovers a spatula behind the organiser.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**3. Nora recognizes that something from the earlier repair has continued even though the old drawer, exact memory and original answer have not.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+The book closes by separating continuation from preservation of the original object or answer. The old drawer can be released, the inherited test can fail productively, and what continues can remain only through its bearing across changed situations. The system ends where it began: with something becoming clear enough to change what happens next.
