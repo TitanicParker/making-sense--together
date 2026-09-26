@@ -915,3 +915,79 @@ The chapter tests whether the same structural questions travel across unlike mat
 **Opening × Release × Efficacy → #18 — “beyond”**
 
 Inherited understanding can deepen from use into relation, operate across a distributed system, and survive the failure of one representation by releasing its authority. What is inherited becomes more fully one's own when it can be used, bounded and revised.
+
+
+### Chapter 16 — A Question Older Than You
+
+#### Three events
+
+**1. Karim begins investigating an old photograph labelled with the question of whether it was taken on the shop's first day.**  
+**Opening × Focal × Standing → #10 — “from here”**
+
+**2. Records and relatives establish the shop's opening date and probably identify the second man without establishing the photograph's exact date.**  
+**Settlement × Distributed × Standing → #49 — “it returns”**
+
+**3. Karim records what has been established while explicitly preserving what remains uncertain.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+An inherited question can remain open as a standing object of inquiry, become partly settled through distributed evidence, and then be recorded without collapsing the remaining uncertainty. Progress can consist in making the boundary between known and unknown more exact.
+
+### Chapter 17 — Everyone Knew
+
+#### Three events
+
+**1. Tests show that the office kettle itself has failed despite everyone's agreement that the fuse is the problem.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**2. The team discovers that it has misunderstood what the manager meant by "final draft Friday."**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+**3. The team changes its work after learning what the manager actually needs from the deadline.**  
+**Repair × Focal × Efficacy → #30 — “the burden moves”**
+
+All three are **Repair × Focal**, but the persistence mode changes. A correction can remain as an established determination, as a newly weighted relation, or as changed action. Agreement does not decide which correction is real; what the matter permits to stand, bear or work does.
+
+### Chapter 18 — What Did We Inherit?
+
+#### Three events
+
+**1. The group compares an inherited answer, an inherited question and an inherited mistake.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**2. They distinguish different ways of continuing with each kind of inheritance.**  
+**Differentiation × Distributed × Efficacy → #6 — “these among these”**
+
+**3. They identify different kinds of evidence that could count against each inherited position.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+The chapter first separates kinds of inheritance, then lets those distinctions guide different continuations, and finally connects each inherited position to what could count against it. A distinction becomes richer when it changes both action and evidential responsibility.
+
+### Chapter 19 — Odd, Even, Then What?
+
+#### Three events
+
+**1. Amira sees why adding two odd numbers produces an even number.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. She uses what she has learned to reason about other combinations of odd and even numbers.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+**3. The prime number two disproves her claim that all prime numbers are odd.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+A relation first explains one result, then opens inferential reach across further cases, and finally a single counterexample repairs an overextended claim. Understanding grows both by travelling and by encountering limits.
+
+### Chapter 20 — You Can Leave
+
+#### Three events
+
+**1. Leila remains at the community hall because she promised to receive a delivery even though she can physically leave.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. Amira refrains from using a physically accessible phone because using it during the exam would violate the rule.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**3. Leila opens a door marked "KEEP CLOSED" to carry a table through and then closes it again.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+All three occupy the same cell because each turns on a decisive distinction whose force is relational: physical possibility is not the same as permission, obligation or rule-governed use. Repetition here shows that one form can recur across different materials without becoming a generic slogan.
