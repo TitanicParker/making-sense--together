@@ -7013,9 +7013,9 @@ The staircase becomes intelligible as historically differentiated, then repair p
 
 1. **What changed in each event?** What historical differences become visible in the staircase, what is repaired through selective replacement, and what becomes integrated as the new material joins the working whole?
 
-2. **What makes each change enough?** Why does the first depend on several periods and materials, why does the repair depend on several local decisions, and why does the third depend on relations across new and retained parts?
+2. **What makes each change enough?** What has to be taken together before the staircase's history becomes clear, before the selective replacement counts as enough, and before the new material belongs to the working whole?
 
-3. **What remains afterward?** Why does the first result stand, while the second and third persist through relations among parts of the staircase?
+3. **What remains afterward?** What is left available by the historical distinction, by the repair, and by the completed staircase? Describe what each result depends on before naming its mode.
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Standing**, **Repair × Distributed × Bearing**, and **Integration × Distributed × Bearing**.
 
@@ -7517,9 +7517,9 @@ Comparison makes more features available, and the later context changes how the 
 
 1. **What changed in each event?** What distinction becomes clear between visual heaviness and literal weight, what new features become available through comparison, and what relation changes Mae's later judgment?
 
-2. **What makes each change enough?** Why is Ravi's handle focal in the first event, why does the second require several jugs and features together, and why is the new display context decisive in the third?
+2. **What makes each change enough?** What exactly settles the first distinction, what has to be compared before the second change becomes sufficient, and what makes the later display context matter to Mae's judgment?
 
-3. **What remains afterward?** Why does the first result persist through a visual relation, the second as increased capacity to discuss and compare, and the third through the handle's relation to its context?
+3. **What remains afterward?** What is available after each event, and what must each result continue to depend on or make possible?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Bearing**, **Opening × Distributed × Efficacy**, and **Relating × Focal × Bearing**.
 
@@ -7953,9 +7953,9 @@ Changed practice reopens the inherited rule; failure exposes what the two system
 
 1. **What changed in each event?** What becomes open when the app unsettles the old rule, what differences become visible when the app fails, and what is repaired when the club revises both practice and wording?
 
-2. **What makes each change enough?** Why is the app's introduction focal in reopening the rule, why does the second event depend on both systems together, and why does the third require several elements of the sign-out arrangement to be reorganized?
+2. **What makes each change enough?** What makes the inherited rule genuinely reopen in the first event, what has to be seen together when the app fails, and what has to change before the revised sign-out practice is sufficient?
 
-3. **What remains afterward?** Why does the first result persist through the relation between wording and practice, the second as established gaps, and the third as a procedure that can govern future action?
+3. **What remains afterward?** What is available after the rule is reopened, after the failure exposes the systems, and after the practice is revised?
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Focal × Bearing**, **Differentiation × Distributed × Standing**, and **Repair × Distributed × Efficacy**.
 
