@@ -7742,6 +7742,18 @@ It was more accurate than "That's exactly what happened."
 
 The chapter separates disagreement between memories from disagreement about facts. Evidence can settle one part of an event and repair both accounts without collapsing them into one identical memory.
 
+### Five questions
+
+1. **What changed in each event?** What difference becomes explicit between Anna's and Beth's memories, what disputed facts become settled by the video, and what is repaired when later evidence alters both accounts?
+
+2. **What makes each change enough?** Why does the first require both memories together, why is the video a focal evidential source, and why is later evidence the decisive corrective intervention in the third?
+
+3. **What remains afterward?** Why does the first result persist through the relation between two memories, the second as settled facts, and the third through revised accounts that still remain distinct?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Settlement × Focal × Standing**, and **Repair × Focal × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“this, here,” “chosen,”** and **“rightly weighted”** reveal about disagreement, evidence, and corrected memory?
+
 ## It Still Looks Wrong
 
 Ravi's jug was strong.
@@ -8007,6 +8019,18 @@ He also knew exactly what she meant.
 
 The chapter first separates visual judgment from literal weight, then opens a wider field of features through comparison. The final judgment changes because the handle's bearing within a new context changes.
 
+### Five questions
+
+1. **What changed in each event?** What distinction becomes clear between visual heaviness and literal weight, what new features become available through comparison, and what relation changes Mae's later judgment?
+
+2. **What makes each change enough?** Why is Ravi's handle focal in the first event, why does the second require several jugs and features together, and why is the new display context decisive in the third?
+
+3. **What remains afterward?** Why does the first result persist through a visual relation, the second as increased capacity to discuss and compare, and the third through the handle's relation to its context?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Bearing**, **Opening × Distributed × Efficacy**, and **Relating × Focal × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“this, not that,” “available throughout,”** and **“held against”** reveal about seeing, comparing, and judging form?
+
 ## We Agree on What Happened
 
 Nessa and Daniel agreed about every important fact.
@@ -8201,6 +8225,18 @@ Months later Daniel found himself in another situation involving a confidence. H
 **Repair × Focal × Efficacy → #30 — “the burden moves”**
 
 Better understanding does not guarantee agreement. The chapter distinguishes factual convergence from practical judgment, exposes the limit of one failed strategy, and then shows a local repair that changes what can happen without resolving the whole normative conflict.
+
+### Five questions
+
+1. **What changed in each event?** What distinction becomes explicit between factual agreement and practical disagreement, what failed strategy is repaired by being released, and what project vulnerability is repaired by Priya's intervention?
+
+2. **What makes each change enough?** Why does the first depend on both positions together, why does the second complete when the workaround loses its claim to solve the conflict, and why is Priya's intervention focal in the third?
+
+3. **What remains afterward?** Why does the first result persist through a shared situation, the second as an established limit of the strategy, and the third as a more resilient way for the project to continue?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Repair × Release × Standing**, and **Repair × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“this, here,” “a better limit,”** and **“the burden moves”** reveal about understanding a conflict without making it disappear?
 
 ## The Old Rule
 
@@ -8435,6 +8471,18 @@ Maya looked at the old board.
 
 A changed practice reopens the meaning of an inherited rule, failure exposes distinctions that were hidden while things worked, and revision repairs the system by coordinating several elements rather than preserving wording unchanged.
 
+### Five questions
+
+1. **What changed in each event?** What becomes open when the app unsettles the old rule, what differences become visible when the app fails, and what is repaired when the club revises both practice and wording?
+
+2. **What makes each change enough?** Why is the app's introduction focal in reopening the rule, why does the second event depend on both systems together, and why does the third require several elements of the sign-out arrangement to be reorganized?
+
+3. **What remains afterward?** Why does the first result persist through the relation between wording and practice, the second as established gaps, and the third as a procedure that can govern future action?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Focal × Bearing**, **Differentiation × Distributed × Standing**, and **Repair × Distributed × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“from here, either way,” “within this,”** and **“turn where it fails”** reveal about a rule that has to remain usable as practice changes?
+
 ## No One Knows the Whole Thing
 
 The museum exhibition existed for months before any visitor could see it.
@@ -8642,6 +8690,18 @@ It had simply made another one real.
 
 A single constraint can settle what cannot be done, while the solution belongs to distributed integration. The repeated final coordinate makes the point explicit: coherent achievement need not be contained inside one knower.
 
+### Five questions
+
+1. **What changed in each event?** What becomes settled when the panel cannot reach the room, what becomes integrated when several specialists alter the exhibition, and what completed whole emerges even though no one knows every decision?
+
+2. **What makes each change enough?** Why is the blocked route focal in the first event, and why do the second and third require a distributed plurality of people, decisions and changes?
+
+3. **What remains afterward?** Why does the first result stand as a constraint, while the second and third persist in the exhibition's functioning?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Focal × Standing** and the repeated **Integration × Distributed × Efficacy** of the final two events.
+
+5. **How do the short expressions compress those forms?** What do **“chosen”** and **“in operation”** reveal about a coherent achievement that no single person contains?
+
 ## She Wouldn't Do That
 
 Lia's editor circled one sentence and wrote:
@@ -8844,6 +8904,18 @@ The understanding was not.
 **Opening × Focal × Bearing → #11 — “from here, either way”**
 
 The same fictional action can first fail through its relation to what came before, then be repaired by changing that relation, and later open into an interpretation the author did not possess. Intelligibility here exceeds both isolated action and authorial intention.
+
+### Five questions
+
+1. **What changed in each event?** What relation makes Mara's departure fail, what is repaired when earlier material is restored, and what new interpretive possibility opens when a reader responds to the novel?
+
+2. **What makes each change enough?** Why is the departure focal in the first event, why is the restored material the decisive intervention in the second, and why is the reader's interpretation focal in the third?
+
+3. **What remains afterward?** Why do all three results persist through their relation to the same fictional action rather than as isolated determinations?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Focal × Bearing**, and **Opening × Focal × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“held against,” “rightly weighted,”** and **“from here, either way”** reveal about how one action can fail, become intelligible, and remain open to further interpretation?
 
 ## The Drawer Comes Out
 
@@ -9111,4 +9183,16 @@ Then they got on with the evening.
 **Differentiation × Distributed × Bearing → #5 — “this, here”**
 
 The book closes by separating continuation from preservation of the original object or answer. The old drawer can be released, the inherited test can fail productively, and what continues can remain only through its bearing across changed situations. The system ends where it began: with something becoming clear enough to change what happens next.
+
+### Five questions
+
+1. **What changed in each event?** What is settled when the old drawer is discarded, what is repaired when the old lifting test fails on the new drawer, and what distinction becomes clear about what has continued?
+
+2. **What makes each change enough?** Why does the first complete by releasing the old drawer's claim on what comes next, why is the spatula focal in the second, and why does the third require comparison across several differences between the old and new situations?
+
+3. **What remains afterward?** Why does the first result persist as changed continuation, the second as a corrected determination, and the third through its bearing across two episodes?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Settlement × Release × Efficacy**, **Repair × Focal × Standing**, and **Differentiation × Distributed × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“nothing further is owed,” “set right,”** and **“this, here”** reveal about letting an old answer end while something from the earlier understanding still continues?
 
