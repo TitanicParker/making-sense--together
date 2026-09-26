@@ -216,6 +216,11 @@
 
     .chapter:first-of-type { margin-top: 2.6em; }
 
+    .framing-section {
+      background: color-mix(in srgb, var(--paper-2) 80%, var(--accent-soft));
+      border-style: dashed;
+    }
+
     .chapter > h2:first-child {
       margin-top: 0;
       padding-top: 0;
@@ -603,13 +608,25 @@
 
       function wrapChapters() {
         var headings = Array.from(book.querySelectorAll("h2"));
+        var mainNumber = 0;
         headings.forEach(function (heading, index) {
           var chapter = document.createElement("section");
-          var chapterNumber = index + 1;
+          var title = heading.textContent.trim();
+          var label;
+          if (/^Chapter Zero\b/.test(title)) {
+            label = "0";
+            chapter.className = "chapter framing-section";
+          } else if (/^Afterword\b/.test(title)) {
+            label = "A";
+            chapter.className = "chapter framing-section";
+          } else {
+            mainNumber += 1;
+            label = String(mainNumber);
+            chapter.className = "chapter";
+          }
           var hue = (index * 137.508 + 18) % 360;
 
-          chapter.className = "chapter";
-          chapter.dataset.chapter = String(chapterNumber);
+          chapter.dataset.chapter = label;
           chapter.id = heading.id + "-chapter";
           chapter.style.setProperty("--chapter-hue", hue.toFixed(1));
 
@@ -688,11 +705,13 @@
           var heading = chapter.querySelector("h2");
           var tab = document.createElement("button");
           var hue = (index * 137.508 + 18) % 360;
+          var label = chapter.dataset.chapter || String(index + 1);
+          var kind = label === "0" ? "Chapter Zero" : (label === "A" ? "Afterword" : "Chapter " + label);
           tab.className = "chapter-tab";
           tab.type = "button";
-          tab.textContent = String(index + 1);
+          tab.textContent = label;
           tab.dataset.target = chapter.id;
-          tab.setAttribute("aria-label", "Chapter " + (index + 1) + ": " + heading.textContent);
+          tab.setAttribute("aria-label", kind + ": " + heading.textContent);
           tab.title = heading.textContent;
           tab.style.setProperty("--tab-hue", hue.toFixed(1));
 
