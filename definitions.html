@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Definitions — Making Sense Together</title>
+  <style>
+    :root{color-scheme:light;--paper:#f6f0e5;--paper-2:#fffdf8;--ink:#27241f;--muted:#716b61;--line:#d9d0c2;--accent:#70543c;--accent-soft:#eadfce;--shadow:0 18px 55px rgba(50,40,28,.11)}
+    html[data-theme="dark"]{color-scheme:dark;--paper:#171614;--paper-2:#201e1b;--ink:#eee9df;--muted:#aaa297;--line:#3b3732;--accent:#d5b28d;--accent-soft:#342b23;--shadow:0 18px 55px rgba(0,0,0,.28)}
+    *{box-sizing:border-box} body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,"Times New Roman",serif;line-height:1.55}
+    button,input,select{font:inherit;color:inherit}
+    .topbar{position:sticky;top:0;z-index:20;min-height:56px;display:flex;align-items:center;gap:12px;padding:8px 16px;border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(12px)}
+    .brand{min-width:0;flex:1;font:700 14px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+    .toolbar{display:flex;align-items:center;gap:6px}
+    .control{border:1px solid var(--line);background:var(--paper-2);border-radius:999px;min-width:36px;height:36px;padding:0 11px;cursor:pointer;font:13px ui-sans-serif,system-ui,sans-serif;text-decoration:none;display:inline-flex;align-items:center;justify-content:center}
+    .control:hover{border-color:var(--accent)}
+    main{max-width:1180px;margin:0 auto;padding:34px 18px 72px}
+    .panel{background:var(--paper-2);border:1px solid var(--line);box-shadow:var(--shadow);border-radius:10px;overflow:hidden}
+    .intro{padding:24px 26px 18px;border-bottom:1px solid var(--line)}
+    h1{font-size:clamp(1.7rem,4vw,2.7rem);line-height:1.05;margin:0 0 10px;letter-spacing:-.03em}
+    .lede{margin:0;color:var(--muted);font:14px/1.5 ui-sans-serif,system-ui,sans-serif}
+    .tools{display:flex;flex-wrap:wrap;gap:8px;padding:14px 18px;border-bottom:1px solid var(--line);background:var(--paper)}
+    .tools input,.tools select{height:36px;border:1px solid var(--line);border-radius:7px;background:var(--paper-2);padding:0 10px;font:13px ui-sans-serif,system-ui,sans-serif}
+    .tools input{min-width:220px;flex:1}
+    .table-wrap{max-height:72vh;overflow:auto}
+    table{width:100%;border-collapse:separate;border-spacing:0;min-width:980px;font-size:14px}
+    th,td{padding:11px 12px;text-align:left;vertical-align:top;border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+    th{position:sticky;top:0;z-index:5;background:var(--paper);font:700 12px/1.3 ui-sans-serif,system-ui,sans-serif;color:var(--muted);text-transform:uppercase;letter-spacing:.035em}
+    td:first-child,th:first-child{position:sticky;left:0;z-index:4;background:var(--paper-2)}
+    th:first-child{z-index:6;background:var(--paper)}
+    tr:last-child td{border-bottom:0} td:last-child,th:last-child{border-right:0}
+    .group td{background:var(--accent-soft)!important;font:700 12px/1.2 ui-sans-serif,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em}
+    .pill{display:inline-block;border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:2px 8px;font:700 12px/1.4 ui-sans-serif,system-ui,sans-serif;white-space:nowrap}
+    .short{font-weight:700}.muted{color:var(--muted)} .status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
+    @media(max-width:720px){main{padding:18px 8px 48px}.intro{padding:20px 16px}.toolbar{gap:4px}.control{padding:0 9px;font-size:12px}.table-wrap{max-height:76vh}}
+  </style></head>
+<body>
+<header class="topbar"><div class="brand">Making Sense Together · Definitions</div><div class="toolbar">
+<a class="control" href="index.html">Reader</a><a class="control" href="forms.html">54 Forms</a><button class="control" id="theme" aria-label="Toggle theme">◐</button>
+</div></header>
+<main><section class="panel">
+<div class="intro"><h1>The 15 definitions</h1><p class="lede">A lookup table for the three questions, the three dimensions, and the twelve definitions that answer them. Start with the event; use the table to decide what to notice.</p></div>
+<div class="table-wrap"><table><thead><tr><th>#</th><th>Question</th><th>Axis / definition</th><th>Canonical definition</th><th>Look for</th><th>Plain check</th></tr></thead><tbody id="rows"></tbody></table></div>
+<div class="status" id="status">Loading the canonical ledger…</div>
+</section></main>
+<script>
+(function(){
+var cues={
+"Transformation Pattern":["The kind of unresolvedness decisively altered.","What changed?"],
+"Completion Topology":["The structural shape by which the change became sufficient.","Why was that enough?"],
+"Persistence Mode":["The mode in which the achieved result remains available.","What remained?"],
+"Differentiation":["A difference becomes determinate enough to matter.","What can now be told apart?"],
+"Opening":["Availability, access, reach, continuation or possibility increases.","What can now happen?"],
+"Relating":["A bearing, dependency, order, correspondence or reciprocity becomes constitutive.","What now has to be understood through what?"],
+"Repair":["Something failing by an operative criterion is redirected or put right.","What failure was corrected?"],
+"Integration":["Parts acquire roles by being organized into a whole.","What now stands or works together?"],
+"Settlement":["A live demand for further uptake, choice or completion is discharged.","What no longer needs answering or completing?"],
+"Focal":["Sufficiency gathers around a privileged locus.","What was decisive?"],
+"Distributed":["A plurality, span, sequence or system belongs to what makes it enough.","What had to work together?"],
+"Release":["Something that governed the opening field no longer governs it.","What lost its governing claim?"],
+"Standing":["The achieved determination itself remains available.","What is now established?"],
+"Bearing":["The result remains through a constitutive relation or condition.","What still holds through what?"],
+"Efficacy":["The result remains as capacity, rule, effect or changed continuation.","What can now happen because of this?"]
+};
+var q=function(n){if(n<=9)return "What changed?";if(n<=12)return "What made it sufficient?";return "What remained?";}
+fetch("working_54_canonical_forms_with_chapter_placeholders.md",{cache:"no-store"}).then(function(r){if(!r.ok)throw Error("Could not load ledger");return r.text()}).then(function(md){
+var re=/\*\*(\d+)\. ([^*]+)\*\*\s*\n\s*([^\n]+(?:\n(?!\s*\*\*\d+\.)[^\n]+)*)/g,m,items=[];
+while((m=re.exec(md))&&items.length<15){items.push({n:+m[1],name:m[2].trim(),def:m[3].trim().replace(/\n+/g," ")})}
+var tbody=document.getElementById("rows"), last="";
+items.forEach(function(x){
+var family=x.n<=9?"Transformation":x.n<=12?"Completion":"Persistence";
+if(family!==last){var gr=document.createElement("tr");gr.className="group";gr.innerHTML="<td colspan='6'>"+family+"</td>";tbody.appendChild(gr);last=family}
+var c=cues[x.name]||["",""];
+var tr=document.createElement("tr");tr.innerHTML="<td>"+x.n+"</td><td>"+q(x.n)+"</td><td><strong>"+x.name+"</strong></td><td>"+x.def+"</td><td>"+c[0]+"</td><td><em>"+c[1]+"</em></td>";tbody.appendChild(tr)
+});
+document.getElementById("status").hidden=true;
+}).catch(function(e){document.getElementById("status").textContent=e.message});
+var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";
+document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")};
+})();
+</script></body></html>
