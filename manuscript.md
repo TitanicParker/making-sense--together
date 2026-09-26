@@ -268,7 +268,7 @@ Nora looked at Ben.
 
 He said nothing.
 
-Three people could taste the same pot and reach different stopping points without anyone having misunderstood what soup was. "Enough" did not float free. Enough for whom, for what, under which conditions? Yet neither was it merely arbitrary. A spoonful of salt would have ruined the pot however confidently Ben declared it perfect.
+Three people could taste the same pot and stop at different points. Enough for whom, for what, under which conditions? A spoonful of salt would still have ruined it however confidently Ben declared it perfect.
 
 Later that month the same question appeared in a less forgiving form.
 
@@ -336,9 +336,7 @@ Nora let go.
 
 "Enough."
 
-They both knew this was not certainty. Neither could see the future inside the wall. The plaster might be weaker than it looked. Someone might later hang something heavier from the rail. A hidden crack might spread.
-
-What they had was narrower and more useful. They had tested the rail against the job they were actually asking it to do, and nothing they had seen gave them a reason to keep working.
+They had tested the rail against the job they were actually asking it to do, and nothing they had seen gave them a reason to keep working.
 
 That was enough to hang the curtain and make tea.
 
@@ -386,7 +384,7 @@ Only then did Leila tap the wall, find the stud and change where the rack would 
 
 She did not tell the story of the curtain rail. She did not need to.
 
-What had survived was not a rule saying that every screw must go into a stud. In another wall, under another load, a different fixing might be perfectly good. What survived was the question that came before the fixing:
+What survived was not a rule about studs. It was the question that came before the fixing:
 
 Enough for what?
 
@@ -503,13 +501,7 @@ Leila smiled.
 
 "Knowledge relocated."
 
-The old understanding had not vanished completely. Nora still knew that the dead sockets were likely connected to a breaker rather than individually broken. She still knew where the board was and what kind of test would tell them whether they had found the right switch. What had failed was one smaller piece, and it was the piece her hand had reached for first: which exact switch controlled that wall.
-
-That mattered.
-
-Something can remain useful even after part of it becomes wrong.
-
-The label on the old board had once helped Nora. After the rewiring, relying on it would have misled her. The useful thing was not loyalty to the old answer. It was knowing what sort of question to ask again.
+Some of the old understanding survived. Dead sockets could still point toward a breaker; Nora still knew where the board was and how to test a switch. What failed was the exact location her hand had reached for.
 
 Leila unplugged the sander.
 
@@ -523,7 +515,7 @@ Nora found a piece of masking tape and wrote KITCHEN WEST — COUNTER WALL under
 
 "You've learned a lot of restraint."
 
-The label was not the knowledge itself. It could fade, be peeled off, become wrong after another change, or be read by someone who had no idea which wall it meant. But it gave a later person somewhere to begin.
+The label was not the knowledge itself. It gave a later person somewhere to begin.
 
 That happened sooner than expected.
 
@@ -555,9 +547,7 @@ Different house. Different fault.
 
 He called an electrician.
 
-The useful part of what he had learned at Nora's had not been "resetting breakers fixes electricity." It had been smaller and better: sometimes a result tells you what to try next, and sometimes the failure of that next step tells you not to keep pretending you already know.
-
-What Nora passed on was smaller than the whole history and more useful than a slogan. It could guide the next move, and it could also tell Arun when to stop.
+What Nora had passed on was not "resetting breakers fixes electricity." It was a first move, and a limit on pretending that move had to work.
 
 By the time the kettle boils, the question that mattered has usually disappeared. What it changed may stay for years.
 
@@ -608,7 +598,7 @@ Platform 4.
 
 They started walking.
 
-Nothing had been transferred whole from Leila's mind into Nora's. Leila had noticed something Nora had missed, then used three words to change where Nora looked. The board did the rest.
+Leila had noticed something Nora had missed. Three words changed where Nora looked; the board did the rest.
 
 At the stairs to platform four, the display flickered.
 
@@ -640,7 +630,7 @@ The man did.
 
 "Right. Thanks."
 
-For a few minutes, the three of them were coordinated by almost nothing: a changing number, a destination, the time, and the practical fact that they all wanted the same train. They did not need the same reasons for travelling or the same picture of the station. They needed enough of the same situation for one person's noticing to matter to the others.
+For a few minutes, a changing number, a destination and the same train were enough for one person's noticing to matter to the others.
 
 At platform six, the train was not there.
 
@@ -766,7 +756,7 @@ The man across the aisle did.
 
 "Usually yes on delays like this. But ask the guard."
 
-He was not giving them a finished world. He was giving them a next move.
+He was giving them a next move.
 
 When the guard finally came through, Leila asked.
 
@@ -790,7 +780,7 @@ Nora did not ask the woman to trust her private certainty. She passed on what sh
 
 Months later, Nora remembered the journey mainly as the day the platforms kept changing. Leila remembered the bad coffee they bought during the forty-minute wait.
 
-What lasted was less tidy than a rule: look again when the sign changes, listen again when the announcement blurs, and leave another person a way to check what you have told them.
+What lasted was less tidy than a rule: look again, and leave another person a way to check.
 
 ### Three events
 
@@ -861,7 +851,7 @@ He smiled and leaned against the wall.
 
 "What if it's socks?"
 
-They were disagreeing, but not very much. The disagreement was useful because both of them knew what it was about. The box did not become two different boxes because Karim thought curiosity might help and Leila thought opening it would cross a line. They could point to the same label, read the same name and argue about the same next move.
+They were disagreeing, but they could point to the same label, read the same name and argue about the same next move.
 
 Leila searched her messages and found an old exchange with the former tenant about forwarding post.
 
@@ -955,7 +945,7 @@ A few days later Karim told the story to someone else.
 
 "You are exhausting."
 
-Leila was not being modest. Before the panel opened, she did not know. She had an explanation that survived better than Karim's, but it still needed the ceiling to cooperate.
+Before the panel opened, Leila had a better suspicion, not knowledge.
 
 Months passed.
 
@@ -1160,13 +1150,7 @@ Ben watched the thermostat click off much later.
 
 "Exactly."
 
-That was harder to hold than a simple correction.
-
-His first explanation had contained something true. The thermostat really did stop the heating. What was wrong was the place he had given that fact in the larger story.
-
-The difference mattered because correction does not always mean replacing one sentence with its opposite.
-
-Sometimes the facts stay and their arrangement changes.
+The thermostat really did stop the heating. What had changed was the place Ben gave that fact in the larger story.
 
 A week later Ben explained the repair to Karim.
 
@@ -1182,19 +1166,13 @@ Karim nodded.
 
 "It told me I was wrong, at least."
 
-That is a useful kind of information.
-
-Not pleasant, necessarily. But clean.
+Not pleasant information. Still useful.
 
 The following winter, Ben's own flat had a radiator that stayed cold while the others heated normally. He did not call the thermostat guilty. He bled the radiator. No change. He checked the valve. Stuck.
 
 This time the smaller problem really was local.
 
 The old heating failure had not given him a universal answer. It had made him more cautious about what one symptom could prove.
-
-Later still, Ben would misdiagnose other things.
-
-The useful change was not immunity from error. It was that a failed fix, an awkward measurement or a machine that kept misbehaving could still force the answer back open.
 
 Years after the heating problem, Nora was in Ben's kitchen when the kettle failed to boil.
 
@@ -1433,31 +1411,7 @@ Why was that enough?
 
 What, if anything, remained afterward?
 
-Those questions were small enough to ask almost anywhere.
-
-A child finally hearing the difference between two sounds.
-
-A mechanic finding which part is loose.
-
-Two friends realizing they have been arguing about different things.
-
-A doctor connecting symptoms.
-
-A student seeing why a proof works.
-
-Someone discovering that the reason they had been waiting no longer applies.
-
-Someone receiving an answer.
-
-Someone learning that no answer is justified yet.
-
-The examples were easy.
-
-The implication was not.
-
-If these recurring shapes really could appear across repair, language, mathematics, disagreement, memory, plans and promises, then they were not merely tricks for solving household problems.
-
-They might be telling us something about how a situation becomes clear enough for a human being to continue.
+Those questions were small enough to ask almost anywhere. If the same shapes appeared in repair, language, mathematics, disagreement, memory, plans and promises, they might be telling them something about how a situation becomes clear enough to continue.
 
 Leila folded the envelope and pushed it toward Nora.
 
@@ -1702,25 +1656,7 @@ He did not need to.
 
 The word was doing its work inside a situation that belonged to them.
 
-Language often looks as though it carries meaning from one mind to another. Sometimes it does carry a great deal. A warning shouted across a street can arrive before the situation is shared.
-
-But much ordinary communication works differently.
-
-Someone points.
-
-Someone repeats.
-
-Someone chooses an example.
-
-Someone says the same thing another way.
-
-Someone performs the action.
-
-Someone says, "No, not that part."
-
-The other person begins to see.
-
-And sometimes, in trying to show the other person, the first person discovers that they had not seen clearly either.
+Much ordinary communication depended on less than a complete explanation. Someone pointed, repeated, demonstrated, or said, "No, not that part." The other person began to see. Sometimes the person showing them saw more clearly too.
 
 The desk ended up in Amira's room beneath the window.
 
@@ -1943,31 +1879,11 @@ He had.
 
 But even that was not quite enough to explain what had happened.
 
-The promise had survived from one moment to another because later actions could still count as keeping it or failing it.
-
-The words had changed.
-
-The place had changed.
-
-Several hours had passed.
-
-Different people had spoken about it.
-
-Yet the later moment still answered to the earlier one.
-
-The same matter did not require the same wording. It required enough continuity for later actions still to count for or against what had been undertaken.
-
-Without that, Ben could rescue any failed promise simply by redescribing it afterward.
-
-Amira's play made the point more cleanly than Ben preferred.
+The words, place and people had changed, but the later moment still answered to the earlier one. Otherwise Ben could rescue any failed promise simply by redescribing it afterward.
 
 He had arrived.
 
 He had also been late.
-
-Both were true.
-
-The promise was still the same matter because the later facts could count for or against whether he had kept it.
 
 That was why seven minutes mattered.
 
@@ -2072,19 +1988,7 @@ That was different again.
 
 Nothing had to restore the old question. Something from the earlier occasion had become ready to use.
 
-These differences are easy to blur because we use the same phrase for all of them.
-
-"I remembered."
-
-But sometimes something remained available without interruption.
-
-Sometimes it disappeared and was recovered.
-
-Sometimes only a mark remained and helped us reconstruct what mattered.
-
-Sometimes the old situation taught us enough that a new situation became easier to understand.
-
-And sometimes we merely think we remember.
+We call all of these "remembering": something staying available, something being recovered, a mark restoring what mattered, an earlier case making a new one easier to see—and sometimes a memory simply being wrong.
 
 Ben demonstrated that last possibility.
 
@@ -2126,21 +2030,7 @@ The warning was gone because the fault was gone.
 
 That was the best possible fate for it.
 
-Some records are meant to endure.
-
-Others succeed by becoming unnecessary.
-
-A map can be thrown away after the journey.
-
-A shopping list can be crossed out.
-
-A temporary rule can disappear when the danger ends.
-
-An unanswered question can remain for years.
-
-The interesting thing is not simply how long a mark lasts.
-
-It is what later people can still do with what remains.
+Some records are meant to endure. Others succeed by becoming unnecessary. What matters is not simply how long a mark lasts, but what later people can still do with it.
 
 The note above the tap had reached Nora from an unknown person.
 
