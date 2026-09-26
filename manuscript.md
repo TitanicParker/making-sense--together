@@ -2354,6 +2354,18 @@ Sometimes the most faithful thing we can do with an old instruction is stop foll
 
 Continuity can be assembled across different cases, can hold through changing relations, and can also end when the condition that made something matter disappears. Persistence is therefore not simple survival.
 
+### Five questions
+
+1. **What changed in each event?** What becomes one comparative set, what relation makes continuity intelligible across change, and what demand ends when the tap is repaired?
+
+2. **What makes each change enough?** Why does the first depend on several examples together, why does the second require comparison across several kinds of change, and why is the third completed by the warning losing its claim?
+
+3. **What remains afterward?** Why does the comparative set stand, why does sameness persist through a relation, and why does the final result persist as changed practical possibility?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Integration × Distributed × Standing**, **Relating × Distributed × Bearing**, and **Settlement × Release × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“each in its place,” “each changes the other,”** and **“nothing further is owed”** reveal about different ways something can continue—or cease to?
+
 ## The Half-Finished Thing
 
 On Saturday morning Karim left a wooden box outside Ben's flat.
@@ -2528,6 +2540,18 @@ It was the possibility that one person's unfinished question could become anothe
 **Opening × Focal × Efficacy → #12 — “more ways open”**
 
 An unfinished question can be inherited, narrowed by a decisive distinction, and then leave behind a reusable investigative move. What passes between people is not only answers but shaped possibilities for further inquiry.
+
+### Five questions
+
+1. **What changed in each event?** What possibility is opened by the unfinished window seat, what distinction settles the cause of the jam, and what later investigative possibility becomes available?
+
+2. **What makes each change enough?** Why is the half-built seat the focal inheritance, why is the rising floor the decisive contrast, and why is the completed job the pivot for the later checking practice?
+
+3. **What remains afterward?** Why does the unfinished problem remain through its relation to prior attempts, why does the causal result persist through bearing, and why does the final result persist as a usable move?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Focal × Bearing**, **Differentiation × Focal × Bearing**, and **Opening × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“from here, either way,” “this, not that,”** and **“more ways open”** say about inheriting a problem, resolving one distinction, and carrying a method forward?
 
 ## For Whoever Comes Next
 
@@ -2779,6 +2803,18 @@ It was how it had survived.
 **Opening × Distributed × Standing → #13 — “another way through”**
 
 The chapter separates a written carrier from the practical judgment needed to use it, then shows several modes working together to transmit a skill. Preservation can therefore require transformation rather than exact copying.
+
+### Five questions
+
+1. **What changed in each event?** What distinction appears between written recipe and judgment, what becomes integrated in the teaching, and what new route becomes available in the rewritten recipe?
+
+2. **What makes each change enough?** Why is the recipe's insufficiency as written focal in the first case, why does successful teaching require several means together, and why does the rewritten version depend on a distributed combination of words and images?
+
+3. **What remains afterward?** Why does the first result persist through the relation between instruction and judgment, why does the teaching persist as capability, and why does the rewrite remain as an available representation?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Bearing**, **Integration × Distributed × Efficacy**, and **Opening × Distributed × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“this, not that,” “in operation,”** and **“another way through”** reveal about transmission that is not mere copying?
 
 ## The Pattern Travels
 
@@ -3079,6 +3115,18 @@ If these forms could travel between people and survive across time, how much of 
 
 The chapter tests whether the same structural questions travel across unlike materials. One comparison reveals difference, another turns the questions into a usable method, and the last lets a cross-case pattern stand as something inspectable in its own right.
 
+### Five questions
+
+1. **What changed in each event?** What difference becomes visible among loaves, what becomes integrated when the three questions are used together, and what pattern stands across school, work, routes and music?
+
+2. **What makes each change enough?** Why does the first require several people and outcomes, why does the second depend on applying the method across several cases, and why does the third depend on the plurality of examples?
+
+3. **What remains afterward?** Why does the first result remain as a relation between shared recipe and different outcomes, why does the second persist as a working method, and why does the third stand as an established pattern?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Integration × Distributed × Efficacy**, and **Integration × Distributed × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“this, here,” “in operation,”** and **“each in its place”** disclose about a pattern that travels without becoming identical everywhere?
+
 ## The Rule You Didn't Discover
 
 Amira was doing multiplication at Nora's table.
@@ -3342,6 +3390,18 @@ She used what remained useful and looked again.
 
 Inherited understanding can deepen from use into relation, operate across a distributed system, and survive the failure of one representation by releasing its authority. What is inherited becomes more fully one's own when it can be used, bounded and revised.
 
+### Five questions
+
+1. **What changed in each event?** What relation explains the seven-times table, what access does the bus map create, and what new continuation opens when the map fails?
+
+2. **What makes each change enough?** Why is one generative relation decisive in the first event, why does the map work only through a distributed network, and why does the diversion require release from the map's authority?
+
+3. **What remains afterward?** Why does the first result persist through a relation, while the second and third persist as capacities to navigate?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Opening × Distributed × Efficacy**, and **Opening × Release × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“held against,” “available throughout,”** and **“beyond”** reveal about inherited structures that can explain, enable and eventually be exceeded?
+
 ## A Question Older Than You
 
 Karim's father had a photograph of a narrow shopfront in a town none of them had visited in years.
@@ -3551,6 +3611,18 @@ Someone later could begin there.
 
 An inherited question can remain open as a standing object of inquiry, become partly settled through distributed evidence, and then be recorded without collapsing the remaining uncertainty. Progress can consist in making the boundary between known and unknown more exact.
 
+### Five questions
+
+1. **What changed in each event?** What becomes open for investigation, what becomes settled by records and relatives, and what distinction is preserved between established and uncertain?
+
+2. **What makes each change enough?** Why is the labelled photograph focal in the first event, why is the second settled through several sources together, and why does the third require the distributed structure of both known and unknown elements?
+
+3. **What remains afterward?** Why does the inherited question stand, why do the partial results stand, and why does the final distinction remain explicitly available?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Focal × Standing**, **Settlement × Distributed × Standing**, and **Differentiation × Distributed × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“from here,” “it returns,”** and **“within this”** reveal about an inquiry that advances without pretending uncertainty has vanished?
+
 ## Everyone Knew
 
 The office kettle stopped working on a Tuesday.
@@ -3691,6 +3763,18 @@ That agreement is never the only thing allowed to matter.
 **Repair × Focal × Efficacy → #30 — “the burden moves”**
 
 All three are **Repair × Focal**, but the persistence mode changes. A correction can remain as an established determination, as a newly weighted relation, or as changed action. Agreement does not decide which correction is real; what the matter permits to stand, bear or work does.
+
+### Five questions
+
+1. **What changed in each event?** What is corrected about the kettle, what is corrected about “final draft Friday,” and what is redirected in the team's work?
+
+2. **What makes each change enough?** Why does each repair gather around one decisive locus—the kettle, the manager's meaning, or the manager's actual need?
+
+3. **What remains afterward?** Why does the first correction stand, why does the second persist through the meaning's practical relation, and why does the third persist as changed work?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Repair × Focal × Standing**, **Repair × Focal × Bearing**, and **Repair × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“set right,” “rightly weighted,”** and **“the burden moves”** reveal about three distinct ways a Repair can remain?
 
 ## What Did We Inherit?
 
@@ -3852,6 +3936,18 @@ It was how they keep it alive without making it untouchable.
 **Relating × Distributed × Bearing → #23 — “each changes the other”**
 
 The chapter first separates kinds of inheritance, then lets those distinctions guide different continuations, and finally connects each inherited position to what could count against it. A distinction becomes richer when it changes both action and evidential responsibility.
+
+### Five questions
+
+1. **What changed in each event?** What kinds of inheritance become distinct, what different continuations become available, and what evidential relations become visible?
+
+2. **What makes each change enough?** Why do all three events require comparison across several inherited positions rather than one privileged case?
+
+3. **What remains afterward?** Why does the first result stand as a distinction, why does the second persist as guidance for action, and why does the third remain through relations of evidential bearing?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Standing**, **Differentiation × Distributed × Efficacy**, and **Relating × Distributed × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“within this,” “these among these,”** and **“each changes the other”** reveal about inheriting answers, questions and mistakes responsibly?
 
 ## Odd, Even, Then What?
 
@@ -4084,6 +4180,18 @@ But she was smiling.
 
 A relation first explains one result, then opens inferential reach across further cases, and finally a single counterexample repairs an overextended claim. Understanding grows both by travelling and by encountering limits.
 
+### Five questions
+
+1. **What changed in each event?** What relation explains odd plus odd, what new inferential reach opens afterward, and what claim is repaired by the number two?
+
+2. **What makes each change enough?** Why is the pairing relation focal in the first event, why does the second require reach across several cases, and why is one counterexample sufficient in the third?
+
+3. **What remains afterward?** Why does the first result persist as an explanatory relation, the second as reasoning capacity, and the third as an established correction?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Opening × Distributed × Efficacy**, and **Repair × Focal × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“held against,” “available throughout,”** and **“set right”** reveal about understanding that can extend and still be corrected?
+
 ## You Can Leave
 
 Leila was helping at a community hall on Saturday morning.
@@ -4314,6 +4422,18 @@ The next puzzle would be whether the same recurring forms they had found in draw
 **Differentiation × Focal × Bearing → #2 — “this, not that”**
 
 All three occupy the same cell because each turns on a decisive distinction whose force is relational: physical possibility is not the same as permission, obligation or rule-governed use. Repetition here shows that one form can recur across different materials without becoming a generic slogan.
+
+### Five questions
+
+1. **What changed in each event?** What distinction matters in the promise, the exam phone, and the “KEEP CLOSED” door?
+
+2. **What makes each change enough?** In each case, what focal rule, promise or practical situation makes the distinction operative?
+
+3. **What remains afterward?** Why does each result persist through its relation to an undertaking, rule or purpose rather than as a free-standing fact?
+
+4. **How do those answers produce the same coordinate three times?** Reconstruct **Differentiation × Focal × Bearing** in each event.
+
+5. **How does **“this, not that”** compress all three without making them the same story?** What exactly is being distinguished in each case?
 
 ## You Know This Part
 
