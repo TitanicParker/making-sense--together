@@ -16,6 +16,9 @@
     .intro{padding:24px 26px 18px;border-bottom:1px solid var(--line)}
     h1{font-size:clamp(1.7rem,4vw,2.7rem);line-height:1.05;margin:0 0 10px;letter-spacing:-.03em}
     .lede{margin:0;color:var(--muted);font:14px/1.5 ui-sans-serif,system-ui,sans-serif}
+    .orientation{margin:14px 0 0;padding:13px 15px;border-left:3px solid var(--accent);background:var(--accent-soft);font:13px/1.55 ui-sans-serif,system-ui,sans-serif}
+    .orientation strong{font-weight:800}
+    .orientation .triad{display:block;margin-top:6px;font-weight:700}
     .tools{display:flex;flex-wrap:wrap;gap:8px;padding:14px 18px;border-bottom:1px solid var(--line);background:var(--paper)}
     .tools input,.tools select{height:36px;border:1px solid var(--line);border-radius:7px;background:var(--paper-2);padding:0 10px;font:13px ui-sans-serif,system-ui,sans-serif}
     .tools input{min-width:220px;flex:1}
@@ -36,7 +39,7 @@
 <a class="control" href="index.html">Reader</a><a class="control" href="forms.html">54 Forms</a><button class="control" id="theme" aria-label="Toggle theme">◐</button>
 </div></header>
 <main><section class="panel">
-<div class="intro"><h1>The 15 definitions</h1><p class="lede">A lookup table for the three questions, the three dimensions, and the twelve definitions that answer them. Start with the event; use the table to decide what to notice.</p></div>
+<div class="intro"><h1>The 15 definitions</h1><p class="lede">A lookup table for the three questions, the three dimensions, and the twelve definitions that answer them. Start with the event; use the table to decide what to notice.</p><div class="orientation"><strong>Discern the three answers independently.</strong> Knowing what changed does not tell you what made that change sufficient; neither answer tells you how the achieved result remains available. <span class="triad">What changed? → Transformation · What made it sufficient? → Completion · What remained? → Persistence</span></div></div>
 <div class="table-wrap"><table><thead><tr><th>#</th><th>Question</th><th>Axis / definition</th><th>Canonical definition</th><th>Look for</th><th>Plain check</th></tr></thead><tbody id="rows"></tbody></table></div>
 <div class="status" id="status">Loading the canonical ledger…</div>
 </section></main>
@@ -54,7 +57,7 @@ var cues={
 "Settlement":["A live demand for further uptake, choice or completion is discharged.","What no longer needs answering or completing?"],
 "Focal":["Sufficiency gathers around a privileged locus.","What was decisive?"],
 "Distributed":["A plurality, span, sequence or system belongs to what makes it enough.","What had to work together?"],
-"Release":["Something that governed the opening field no longer governs it.","What lost its governing claim?"],
+"Release":["Sufficiency occurs because something that governed the opening field no longer governs it. Release names the shape of enoughness, not the kind of change itself.","What lost its governing claim?"],
 "Standing":["The achieved determination itself remains available.","What is now established?"],
 "Bearing":["The result remains through a constitutive relation or condition.","What still holds through what?"],
 "Efficacy":["The result remains as capacity, rule, effect or changed continuation.","What can now happen because of this?"]
