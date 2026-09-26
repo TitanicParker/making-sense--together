@@ -2119,11 +2119,7 @@ Not agreement.
 
 Ben and Amira could disagree about whether arriving seven minutes late counted as keeping the promise.
 
-The temptation was to answer with something vague: the meaning stayed the same.
-
-But meanings can change too.
-
-The note above the tap had once meant danger. After the hose was replaced, leaving the note there would have preserved the words while destroying their usefulness.
+The note above the tap had once meant danger. After the hose was replaced, preserving the words would have destroyed their usefulness.
 
 Leila turned Ben's phone toward him.
 
@@ -2177,17 +2173,7 @@ Sameness depends partly on what is being asked.
 
 Same for what?
 
-The desk before and after painting is the same desk if the question is who owns it.
-
-It may not be the same surface if the question is what needs sanding.
-
-A revised map may be the same route for getting home and a different map for studying how the neighbourhood used to look.
-
-A person can be the same person and hold a different view.
-
-There is no single trick that settles every case.
-
-But one question kept helping:
+There was no single trick that settled every case. But one question kept helping:
 
 Does what happens here still answer to what was at issue there?
 
@@ -2360,27 +2346,7 @@ They trimmed the back edge.
 
 The box slid into place.
 
-A problem had passed from one person to another without being reset to zero.
-
-Ben did not have to rediscover that the front width was correct. Karim had already checked it.
-
-He did not have to repeat every failed screw position. The wood showed some of that history.
-
-He also could not trust every inherited assumption. Karim's note said one side was wrong. It turned out no side was wrong in the way he meant.
-
-Ben had received something unfinished, but not something shapeless. Karim's failed attempts were already part of the problem Ben had taken over.
-
-The question became Ben's because his next actions could still answer it.
-
-What makes the box jam?
-
-The person changed.
-
-The room did not.
-
-The box did not.
-
-The history of failed attempts became part of the new attempt.
+The problem had passed from Karim to Ben without being reset to zero. The pencil marks and failed holes narrowed it; Karim's note could still be wrong. What Ben inherited was unfinished, but not shapeless.
 
 Later, Ben told Nora the story.
 
@@ -2621,21 +2587,7 @@ They went back over the card, the video and the feel Nora had been trying to sho
 
 The second loaf was better.
 
-The recipe was moving again.
-
-It had crossed from card to hands, from one kitchen to another, from words to demonstration and back to words.
-
-No single version contained the whole thing.
-
-The card mattered.
-
-So did the person reading it.
-
-So did the flour.
-
-So did the loaf that came out of the oven.
-
-The card could survive for decades and still fail to carry everything needed to make the bread. Leila's second loaf needed more than the card, and Nora's later rewrite would need to change the card in order to carry more.
+The recipe was moving again: from card to hands, from one kitchen to another, from words to demonstration and back to words. The card mattered, but it did not carry everything needed to make the bread.
 
 Nora eventually rewrote the bread recipe for Amira.
 
@@ -2832,51 +2784,11 @@ That would have been premature and, as Ben said, "a terrible evening."
 
 Instead they took a few cases.
 
-The desk leg.
+They tried the three questions on the desk, the promise and the bread.
 
-What changed?
+The answers did not line up the same way.
 
-A difference became clear: one face had a shallow cut that mattered.
-
-Why was that enough?
-
-One particular feature decided how the leg had to face.
-
-What remained?
-
-A reliable way to fit it.
-
-The promise.
-
-What changed?
-
-Not much at the moment of making it. A question about what Ben would do had received an answer.
-
-Why was that enough?
-
-One undertaking settled what Amira could reasonably expect.
-
-What remained?
-
-Not an object. A continuing relation between what Ben had said and what his later actions would count as.
-
-The bread.
-
-What changed when Nora finally understood "do not overwork"?
-
-Something became possible that the words alone had not given her. She could stop mixing at the right point.
-
-Why was that enough?
-
-Not one clue alone. The look, feel and movement of the dough mattered together.
-
-What remained?
-
-An ability visible in what she could now do.
-
-Three cases.
-
-Three different combinations.
+With the desk, one small feature decided orientation. With the promise, what mattered later still answered to an undertaking made earlier. With the bread, several cues had to work together before Nora could stop at the right point.
 
 Leila tapped the page.
 
@@ -2914,25 +2826,7 @@ Leila described showing someone a route by saying, "Go past the red door," only 
 
 Karim told them about a friend learning a song from a recording, playing every note correctly and still getting the rhythm wrong.
 
-The forms travelled.
-
-A difference mattered.
-
-A relation became visible.
-
-Several parts had to work together.
-
-An old assumption stopped deciding the next move.
-
-An answer settled one question and opened another.
-
-Something became established.
-
-Something remained only through how things stood in relation.
-
-Something survived mainly as an ability.
-
-The examples were multiplying faster than the names.
+The forms travelled. The examples multiplied faster than the names.
 
 That was the point at which the easy reading became dangerous.
 
@@ -3219,25 +3113,7 @@ Not because she had cut herself off from them.
 
 Because she could increasingly tell when the inherited instruction fit the situation, when it did not and what to do next.
 
-An answer becomes more fully ours when we can do something with it besides repeat it.
-
-Use it.
-
-Explain part of it.
-
-Recognize where it applies.
-
-Notice where it fails.
-
-Connect it to something else.
-
-Recover it when the wording changes.
-
-Correct it when the situation demands.
-
-That does not erase the people it came from.
-
-It makes their contribution more alive.
+An answer becomes more fully ours when we can use it, see where it applies, notice where it fails and correct it when the situation demands. That does not erase the people it came from.
 
 On the bus home Amira looked at the route map again.
 
@@ -3403,10 +3279,6 @@ The next day he called back.
 The identity of the second man became more secure.
 
 The first-day question remained open.
-
-That difference mattered.
-
-One part of a question can be answered while another survives.
 
 Karim began asking older relatives.
 
@@ -3617,7 +3489,7 @@ They had all agreed with one another.
 
 They had still been wrong about what another person was expecting.
 
-The manager's answer did what the kettle test had done in a different way: it gave the group's confident reading something it had to answer to.
+The manager's answer gave the group's confident reading something it had to answer to.
 
 The team dropped the end-of-day plan and reorganized the remaining work around the nine o'clock meeting.
 
@@ -3714,15 +3586,7 @@ Within minutes the explanation belonged to the group.
 
 That distinction changed what sensible continuation looked like.
 
-An inherited answer should not automatically be distrusted merely because we did not discover it.
-
-If every person had to derive arithmetic, rebuild maps and retest every safety rule from the beginning, human life would scarcely move.
-
-An inherited question should not automatically be closed merely because uncertainty is uncomfortable.
-
-Sometimes preserving the question is the responsible thing.
-
-And an inherited mistake should not be protected merely because many people now share it.
+An inherited answer did not become suspect merely because someone else found it first. An inherited question did not become an answer merely because uncertainty was uncomfortable. And an inherited mistake did not become safer because many people shared it.
 
 Leila moved the pages around.
 
@@ -3744,21 +3608,7 @@ Karim said, "You need to know which kind you've got."
 
 That was closer.
 
-If you mistake a question for an answer, you close something too early.
-
-If you mistake an answer for a question, you may waste time reopening what is already well established.
-
-If you mistake agreement for either, you may inherit confidence without inheriting a reason.
-
-The difficult part is that the page rarely labels itself.
-
-ANSWER.
-
-QUESTION.
-
-MISTAKE.
-
-The same sentence can move between them.
+The difficulty was that the page rarely labelled itself. The same sentence could move between answer, question and mistake as evidence changed.
 
 "The shop opened on 13 July 1968" began as unknown, became supported by a printed advertisement and could still be challenged by better evidence.
 
@@ -3945,7 +3795,7 @@ Then:
 
 13 + 22 = 35.
 
-The earlier result had become part of the means for answering a new question. Amira no longer needed to start from examples each time.
+The earlier result had become part of the means for answering a new question.
 
 That afternoon Ben came in and saw the page.
 
@@ -4150,47 +4000,7 @@ Later she told Nora.
 
 Karim said, "I discovered coffee."
 
-The distinction sounds obvious once stated.
-
-Some things stop us physically.
-
-A locked door.
-
-A flooded road.
-
-A broken axle.
-
-A body that cannot lift the weight.
-
-Other things leave the movement physically possible while changing what it means to do it.
-
-A promise.
-
-A rule.
-
-A deadline.
-
-A debt.
-
-An appointment.
-
-A responsibility.
-
-These are not imaginary merely because they do not work like walls.
-
-At the same time, they do not overrule walls.
-
-Leila could promise to deliver the boxes through a flooded road.
-
-The promise would not dry the road.
-
-Everyone in the hall could vote that a broken lift was working.
-
-The lift would remain broken.
-
-Human agreement can change what actions count as.
-
-It cannot make every physical condition obey.
+Some constraints block movement. Others leave movement physically possible while changing what the movement counts as. A promise would not dry a flooded road, and agreement would not repair a broken lift.
 
 A few weeks later Amira encountered the distinction more sharply.
 
@@ -4274,31 +4084,7 @@ The rule depended on purpose, timing and what people were doing.
 
 Leila carried the table through and closed the door behind her.
 
-Nothing dramatic had happened.
-
-Yet the scene held two kinds of reality at once.
-
-The door was wood, hinges, weight and movement.
-
-The rule was an expectation people could follow, ignore, misunderstand, revise and enforce.
-
-Neither reduced neatly to the other.
-
-And human life constantly moves through both.
-
-We walk on floors that can collapse.
-
-We also keep appointments.
-
-We repair brakes.
-
-We also keep promises.
-
-We calculate what is possible.
-
-We also ask what counts.
-
-The next puzzle would be whether the same recurring forms they had found in drawers, recipes and proofs could really stretch across both without becoming so vague that they explained nothing.
+The door was wood, hinges, weight and movement. The rule was an expectation people could follow, ignore, misunderstand, revise and enforce. The next puzzle was whether the same recurring forms they had found elsewhere could stretch across both without becoming vague.
 
 ### Three events
 
