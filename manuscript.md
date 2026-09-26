@@ -2151,7 +2151,7 @@ Leila picked up the sink note.
 
 "No," Nora said. "The hose was fixed."
 
-"Exactly. The note stopped being true."
+"Exactly. Once the hose was fixed, the same warning no longer fit the tap."
 
 Karim smiled.
 
@@ -2534,6 +2534,8 @@ Nora asked, "Did you knead it?"
 A pause.
 
 Maybe.
+
+They went back over the card, the video and the feel Nora had been trying to show her.
 
 The second loaf was better.
 
@@ -3587,9 +3589,9 @@ A remembered promise.
 
 A person saying, "That is not what I meant."
 
-The office finished the report by nine the next morning.
+The team dropped the end-of-day plan and reorganized the remaining work around the nine o'clock meeting.
 
-At eight fifty-eight Martin emailed it.
+At eight fifty-eight Martin emailed the report.
 
 Subject: FINAL DRAFT — ACTUALLY FINAL
 
