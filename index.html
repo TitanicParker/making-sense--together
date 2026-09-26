@@ -98,7 +98,11 @@
       display: flex;
       align-items: center;
       gap: 6px;
+      overflow-x: auto;
+      scrollbar-width: none;
     }
+
+    .toolbar::-webkit-scrollbar { display: none; }
 
     .control {
       border: 1px solid var(--line);
@@ -474,6 +478,8 @@
     }
 
     @media (max-width: 860px) {
+      .brand { display:none; }
+      .toolbar { width:100%; }
       main { padding: 24px 10px 70px; }
       .book { padding: 32px 22px 50px; border-radius: 0; }
       .chapter {
@@ -514,6 +520,8 @@
     <div class="toolbar">
       <a class="control nav-pill" href="./definitions.html" aria-label="Open definitions">Definitions</a>
       <a class="control nav-pill" href="./forms.html" aria-label="Open 54 canonical forms">54 Forms</a>
+      <a class="control nav-pill" href="./semantic-fields.html" aria-label="Open semantic field">Semantic Field</a>
+      <a class="control nav-pill" href="./method.html" aria-label="Open method and technical notes">Method</a>
       <button class="control" id="practice" aria-pressed="false" aria-label="Toggle practice mode">Practice</button>
       <button class="control" id="smaller" aria-label="Smaller text">A−</button>
       <button class="control" id="larger" aria-label="Larger text">A+</button>
@@ -547,6 +555,8 @@
       <div class="system-links" style="margin-top:10px">
         <a href="definitions.html">15 definitions</a>
         <a href="forms.html">54 forms</a>
+        <a href="semantic-fields.html">semantic field</a>
+        <a href="method.html">method</a>
       </div>
     </div>
   </aside>
