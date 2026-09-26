@@ -114,6 +114,11 @@
 
     .control:hover { border-color: var(--accent); }
 
+    .nav-pill {
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
     .chapter-tabs-wrap {
       position: sticky;
       top: 56px;
@@ -345,13 +350,14 @@
   </style>
 </head>
 <body>
+  <!-- toolbar-nav-version: 2 -->
   <div class="progress" aria-hidden="true"><div id="progressBar"></div></div>
 
   <header class="topbar">
     <div class="brand" id="brand">Making Sense Together</div>
     <div class="toolbar">
-      <button class="control" id="definitions" aria-label="Open definitions">Definitions</button>
-      <button class="control" id="forms" aria-label="Open 54 canonical forms">54 Forms</button>
+      <a class="control nav-pill" href="./definitions.html" aria-label="Open definitions">Definitions</a>
+      <a class="control nav-pill" href="./forms.html" aria-label="Open 54 canonical forms">54 Forms</a>
       <button class="control" id="smaller" aria-label="Smaller text">A−</button>
       <button class="control" id="larger" aria-label="Larger text">A+</button>
       <button class="control" id="width" aria-label="Toggle reading width">↔</button>
@@ -531,14 +537,6 @@
             "Create <code>manuscript.md</code> in this repository, then reload the page.<br><br>" +
             "<small>" + String(error.message).replace(/[<>]/g, "") + "</small>";
         });
-
-      document.getElementById("definitions").addEventListener("click", function () {
-        window.location.href = "definitions.html";
-      });
-
-      document.getElementById("forms").addEventListener("click", function () {
-        window.location.href = "forms.html";
-      });
 
       document.getElementById("theme").addEventListener("click", function () {
         var dark = document.documentElement.dataset.theme === "dark";
