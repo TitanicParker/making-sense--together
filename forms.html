@@ -98,12 +98,12 @@ var qt=params.get("t"),qc=params.get("c"),qp=params.get("p");
 if(qt && orderT.indexOf(qt)>-1)document.getElementById("t").value=qt;
 if(qc && orderC.indexOf(qc)>-1)document.getElementById("c").value=qc;
 if(qp && orderP.indexOf(qp)>-1)document.getElementById("p").value=qp;
-if(requestedForm && /^\d+$/.test(requestedForm)){
-  document.getElementById("s").value=requestedForm;
-}
 render();
 if(requestedForm && /^\d+$/.test(requestedForm)){
   var row=document.querySelector("tr[data-form='"+requestedForm+"']");
+  Array.from(document.querySelectorAll("#rows tr[data-form]")).forEach(function(r){
+    r.hidden = r !== row;
+  });
   if(row){row.classList.add("highlight");setTimeout(function(){row.scrollIntoView({block:"center"})},0)}
 }
 document.getElementById("status").hidden=true;
