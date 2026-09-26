@@ -224,11 +224,11 @@ Nora tasted once more, slower this time.
 
 Ben put the salt away.
 
-There was still more they could have done. The soup could have been smoother. The onions could have cooked another two minutes. A little lemon might have sharpened it. Someone with a different taste might have wanted more pepper. Nothing about the word "enough" meant that the soup had reached a perfect and final state.
+There was still more they could have done. The soup could have been smoother. The onions could have cooked another two minutes. A little lemon might have sharpened it. Someone else might have wanted more pepper.
 
-It meant they could stop adjusting the pot and serve dinner.
+But the question at the stove was smaller than perfection.
 
-That difference is easy to miss because some small problems have hard edges. A drawer closes or it does not. A plug fits or it does not. But much of life would remain permanently unfinished if the only acceptable ending were that nothing could possibly be improved.
+Could they serve it?
 
 Ben filled two bowls and carried them to the table.
 
@@ -372,20 +372,24 @@ Her sister waited.
 
 Only then did Leila tap the wall, find the stud and change where the rack would go.
 
-She did not tell the story of the curtain rail. She did not need to. What had once been an annoying little failure had become part of how she approached a new job.
+She did not tell the story of the curtain rail. She did not need to.
 
-And what she passed on was not a rule saying that every screw must go into a stud. In another wall, for another load, a different fixing might be perfectly good. What survived was a question: enough for what?
+What had survived was not a rule saying that every screw must go into a stud. In another wall, under another load, a different fixing might be perfectly good. What survived was the question that came before the fixing:
 
-That question could travel farther than the original curtain rail because it did not require anyone to remember the room, the bracket, the photograph or the nephew.
+Enough for what?
 
-But it could still be wrong in a new case. A future wall might demand another question. A new material might fail in a way neither Nora nor Leila had seen before. Someone else might know a better test.
+### Three events
 
-That did not make the question useless.
+**1. Ben and Nora decide that the soup is good enough to serve.**  
+**Settlement × Focal × Efficacy → #48 — “arrived”**
 
-It kept it alive.
+**2. Nora and Leila make the curtain rail secure enough for its expected use, but a child later overloads it.**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
 
-The useful ending to a problem is often not the point where nothing more could ever be said. It is the point where we have enough to continue without pretending the future has promised not to surprise us.
+**3. Leila later checks the expected load before deciding how to mount a coat rack.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
 
+All three completions are **Focal**, but “enough” is doing different work: a question can be settled so action proceeds, a repair can be adequate only relative to a governing load, and a relation can guide the next decision. The chapter separates stopping, adequacy and practical consequence without treating any of them as finality.
 
 ## What You Get to Keep
 
@@ -431,11 +435,7 @@ This time she barely thought about it.
 
 Something that had once required trial, uncertainty and checking had become a step inside another task.
 
-That is one of the quietest changes in ordinary understanding. What was once the thing we were trying to work out becomes part of how we work something else out.
-
-Years of living are full of this. A route that once needed a map becomes the way to work. A word that once had to be sounded out becomes part of a sentence. A mathematical result that once required a page of proof becomes one line in a later argument. A child who once had to watch every movement of a shoelace eventually ties it while thinking about something else.
-
-Nora would not have said she was "remembering the fuse box" each time. She simply knew where to go.
+Nora would not have said she was "remembering the fuse box." She simply knew where to go.
 
 Then an electrician came.
 
@@ -533,28 +533,22 @@ He called an electrician.
 
 The useful part of what he had learned at Nora's had not been "resetting breakers fixes electricity." It had been smaller and better: sometimes a result tells you what to try next, and sometimes the failure of that next step tells you not to keep pretending you already know.
 
-What we keep from an understanding is rarely the whole moment in which we reached it. The room falls away. The exact words fade. The person who pointed something out may not be there. What remains may be a fact, a habit, a question, a way of checking, a skill, a warning, a label, a remembered mistake.
+What Nora passed on was smaller than the whole history and more useful than a slogan. It could guide the next move, and it could also tell Arun when to stop.
 
-And whatever remains can change again.
+By the time the kettle boils, the question that mattered has usually disappeared. What it changed may stay for years.
 
-It can become easier to use.
+### Three events
 
-It can become vague.
+**1. Nora identifies and labels the breaker controlling the kitchen-wall sockets.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
 
-It can be written down badly.
+**2. Rewiring makes Nora's old breaker location wrong while leaving other parts of what she learned useful.**  
+**Differentiation × Release × Bearing → #8 — “more and less”**
 
-It can be taught well.
+**3. Nora passes useful information about the breaker to Arun, who later knows when a similar procedure should be abandoned.**  
+**Differentiation × Focal × Efficacy → #3 — “this far”**
 
-It can survive when the reason for it has been forgotten.
-
-It can fail in a new situation and have to be worked out again.
-
-That is not a defect in understanding. It is part of how understanding gets a life beyond the moment that produced it.
-
-By the time the kettle boils, the question that mattered has usually disappeared.
-
-What it changed may stay for years.
-
+What persists from an understanding need not persist uniformly. One determination can stand, one part can lose authority when conditions change, and a surviving distinction can remain chiefly as a limit on future action. Persistence is selective rather than all-or-nothing.
 
 ## Look Again
 
@@ -758,20 +752,22 @@ The woman looked relieved.
 
 Nora did not ask the woman to trust her private certainty. She passed on what she had been told and gave the couple somewhere to go if they wanted to check it themselves.
 
-Months later, Nora would remember the journey mainly as the day the platforms kept changing. Leila remembered the bad coffee they bought during the forty-minute wait.
+Months later, Nora remembered the journey mainly as the day the platforms kept changing. Leila remembered the bad coffee they bought during the forty-minute wait.
 
-But both of them kept something from the morning.
+What lasted was less tidy than a rule: look again when the sign changes, listen again when the announcement blurs, and leave another person a way to check what you have told them.
 
-When a sign changed, look again.
+### Three events
 
-When an announcement was unclear, repeat it.
+**1. Nora and Leila correct which platform their train is leaving from.**  
+**Repair × Focal × Standing → #28 — “set right”**
 
-When someone offered information, ask what it rested on.
+**2. The guard confirms that their tickets will remain valid after a delay causes them to miss their connection.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
 
-And when another person saw what you had missed, do not treat that as a defeat.
+**3. Nora passes the guard's information to other delayed passengers while telling them they can verify it themselves.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
 
-Sometimes another pair of eyes simply gives the world another chance to become clear.
-
+The first two events both leave a **Standing** result, but one corrects an error while the other settles a live question. The third changes scale: what one person learned becomes distributed access for others and persists in what they can now do with it.
 
 ## The Same Thing Between Us
 
@@ -847,19 +843,7 @@ Karim took the box downstairs.
 
 The next day the sister came for it. She gave his name at the door, described the parcel and showed the message from the former tenant. Karim handed it over.
 
-A small chain had held.
-
-The driver had read an address.
-
-Leila had recognized a name.
-
-A message had reached the person who placed the order.
-
-That person had identified someone else who could collect it.
-
-Karim had enough to know whom to give it to.
-
-Nobody in the chain possessed the whole situation at the start. Each person had a different part. The parcel moved because those parts became connected well enough.
+The parcel was gone. What had been uncertain at Leila's door now had a route and someone authorized to collect it.
 
 A week later, Leila and Karim were less successful.
 
@@ -909,13 +893,9 @@ The joint was tightened, dried and watched.
 
 No more water appeared.
 
-Their disagreement had not prevented them from dealing with one reality. In fact, it had helped them find it. Karim's idea sent him upstairs. Leila's idea kept attention on the pipe. The neighbour's report removed one possibility. The moisture readings narrowed the area. The open panel exposed the joint. The water itself answered more clearly than either of them could.
+Whatever they had suspected before, the bead forming on the joint decided the matter more cleanly than either opinion had.
 
-Neither person had won by having a stronger opinion.
-
-They had become more closely attached to the same question.
-
-That distinction mattered a few days later when Karim told the story to someone else.
+A few days later Karim told the story to someone else.
 
 "Leila knew it was the pipe."
 
@@ -986,6 +966,19 @@ She knew what he meant.
 Not because the word contained the whole story.
 
 Because by then, enough of the story existed between them for the word to find its place.
+
+### Three events
+
+**1. Leila and Karim determine how a parcel for a former tenant should reach its owner.**  
+**Settlement × Focal × Efficacy → #48 — “arrived”**
+
+**2. Leila and Karim identify a leaking pipe joint after testing competing explanations for a ceiling stain.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**3. Karim later investigates a similar stain and learns that it comes from an old repaired leak.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+The parcel is settled by a course of action, while the two stain cases are resolved by identifying what the visible mark bears on. Similar-looking situations can share a coordinate, but only when the same kind of relation is what makes them intelligible.
 
 ## When the Answer Fights Back
 
@@ -1139,31 +1132,9 @@ This time the smaller problem really was local.
 
 The old heating failure had not given him a universal answer. It had made him more cautious about what one symptom could prove.
 
-Later still, he would misdiagnose other things.
+Later still, Ben would misdiagnose other things.
 
-Everyone does.
-
-A neat explanation can feel finished because all the pieces we have noticed fit inside it. What we have not noticed may still be waiting outside.
-
-Sometimes another person brings it in.
-
-Sometimes a test does.
-
-Sometimes a machine simply refuses to work.
-
-Sometimes a calculation produces an impossible result.
-
-Sometimes someone says, "That isn't what I meant."
-
-Those moments can be irritating because they reopen something we had already put down.
-
-But the ability to be reopened is not a weakness added to understanding from the outside.
-
-It is one of the ways understanding stays connected to what it is trying to understand.
-
-A conclusion that could never be touched by what happened next would be easy to keep.
-
-It would also be useless.
+The useful change was not immunity from error. It was that a failed fix, an awkward measurement or a machine that kept misbehaving could still force the answer back open.
 
 Years after the heating problem, Nora was in Ben's kitchen when the kettle failed to boil.
 
@@ -1203,6 +1174,18 @@ It had become something quieter.
 
 Do not let the first answer become harder to move than the problem itself.
 
+### Three events
+
+**1. Repeated heating behaviour shows Ben that changing the thermostat has not solved the problem.**  
+**Repair × Release × Standing → #34 — “a better limit”**
+
+**2. An engineer discovers poor circulation and explains why the thermostat had been stopping the boiler.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**3. Ben later tests a failed kettle before deciding that the kettle itself is faulty.**  
+**Differentiation × Focal × Standing → #1 — “this”**
+
+The chapter shows three different ways reality can push back: an old answer can lose authority, a causal relation can reorganize the facts without erasing them, and testing can isolate the thing at fault. Correction is not one single operation.
 
 ## What Keeps Happening?
 
@@ -1417,6 +1400,19 @@ It shut without complaint.
 For the moment, at least, that was enough.
 
 The harder question was how far those shapes would travel.
+
+### Three events
+
+**1. Nora, Ben and Leila identify six recurring kinds of change across their earlier experiences.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**2. They identify three ways a change can become enough and three ways something can remain afterward.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**3. They derive fifty-four possible combinations while leaving open whether the scheme will survive further cases.**  
+**Integration × Distributed × Standing → #40 — “each in its place”**
+
+The first two events differentiate the dimensions; the third integrates them. This is the chapter where the coordinate system itself becomes an object of understanding: first its distinctions stand out, then they are organized into a provisional whole.
 
 ## There
 
@@ -1656,6 +1652,19 @@ The desk moved.
 
 Then she reached underneath.
 
+### Three events
+
+**1. Karim discovers that a shallow cut, rather than a drilled hole, determines the correct orientation of a desk leg.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Karim and Amira assemble the desk, undo an incorrect step and adjust it until it stands steadily.**  
+**Repair × Distributed × Efficacy → #33 — “turn where it fails”**
+
+**3. Amira later uses the same kind of directed attention to help another child and to diagnose the desk herself.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+A single relation can make orientation intelligible, but repairing the whole desk requires several coordinated corrections. What survives most strongly is not the original answer but a distributed capacity to direct attention and continue effectively.
+
 ## Still About That
 
 Ben had promised Amira he would come to her school play.
@@ -1850,39 +1859,9 @@ Different people had spoken about it.
 
 Yet the later moment still answered to the earlier one.
 
-That is one of the ways a matter can remain the same without remaining identical.
+The same matter did not require the same wording. It required enough continuity for later actions still to count for or against what had been undertaken.
 
-Not because every detail is preserved.
-
-Because what happens later can still bear directly on what was at issue before.
-
-A reply can answer a question asked yesterday.
-
-Evidence found next week can contradict today's explanation.
-
-A payment can fulfil an earlier debt.
-
-A proof written in different notation can establish the same claim.
-
-An apology can respond to an old injury.
-
-A repaired hinge can answer a problem someone else first noticed.
-
-The connection is not guaranteed.
-
-People change subjects while using the same words.
-
-They preserve a subject while using different words.
-
-They remember badly.
-
-They revise.
-
-They replace.
-
-The boundary is not always sharp.
-
-But without any boundary at all, correction would become impossible. Every time an answer failed, we could simply say we had meant something else.
+Without that, Ben could rescue any failed promise simply by redescribing it afterward.
 
 Amira's play made the point more cleanly than Ben preferred.
 
@@ -1895,6 +1874,19 @@ Both were true.
 The promise was still the same matter because the later facts could count for or against whether he had kept it.
 
 That was why seven minutes mattered.
+
+### Three events
+
+**1. Ben promises to attend Amira's school play and arrives seven minutes after it begins.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Ben and the others compare different descriptions of the promise to determine what undertaking remained at issue.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**3. A later promise to collect a package affects Ben's decision to leave work before the shop closes.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+The same undertaking can survive changes in wording because later events still bear on it. The chapter distinguishes continuity of relation from identity of expression, and then shows that a relation can persist not only as something understood but as something that changes action.
 
 ## What Yesterday Still Wants
 
@@ -2053,6 +2045,19 @@ Yesterday can still make demands on today.
 But it does not do so merely by surviving physically.
 
 Something has to make the old mark, object, promise, question or result matter again now.
+
+### Three events
+
+**1. An unexplained warning keeps people from using a broken tap until someone ignores it and exposes the fault.**  
+**Opening × Release × Standing → #16 — “free to choose”**
+
+**2. Nora's forgotten note about smoke-alarm batteries later restores an unfinished task to her attention.**  
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+**3. Ben's memory of the screws used on the curtain rail is contradicted when Nora compares his new screws with an old one.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+What survives from the past can reopen a possibility, restore a task, or correct a memory. The chapter therefore separates persistence from uninterrupted presence: something can matter again after having fallen out of attention.
 
 ## Still the Same?
 
@@ -2216,6 +2221,19 @@ Sometimes it means preserving the ability to revise the answer.
 
 Sometimes the most faithful thing we can do with an old instruction is stop following it.
 
+### Three events
+
+**1. Leila places a desk photograph, a promise message and an old warning together as examples of things that continued.**  
+**Integration × Distributed × Standing → #40 — “each in its place”**
+
+**2. The group compares what can remain the same when words, people, memories and circumstances change.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+**3. Repairing the tap makes the old warning cease to be an appropriate instruction.**  
+**Settlement × Release × Efficacy → #54 — “nothing further is owed”**
+
+Continuity can be assembled across different cases, can hold through changing relations, and can also end when the condition that made something matter disappears. Persistence is therefore not simple survival.
+
 ## The Half-Finished Thing
 
 On Saturday morning Karim left a wooden box outside Ben's flat.
@@ -2328,27 +2346,9 @@ He did not have to repeat every failed screw position. The wood showed some of t
 
 He also could not trust every inherited assumption. Karim's note said one side was wrong. It turned out no side was wrong in the way he meant.
 
-This is common.
+Ben had received something unfinished, but not something shapeless. Karim's failed attempts were already part of the problem Ben had taken over.
 
-We receive finished things from other people: a recipe, a route, a formula, a repaired hinge, a word, a decision.
-
-But we also receive unfinished things.
-
-A half-written sentence.
-
-A bug somebody cannot reproduce.
-
-A family story with one part nobody can explain.
-
-A scientific question.
-
-A broken machine with three parts already replaced.
-
-A disagreement that began before we entered the room.
-
-The unfinishedness can itself survive the handover.
-
-Karim's question became Ben's question because Ben's next actions could still answer it.
+The question became Ben's because his next actions could still answer it.
 
 What makes the box jam?
 
@@ -2372,19 +2372,7 @@ Later, Ben told Nora the story.
 
 That was true too.
 
-Wrong attempts can leave useful boundaries.
-
-This screw is not enough.
-
-That explanation fails.
-
-The front width is not the issue.
-
-The train is not on platform four.
-
-The uncertainty changes shape.
-
-A person who comes later can begin from that changed shape.
+A wrong attempt could still narrow what came next. The front width, at least, no longer needed rediscovering.
 
 A week after the window seat was finished, Karim lifted the lid and found Ben's level inside.
 
@@ -2407,6 +2395,19 @@ So did the memory that a level floor should not be assumed.
 But the most interesting thing that had survived was neither.
 
 It was the possibility that one person's unfinished question could become another person's work without ceasing to be the same question.
+
+### Three events
+
+**1. Karim gives Ben a partly built window seat together with the unresolved problem left by his failed attempts.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+**2. Ben discovers that the rising floor, rather than the width of the bay, causes the box to jam.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**3. The completed job leaves Karim with both Ben's level and a new reason to check whether a floor is level.**  
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+An unfinished question can be inherited, narrowed by a decisive distinction, and then leave behind a reusable investigative move. What passes between people is not only answers but shaped possibilities for further inquiry.
 
 ## For Whoever Comes Next
 
@@ -2600,23 +2601,7 @@ So did the flour.
 
 So did the loaf that came out of the oven.
 
-A record can outlast the person who made it. That is one of the great ordinary powers of writing.
-
-But survival is not the same as successful continuation.
-
-A sentence can remain readable while nobody knows what it meant.
-
-An instruction can be repeated after the conditions that made it useful have changed.
-
-A proof can sit in a book unread.
-
-A warning can remain on a wall after the danger is gone.
-
-A recipe can survive while the practice needed to use it disappears.
-
-And the reverse can happen too.
-
-People can preserve an understanding while changing the words completely.
+The card could survive for decades and still fail to carry everything needed to make the bread. Leila's second loaf needed more than the card, and Nora's later rewrite would need to change the card in order to carry more.
 
 Nora eventually rewrote the bread recipe for Amira.
 
@@ -2646,11 +2631,7 @@ Nora looked at the old card.
 
 There was no clean answer.
 
-The bread had passed through different hands, corrections, kitchens, flour, ovens and words.
-
-Nobody had kept it alive by freezing it.
-
-They had kept it alive by making enough of it available for another person to do the thing again, notice when it was going wrong and change what needed changing.
+The bread had passed through different hands, corrections, kitchens, flour, ovens and words. Each version carried something forward by changing something else.
 
 Amira folded the new sheet and put it into her school bag.
 
@@ -2666,7 +2647,18 @@ That was not a failure of preservation.
 
 It was how it had survived.
 
+### Three events
 
+**1. Nora learns that using her mother's bread recipe requires judgments that are not fully contained in the written instructions.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. Nora teaches the recipe to Leila using the card, additional instructions, demonstration and correction.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. Nora rewrites the recipe for Amira using words and images that differ from the original card.**  
+**Opening × Distributed × Standing → #13 — “another way through”**
+
+The chapter separates a written carrier from the practical judgment needed to use it, then shows several modes working together to transmit a skill. Preservation can therefore require transformation rather than exact copying.
 
 ## The Pattern Travels
 
@@ -2954,6 +2946,19 @@ Now another question had appeared.
 
 If these forms could travel between people and survive across time, how much of what any one person understands had begun somewhere else?
 
+### Three events
+
+**1. Amira shows that several people can follow the same recipe and produce different loaves.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. The group applies its three questions to the desk, the promise and the bread.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. The group finds similar patterns in examples involving school, work, routes and music.**  
+**Integration × Distributed × Standing → #40 — “each in its place”**
+
+The chapter tests whether the same structural questions travel across unlike materials. One comparison reveals difference, another turns the questions into a usable method, and the last lets a cross-case pattern stand as something inspectable in its own right.
+
 ## The Rule You Didn't Discover
 
 Amira was doing multiplication at Nora's table.
@@ -3066,25 +3071,9 @@ Timetables.
 
 A route drawn by people neither of them knew.
 
-Useful understanding often begins like this.
+Useful understanding often begins inside results someone else has already made available.
 
-We start inside results.
-
-The child does not discover that seven eights are fifty-six by repeating the history of arithmetic.
-
-The traveller does not survey the city before trusting a street map.
-
-The cook does not invent bread.
-
-The musician does not invent notation before reading a score.
-
-The electrician does not personally test the entire history of electrical safety before following a standard.
-
-This makes human thought astonishingly fast.
-
-It also creates a problem.
-
-A person can possess the answer without possessing much understanding of why it is right.
+That is efficient. It also leaves room for a person to possess an answer before understanding much about why it is right.
 
 Amira proved that two days later.
 
@@ -3219,6 +3208,19 @@ Then the street had disagreed with it.
 Amira did not throw away the idea of maps.
 
 She used what remained useful and looked again.
+
+### Three events
+
+**1. Amira learns why successive entries in the seven-times table increase by seven.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Amira uses a bus map produced from other people's work to navigate across town.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+**3. When a diversion makes the map inaccurate, Amira uses other information to continue toward the station.**  
+**Opening × Release × Efficacy → #18 — “beyond”**
+
+Inherited understanding can deepen from use into relation, operate across a distributed system, and survive the failure of one representation by releasing its authority. What is inherited becomes more fully one's own when it can be used, bounded and revised.
 
 ## A Question Older Than You
 
