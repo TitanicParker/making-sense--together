@@ -260,6 +260,68 @@
       font-size: .84em;
     }
 
+    .technical-shell {
+      max-width: 900px;
+      margin: 88px auto 0;
+      padding-top: 72px;
+      border-top: 3px double var(--line);
+      scroll-margin-top: 72px;
+    }
+
+    .technical-kicker {
+      margin: 0 0 18px;
+      font: 700 12px/1.2 ui-sans-serif, system-ui, sans-serif;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .technical-book {
+      padding: 52px 54px 72px;
+      background: color-mix(in srgb, var(--paper-2) 78%, var(--paper));
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: none;
+      font-size: calc(var(--reader-size) * .96);
+    }
+
+    .technical-book > h1:first-child {
+      margin-top: 0;
+      font-size: clamp(2.1rem, 5vw, 3.5rem);
+      letter-spacing: -.035em;
+    }
+
+    .technical-book h2 {
+      margin-top: 3em;
+      padding-top: 1.15em;
+      border-top: 1px solid var(--line);
+    }
+
+    .technical-book h3 {
+      margin-top: 2.1em;
+    }
+
+    .technical-book table {
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: .82em;
+    }
+
+    .technical-book pre,
+    .technical-book code {
+      font-size: .84em;
+    }
+
+    @media (max-width: 860px) {
+      .technical-shell {
+        margin-top: 56px;
+        padding-top: 42px;
+      }
+      .technical-book {
+        padding: 34px 22px 52px;
+        border-radius: 0;
+      }
+    }
+
     article > h1:first-child {
       font-size: clamp(2.5rem, 7vw, 4.5rem);
       line-height: .98;
@@ -387,7 +449,7 @@
   <header class="topbar">
     <div class="brand" id="brand">Making Sense Together</div>
     <div class="toolbar">
-      <a class="control" id="modeLink" href="?file=technical.md">Technical</a>
+      <a class="control" id="modeLink" href="#technicalSection">Technical ↓</a>
       <button class="control" id="smaller" aria-label="Smaller text">A−</button>
       <button class="control" id="larger" aria-label="Larger text">A+</button>
       <button class="control" id="width" aria-label="Toggle reading width">↔</button>
@@ -403,6 +465,10 @@
     <main>
       <div class="status" id="status">Opening the manuscript…</div>
       <article class="book" id="book" hidden></article>
+      <section class="technical-shell" id="technicalSection" hidden>
+        <div class="technical-kicker">Technical debrief and appendices</div>
+        <article class="technical-book" id="technicalBook"></article>
+      </section>
     </main>
   </div>
 
@@ -420,19 +486,12 @@
       var brand = document.getElementById("brand");
       var progressBar = document.getElementById("progressBar");
       var modeLink = document.getElementById("modeLink");
-      var isTechnical = safeFile === "technical.md";
+      var technicalSection = document.getElementById("technicalSection");
+      var technicalBook = document.getElementById("technicalBook");
+      var openTechnicalOnLoad = safeFile === "technical.md";
       var sections = [];
 
-      if (isTechnical) {
-        document.body.classList.add("technical-mode");
-        modeLink.textContent = "Book";
-        modeLink.href = "?file=manuscript.md";
-        modeLink.setAttribute("aria-label", "Open the narrative book");
-      } else {
-        modeLink.textContent = "Technical";
-        modeLink.href = "?file=technical.md";
-        modeLink.setAttribute("aria-label", "Open the technical debrief");
-      }
+      modeLink.setAttribute("aria-label", "Jump to the technical debrief and appendices");
       var currentSection = 0;
 
       function slugify(text) {
@@ -491,7 +550,7 @@
           var hue = (index * 137.508 + 18) % 360;
           tab.className = "chapter-tab";
           tab.type = "button";
-          tab.textContent = isTechnical ? String(index + 1) : String(index + 1);
+          tab.textContent = String(index + 1);
           tab.dataset.target = chapter.id;
           tab.setAttribute("aria-label", "Chapter " + (index + 1) + ": " + heading.textContent);
           tab.title = heading.textContent;
@@ -542,16 +601,24 @@
         breaks: false
       });
 
-      var manuscriptUrl = safeFile + "?v=" + Date.now();
+      var cacheBust = "?v=" + Date.now();
 
-      fetch(manuscriptUrl, { cache: "no-store" })
-        .then(function (response) {
-          if (!response.ok) throw new Error("Could not load " + safeFile + " (" + response.status + ")");
-          return response.text();
+      Promise.all([
+        fetch("manuscript.md" + cacheBust, { cache: "no-store" }),
+        fetch("technical.md" + cacheBust, { cache: "no-store" })
+      ])
+        .then(function (responses) {
+          if (!responses[0].ok) throw new Error("Could not load manuscript.md (" + responses[0].status + ")");
+          if (!responses[1].ok) throw new Error("Could not load technical.md (" + responses[1].status + ")");
+          return Promise.all([responses[0].text(), responses[1].text()]);
         })
-        .then(function (markdown) {
-          var rawHtml = marked.parse(markdown);
-          book.innerHTML = DOMPurify.sanitize(rawHtml);
+        .then(function (markdownFiles) {
+          var manuscriptHtml = marked.parse(markdownFiles[0]);
+          var technicalHtml = marked.parse(markdownFiles[1]);
+
+          book.innerHTML = DOMPurify.sanitize(manuscriptHtml);
+          technicalBook.innerHTML = DOMPurify.sanitize(technicalHtml);
+
           makeUniqueIds();
           wrapChapters();
           buildChapterTabs();
@@ -559,25 +626,29 @@
           var title = book.querySelector("h1");
           if (title) {
             brand.textContent = title.textContent;
-            document.title = isTechnical ? title.textContent + " — Making Sense Together" : title.textContent;
+            document.title = title.textContent;
           }
 
           status.hidden = true;
           book.hidden = false;
+          technicalSection.hidden = false;
 
-          if (location.hash) {
-            requestAnimationFrame(function () {
+          requestAnimationFrame(function () {
+            if (openTechnicalOnLoad) {
+              technicalSection.scrollIntoView();
+              history.replaceState(null, "", "#technicalSection");
+            } else if (location.hash) {
               var target = document.getElementById(location.hash.slice(1));
               if (target) target.scrollIntoView();
-            });
-          }
+            }
+          });
 
           updateProgress();
         })
         .catch(function (error) {
           status.innerHTML =
             "<strong>The reader is ready, but no manuscript could be opened.</strong><br><br>" +
-            "Create <code>manuscript.md</code> in this repository, then reload the page.<br><br>" +
+            "The reader expects both <code>manuscript.md</code> and <code>technical.md</code> in this repository.<br><br>" +
             "<small>" + String(error.message).replace(/[<>]/g, "") + "</small>";
         });
 
