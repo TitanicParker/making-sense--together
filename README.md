@@ -10,6 +10,8 @@ The project combines literary scenes, a three-question method of discernment, a 
 - **Manuscript source:** `manuscript.md`
 - **15 definitions:** `definitions.html`
 - **54 canonical forms:** `forms.html`
+- **54 × 5 semantic field:** `semantic-fields.html`
+- **Method and experiments:** `method.html`
 
 ## Three questions
 
@@ -31,12 +33,11 @@ A manuscript event instantiates a coordinate; it does not create it.
 
 ## Reference
 
-For the current canonical structure, editing constraints, scope, and status of the project, see:
+The public site exposes the formal structure and experiment record directly through `definitions.html`, `forms.html`, `semantic-fields.html`, and `method.html`.
+
+Repository-maintainer notes remain in:
 
 - `PROJECT_REFERENCE.md`
-
-For the internal blind-recovery and cue-ablation work on the 54 ultra-short expressions, see:
-
 - `SHORT_FORM_EXPERIMENT.md`
 
 ## Editorial status
