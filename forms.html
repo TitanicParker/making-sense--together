@@ -19,6 +19,9 @@
     .scope{margin:14px 0 0;padding:12px 14px;border-left:3px solid var(--accent);background:var(--accent-soft);font:13px/1.5 ui-sans-serif,system-ui,sans-serif}
     .scope strong{font-weight:800}
     .usage{font:12px/1.45 ui-sans-serif,system-ui,sans-serif;min-width:160px}
+    .definition-link{display:inline-block;margin:2px 4px 2px 0;padding:1px 6px;border:1px solid var(--line);border-radius:999px;color:var(--accent);text-decoration:none;background:var(--paper-2);font:700 11px/1.4 ui-sans-serif,system-ui,sans-serif}
+    .definition-link:hover{border-color:var(--accent)}
+    tr.highlight td{background:var(--accent-soft)}
     .usage-count{font-weight:800}
     .chapter-link{display:inline-block;margin:2px 4px 2px 0;padding:1px 6px;border:1px solid var(--line);border-radius:999px;color:var(--accent);text-decoration:none;background:var(--paper-2)}
     .chapter-link:hover{border-color:var(--accent)}
@@ -49,6 +52,7 @@
 <select id="c"><option value="">All completion topologies</option><option>Focal</option><option>Distributed</option><option>Release</option></select>
 <select id="p"><option value="">All persistence modes</option><option>Standing</option><option>Bearing</option><option>Efficacy</option></select>
 <input id="s" type="search" placeholder="Search form, expression, or gloss…">
+<a class="control" href="definitions.html">Definition guide</a>
 </div>
 <div class="table-wrap"><table><thead><tr><th>#</th><th>Short form</th><th>Transformation</th><th>Completion</th><th>Persistence</th><th>Canonical form</th><th>What the combination means</th><th>Use in manuscript</th></tr></thead><tbody id="rows"></tbody></table></div>
 <div class="status" id="status">Loading the canonical ledger…</div>
@@ -88,20 +92,35 @@ var used=data.filter(function(x){return x.uses.length>0}).length;
 var events=data.reduce(function(sum,x){return sum+x.uses.length},0);
 document.getElementById("usageSummary").textContent=" In this manuscript, "+events+" coda events instantiate "+used+" of the 54 coordinates.";
 var requestedForm=new URLSearchParams(location.search).get("form");
+var params=new URLSearchParams(location.search);
+var requestedForm=params.get("form");
+var qt=params.get("t"),qc=params.get("c"),qp=params.get("p");
+if(qt && orderT.indexOf(qt)>-1)document.getElementById("t").value=qt;
+if(qc && orderC.indexOf(qc)>-1)document.getElementById("c").value=qc;
+if(qp && orderP.indexOf(qp)>-1)document.getElementById("p").value=qp;
 if(requestedForm && /^\d+$/.test(requestedForm)){
   document.getElementById("s").value=requestedForm;
 }
-render();document.getElementById("status").hidden=true;
+render();
+if(requestedForm && /^\d+$/.test(requestedForm)){
+  var row=document.querySelector("tr[data-form='"+requestedForm+"']");
+  if(row){row.classList.add("highlight");setTimeout(function(){row.scrollIntoView({block:"center"})},0)}
+}
+document.getElementById("status").hidden=true;
 }).catch(function(e){document.getElementById("status").textContent=e.message});
 function render(){
 var tv=document.getElementById("t").value,cv=document.getElementById("c").value,pv=document.getElementById("p").value,q=document.getElementById("s").value.toLowerCase().trim();
 var tbody=document.getElementById("rows");tbody.innerHTML="";
 data.filter(function(x){var hay=(x.n+" "+x.short+" "+x.t+" "+x.c+" "+x.p+" "+x.gloss).toLowerCase();return(!tv||x.t===tv)&&(!cv||x.c===cv)&&(!pv||x.p===pv)&&(!q||hay.indexOf(q)>-1)}).forEach(function(x){
 var tr=document.createElement("tr");
+tr.dataset.form=String(x.n);
 var usageHtml=x.uses.length
   ? "<span class='usage-count'>"+x.uses.length+(x.uses.length===1?" event":" events")+"</span><br>"+x.uses.map(function(u){return "<a class='chapter-link' href='index.html#"+slugify(u.title)+"-chapter' title='"+u.title.replace(/'/g,"&#39;")+"'>Ch "+u.chapter+"</a>"}).join("")
   : "<span class='unused'>Not instantiated in the current 111 events</span>";
-tr.innerHTML="<td>"+x.n+"</td><td class='short'>"+x.short+"</td><td><span class='pill'>"+x.t+"</span></td><td>"+x.c+"</td><td>"+x.p+"</td><td>"+x.t+" × "+x.c+" × "+x.p+"</td><td>"+x.gloss+"</td><td class='usage'>"+usageHtml+"</td>";tbody.appendChild(tr)
+var tHref="definitions.html#definition-"+slugify(x.t);
+var cHref="definitions.html#definition-"+slugify(x.c);
+var pHref="definitions.html#definition-"+slugify(x.p);
+tr.innerHTML="<td>"+x.n+"</td><td class='short'>"+x.short+"</td><td><a class='definition-link' href='"+tHref+"'>"+x.t+"</a></td><td><a class='definition-link' href='"+cHref+"'>"+x.c+"</a></td><td><a class='definition-link' href='"+pHref+"'>"+x.p+"</a></td><td>"+x.t+" × "+x.c+" × "+x.p+"</td><td>"+x.gloss+"</td><td class='usage'>"+usageHtml+"</td>";tbody.appendChild(tr)
 });
 }
 ["t","c","p","s"].forEach(function(id){document.getElementById(id).addEventListener(id==="s"?"input":"change",render)});
