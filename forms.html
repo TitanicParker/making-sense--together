@@ -66,12 +66,21 @@ var orderT=["Differentiation","Opening","Relating","Repair","Integration","Settl
 function cardNo(t,c,p){return orderT.indexOf(t)*9+orderC.indexOf(c)*3+orderP.indexOf(p)+1}
 function slugify(text){return text.toLowerCase().replace(/<[^>]*>/g,"").replace(/[^a-z0-9\s-]/g,"").trim().replace(/\s+/g,"-").replace(/-+/g,"-")||"section"}
 function parseUsage(md){
-  var usage={},chapter=0,title="";
+  var usage={},chapter=0,title="",inNumberedChapter=false;
   md.split("\n").forEach(function(line){
     var h=line.match(/^## (.+)$/);
-    if(h){chapter+=1;title=h[1].trim();return}
+    if(h){
+      title=h[1].trim();
+      if(/^Chapter Zero\b/.test(title)||/^Afterword\b/.test(title)){
+        inNumberedChapter=false;
+      }else{
+        chapter+=1;
+        inNumberedChapter=true;
+      }
+      return;
+    }
     var m=line.match(/→ #(\d+) —/);
-    if(m&&chapter){
+    if(m&&inNumberedChapter){
       var n=+m[1];
       if(!usage[n])usage[n]=[];
       usage[n].push({chapter:chapter,title:title});
