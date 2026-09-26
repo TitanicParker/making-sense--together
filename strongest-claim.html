@@ -31,10 +31,19 @@ h1{font-size:clamp(2.4rem,7vw,4.8rem);line-height:.96;margin:0;letter-spacing:-.
 a{color:var(--accent)}
 @media(max-width:760px){.brand{display:none}.topbar{padding:8px}.toolbar{width:100%}.control{font-size:12px;padding:0 9px}main{padding:18px 8px 56px}.paper{padding:30px 20px 48px;border-radius:7px}.essay{font-size:18px;line-height:1.68}}
 @media print{.topbar{display:none}.paper{border:0;box-shadow:none;padding:0}main{max-width:none;padding:0}}
+
+.mobile-nav-toggle{display:none}
+@media(max-width:760px){
+  .topbar{flex-wrap:wrap}
+  .mobile-nav-toggle{display:inline-flex;margin-left:auto}
+  .topbar .toolbar{display:none;width:100%;flex-wrap:wrap;overflow:visible;padding:4px 0 2px}
+  .topbar.nav-open .toolbar{display:flex}
+  .topbar .toolbar .control{flex:0 0 auto}
+}
 </style>
 </head>
 <body>
-<header class="topbar"><div class="brand">Making Sense Together · The Strongest Claim</div><div class="toolbar">
+<header class="topbar"><div class="brand">Making Sense Together · The Strongest Claim</div><button class="control mobile-nav-toggle" id="mobileNavToggle" aria-expanded="false" aria-controls="siteToolbar">Menu</button><div class="toolbar" id="siteToolbar">
 <a class="control" aria-current="page" href="strongest-claim.html">Claim</a>
 <a class="control" href="index.html">Reader</a>
 <a class="control" href="definitions.html">Definitions</a>
@@ -94,6 +103,25 @@ a{color:var(--accent)}
 
 <script>
 (function(){var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")}})();
+</script>
+
+<script>
+(function(){
+  var topbar=document.querySelector('.topbar');
+  var toggle=document.getElementById('mobileNavToggle');
+  if(!topbar||!toggle)return;
+  function closeMenu(){
+    topbar.classList.remove('nav-open');
+    toggle.setAttribute('aria-expanded','false');
+    toggle.textContent='Menu';
+  }
+  toggle.addEventListener('click',function(){
+    var open=topbar.classList.toggle('nav-open');
+    toggle.setAttribute('aria-expanded',open?'true':'false');
+    toggle.textContent=open?'Close':'Menu';
+  });
+  window.addEventListener('resize',function(){if(window.innerWidth>760)closeMenu()});
+})();
 </script>
 </body>
 </html>
