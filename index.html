@@ -723,6 +723,22 @@
         });
       }
 
+      function chapterScrollOffset() {
+        return window.innerWidth <= 760 ? 92 : 118;
+      }
+
+      function scrollReaderTarget(target, behavior) {
+        if (!target) return;
+        var top = target.getBoundingClientRect().top + window.pageYOffset - chapterScrollOffset();
+        window.scrollTo({ top: Math.max(0, top), behavior: behavior || "auto" });
+      }
+
+      function centerChapterTab(tab, behavior) {
+        if (!tab) return;
+        var left = tab.offsetLeft - (chapterTabs.clientWidth - tab.offsetWidth) / 2;
+        chapterTabs.scrollTo({ left: Math.max(0, left), behavior: behavior || "auto" });
+      }
+
       function buildChapterTabs() {
         chapterTabs.innerHTML = "";
         sections = Array.from(book.querySelectorAll(".chapter"));
@@ -743,8 +759,8 @@
 
           tab.addEventListener("click", function () {
             currentSection = index;
-            var top = chapter.getBoundingClientRect().top + window.pageYOffset - 118;
-            window.scrollTo({ top: top, behavior: "smooth" });
+            scrollReaderTarget(chapter, "smooth");
+            centerChapterTab(tab, "smooth");
             history.replaceState(null, "", "#" + chapter.id);
           });
 
@@ -753,8 +769,6 @@
 
         if (sections.length) {
           updateSectionButtons();
-          var activeTab = chapterTabs.querySelector(".chapter-tab.active");
-          if (activeTab) activeTab.scrollIntoView({ block: "nearest", inline: "center" });
         }
       }
 
@@ -823,10 +837,18 @@
             }
 
             if (target) {
-              target.scrollIntoView({ block: "start" });
-              updateProgress();
-              var activeTab = chapterTabs.querySelector('[data-target="' + target.id + '"]');
-              if (activeTab) activeTab.scrollIntoView({ block: "nearest", inline: "center" });
+              scrollReaderTarget(target, "auto");
+
+              requestAnimationFrame(function () {
+                updateProgress();
+                var chapter = target.classList && target.classList.contains("chapter")
+                  ? target
+                  : target.closest(".chapter");
+                var activeTab = chapter
+                  ? chapterTabs.querySelector('[data-target="' + chapter.id + '"]')
+                  : null;
+                centerChapterTab(activeTab, "auto");
+              });
             } else {
               updateProgress();
             }
