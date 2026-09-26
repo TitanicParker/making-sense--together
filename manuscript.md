@@ -4214,6 +4214,397 @@ We also ask what counts.
 The next puzzle would be whether the same recurring forms they had found in drawers, recipes and proofs could really stretch across both without becoming so vague that they explained nothing.
 
 
+## You Know This Part
+
+Mara could play the passage.
+
+That was the irritating thing.
+
+She had the notes under her fingers. She entered in the right bar, counted the rests, kept the bow close to the string where the music asked for it, and arrived at the final note at the same time as everyone else.
+
+Still, every time they played it, the middle seemed to go flat.
+
+Not wrong.
+
+Flat.
+
+The conductor stopped them.
+
+“Again from twenty-eight.”
+
+Pages turned.
+
+Mara lifted her violin.
+
+The first violins began. Four quiet bars. Then the violas came in beneath them.
+
+Mara entered where she was supposed to.
+
+Three rising notes.
+
+A held note.
+
+Then down.
+
+The conductor stopped them again.
+
+“Mara, don’t lean on that fourth note.”
+
+“I’m not.”
+
+“You are a little.”
+
+She tried once more.
+
+This time she made the note lighter.
+
+The passage sounded cleaner.
+
+It still felt like a row of instructions.
+
+After rehearsal, she stayed behind.
+
+Most of the room emptied quickly. Chairs scraped. Cases snapped shut. Someone in the brass section dropped a mute and swore.
+
+Idris, who played cello beside the window, was packing slowly.
+
+Mara played the passage again by herself.
+
+He looked up.
+
+“What are you doing?”
+
+“Trying to work out why I hate this bit.”
+
+“You play it fine.”
+
+“I know.”
+
+“That sounds difficult.”
+
+She played the three rising notes.
+
+“See?”
+
+Idris listened.
+
+“No.”
+
+“Helpful.”
+
+He took his cello back out of the case.
+
+“Start earlier.”
+
+“How much earlier?”
+
+“Eight bars.”
+
+“That is not the bit.”
+
+“I know.”
+
+They began together.
+
+Idris had a line Mara had barely noticed during rehearsal. It moved underneath the melody in long steps, each note arriving before hers. The first time through, she concentrated too hard on her own part and heard almost nothing else.
+
+“Again,” he said.
+
+They started eight bars earlier.
+
+This time Mara listened across the stand.
+
+The cello climbed.
+
+Her first note answered it.
+
+Then the cello moved again.
+
+Her next note arrived above it.
+
+By the fourth bar she heard something that had been present all evening without presenting itself to her.
+
+Her little rising figure was not beginning anything.
+
+It was continuing a movement that had already started elsewhere.
+
+She missed her next entrance.
+
+Idris stopped.
+
+Mara was smiling.
+
+“Oh.”
+
+“What?”
+
+“That’s where it’s going.”
+
+He played the cello line again.
+
+Mara did not join.
+
+She listened.
+
+The phrase that had felt like several correct instructions now had direction. Her held note was not somewhere to wait. It delayed an arrival. The three rising notes were not three separate steps. They leaned toward something.
+
+“Do it again.”
+
+They played.
+
+Mara reached the fourth note and almost laughed.
+
+She did not need the conductor to tell her not to lean on it.
+
+If she pressed there, she interrupted the movement she had only just begun to hear.
+
+They played it a third time.
+
+Idris stopped packing altogether.
+
+“You know this part.”
+
+“I knew the notes.”
+
+“That is usually what people say when they do not know the part.”
+
+“I did know the notes.”
+
+“I agree with you completely.”
+
+She threw a pencil at him.
+
+The next rehearsal was two days later.
+
+The conductor gave them the same instruction.
+
+“Twenty-eight.”
+
+This time Mara heard the cello before she entered.
+
+Nothing in the printed violin part had changed.
+
+Her fingers did almost exactly what they had done before.
+
+But the passage did not feel flat.
+
+Afterward the conductor looked toward her section.
+
+“Yes.”
+
+That was all.
+
+Mara wanted to know whether he had heard what she had heard.
+
+During the break she asked.
+
+“Was that what you meant about the fourth note?”
+
+He thought for a moment.
+
+“Partly.”
+
+“What was the other part?”
+
+“The clarinet.”
+
+Mara turned.
+
+“What clarinet?”
+
+He pointed toward the back of the room.
+
+“The note you’re holding sits under their entrance.”
+
+She found the place in the score.
+
+There it was.
+
+She had spent two days believing she had finally heard the passage.
+
+Now another line appeared.
+
+Not instead of the cello.
+
+With it.
+
+At home that night, Mara listened to a recording.
+
+She followed the score at first.
+
+Then stopped looking.
+
+The clarinet entered.
+
+She heard it immediately.
+
+After that she could not quite hear the passage as she had before.
+
+Nothing had been solved in the ordinary sense.
+
+There had been no fault like a cracked runner, no wrong platform, no broken fuse, no question written on the back of a photograph.
+
+Nobody had asked, “What does this passage mean?”
+
+Mara had not arrived at rehearsal bothered by uncertainty.
+
+She had been able to play.
+
+Then something became audible.
+
+A week later a younger violinist named Tess joined the orchestra.
+
+They were rehearsing the same piece.
+
+At bar twenty-eight, Tess played every note cleanly and pressed hard into the fourth.
+
+The conductor stopped them.
+
+“Lighter there.”
+
+Tess nodded.
+
+They tried again.
+
+The note was quieter.
+
+It still sat heavily in the phrase.
+
+Mara recognized the feeling immediately.
+
+During the break she leaned over.
+
+“Can I show you something?”
+
+Tess looked wary.
+
+“I know I’m too loud.”
+
+“That’s not it.”
+
+Mara played the cello line on her violin.
+
+Or tried to.
+
+Without the low register, without Idris’s timing, without the rest of the room, it sounded thin and strangely unconvincing.
+
+Tess waited.
+
+Mara tried explaining.
+
+“Your bit is sort of already happening before you come in.”
+
+Tess looked at the music.
+
+“I come in at thirty-two.”
+
+“I know. I mean the movement starts earlier.”
+
+“What movement?”
+
+Mara heard herself.
+
+Nothing she said seemed to contain the thing she wanted Tess to notice.
+
+Idris was across the room drinking coffee.
+
+Mara called him over.
+
+“Can you play from twenty-four?”
+
+He raised an eyebrow.
+
+“For educational purposes.”
+
+“Dangerous.”
+
+He played.
+
+Mara pointed to Tess’s music as the cello climbed.
+
+“Don’t play yet. Just listen.”
+
+Idris reached bar thirty-two.
+
+Mara nodded.
+
+“Now.”
+
+Tess came in.
+
+The first attempt was unchanged.
+
+The second was different.
+
+Not much.
+
+But on the third, Tess reached the held note and let it float.
+
+She looked at Mara.
+
+“Oh.”
+
+Mara laughed.
+
+“Yes.”
+
+“What?”
+
+“I don’t know.”
+
+“You’re an excellent teacher.”
+
+“I had help.”
+
+At the next rehearsal Tess lost it again.
+
+The note became heavy.
+
+Mara heard it happen and nearly turned toward her, but the music kept moving.
+
+A few bars later Tess adjusted by herself.
+
+She had found the line again.
+
+Mara did not know what, exactly, Tess would remember a month later.
+
+Perhaps Idris’s cello.
+
+Perhaps the conductor saying “lighter.”
+
+Perhaps nothing she could put into words.
+
+Perhaps only a different way of hearing the three rising notes once the music around them began.
+
+Months later, Mara heard the piece on the radio while washing dishes.
+
+She was not thinking about rehearsal.
+
+She was not following a score.
+
+She was halfway across the kitchen when bar twenty-four arrived.
+
+She stopped.
+
+The cello moved.
+
+The violin entered above it.
+
+Then the clarinet.
+
+For a few seconds she heard all three at once.
+
+Not as separate discoveries.
+
+Not as an answer she was checking.
+
+Just there.
+
+The passage had become larger than the part she had learned to play.
+
+And it was still capable of becoming larger again.
+
+
 <!--
 AUTHORING MAP — INVISIBLE TO THE READER
 ========================================
@@ -4386,7 +4777,7 @@ Let them decide what survives.
 
 CURRENT VISIBLE PROGRESS
 ------------------------
-Chapters 1–20 are drafted.
+Chapters 1–21 are drafted.
 
 Do not maintain a thousand-chapter placeholder ledger.
 
