@@ -194,6 +194,18 @@ Nora looked underneath.
 
 All three events complete around a focal point, but the work done at that point changes: first a contrast becomes clear, then an earlier fault-account is corrected, and later a test opens a new way to proceed. The first two results persist through what they bear on; the third persists as something Nora can do.
 
+### Five questions
+
+1. **What changed in each event?** In the first, what difference becomes clear; in the second, what is put right; in the third, what becomes newly possible?
+
+2. **What makes each change enough?** What is the decisive point in each event, and why does each completion gather there?
+
+3. **What remains afterward?** Why do the first two results remain through what they bear on, while the third remains as something Nora can do?
+
+4. **How do those three answers produce each coordinate?** Reconstruct each form from what changed, what made it enough, and what remained.
+
+5. **How does the short expression compress the whole event?** What do **“this, not that,” “rightly weighted,”** and **“more ways open”** each say about the three answers taken together?
+
 ## Enough
 
 A week after the drawer, Ben was making soup when he stopped with the salt in his hand.
