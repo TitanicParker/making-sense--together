@@ -7619,6 +7619,1097 @@ He knew at least four different ways that sentence could be challenged.
 He also knew exactly what she meant.
 
 
+## We Agree on What Happened
+
+Nessa and Daniel agreed about every important fact.
+
+That was what made the conversation difficult.
+
+Their colleague Priya had told them she was planning to leave the company.
+
+Not today.
+
+Not even this month.
+
+But soon.
+
+She had asked them not to say anything yet.
+
+"I haven't signed anything," she said. "I just needed to tell someone."
+
+Nessa said, "Of course."
+
+Daniel nodded.
+
+Two days later, the three of them were in a planning meeting.
+
+Their manager was assigning responsibility for a project that would run for six months.
+
+Priya was given the central role.
+
+Nobody objected.
+
+Afterward Daniel caught Nessa by the lifts.
+
+"We can't let them plan around her."
+
+"She asked us not to say anything."
+
+"So we say something without saying why."
+
+"Like what?"
+
+"That the plan needs more cover."
+
+"Based on information we are pretending not to have."
+
+"Better than letting everyone assume she will be here."
+
+Nessa folded her arms.
+
+"You want me to break confidence carefully."
+
+"I want us not to mislead people carefully."
+
+They stood there agreeing.
+
+Priya had told them privately.
+
+The project depended heavily on her.
+
+Her departure was not certain.
+
+The manager did not know.
+
+Other people were about to make decisions based on an assumption that might fail.
+
+No missing fact seemed likely to dissolve the conflict.
+
+Nessa cared about the promise implied by being trusted.
+
+Daniel cared about the people whose work might later be disrupted.
+
+Neither had misunderstood the situation.
+
+The next day Daniel tried a different route.
+
+He asked the manager, "What happens if someone on the project leaves halfway through?"
+
+The manager looked up.
+
+"Anyone in particular?"
+
+"No."
+
+That was a lie in the narrowest sense and not quite a lie in another.
+
+Daniel hated it immediately.
+
+The manager gave a generic answer about succession planning.
+
+Nothing changed.
+
+At lunch Nessa said, "That went well."
+
+"I panicked."
+
+"You asked the exact question in the least convincing possible way."
+
+"Useful feedback."
+
+They decided to talk to Priya.
+
+She listened without interrupting.
+
+Then said, "You are both right, which is irritating."
+
+Daniel looked relieved.
+
+Nessa did not.
+
+Priya had not changed the difficulty.
+
+She had simply acknowledged it.
+
+"What do you want us to do?" Nessa asked.
+
+Priya thought.
+
+"I don't want you telling them I'm leaving when I might not."
+
+"Fine."
+
+"But I also don't want them building the whole project around me."
+
+Daniel said, "So tell them that."
+
+"I can't yet."
+
+"Why?"
+
+"Because then they will ask why."
+
+They sat quietly.
+
+Eventually Priya said, "I can ask not to be the only person who knows the system."
+
+That was something.
+
+In the next planning meeting, she suggested a second lead.
+
+"Not because I'm going anywhere," she said, "because this is too concentrated."
+
+The manager agreed.
+
+Another colleague joined the project.
+
+Documentation improved.
+
+Meetings changed.
+
+The risk reduced.
+
+Nothing had become clean.
+
+Priya still had not disclosed her plans.
+
+Nessa still thought Daniel had come too close to betraying confidence.
+
+Daniel still thought silence had become a kind of participation in a false assumption.
+
+Weeks later, Priya accepted another job.
+
+She told the manager herself.
+
+The project survived.
+
+At her leaving drinks, Daniel said, "So our strategy worked."
+
+Nessa said, "Which strategy?"
+
+"The sensible one."
+
+"The one where Priya solved our problem for us?"
+
+"That was my favourite part."
+
+Priya heard them.
+
+"You are welcome."
+
+The outcome made the earlier choice look good.
+
+That did not prove it had been the only right choice.
+
+If Priya had stayed, the same precautions would still have been useful.
+
+If the manager had directly asked Nessa whether Priya was leaving, the conflict would have sharpened again.
+
+If someone else's job depended immediately on knowing, perhaps the balance would have changed.
+
+A good outcome did not reach backward and make the whole difficulty disappear.
+
+Months later Daniel found himself in another situation involving a confidence.
+
+This time he did not copy what they had done.
+
+He remembered something smaller.
+
+That two responsibilities can remain real at the same time.
+
+And that understanding a situation better may sometimes remove excuses without removing the difficulty.
+
+## The Old Rule
+
+At the rowing club, every boat leaving the boathouse was supposed to be written on a board.
+
+Boat name.
+
+Crew.
+
+Time out.
+
+Expected return.
+
+The rule was older than most of the members.
+
+So was the board.
+
+White paint.
+
+Black lines.
+
+Hooks underneath for keys.
+
+Then the club installed a phone system.
+
+Members tapped the boat name on an app before launching.
+
+The app recorded the time automatically.
+
+It showed who was out.
+
+It sent an alert if a boat stayed away too long.
+
+Within a month, half the club had stopped writing on the board.
+
+Graham had not.
+
+He stood beside it every Saturday with a marker.
+
+"Sign out."
+
+"I used the app."
+
+"Sign out."
+
+"The app already knows."
+
+"The rule says the board."
+
+"The rule says sign out."
+
+"It says board."
+
+Maya, the club captain, read the laminated notice.
+
+BOATS MUST BE RECORDED ON THE SIGN-OUT BOARD BEFORE LAUNCH.
+
+Graham tapped the sentence.
+
+"There."
+
+Maya looked at the phone in her hand.
+
+The app showed three boats on the river.
+
+The board showed one.
+
+"The rule is older than the app."
+
+"That does not repeal it."
+
+"It might make it redundant."
+
+"It might make the app redundant."
+
+They left it unresolved.
+
+Then, one cold morning, the phone system failed.
+
+No signal in the boathouse.
+
+No updates.
+
+No record of who had launched.
+
+Two crews had already gone out.
+
+A third stood by the doors.
+
+Maya looked at the board.
+
+Blank.
+
+Graham said nothing.
+
+She picked up the marker.
+
+"Boat?"
+
+"Kingfisher."
+
+"Crew?"
+
+They wrote it down.
+
+For the rest of the morning everyone used the board.
+
+By lunchtime the app came back.
+
+The club now had two incomplete records.
+
+One digital.
+
+One handwritten.
+
+Neither contained the whole morning.
+
+At the committee meeting, Graham said, "This is why the board stays."
+
+Maya said, "This is why we need a backup."
+
+"Same thing."
+
+"No."
+
+They argued.
+
+The old board had once been the main system.
+
+Now it had become a fallback without anyone formally changing the rule.
+
+The wording had stayed.
+
+The practice had moved around it.
+
+"What are we actually trying to know?" Maya asked.
+
+Nobody answered immediately.
+
+Eventually someone said:
+
+"Who's on the water."
+
+Another member added:
+
+"And what boat they're in."
+
+"And when they're due back."
+
+"And who to call if they don't return."
+
+The board had been one way of keeping that information available.
+
+The app was another.
+
+Neither was the point by itself.
+
+But that did not mean the old wording had become meaningless.
+
+It carried habits.
+
+Responsibility.
+
+A pause before launching in which someone declared where they were going.
+
+If the club replaced that moment with automatic tracking, would something useful disappear?
+
+They changed the system.
+
+The app remained primary.
+
+A small physical tag moved from hook to hook when a boat left.
+
+No names.
+
+No times.
+
+Just one visible fact:
+
+this boat is out.
+
+Graham hated it for two weeks.
+
+Then admitted it was better than nothing.
+
+Maya said, "High praise."
+
+Months later, a safety review asked for the club's sign-out procedure.
+
+Maya almost sent the old rule.
+
+Instead she rewrote it.
+
+Before launch, each boat must be recorded in the live system and visibly marked as out. If the live system is unavailable, use the paper board.
+
+Graham read it.
+
+"You changed the rule."
+
+"I changed the words."
+
+"Same thing."
+
+"Is it?"
+
+He stared at the notice.
+
+Then at the tags.
+
+Then at the old whiteboard still fixed to the wall.
+
+The club had not preserved the rule by repeating it.
+
+It had preserved enough of what the rule was for to let the practice change.
+
+Whether that meant the same rule had survived was harder to say.
+
+Perhaps sometimes continuity is not discovered.
+
+It is negotiated.
+
+## No One Knows the Whole Thing
+
+The museum exhibition existed for months before any visitor could see it.
+
+Not as one thing.
+
+As emails.
+
+Measurements.
+
+Loan forms.
+
+Object lists.
+
+Lighting plans.
+
+Translations.
+
+Packing crates.
+
+A spreadsheet with too many colours.
+
+Mira, the curator, knew why each object had been chosen.
+
+Jonas, the conservator, knew which objects could tolerate light.
+
+Elaine knew the display cases.
+
+Samir knew the Arabic labels.
+
+Ruth knew the building.
+
+No one knew the whole exhibition.
+
+They pretended this was normal because it was.
+
+Three weeks before opening, a carved wooden panel arrived from another museum.
+
+Mira had built the final room around it.
+
+The panel was taller than expected.
+
+Not by much.
+
+Enough.
+
+It would not fit through the doorway in its transport frame.
+
+Ruth measured.
+
+"No."
+
+Mira said, "It has to."
+
+Ruth measured again.
+
+The doorway did not become larger.
+
+Jonas said, "We cannot remove the frame in the corridor."
+
+"Why?"
+
+"Because the panel is fragile."
+
+"What if we tilt it?"
+
+"No."
+
+"What if we use the other entrance?"
+
+"Stairs."
+
+"Freight lift?"
+
+"Too short."
+
+Everyone had a piece of the impossibility.
+
+Nobody owned the solution.
+
+Elaine walked the route backward.
+
+"Can the display case move?"
+
+Mira looked at her.
+
+"The case is already installed."
+
+"I know."
+
+"If we move it, the projection wall shifts."
+
+Ruth said, "Which changes the fire route."
+
+Samir, who had come to check labels, asked, "Why does it need to be in this room?"
+
+Mira answered too quickly.
+
+"Because this is the room about thresholds."
+
+Samir looked at the panel.
+
+"And it cannot cross the threshold."
+
+Nobody laughed for several seconds.
+
+Then everyone did.
+
+The joke loosened something.
+
+Mira pulled out the original floor plan.
+
+The panel had been assigned to the final room because of the story she wanted visitors to encounter there.
+
+Not because the object itself required that room.
+
+They walked the exhibition again.
+
+The second room had a wider entrance.
+
+Moving the panel there would change the sequence.
+
+A label would need rewriting.
+
+One case would move.
+
+Lighting would change.
+
+The interpretation of another object would shift.
+
+The solution spread.
+
+No single person could approve it alone.
+
+By evening, the plan had become different.
+
+Better, Mira thought.
+
+Though not in the way she would have designed it from nothing.
+
+The panel entered through the wider doorway.
+
+Jonas supervised.
+
+Elaine moved a case.
+
+Ruth checked the route.
+
+Samir rewrote one label because a phrase that made sense beside the old grouping became misleading in the new one.
+
+Mira cut an entire paragraph from the wall text.
+
+Opening morning arrived.
+
+Visitors entered.
+
+They moved from room to room as if the exhibition had always been arranged that way.
+
+One person stopped in front of the wooden panel and said, "This belongs here."
+
+Mira heard.
+
+She nearly laughed.
+
+Afterward the team stood in the empty gallery.
+
+Jonas said, "Good show."
+
+Elaine said, "Good doors."
+
+Samir said, "Good labels."
+
+Ruth said, "Legal fire route."
+
+Mira looked around.
+
+The exhibition felt coherent.
+
+Yet no one in the room could reproduce all the reasons it had become what it was.
+
+Mira did not know the conservation decisions in Jonas's head.
+
+Jonas could not have rewritten Samir's labels.
+
+Samir did not know which floor loading had ruled out one case position.
+
+Ruth had not chosen the objects.
+
+The whole did not exist inside one person waiting to be transmitted.
+
+It had been built through differences that had to meet often enough to matter to one another.
+
+That did not mean the exhibition had a mind.
+
+It meant there are achievements whose intelligibility depends on many people knowing different things well enough to make those differences answer to the same work.
+
+A month later, one visitor complained that the panel belonged in the final room.
+
+Mira read the comment twice.
+
+He had noticed the same thematic connection she originally planned.
+
+He was not wrong.
+
+The exhibition had not erased the path not taken.
+
+It had simply made another one real.
+
+## She Wouldn't Do That
+
+Lia's editor circled one sentence and wrote:
+
+NO.
+
+Lia stared at the page.
+
+The sentence was:
+
+Mara left without saying goodbye.
+
+She called her editor.
+
+"You cannot just write no."
+
+"I can. I did."
+
+"She leaves."
+
+"Not like that."
+
+"She is fictional."
+
+"I am aware."
+
+"I made her."
+
+"Also aware."
+
+"Then she can leave however I decide."
+
+There was a pause.
+
+"Of course."
+
+Lia hated the pause.
+
+"What?"
+
+"Nothing."
+
+"You think I'm wrong."
+
+"I think if she leaves like this, the earlier chapters stop making sense."
+
+Lia opened the manuscript.
+
+Mara had spent two hundred pages avoiding abrupt departures.
+
+She waited too long.
+
+Explained too much.
+
+Stayed in rooms after conversations were over.
+
+Kept broken friendships alive by replying when silence would have been easier.
+
+Lia had written all of that.
+
+Now, in the final chapter, Mara simply walked out.
+
+"People surprise you," Lia said.
+
+"Yes."
+
+"People contradict themselves."
+
+"Yes."
+
+"Then what's the problem?"
+
+"Nothing, if you make the contradiction matter."
+
+Lia printed the last three chapters.
+
+She read them on the floor.
+
+Her editor was right in the most annoying possible way.
+
+The departure was possible.
+
+It was not yet intelligible.
+
+That evening Lia rewrote the scene.
+
+She added an argument.
+
+Too obvious.
+
+She added a letter Mara had received.
+
+Too convenient.
+
+She added a new memory from childhood.
+
+Worse.
+
+Each addition made the departure easier to explain and the character thinner.
+
+At midnight she deleted them all.
+
+The next morning she went further back.
+
+Page forty-seven.
+
+Mara waiting outside a hospital because she could not bear to enter.
+
+Page ninety-two.
+
+Mara leaving a party without telling the host after seeing someone she thought was dead.
+
+Lia had forgotten both scenes.
+
+They did not prove anything.
+
+But they changed the shape.
+
+Perhaps Mara did sometimes leave without saying goodbye.
+
+Only under a pressure she could not stay inside.
+
+Lia restored a scene she had cut months earlier.
+
+Mara standing on a station platform while a train left without her.
+
+Not because she missed it.
+
+Because she chose not to board.
+
+The scene had once seemed unnecessary.
+
+Now it gave the final departure a history.
+
+Her editor read the revision.
+
+"Better."
+
+"She still leaves."
+
+"I know."
+
+"So I win."
+
+"No."
+
+Lia laughed.
+
+Then stopped.
+
+"Is she the same person?"
+
+Her editor leaned back.
+
+"What do you mean?"
+
+"I changed earlier chapters so the ending would fit."
+
+"Yes."
+
+"At what point am I not discovering who she is but replacing her with someone else?"
+
+The editor looked at the pages.
+
+"I don't know."
+
+That answer pleased Lia more than it should have.
+
+A fictional character had no body outside the book.
+
+No private intention hidden from the author.
+
+No future action that could independently embarrass Lia's theory.
+
+And still the character was not completely free.
+
+Once enough had been written, later choices had to answer to earlier ones.
+
+Not obey them.
+
+Answer to them.
+
+Lia could change the earlier chapters.
+
+She could alter the character.
+
+She could rebuild the whole book.
+
+But each move changed what she was claiming to continue.
+
+Months later, at a reading, someone asked why Mara left without saying goodbye.
+
+Lia began answering.
+
+Then stopped.
+
+"What do you think?"
+
+The reader said, "I think she finally knew that explaining would become another way of staying."
+
+Lia had not thought of that.
+
+She looked at the page.
+
+The sentence was still hers.
+
+The understanding was not.
+
+## The Drawer Comes Out
+
+The kitchen was being replaced.
+
+Nora had resisted for years.
+
+Not because she loved the cabinets.
+
+Because replacing a kitchen required choosing handles, worktops, hinges, sinks and colours, all of which seemed to produce stronger opinions in other people than in her.
+
+Ben came over on demolition day.
+
+He opened the old cutlery drawer.
+
+It stuck halfway.
+
+Nora looked at him.
+
+He looked at her.
+
+"No."
+
+She laughed.
+
+"It's empty."
+
+He lifted the front slightly.
+
+The drawer moved.
+
+They both stopped.
+
+"That is disgusting," Ben said.
+
+"What?"
+
+"Recognition."
+
+They removed the drawer.
+
+The old repair was still there.
+
+A moved screw.
+
+Darkened glue.
+
+The split in the runner.
+
+Ben ran a finger over it.
+
+"You glued this."
+
+"We glued this."
+
+"I said the glue wouldn't hold."
+
+"You said the screw would tear through the same place."
+
+"Which was correct."
+
+"So we moved it."
+
+"Also correct."
+
+They argued about who had noticed the split.
+
+Neither was sure.
+
+Ben thought he had pressed the runner while Nora watched.
+
+Nora thought she had seen the wood open first.
+
+The repair remained more clearly than the memory of making it.
+
+The builder came in.
+
+"Keeping any of these?"
+
+Nora looked at the drawer.
+
+"No."
+
+Ben looked offended.
+
+"This is historically significant."
+
+"It is a drawer."
+
+"It began an era."
+
+"You need hobbies."
+
+The builder carried it outside.
+
+For a moment Nora watched through the window as it disappeared into the skip.
+
+She expected a small feeling.
+
+Nothing happened.
+
+The kitchen continued coming apart.
+
+Dust.
+
+Bare walls.
+
+Pipes.
+
+A rectangle of unfaded paint where a cabinet had been.
+
+Two weeks later the new units arrived.
+
+The drawers ran on hidden metal runners.
+
+Soft-close.
+
+Perfectly level.
+
+Nora opened the cutlery drawer.
+
+Smooth.
+
+She closed it.
+
+It slowed itself before the end.
+
+Ben said, "Civilisation."
+
+Three months later it began catching.
+
+Not badly.
+
+Just near the final few centimetres.
+
+Nora opened it again.
+
+Closed it.
+
+Caught.
+
+She put her fingers under the front and lifted.
+
+Nothing changed.
+
+Ben was not there.
+
+Nobody said "there."
+
+Nobody said "again."
+
+Nora pulled the drawer out farther.
+
+A silicone spatula had slipped behind the organiser and was pressing against the back.
+
+She moved it.
+
+The drawer closed.
+
+That could have been the whole thing.
+
+She stood there for a moment anyway.
+
+The old repair had entered the new problem.
+
+But not as an answer.
+
+It had offered a move.
+
+Lift the drawer.
+
+Watch what changes.
+
+This time nothing changed.
+
+That failure was useful immediately.
+
+The new drawer was not the old drawer.
+
+The same gesture had become a test rather than a conclusion.
+
+Later Ben came over.
+
+Nora told him.
+
+"Spatula?"
+
+"Spatula."
+
+"So after all that, the original theory was finally correct."
+
+"What original theory?"
+
+"Something behind the drawer."
+
+Nora laughed.
+
+She had forgotten.
+
+In the first kitchen, before loose runners and split wood and clamps and new fixing points, she had begun by removing spoons because she thought something was blocking the drawer.
+
+Years later, a different drawer had actually been blocked.
+
+Ben said, "Vindicated."
+
+"No."
+
+"Absolutely vindicated."
+
+"You cannot be vindicated by a different drawer years later."
+
+"History is generous."
+
+Nora opened the new drawer.
+
+Closed it.
+
+Smooth.
+
+The old drawer was gone.
+
+The exact memory had changed.
+
+The repair itself had ended in a skip.
+
+Yet something from that morning had continued.
+
+Not one fact.
+
+Not one method.
+
+Not one lesson.
+
+Perhaps a readiness to let the situation change what kind of problem it was.
+
+Perhaps simply the habit of looking again when a first move failed.
+
+Nora did not try to name it.
+
+The drawer was working.
+
+There were groceries on the counter.
+
+A saucepan needed washing.
+
+Ben was opening the wrong cupboard looking for tea.
+
+"Other side," Nora said.
+
+He opened it.
+
+"There."
+
+Then they got on with the evening.
+
+
 <!--
 AUTHORING MAP — INVISIBLE TO THE READER
 ========================================
@@ -7791,7 +8882,7 @@ Let them decide what survives.
 
 CURRENT VISIBLE PROGRESS
 ------------------------
-Chapters 1–27 are drafted.
+Chapters 1–37 are drafted.
 
 Do not maintain a thousand-chapter placeholder ledger.
 
