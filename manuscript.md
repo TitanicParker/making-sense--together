@@ -7309,23 +7309,9 @@ Beth's face changed.
 
 They sat quietly.
 
-The video had settled some things.
+The video had settled some things. The bowl existed. Their father said he was going for ice. Their mother told him to go. The door closed hard.
 
-The bowl existed.
-
-Their father said he was going for ice.
-
-Their mother told him to go.
-
-The door closed hard.
-
-It had not settled whether he left because he was angry, because they needed ice, or both.
-
-It had not captured what happened before the camera came inside.
-
-It could not show what Anna had understood from beneath the table.
-
-It could not show what Beth had understood from the hallway.
+It had not settled why he left, what happened before the camera came inside, or what either child had understood from where she stood.
 
 A week later they asked their father.
 
@@ -7371,17 +7357,7 @@ THIS PROVES ALMOST NOTHING ELSE.
 
 They kept the photograph.
 
-Their versions of the night did not merge into one.
-
-But both changed.
-
-Anna stopped saying her father had walked out without explanation.
-
-Beth stopped saying there had been no real argument.
-
-Each lost a small certainty.
-
-Neither lost the memory.
+Their versions of the night did not merge into one, but both changed. Anna stopped saying her father had walked out without explanation. Beth stopped saying there had been no real argument.
 
 Years later, when Anna told the story to her daughter, she began differently.
 
@@ -7849,27 +7825,9 @@ Priya heard them.
 
 "You are welcome."
 
-The outcome made the earlier choice look good.
+The outcome made the earlier choice look good, but it did not settle the disagreement backward.
 
-That did not prove it had been the only right choice.
-
-If Priya had stayed, the same precautions would still have been useful.
-
-If the manager had directly asked Nessa whether Priya was leaving, the conflict would have sharpened again.
-
-If someone else's job depended immediately on knowing, perhaps the balance would have changed.
-
-A good outcome did not reach backward and make the whole difficulty disappear.
-
-Months later Daniel found himself in another situation involving a confidence.
-
-This time he did not copy what they had done.
-
-He remembered something smaller.
-
-That two responsibilities can remain real at the same time.
-
-And that understanding a situation better may sometimes remove excuses without removing the difficulty.
+Months later Daniel found himself in another situation involving a confidence. He did not copy what they had done. He remembered something smaller: two responsibilities can remain real at the same time.
 
 ### Three events
 
@@ -8094,15 +8052,15 @@ Then at the tags.
 
 Then at the old whiteboard still fixed to the wall.
 
-The club had not preserved the rule by repeating it.
+The wording had changed. The board, the app and the tags now carried the work differently.
 
-It had preserved enough of what the rule was for to let the practice change.
+Graham read the new notice again.
 
-Whether that meant the same rule had survived was harder to say.
+"Still the same rule?"
 
-Perhaps sometimes continuity is not discovered.
+Maya looked at the old board.
 
-It is negotiated.
+"Same problem, at least."
 
 ### Three events
 
@@ -8295,23 +8253,9 @@ Mira looked around.
 
 The exhibition felt coherent.
 
-Yet no one in the room could reproduce all the reasons it had become what it was.
+Yet no one in the room could reproduce all the reasons it had become what it was. Mira did not know the conservation decisions in Jonas's head. Jonas could not have rewritten Samir's labels. Samir did not know which floor loading had ruled out one case position. Ruth had not chosen the objects.
 
-Mira did not know the conservation decisions in Jonas's head.
-
-Jonas could not have rewritten Samir's labels.
-
-Samir did not know which floor loading had ruled out one case position.
-
-Ruth had not chosen the objects.
-
-The whole did not exist inside one person waiting to be transmitted.
-
-It had been built through differences that had to meet often enough to matter to one another.
-
-That did not mean the exhibition had a mind.
-
-It meant there are achievements whose intelligibility depends on many people knowing different things well enough to make those differences answer to the same work.
+Still, the rooms worked together.
 
 A month later, one visitor complained that the panel belonged in the final room.
 
@@ -8506,27 +8450,9 @@ The editor looked at the pages.
 
 That answer pleased Lia more than it should have.
 
-A fictional character had no body outside the book.
+Mara had no life outside the book, but that did not make the ending free of everything Lia had already written.
 
-No private intention hidden from the author.
-
-No future action that could independently embarrass Lia's theory.
-
-And still the character was not completely free.
-
-Once enough had been written, later choices had to answer to earlier ones.
-
-Not obey them.
-
-Answer to them.
-
-Lia could change the earlier chapters.
-
-She could alter the character.
-
-She could rebuild the whole book.
-
-But each move changed what she was claiming to continue.
+Lia could change the earlier chapters. She could change Mara. But each change altered what the final departure had to answer to.
 
 Months later, at a reading, someone asked why Mara left without saying goodbye.
 
