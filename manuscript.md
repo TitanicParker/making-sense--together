@@ -179,7 +179,7 @@ Ben put the salt away.
 
 There was still more they could have done. The soup could have been smoother. The onions could have cooked another two minutes. A little lemon might have sharpened it. Someone with a different taste might have wanted more pepper. Nothing about the word "enough" meant that the soup had reached a perfect and final state.
 
-It meant they could serve dinner.
+It meant they could stop adjusting the pot and serve dinner.
 
 That difference is easy to miss because some small problems have hard edges. A drawer closes or it does not. A plug fits or it does not. But much of life would remain permanently unfinished if the only acceptable ending were that nothing could possibly be improved.
 
@@ -279,7 +279,7 @@ Nora let go.
 
 They both knew this was not certainty. Neither could see the future inside the wall. The plaster might be weaker than it looked. Someone might later hang something heavier from the rail. A hidden crack might spread.
 
-What they had was narrower and more useful. They had tested the rail in ways that mattered for the job they were actually doing, and nothing they had seen gave them a reason to keep working.
+What they had was narrower and more useful. They had tested the rail against the job they were actually asking it to do, and nothing they had seen gave them a reason to keep working.
 
 That was enough to hang the curtain and make tea.
 
@@ -313,7 +313,7 @@ This time "enough" had moved.
 
 Months afterward Leila was helping her sister mount a coat rack. Her sister reached for the supplied wall plugs.
 
-Leila looked at the coats, then at the wall.
+Leila looked at the coats, then at the wall. She left the supplied plugs where they were.
 
 "How much weight is going on this?"
 
@@ -323,7 +323,7 @@ Leila looked at the coats, then at the wall.
 
 Her sister waited.
 
-Leila tapped the wall, found the stud and changed where the rack would go.
+Only then did Leila tap the wall, find the stud and change where the rack would go.
 
 She did not tell the story of the curtain rail. She did not need to. What had once been an annoying little failure had become part of how she approached a new job.
 
