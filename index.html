@@ -319,6 +319,7 @@
 
     body.practice-mode .answer-key::selection { background: var(--accent-soft); }
     body.practice-mode .form-link { display: none; }
+    body.practice-mode .coda-gloss { display: none; }
 
     .practice-note {
       display: none;
@@ -646,6 +647,13 @@
             a.setAttribute("aria-label", "Open canonical form " + match[1]);
             strong.insertAdjacentElement("afterend", a);
           });
+
+          var coda = chapter.querySelector(".coda-section");
+          if (coda) {
+            Array.from(coda.children).forEach(function (node) {
+              if (node.tagName === "P" && !node.querySelector("strong")) node.classList.add("coda-gloss");
+            });
+          }
 
           var questions = chapter.querySelector(".questions-section");
           if (questions) {
