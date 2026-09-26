@@ -3480,6 +3480,19 @@ Not by remaining exactly as it was.
 
 By becoming more precise about what has been settled and what has not.
 
+### Three events
+
+**1. Karim begins investigating an old photograph labelled with the question of whether it was taken on the shop's first day.**  
+**Opening × Focal × Standing → #10 — “from here”**
+
+**2. Records and relatives establish the shop's opening date and probably identify the second man without establishing the photograph's exact date.**  
+**Settlement × Distributed × Standing → #49 — “it returns”**
+
+**3. Karim records what has been established while explicitly preserving what remains uncertain.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+An inherited question can remain open as a standing object of inquiry, become partly settled through distributed evidence, and then be recorded without collapsing the remaining uncertainty. Progress can consist in making the boundary between known and unknown more exact.
+
 ## Everyone Knew
 
 The office kettle stopped working on a Tuesday.
@@ -3660,6 +3673,19 @@ Not that agreement is suspicious.
 
 That agreement is never the only thing allowed to matter.
 
+### Three events
+
+**1. Tests show that the office kettle itself has failed despite everyone's agreement that the fuse is the problem.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**2. The team discovers that it has misunderstood what the manager meant by "final draft Friday."**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+**3. The team changes its work after learning what the manager actually needs from the deadline.**  
+**Repair × Focal × Efficacy → #30 — “the burden moves”**
+
+All three are **Repair × Focal**, but the persistence mode changes. A correction can remain as an established determination, as a newly weighted relation, or as changed action. Agreement does not decide which correction is real; what the matter permits to stand, bear or work does.
+
 ## What Did We Inherit?
 
 At Nora's kitchen table there were three sheets of paper.
@@ -3807,6 +3833,19 @@ A belief that survives only because nobody permits it to be tested has not earne
 The puzzle was not simply how people keep understanding alive.
 
 It was how they keep it alive without making it untouchable.
+
+### Three events
+
+**1. The group compares an inherited answer, an inherited question and an inherited mistake.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**2. They distinguish different ways of continuing with each kind of inheritance.**  
+**Differentiation × Distributed × Efficacy → #6 — “these among these”**
+
+**3. They identify different kinds of evidence that could count against each inherited position.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+The chapter first separates kinds of inheritance, then lets those distinctions guide different continuations, and finally connects each inherited position to what could count against it. A distinction becomes richer when it changes both action and evidential responsibility.
 
 ## Odd, Even, Then What?
 
@@ -4056,6 +4095,19 @@ Amira groaned.
 
 But she was smiling.
 
+### Three events
+
+**1. Amira sees why adding two odd numbers produces an even number.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. She uses what she has learned to reason about other combinations of odd and even numbers.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+**3. The prime number two disproves her claim that all prime numbers are odd.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+A relation first explains one result, then opens inferential reach across further cases, and finally a single counterexample repairs an overextended claim. Understanding grows both by travelling and by encountering limits.
+
 ## You Can Leave
 
 Leila was helping at a community hall on Saturday morning.
@@ -4274,6 +4326,18 @@ We also ask what counts.
 
 The next puzzle would be whether the same recurring forms they had found in drawers, recipes and proofs could really stretch across both without becoming so vague that they explained nothing.
 
+### Three events
+
+**1. Leila remains at the community hall because she promised to receive a delivery even though she can physically leave.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. Amira refrains from using a physically accessible phone because using it during the exam would violate the rule.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**3. Leila opens a door marked "KEEP CLOSED" to carry a table through and then closes it again.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+All three occupy the same cell because each turns on a decisive distinction whose force is relational: physical possibility is not the same as permission, obligation or rule-governed use. Repetition here shows that one form can recur across different materials without becoming a generic slogan.
 
 ## You Know This Part
 
@@ -4665,6 +4729,18 @@ The passage had become larger than the part she had learned to play.
 
 And it was still capable of becoming larger again.
 
+### Three events
+
+**1. Mara begins hearing her violin passage differently after listening to the preceding cello line.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. The conductor makes Mara notice that the passage also relates to a clarinet entrance.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**3. Mara helps Tess hear the musical relation through demonstration rather than explanation alone.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+All three occupy the same cell because the change is a newly heard relation, sufficiency gathers around one decisive musical link, and what remains is the bearing among parts. The chapter shows how one form can deepen without changing coordinate.
 
 ## You Had to Be There
 
@@ -4947,6 +5023,19 @@ This time the phrase was simply true.
 The joke had not become a rule.
 
 It still needed the situation.
+
+### Three events
+
+**1. Hannah's explanation of a joke fails to make Mateo find it funny.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. A later situation with the same kind of mismatch makes Mateo laugh.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+**3. Similar words in another meeting fail to produce the joke because the relevant situation is absent.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+The chapter distinguishes explanation from uptake, then shows that a relation can either remain as dependence on context or take effect immediately in response. Similar words do not guarantee the same intelligibility because the situation itself can be constitutive.
 
 ## Don't Tell Me How
 
@@ -5260,6 +5349,19 @@ Sami raised a hand.
 
 So she did.
 
+### Three events
+
+**1. Aisha's verbal instructions fail to teach Sami how to balance a bicycle.**  
+**Differentiation × Focal × Standing → #1 — “this”**
+
+**2. Sami learns to ride by practising and following Aisha's movements.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. Teaching Sami makes Aisha notice a cycling movement that she had been performing without attending to it.**  
+**Differentiation × Focal × Standing → #1 — “this”**
+
+The chapter separates saying from doing, then shows a skill emerging through coordinated practice rather than a single instruction. Teaching also makes previously tacit structure available as an explicit distinction.
+
 ## Same Direction
 
 Eli and Sana had known each other for four hours when they moved a wall together in the dark.
@@ -5507,6 +5609,19 @@ Sana looked at Eli.
 “We have evidence both ways.”
 
 The manager did not ask.
+
+### Three events
+
+**1. Eli and Sana successfully move the stage wall while unknowingly using different cues.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**2. A disrupted performance exposes their different cues and leads them to establish a shared wrist-tap cue.**  
+**Repair × Focal × Efficacy → #30 — “the burden moves”**
+
+**3. During a brake failure, Sana understands how to coordinate with Eli from his improvised movement.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+Successful coordination can arise from distributed organization without shared explanation, then be repaired around one common cue, and later emerge from an improvised relation. Shared action does not require identical inner accounts.
 
 ## Don't Decide Yet
 
@@ -5757,6 +5872,19 @@ Then, beneath it:
 Maybe.
 
 She left it there.
+
+### Three events
+
+**1. A reading group develops several competing interpretations of why Mara leaves the hallway light on.**  
+**Opening × Distributed × Bearing → #14 — “reachable across”**
+
+**2. An author interview establishes that Daniel is dead without settling why Mara keeps the light on.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**3. Celia later develops another interpretation and leaves it explicitly uncertain.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+The chapter shows that opening and settlement can coexist at different scales. One fact can become fixed while the larger interpretive field remains open, and uncertainty can become more structured without becoming failure.
 
 ## Not to Scale
 
@@ -6059,6 +6187,19 @@ He zoomed in on the station information.
 The diagram was useful.
 
 Then it reached its limit.
+
+### Three events
+
+**1. Nia shows Tomas that the metro diagram preserves network connections while deliberately distorting geographical distance and shape.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+**2. Adding a new line forces Nia to change parts of the diagram while preserving other features.**  
+**Integration × Distributed × Bearing → #41 — “held together across”**
+
+**3. Tomas later uses the diagram successfully while recognizing that it does not tell him how easy a physical interchange will be.**  
+**Differentiation × Focal × Efficacy → #3 — “this far”**
+
+The chapter separates representation from resemblance. A map can preserve one web of relations, reorganize itself while remaining a whole, and still have a practical boundary beyond which competent use requires another source.
 
 ## Nothing to Fix
 
@@ -6426,6 +6567,18 @@ A person who was gone.
 
 There was nothing to fix.
 
+### Three events
+
+**1. Finding her mother's old bus ticket changes how Ruth understands her mother's habit of keeping scraps of paper.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Tom prevents Ruth from treating that new understanding as an explanation of everything her mother kept.**  
+**Repair × Release × Standing → #34 — “a better limit”**
+
+**3. Ruth eventually gives away the coat while keeping the ticket without resolving everything it means to her.**  
+**Settlement × Distributed × Efficacy → #51 — “settled across the cases”**
+
+A new relation can illuminate without explaining everything. The chapter then repairs an overreach by releasing its authority and ends with action becoming possible before interpretation is complete.
 
 ## Say It Another Way
 
@@ -6717,6 +6870,19 @@ Sometimes saying the same thing requires saying something different.
 
 And sometimes saying something different reveals that nobody can point cleanly to the moment when "the same thing" stopped being enough.
 
+### Three events
+
+**1. Elena and her father produce different English versions of a sentence from his Spanish wedding speech.**  
+**Opening × Distributed × Bearing → #14 — “reachable across”**
+
+**2. Her father delivers an improvised English version at the wedding that differs from both written versions.**  
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+**3. Sofia later changes the wording again while preserving something her father recognizes in it.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+Translation opens several viable routes rather than one exact substitute. A live utterance can make one route effective, while later continuity depends on a relation carried across changing words.
+
 ## Close Enough to Predict
 
 Mina worked at a science museum where the pendulum was popular for the wrong reason.
@@ -6965,6 +7131,19 @@ Mina kept using it.
 
 Just not everywhere.
 
+### Three events
+
+**1. The pendulum's simple prediction matches small swings more closely than large swings.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. Replacing a faulty sensor shows that an apparent failure of the model was caused by the measurement equipment.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**3. Mina later identifies a case in which a colleague has used the approximation beyond the range where it is adequate.**  
+**Differentiation × Focal × Efficacy → #3 — “this far”**
+
+The chapter makes adequacy range-sensitive. A model's success varies across cases, an apparent failure can be corrected by one decisive test, and a learned boundary can persist as practical restraint in later use.
+
 ## Original
 
 The staircase had been repaired so many times that Lea no longer trusted the word original.
@@ -7168,6 +7347,19 @@ It had stayed available as a staircase partly because people had changed it.
 That did not answer every question about what was original.
 
 It made the question more exact.
+
+### Three events
+
+**1. Lea discovers that the staircase already contains materials and repairs from several different periods.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**2. Lea and Marcus replace some damaged material while retaining other existing parts.**  
+**Repair × Distributed × Bearing → #32 — “right between both”**
+
+**3. The new material gradually becomes part of the working staircase without settling which parts should be called original.**  
+**Integration × Distributed × Bearing → #41 — “held together across”**
+
+The staircase becomes intelligible as historically differentiated, then repair preserves it through relations among retained and replaced parts. Integration can succeed before the question of originality receives a final answer.
 
 ## That's Not How It Happened
 
@@ -7427,6 +7619,19 @@ That was not surrender.
 
 It was more accurate than "That's exactly what happened."
 
+### Three events
+
+**1. Anna and Beth discover that they remember the same childhood argument differently.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. A home video settles some disputed facts while leaving other parts of the event unresolved.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**3. Later evidence changes both sisters' accounts without making their memories identical.**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+The chapter separates disagreement between memories from disagreement about facts. Evidence can settle one part of an event and repair both accounts without collapsing them into one identical memory.
+
 ## It Still Looks Wrong
 
 Ravi's jug was strong.
@@ -7679,6 +7884,18 @@ He knew at least four different ways that sentence could be challenged.
 
 He also knew exactly what she meant.
 
+### Three events
+
+**1. Mae judges Ravi's technically sound jug handle to look too heavy even though it does not weigh more.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. Comparing different jugs makes several visual and practical features of the handles available for discussion.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+**3. A later display context changes how Mae judges a handle she had previously criticized.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+The chapter first separates visual judgment from literal weight, then opens a wider field of features through comparison. The final judgment changes because the handle's bearing within a new context changes.
 
 ## We Agree on What Happened
 
@@ -7879,6 +8096,19 @@ He remembered something smaller.
 That two responsibilities can remain real at the same time.
 
 And that understanding a situation better may sometimes remove excuses without removing the difficulty.
+
+### Three events
+
+**1. Nessa and Daniel agree about the facts of Priya's situation while disagreeing about what they should do.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. Their attempt to manage the problem indirectly fails to remove the conflict.**  
+**Repair × Release × Standing → #34 — “a better limit”**
+
+**3. Priya reduces the project's dependence on her without resolving the disagreement about confidentiality.**  
+**Repair × Focal × Efficacy → #30 — “the burden moves”**
+
+Better understanding does not guarantee agreement. The chapter distinguishes factual convergence from practical judgment, exposes the limit of one failed strategy, and then shows a local repair that changes what can happen without resolving the whole normative conflict.
 
 ## The Old Rule
 
@@ -8100,6 +8330,19 @@ Perhaps sometimes continuity is not discovered.
 
 It is negotiated.
 
+### Three events
+
+**1. The rowing club disputes whether its old written sign-out rule still requires use of the physical board after an app is introduced.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+**2. Failure of the app forces the club to use the board and exposes gaps in both systems.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**3. The club creates a revised practice and rewrites the rule to describe it.**  
+**Repair × Distributed × Efficacy → #33 — “turn where it fails”**
+
+A changed practice reopens the meaning of an inherited rule, failure exposes distinctions that were hidden while things worked, and revision repairs the system by coordinating several elements rather than preserving wording unchanged.
+
 ## No One Knows the Whole Thing
 
 The museum exhibition existed for months before any visitor could see it.
@@ -8308,6 +8551,19 @@ The exhibition had not erased the path not taken.
 
 It had simply made another one real.
 
+### Three events
+
+**1. A museum panel cannot reach the room for which the exhibition was designed.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**2. Several specialists alter different parts of the exhibition so the panel can be installed elsewhere.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. The completed exhibition works coherently even though no individual member of the team knows all of the decisions that produced it.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+A single constraint can settle what cannot be done, while the solution belongs to distributed integration. The repeated final coordinate makes the point explicit: coherent achievement need not be contained inside one knower.
+
 ## She Wouldn't Do That
 
 Lia's editor circled one sentence and wrote:
@@ -8515,6 +8771,19 @@ She looked at the page.
 The sentence was still hers.
 
 The understanding was not.
+
+### Three events
+
+**1. Lia's editor rejects Mara's abrupt departure because it does not fit the character established earlier in the novel.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Lia restores earlier material that makes the departure intelligible without giving it a simple new explanation.**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+**3. A reader later gives Lia an interpretation of Mara's departure that Lia herself had not formed.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+The same fictional action can first fail through its relation to what came before, then be repaired by changing that relation, and later open into an interpretation the author did not possess. Intelligibility here exceeds both isolated action and authorial intention.
 
 ## The Drawer Comes Out
 
@@ -8769,3 +9038,17 @@ He opened it.
 "There."
 
 Then they got on with the evening.
+
+### Three events
+
+**1. Nora and Ben remove the old repaired drawer and allow it to be discarded during the kitchen renovation.**  
+**Settlement × Release × Efficacy → #54 — “nothing further is owed”**
+
+**2. Nora applies the old lifting test to a new sticking drawer, finds that it changes nothing and discovers a spatula behind the organiser.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**3. Nora recognizes that something from the earlier repair has continued even though the old drawer, exact memory and original answer have not.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+The book closes by separating continuation from preservation of the original object or answer. The old drawer can be released, the inherited test can fail productively, and what continues can remain only through its bearing across changed situations. The system ends where it began: with something becoming clear enough to change what happens next.
+
