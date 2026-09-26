@@ -4099,7 +4099,7 @@ The door was wood, hinges, weight and movement. The rule was an expectation peop
 **3. Leila opens a door marked "KEEP CLOSED" to carry a table through and then closes it again.**  
 **Differentiation × Focal × Bearing → #2 — “this, not that”**
 
-All three occupy the same cell because each turns on a decisive distinction whose force is relational: physical possibility is not the same as permission, obligation or rule-governed use. Repetition here shows that one form can recur across different materials without becoming a generic slogan.
+The same coordinate recurs because each distinction matters through an undertaking, rule or purpose rather than through physical possibility alone.
 
 ### Five questions
 
@@ -4747,7 +4747,7 @@ It still needed the situation.
 **3. Similar words in another meeting fail to produce the joke because the relevant situation is absent.**  
 **Relating × Focal × Bearing → #20 — “held against”**
 
-The chapter distinguishes explanation from uptake, then shows that a relation can either remain as dependence on context or take effect immediately in response. Similar words do not guarantee the same intelligibility because the situation itself can be constitutive.
+Explanation, response and context do different work here; the same words are not enough to reproduce the same intelligibility.
 
 ### Five questions
 
@@ -5034,7 +5034,7 @@ So she did.
 **3. Teaching Sami makes Aisha notice a cycling movement that she had been performing without attending to it.**  
 **Differentiation × Focal × Standing → #1 — “this”**
 
-The chapter separates saying from doing, then shows a skill emerging through coordinated practice rather than a single instruction. Teaching also makes previously tacit structure available as an explicit distinction.
+The skill emerges through coordinated practice, while teaching makes part of Aisha's previously unnoticed movement available to attention.
 
 ### Five questions
 
@@ -5560,7 +5560,7 @@ She left it there.
 **3. Celia later develops another interpretation and leaves it explicitly uncertain.**  
 **Opening × Focal × Bearing → #11 — “from here, either way”**
 
-The chapter shows that opening and settlement can coexist at different scales. One fact can become fixed while the larger interpretive field remains open, and uncertainty can become more structured without becoming failure.
+One fact becomes fixed while the larger interpretive field remains open; the uncertainty becomes more structured rather than disappearing.
 
 ### Five questions
 
@@ -5871,7 +5871,7 @@ Then it reached its limit.
 **3. Tomas later uses the diagram successfully while recognizing that it does not tell him how easy a physical interchange will be.**  
 **Differentiation × Focal × Efficacy → #3 — “this far”**
 
-The chapter separates representation from resemblance. A map can preserve one web of relations, reorganize itself while remaining a whole, and still have a practical boundary beyond which competent use requires another source.
+The map preserves some relations, can be reorganized around them, and still reaches a practical limit where another source is needed.
 
 ### Five questions
 
@@ -6784,7 +6784,7 @@ Just not everywhere.
 **3. Mina later identifies a case in which a colleague has used the approximation beyond the range where it is adequate.**  
 **Differentiation × Focal × Efficacy → #3 — “this far”**
 
-The chapter makes adequacy range-sensitive. A model's success varies across cases, an apparent failure can be corrected by one decisive test, and a learned boundary can persist as practical restraint in later use.
+Adequacy varies across the model's range; one test relocates an apparent failure, and the learned boundary later constrains use.
 
 ### Five questions
 
@@ -7266,7 +7266,7 @@ It was more accurate than "That's exactly what happened."
 **3. Later evidence changes both sisters' accounts without making their memories identical.**  
 **Repair × Focal × Bearing → #29 — “rightly weighted”**
 
-The chapter separates disagreement between memories from disagreement about facts. Evidence can settle one part of an event and repair both accounts without collapsing them into one identical memory.
+Evidence settles some facts and alters both accounts without making the memories identical.
 
 ### Five questions
 
@@ -7511,7 +7511,7 @@ Ravi smiled.
 **3. A later display context changes how Mae judges a handle she had previously criticized.**  
 **Relating × Focal × Bearing → #20 — “held against”**
 
-The chapter first separates visual judgment from literal weight, then opens a wider field of features through comparison. The final judgment changes because the handle's bearing within a new context changes.
+Comparison makes more features available, and the later context changes how the same handle bears on the whole display.
 
 ### Five questions
 
@@ -7718,7 +7718,7 @@ Months later Daniel found himself in another situation involving a confidence. H
 **3. Priya reduces the project's dependence on her without resolving the disagreement about confidentiality.**  
 **Repair × Focal × Efficacy → #30 — “the burden moves”**
 
-Better understanding does not guarantee agreement. The chapter distinguishes factual convergence from practical judgment, exposes the limit of one failed strategy, and then shows a local repair that changes what can happen without resolving the whole normative conflict.
+Factual convergence leaves the practical disagreement intact; a failed strategy is bounded, and a local repair changes what can happen without settling the larger conflict.
 
 ### Five questions
 
@@ -7947,7 +7947,7 @@ Maya looked at the old board.
 **3. The club creates a revised practice and rewrites the rule to describe it.**  
 **Repair × Distributed × Efficacy → #33 — “turn where it fails”**
 
-A changed practice reopens the meaning of an inherited rule, failure exposes distinctions that were hidden while things worked, and revision repairs the system by coordinating several elements rather than preserving wording unchanged.
+Changed practice reopens the inherited rule; failure exposes what the two systems each miss; revision coordinates the parts into a new procedure.
 
 ### Five questions
 
@@ -8166,7 +8166,7 @@ It had simply made another one real.
 **3. The completed exhibition works coherently even though no individual member of the team knows all of the decisions that produced it.**  
 **Integration × Distributed × Efficacy → #42 — “in operation”**
 
-A single constraint can settle what cannot be done, while the solution belongs to distributed integration. The repeated final coordinate makes the point explicit: coherent achievement need not be contained inside one knower.
+One constraint settles what cannot be done; the working solution belongs to a distributed integration that no one person contains.
 
 ### Five questions
 
@@ -8650,7 +8650,7 @@ Then they got on with the evening.
 **3. Nora recognizes that something from the earlier repair has continued even though the old drawer, exact memory and original answer have not.**  
 **Differentiation × Distributed × Bearing → #5 — “this, here”**
 
-The book closes by separating continuation from preservation of the original object or answer. The old drawer can be released, the inherited test can fail productively, and what continues can remain only through its bearing across changed situations. The system ends where it began: with something becoming clear enough to change what happens next.
+The old drawer is released, the inherited test fails productively, and what continues does not require preservation of the original object, answer or exact memory.
 
 ### Five questions
 
