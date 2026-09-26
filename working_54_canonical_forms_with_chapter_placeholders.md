@@ -747,3 +747,49 @@ What persists from an understanding need not persist uniformly. One determinatio
 **Opening × Distributed × Efficacy → #15 — “available throughout”**
 
 The first two events both leave a **Standing** result, but one corrects an error while the other settles a live question. The third changes scale: what one person learned becomes distributed access for others and persists in what they can now do with it.
+
+
+### Chapter 5 — The Same Thing Between Us
+
+#### Three events
+
+**1. Leila and Karim determine how a parcel for a former tenant should reach its owner.**  
+**Settlement × Focal × Efficacy → #48 — “arrived”**
+
+**2. Leila and Karim identify a leaking pipe joint after testing competing explanations for a ceiling stain.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**3. Karim later investigates a similar stain and learns that it comes from an old repaired leak.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+The parcel is settled by a course of action, while the two stain cases are resolved by identifying what the visible mark bears on. Similar-looking situations can share a coordinate, but only when the same kind of relation is what makes them intelligible.
+
+### Chapter 6 — When the Answer Fights Back
+
+#### Three events
+
+**1. Repeated heating behaviour shows Ben that changing the thermostat has not solved the problem.**  
+**Repair × Release × Standing → #34 — “a better limit”**
+
+**2. An engineer discovers poor circulation and explains why the thermostat had been stopping the boiler.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**3. Ben later tests a failed kettle before deciding that the kettle itself is faulty.**  
+**Differentiation × Focal × Standing → #1 — “this”**
+
+The chapter shows three different ways reality can push back: an old answer can lose authority, a causal relation can reorganize the facts without erasing them, and testing can isolate the thing at fault. Correction is not one single operation.
+
+### Chapter 7 — What Keeps Happening?
+
+#### Three events
+
+**1. Nora, Ben and Leila identify six recurring kinds of change across their earlier experiences.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**2. They identify three ways a change can become enough and three ways something can remain afterward.**  
+**Differentiation × Distributed × Standing → #4 — “within this”**
+
+**3. They derive fifty-four possible combinations while leaving open whether the scheme will survive further cases.**  
+**Integration × Distributed × Standing → #40 — “each in its place”**
+
+The first two events differentiate the dimensions; the third integrates them. This is the chapter where the coordinate system itself becomes an object of understanding: first its distinctions stand out, then they are organized into a provisional whole.
