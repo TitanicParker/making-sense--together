@@ -4,9 +4,11 @@
 
 Nora was trying to put the knives away when the kitchen drawer stopped halfway in.
 
-She pushed again. The drawer moved another centimetre, then held. There was no dramatic jam, only the dull refusal of something that had closed properly a hundred times before and now would not.
+She pushed again. It moved another centimetre, then held. There was no dramatic jam, only the dull refusal of something that had closed properly a hundred times before and now would not.
 
-She pulled it out and moved the wooden spoon that had fallen across the cutlery tray. The drawer still stopped. She took out the large ladle. No difference. Then the peeler, because it looked guilty. Still nothing.
+She pulled it out and moved the wooden spoon that had fallen across the cutlery tray. The drawer still stopped. She took out the large ladle. No difference. Then the peeler, because it looked guilty.
+
+Still nothing.
 
 Her brother Ben came in carrying two mugs.
 
@@ -14,47 +16,59 @@ Her brother Ben came in carrying two mugs.
 
 "It won't close."
 
-He set the mugs down and pushed the drawer himself. It stopped in exactly the same place.
+He set the mugs down and tried it himself. The drawer stopped in exactly the same place.
 
 "Something behind it?"
 
 "That's what I thought."
 
-They crouched. From where Nora was standing, the trouble seemed to be inside the drawer. From where Ben had lowered his head, the left side looked slightly lower than the right.
+They crouched. Nora was still looking into the drawer. Ben lowered his head until he was almost level with it.
 
 "There," he said.
 
-Nora looked where he was looking.
-
 "Where?"
 
-"That gap. Push it again."
+"Left side. Push it again."
 
-She did. The drawer moved inward. Just before it stopped, the gap above the left edge narrowed.
+She did.
 
-Nora pulled the drawer out, lifted its front a little, and pushed again. This time it slid all the way home.
+As the drawer moved inward, the gap above the left edge narrowed.
 
-They both paused.
+"Again."
 
-"So it's dropping."
+Nora pulled it out and pushed once more. Same thing.
+
+She lifted the front slightly and tried again.
+
+The drawer slid all the way home.
+
+They looked at each other.
+
+"So it's dropping," Nora said.
 
 "Looks like it."
 
-A few seconds earlier Nora had been sorting through spoons and peelers because the problem seemed to be something blocking the drawer. Now she was watching the left edge. The utensils had become almost irrelevant. Nothing about them had changed. The same drawer had given them a different thing to notice.
+The spoon, ladle and peeler were still on the counter. Neither of them touched them.
 
-They took the drawer out and found the left runner loose against the cabinet. One screw stood slightly proud. Nora tightened it, replaced the drawer, and pushed.
+They took the drawer out. The left runner sat loose against the cabinet, and one screw stood slightly proud.
 
-Closed.
+Nora tightened it.
 
-"That's it," she said.
+They put the drawer back.
 
-Ben opened it and closed it once more.
+She pushed.
+
+It closed.
+
+"That's it."
+
+Ben opened it and closed it again.
 
 "Seems like it."
 
-The mugs were still on the counter. Nora picked hers up. Ben began chopping onions. The drawer stopped being interesting almost immediately. That is what usually happens when a small problem clears. The answer does not remain in the middle of our attention. It is spent. The knife goes into the drawer. The onion gets chopped. Dinner continues.
+He went back to the onions. Nora put the cutlery away. For ten minutes, the drawer became furniture again.
 
-Ten minutes later Ben opened the drawer for a teaspoon.
+Then Ben opened it for a teaspoon.
 
 It stuck.
 
@@ -64,41 +78,57 @@ He looked at Nora.
 
 She laughed and came back over.
 
-This time neither of them touched the cutlery. Ben lifted the front as Nora had done before. The drawer slid in.
+This time neither of them touched the cutlery. Ben lifted the front. The drawer slid in.
 
 "The screw's loose again."
 
 "Or the screw wasn't the problem."
 
-They removed the drawer a second time. The screw was tight. Around it, however, the wood of the runner had split. Tightening the screw had pulled the split together just enough to make the drawer behave for a while. Under the weight of the cutlery, the wood opened again.
+They removed the drawer a second time.
 
-Their first answer had not been foolish. The drawer really had worked after Nora tightened the screw. The screw had mattered. But it had mattered because it was holding damaged wood together, not because a loose screw was the whole fault. They had changed something real, tested it, and had enough reason to go back to cooking.
+The screw was tight.
 
-They had also been wrong about why the drawer was dropping.
+Around it, the wood of the runner had split.
 
-The cabinet had been waiting quietly to tell them.
+Ben pressed the runner upward. The split closed. He let go, and it opened.
 
-Ben pressed the runner upward while Nora watched the split open and close.
+Nora leaned closer.
 
-"Again," she said.
+"Again."
 
 He pressed it again.
 
-"Yes. That's moving."
+There it was.
 
-He let go.
+Tightening the screw had pulled the split together just enough to make the drawer behave. Once the weight of the cutlery returned, the wood opened again.
 
-"So what now?"
+"So tightening it did work," Ben said.
 
-Nora fetched a small clamp and some wood glue. Ben was less convinced.
+"For ten minutes."
 
-"Glue won't hold if the screw just tears through the same place."
+"Still counts."
 
-She looked again. He was right. They moved the fixing a little farther along the sound wood, glued the split, clamped it, and left the drawer on the table.
+The screw had mattered. It just had not mattered in the way they first thought.
 
-For the rest of the evening the knives lived beside the chopping board.
+Nora fetched a small clamp and some wood glue.
 
-The next morning Nora removed the clamp and put the drawer back. She loaded it gradually instead of tipping everything in at once. Ben opened and closed it with half the cutlery inside. Then with all of it.
+Ben looked at the split.
+
+"Glue won't hold if the screw tears through the same place."
+
+She looked again.
+
+He was right.
+
+They moved the fixing farther along into sound wood, glued the split, clamped it, and left the drawer on the table.
+
+For the rest of the evening, the knives lived beside the chopping board.
+
+The next morning Nora removed the clamp and put the drawer back. Instead of tipping the cutlery in, she loaded it gradually.
+
+Ben opened and closed the drawer with half the weight inside.
+
+Then with all of it.
 
 "Again," Nora said.
 
@@ -108,44 +138,51 @@ Smooth.
 
 "Now?"
 
+Nora opened it once, then closed it herself.
+
 "Now."
 
-Neither of them had exactly the same experience of the repair. Ben had first noticed the narrowing gap. Nora had first tried removing the obstruction. He had doubted the glue. She had chosen the new fixing point. At several moments one of them had seen something the other had not.
+Ben had first noticed the dropping edge. Nora had first tried lifting the drawer. He had doubted the glue. She had watched the split close under pressure. They had not needed to notice the same things at the same time.
 
-Yet they had been able to work on one problem together because a change noticed by either of them could become important to both. A word, a finger against a piece of wood, the sound of the drawer stopping, the sight of the split opening under pressure: each could alter what the other did next.
+"There" had worked because Ben could give Nora somewhere to look. "Again" worked because there was a movement worth repeating. "Now" worked because the drawer had survived a test they both understood without having to spell it out.
 
-"There" had been enough when there was something for both of them to look at.
+Months later, in a different flat, Nora pulled open a bedside drawer that sagged as it came toward her.
 
-"Again" had been enough when they both knew which movement needed repeating.
-
-"Now" had been enough when the drawer had survived the test they had agreed, without saying much, was worth making.
-
-Months later, in a different flat, Nora pulled open a bedside drawer that sagged as it came toward her. She did not remember the kitchen repair as a sequence of sentences. She did not picture the mugs, or the onions, or which screw Ben had pressed with his thumb.
+She did not remember the kitchen repair as a sequence of sentences. She did not picture the mugs, the onions, or which screw Ben had pressed with his thumb.
 
 She lifted the front of the drawer.
 
-It moved differently.
+It moved more freely.
 
-She did not know yet what that meant. But it was enough to make her look at the runners before emptying everything inside.
+A friend standing beside her asked, "What are you doing?"
 
-A friend standing beside her asked what she was doing.
-
-"Look at this side," Nora said. "See how it drops when I pull?"
+"Watch this side."
 
 Her friend bent down.
 
-Nora opened the drawer again.
+Nora opened the drawer normally.
+
+"See how it drops?"
+
+"I think so."
+
+Nora closed it, lifted the front slightly, and opened it again.
+
+Her friend watched the edge.
 
 "Oh."
 
-Nothing had been handed over whole. Her friend had not received Nora's old morning in the kitchen, or even a diagnosis of this drawer. She had been given somewhere to look, something to compare, a movement to watch. From there she could see for herself.
+"Different?"
 
-Perhaps the bedside drawer would turn out to have a different fault. Perhaps lifting it would mislead them this time. They would have to test that too.
+"Yes."
 
-But they were no longer where they had been a moment earlier.
+"Good."
 
-Now there was something they could look at together.
+"Does that mean the runner's split?"
 
+Nora looked underneath.
+
+"Maybe. Let's see."
 
 ## Enough
 
