@@ -984,6 +984,8 @@ Ben had an explanation that had made sense. The thermostat could cause exactly t
 
 Then the heating refused to behave according to it.
 
+Whatever turning the dial had changed, it had not solved the problem.
+
 The refusal mattered more than Ben's confidence.
 
 Nora touched one of the radiators.
@@ -1137,6 +1139,8 @@ It did.
 He unplugged the kettle and tried another socket.
 
 Nothing.
+
+The failure had followed the kettle from one live socket to another.
 
 Nora looked at him.
 
@@ -1457,7 +1461,7 @@ She fitted it incorrectly. The cut faced outward. The bracket pressed against th
 
 Then she reversed it.
 
-The bracket settled into the cut.
+The bracket settled into the cut. The drilled hole had caught Karim's eye; the shallow cut was what decided the orientation.
 
 Amira smiled.
 
@@ -1727,7 +1731,7 @@ They did.
 
 Or thought they did.
 
-A promise could be retold in many ways.
+Around the kitchen, they tried retelling the promise in different ways.
 
 I'll be there.
 
@@ -1737,7 +1741,7 @@ I won't miss it.
 
 You can expect me at six thirty.
 
-Those sentences were not identical. In the right circumstances they could nevertheless bear on the same undertaking.
+Those sentences were not identical. In the right circumstances they could nevertheless bear on the same undertaking. The question was which differences changed the undertaking and which did not.
 
 But not every change of wording would preserve it.
 
