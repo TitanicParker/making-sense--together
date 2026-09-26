@@ -3390,53 +3390,9 @@ His father laughed.
 
 "You have been spending too much time with Leila."
 
-The question had begun before Karim was born.
+The question had begun before Karim was born. He had inherited not only the photograph but the uncertainty attached to it.
 
-He had not chosen it.
-
-He had not created the uncertainty.
-
-He had inherited both.
-
-That is common too.
-
-People inherit not only answers but unfinished work.
-
-Who was this person?
-
-Why was this decision made?
-
-What did this note mean?
-
-Which version of the story is true?
-
-Why does this machine fail only sometimes?
-
-Can this theorem be proved?
-
-What caused this illness?
-
-What happened here?
-
-A question can cross from one person to another without becoming a new question each time.
-
-The later person may bring new tools.
-
-A scanner.
-
-A database.
-
-A different language.
-
-More records.
-
-Better measurements.
-
-But what they find can still answer the earlier problem.
-
-That connection matters.
-
-Otherwise every generation would begin with a fresh mystery that merely resembled the old one.
+He could bring new tools and new evidence to the question without turning it into a different question.
 
 Karim put the clipping behind the photograph in a clear sleeve.
 
@@ -3458,27 +3414,9 @@ His father read it.
 
 His father shook his head.
 
-The new card did not finish everything.
+The new card did not finish everything. It separated what they could now say from what the photograph still refused to settle.
 
-That was its strength.
-
-It preserved what had become clearer without pretending the remaining uncertainty had vanished.
-
-Years later someone else might find another photograph.
-
-A receipt.
-
-A diary.
-
-A date written in a margin.
-
-The old question would still be able to receive an answer.
-
-That is one way a question stays alive.
-
-Not by remaining exactly as it was.
-
-By becoming more precise about what has been settled and what has not.
+Someone later could begin there.
 
 ### Three events
 
@@ -3563,39 +3501,9 @@ Later that afternoon Martin opened the cupboard and found the first fuse on the 
 
 Nobody knew.
 
-The group had not merely agreed on an answer.
+For several minutes the group had agreed not only on the answer but on how to protect it. A bad replacement fuse could explain one failure. A second socket was harder to explain away.
 
-They had also agreed, for several minutes, on what counted as evidence.
-
-The dead kettle supported the fuse theory.
-
-The working toaster did not threaten it because they assumed a different socket could be on a different circuit.
-
-The first failed replacement did not immediately kill it because they invented a bad replacement fuse.
-
-Consensus can be surprisingly elastic when people like the explanation they already have.
-
-That does not make agreement worthless.
-
-Usually agreement is useful.
-
-If three people independently read the same train time, that gives some reason to trust it.
-
-If several people hear the same word in a recording, that matters.
-
-If experienced mechanics converge on the same fault, their agreement is evidence.
-
-But agreement and correctness are not the same thing.
-
-A group can share a mistake.
-
-The more interesting question is what can make the group move.
-
-In the kitchen, the kettle did.
-
-Not by speaking.
-
-By failing under a test the fuse explanation predicted should succeed.
+The kettle did not need a vote. It failed where the fuse story said it should work.
 
 Later that week, something less physical happened.
 
@@ -3627,29 +3535,7 @@ They had all agreed with one another.
 
 They had still been wrong about what another person was expecting.
 
-This is why shared thinking cannot be measured by harmony.
-
-Sometimes the lone person who says "No, that's not it" is closer to the matter.
-
-Sometimes the group is right.
-
-Sometimes the dissenter is confused.
-
-The number of people does not decide.
-
-What matters is whether the understanding remains open to something that can count against it.
-
-A machine.
-
-A measurement.
-
-A document.
-
-A counterexample.
-
-A remembered promise.
-
-A person saying, "That is not what I meant."
+The manager's answer did what the kettle test had done in a different way: it gave the group's confident reading something it had to answer to.
 
 The team dropped the end-of-day plan and reorganized the remaining work around the nine o'clock meeting.
 
@@ -3953,25 +3839,7 @@ Then:
 
 13 + 22 = 35.
 
-The earlier result had become part of the means for answering a new question.
-
-This is one of the quiet powers of understanding.
-
-A problem can disappear into what comes next.
-
-First the question is:
-
-What happens when odd meets odd?
-
-Later the answer becomes something you stand on while asking:
-
-What about odd and even?
-
-Or three odd numbers?
-
-Or multiplication?
-
-The original work is not repeated from zero every time.
+The earlier result had become part of the means for answering a new question. Amira no longer needed to start from examples each time.
 
 That afternoon Ben came in and saw the page.
 
@@ -4069,19 +3937,7 @@ The pattern looked convincing.
 
 Then two stood there refusing to fit.
 
-Mathematics has its own way of pushing back.
-
-Not with a leaking pipe or a dead kettle.
-
-A definition can push back.
-
-A calculation can.
-
-A proof can.
-
-A counterexample can.
-
-The important thing is the same: our present understanding is not allowed to decide by preference what counts.
+This time the pushback was one number. Two was enough.
 
 Amira crossed out "all."
 
@@ -4990,27 +4846,7 @@ They both laughed.
 
 Nobody else did.
 
-There are moments when understanding seems to announce itself through what a person can now hear, anticipate or respond to.
-
-That does not make every response trustworthy.
-
-People laugh because others laugh.
-
-They nod when they are lost.
-
-They learn when to smile at a reference they do not understand.
-
-A reaction can imitate understanding.
-
-And an explanation can accompany understanding without producing it.
-
-Mateo could explain the printer joke after the second meeting.
-
-That did not mean the explanation had caused the first laugh he eventually gave.
-
-Something had become available in the new situation.
-
-The old sentence found somewhere to land.
+Mateo could explain the printer joke after the second meeting, but the explanation had not produced his laugh. The second situation had given the old mismatch somewhere to land.
 
 Months later, their manager said during another overlong meeting, “Let’s not get bogged down in detail.”
 
@@ -5227,31 +5063,7 @@ On the way home Sami said, “You are bad at teaching cycling.”
 
 “You unsuccessfully explained it.”
 
-Aisha thought about that.
-
-She had been riding since she was six.
-
-If someone asked how to keep a bicycle upright, she could produce sentences.
-
-Some were useful.
-
-Look ahead.
-
-Keep moving.
-
-Do not grip the bars too tightly.
-
-But none of them contained the skill.
-
-Worse, some sentences were only approximately true.
-
-“Keep moving” sounded as though speed itself guaranteed balance.
-
-It did not.
-
-“Turn into the fall” sounded precise until someone had to decide what counted as the fall.
-
-“Relax” was nearly useless to a frightened person.
+Aisha had been riding since she was six. She could produce useful sentences about it, but none of them contained the balance Sami was trying to acquire.
 
 The next weekend Sami practised alone.
 
@@ -5301,21 +5113,7 @@ Halfway through, he took the corner too wide and had to brake.
 
 At the bottom he said, “I knew what you were doing. I just couldn’t do it.”
 
-That was another difference.
-
-Seeing a skill was not performing it.
-
-Explaining a skill was not performing it.
-
-Performing it once was not possessing it securely.
-
-Possessing it securely did not mean being able to explain it.
-
-Yet these were not unrelated achievements either.
-
-Aisha’s riding gave Sami something to copy.
-
-His failed turns made her notice what she had stopped noticing in herself.
+Seeing the movement had not yet made Sami able to perform it. But watching him fail made Aisha notice something she had stopped noticing in herself.
 
 When he asked why she lowered her outside foot on sharp bends, she looked down as if somebody else had placed it there.
 
@@ -7013,13 +6811,7 @@ The spare matched the prediction again.
 
 "It is one of my better qualities."
 
-The distinction stayed with Mina.
-
-A bad measurement could make a good model look bad.
-
-A model could also look good only because the test had not reached the place where its simplifications mattered.
-
-Neither success nor failure explained itself.
+The spare sensor changed where the failure belonged. The model had not been rescued everywhere; it had survived this test.
 
 The museum revised the exhibit.
 
@@ -7081,25 +6873,7 @@ Mina looked at the class waiting behind him.
 
 He laughed.
 
-But the answer was not merely convenience.
-
-The simple model let visitors see something quickly: length mattered strongly; mass did not matter in the way many expected; repeated swings had a regularity that could be predicted.
-
-A more exact model could do more.
-
-It could also hide the first relation under more machinery.
-
-Later, Mina used the simple equation while checking a new display.
-
-She did not feel guilty about it.
-
-She knew what she was asking of it.
-
-That knowledge had become part of using the model well.
-
-The danger was not simplification itself.
-
-It was forgetting what had been simplified.
+Later, Mina used the simple equation while checking a new display. She knew what she was asking of it, and where she would stop asking.
 
 Months later a colleague used the same approximation in a report outside the range where it behaved well.
 
