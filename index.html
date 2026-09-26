@@ -53,6 +53,13 @@
       color: inherit;
     }
 
+    a.control {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+    }
+
     .progress {
       position: fixed;
       inset: 0 0 auto 0;
@@ -223,6 +230,36 @@
       border-color: hsl(var(--chapter-hue) 30% 36%);
     }
 
+    body.technical-mode .book {
+      --measure: 820px;
+    }
+
+    body.technical-mode .chapter {
+      background: transparent;
+      border-color: var(--line);
+      border-radius: 8px;
+      margin-top: 2.7em;
+    }
+
+    body.technical-mode .chapter-tab {
+      background: var(--paper-2);
+      border-color: var(--line);
+    }
+
+    body.technical-mode .chapter-tab.active {
+      outline-color: var(--accent);
+    }
+
+    body.technical-mode table {
+      font-family: ui-sans-serif, system-ui, sans-serif;
+      font-size: .82em;
+    }
+
+    body.technical-mode pre,
+    body.technical-mode code {
+      font-size: .84em;
+    }
+
     article > h1:first-child {
       font-size: clamp(2.5rem, 7vw, 4.5rem);
       line-height: .98;
@@ -350,6 +387,7 @@
   <header class="topbar">
     <div class="brand" id="brand">Making Sense Together</div>
     <div class="toolbar">
+      <a class="control" id="modeLink" href="?file=technical.md">Technical</a>
       <button class="control" id="smaller" aria-label="Smaller text">A−</button>
       <button class="control" id="larger" aria-label="Larger text">A+</button>
       <button class="control" id="width" aria-label="Toggle reading width">↔</button>
@@ -381,7 +419,20 @@
       var chapterTabs = document.getElementById("chapterTabs");
       var brand = document.getElementById("brand");
       var progressBar = document.getElementById("progressBar");
+      var modeLink = document.getElementById("modeLink");
+      var isTechnical = safeFile === "technical.md";
       var sections = [];
+
+      if (isTechnical) {
+        document.body.classList.add("technical-mode");
+        modeLink.textContent = "Book";
+        modeLink.href = "?file=manuscript.md";
+        modeLink.setAttribute("aria-label", "Open the narrative book");
+      } else {
+        modeLink.textContent = "Technical";
+        modeLink.href = "?file=technical.md";
+        modeLink.setAttribute("aria-label", "Open the technical debrief");
+      }
       var currentSection = 0;
 
       function slugify(text) {
@@ -440,7 +491,7 @@
           var hue = (index * 137.508 + 18) % 360;
           tab.className = "chapter-tab";
           tab.type = "button";
-          tab.textContent = String(index + 1);
+          tab.textContent = isTechnical ? String(index + 1) : String(index + 1);
           tab.dataset.target = chapter.id;
           tab.setAttribute("aria-label", "Chapter " + (index + 1) + ": " + heading.textContent);
           tab.title = heading.textContent;
@@ -508,7 +559,7 @@
           var title = book.querySelector("h1");
           if (title) {
             brand.textContent = title.textContent;
-            document.title = title.textContent;
+            document.title = isTechnical ? title.textContent + " — Making Sense Together" : title.textContent;
           }
 
           status.hidden = true;
