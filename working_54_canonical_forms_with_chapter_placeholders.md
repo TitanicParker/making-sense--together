@@ -839,3 +839,79 @@ The same undertaking can survive changes in wording because later events still b
 **Repair × Focal × Standing → #28 — “set right”**
 
 What survives from the past can reopen a possibility, restore a task, or correct a memory. The chapter therefore separates persistence from uninterrupted presence: something can matter again after having fallen out of attention.
+
+
+### Chapter 11 — Still the Same?
+
+#### Three events
+
+**1. Leila places a desk photograph, a promise message and an old warning together as examples of things that continued.**  
+**Integration × Distributed × Standing → #40 — “each in its place”**
+
+**2. The group compares what can remain the same when words, people, memories and circumstances change.**  
+**Relating × Distributed × Bearing → #23 — “each changes the other”**
+
+**3. Repairing the tap makes the old warning cease to be an appropriate instruction.**  
+**Settlement × Release × Efficacy → #54 — “nothing further is owed”**
+
+Continuity can be assembled across different cases, can hold through changing relations, and can also end when the condition that made something matter disappears. Persistence is therefore not simple survival.
+
+### Chapter 12 — The Half-Finished Thing
+
+#### Three events
+
+**1. Karim gives Ben a partly built window seat together with the unresolved problem left by his failed attempts.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+**2. Ben discovers that the rising floor, rather than the width of the bay, causes the box to jam.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**3. The completed job leaves Karim with both Ben's level and a new reason to check whether a floor is level.**  
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+An unfinished question can be inherited, narrowed by a decisive distinction, and then leave behind a reusable investigative move. What passes between people is not only answers but shaped possibilities for further inquiry.
+
+### Chapter 13 — For Whoever Comes Next
+
+#### Three events
+
+**1. Nora learns that using her mother's bread recipe requires judgments that are not fully contained in the written instructions.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. Nora teaches the recipe to Leila using the card, additional instructions, demonstration and correction.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. Nora rewrites the recipe for Amira using words and images that differ from the original card.**  
+**Opening × Distributed × Standing → #13 — “another way through”**
+
+The chapter separates a written carrier from the practical judgment needed to use it, then shows several modes working together to transmit a skill. Preservation can therefore require transformation rather than exact copying.
+
+### Chapter 14 — The Pattern Travels
+
+#### Three events
+
+**1. Amira shows that several people can follow the same recipe and produce different loaves.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**2. The group applies its three questions to the desk, the promise and the bread.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. The group finds similar patterns in examples involving school, work, routes and music.**  
+**Integration × Distributed × Standing → #40 — “each in its place”**
+
+The chapter tests whether the same structural questions travel across unlike materials. One comparison reveals difference, another turns the questions into a usable method, and the last lets a cross-case pattern stand as something inspectable in its own right.
+
+### Chapter 15 — The Rule You Didn't Discover
+
+#### Three events
+
+**1. Amira learns why successive entries in the seven-times table increase by seven.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Amira uses a bus map produced from other people's work to navigate across town.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+**3. When a diversion makes the map inaccurate, Amira uses other information to continue toward the station.**  
+**Opening × Release × Efficacy → #18 — “beyond”**
+
+Inherited understanding can deepen from use into relation, operate across a distributed system, and survive the failure of one representation by releasing its authority. What is inherited becomes more fully one's own when it can be used, bounded and revised.
