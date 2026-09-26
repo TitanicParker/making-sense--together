@@ -309,6 +309,29 @@
 
     .form-link:hover { border-color: var(--accent); }
 
+    body.practice-mode .answer-key {
+      color: transparent !important;
+      background: var(--accent-soft);
+      border-radius: 4px;
+      user-select: none;
+      text-shadow: none;
+    }
+
+    body.practice-mode .answer-key::selection { background: var(--accent-soft); }
+    body.practice-mode .form-link { display: none; }
+
+    .practice-note {
+      display: none;
+      margin: 0 0 10px;
+      padding: 8px 10px;
+      border: 1px dashed var(--line);
+      border-radius: 8px;
+      color: var(--muted);
+      font: 12px/1.45 ui-sans-serif, system-ui, sans-serif;
+    }
+
+    body.practice-mode .questions-section .practice-note { display: block; }
+
     .system-drawer {
       position: fixed;
       right: 18px;
@@ -490,6 +513,7 @@
     <div class="toolbar">
       <a class="control nav-pill" href="./definitions.html" aria-label="Open definitions">Definitions</a>
       <a class="control nav-pill" href="./forms.html" aria-label="Open 54 canonical forms">54 Forms</a>
+      <button class="control" id="practice" aria-pressed="false" aria-label="Toggle practice mode">Practice</button>
       <button class="control" id="smaller" aria-label="Smaller text">A−</button>
       <button class="control" id="larger" aria-label="Larger text">A+</button>
       <button class="control" id="width" aria-label="Toggle reading width">↔</button>
@@ -614,6 +638,7 @@
           chapter.querySelectorAll(".coda-section strong").forEach(function (strong) {
             var match = strong.textContent.match(/→ #(\d+)\s/);
             if (!match) return;
+            strong.classList.add("answer-key");
             var a = document.createElement("a");
             a.className = "form-link";
             a.href = "forms.html?form=" + match[1];
@@ -621,6 +646,19 @@
             a.setAttribute("aria-label", "Open canonical form " + match[1]);
             strong.insertAdjacentElement("afterend", a);
           });
+
+          var questions = chapter.querySelector(".questions-section");
+          if (questions) {
+            var note = document.createElement("div");
+            note.className = "practice-note";
+            note.textContent = "Practice mode hides printed coordinates and compact expressions. Answer from the event first, then switch Practice off to compare.";
+            questions.insertBefore(note, questions.querySelector("h3").nextSibling);
+
+            questions.querySelectorAll("strong").forEach(function (strong) {
+              var t = strong.textContent;
+              if (t.indexOf("×") > -1 || /[“”]/.test(t)) strong.classList.add("answer-key");
+            });
+          }
         });
       }
 
@@ -724,6 +762,12 @@
             "Create <code>manuscript.md</code> in this repository, then reload the page.<br><br>" +
             "<small>" + String(error.message).replace(/[<>]/g, "") + "</small>";
         });
+
+      document.getElementById("practice").addEventListener("click", function () {
+        var on = document.body.classList.toggle("practice-mode");
+        this.setAttribute("aria-pressed", on ? "true" : "false");
+        this.textContent = on ? "Reveal" : "Practice";
+      });
 
       document.getElementById("theme").addEventListener("click", function () {
         var dark = document.documentElement.dataset.theme === "dark";
