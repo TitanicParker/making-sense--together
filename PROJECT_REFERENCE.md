@@ -130,11 +130,13 @@ Practice mode exists for readers who want to reconstruct before revealing the pr
 
 ## Short expressions
 
-The 54 ultra-short expressions are canonical for the present manuscript and ledger.
+The 54 ultra-short expressions are canonical for the present manuscript and ledger and are **frozen for this edition**.
 
-They are **not miniature definitions** and should not be revised merely because they do not literally encode all three axes. Their role is under active study as compressed human recognition cues or attractors toward the invariant structure.
+They are **not miniature definitions** and should not be revised merely because they do not literally encode all three axes. Their role is as compressed human recognition cues or attractors toward the invariant structure.
 
-Do not modify the short-expression layer, X→Y language, or invariant glosses on the basis of stylistic preference while the current invariant-iteration experiment is pending.
+Internal blind-recovery and cue-ablation experiments support treating the three linguistic layers as complementary rather than redundant: the ultra-short expression, X→Y sentence, and ordinary house-rule sentence each carry partial structure, while the full triplet recovered all 54 canonical coordinates in the blind test. See `SHORT_FORM_EXPERIMENT.md`.
+
+Do not modify the canonical short-expression layer on stylistic grounds. Any future change should require new evidence that a form persistently fails to support recognition of its canonical coordinate.
 
 ## Experimental / historical material
 
