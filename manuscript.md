@@ -4838,6 +4838,18 @@ And it was still capable of becoming larger again.
 
 All three occupy the same cell because the change is a newly heard relation, sufficiency gathers around one decisive musical link, and what remains is the bearing among parts. The chapter shows how one form can deepen without changing coordinate.
 
+### Five questions
+
+1. **What changed in each event?** What relation becomes audible between Mara's violin line and the cello, what further relation appears with the clarinet, and what becomes available to Tess through Mara's demonstration?
+
+2. **What makes each change enough?** In each case, what focal musical relation supplies the decisive point of understanding?
+
+3. **What remains afterward?** Why does each result persist through the relation among musical parts rather than as an isolated fact?
+
+4. **How do those answers produce the same coordinate three times?** Reconstruct **Relating × Focal × Bearing** in each event.
+
+5. **How does “held against” compress all three?** What is each musical passage being heard against, and why does that relation matter?
+
 ## You Had to Be There
 
 Hannah laughed before Mateo did.
@@ -5112,6 +5124,18 @@ It still needed the situation.
 **Relating × Focal × Bearing → #20 — “held against”**
 
 The chapter distinguishes explanation from uptake, then shows that a relation can either remain as dependence on context or take effect immediately in response. Similar words do not guarantee the same intelligibility because the situation itself can be constitutive.
+
+### Five questions
+
+1. **What changed in each event?** What distinction becomes clear when explanation fails to produce laughter, what relation succeeds in the later situation, and what dependency is exposed when similar words fail elsewhere?
+
+2. **What makes each change enough?** What focal contrast or situational relation is decisive in each event?
+
+3. **What remains afterward?** Why does the first result persist through a distinction, the second through an effect in Mateo's response, and the third through a dependence on context?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Bearing**, **Relating × Focal × Efficacy**, and **Relating × Focal × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“this, not that,” “answered,”** and **“held against”** reveal about understanding a joke, responding to it, and depending on a situation?
 
 ## Don't Tell Me How
 
@@ -5400,6 +5424,18 @@ So she did.
 
 The chapter separates saying from doing, then shows a skill emerging through coordinated practice rather than a single instruction. Teaching also makes previously tacit structure available as an explicit distinction.
 
+### Five questions
+
+1. **What changed in each event?** What distinction becomes clear when verbal instruction fails, what becomes integrated when Sami learns to ride, and what previously unnoticed movement becomes explicit for Aisha?
+
+2. **What makes each change enough?** Why is the failed teaching attempt focal in the first event, why does learning require several coordinated attempts and cues, and why is teaching itself the focal occasion in the third?
+
+3. **What remains afterward?** Why do the first and third results stand as determinate recognitions, while the second persists as a bodily capacity?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Focal × Standing**, **Integration × Distributed × Efficacy**, and **Differentiation × Focal × Standing**.
+
+5. **How do the short expressions compress those forms?** What do **“this,” “in operation,”** and **“this”** reveal about noticing a distinction and acquiring a skill?
+
 ## Same Direction
 
 Eli and Sana had known each other for four hours when they moved a wall together in the dark.
@@ -5660,6 +5696,18 @@ The manager did not ask.
 **Relating × Focal × Efficacy → #21 — “answered”**
 
 Successful coordination can arise from distributed organization without shared explanation, then be repaired around one common cue, and later emerge from an improvised relation. Shared action does not require identical inner accounts.
+
+### Five questions
+
+1. **What changed in each event?** What becomes integrated in the successful stage-wall movement, what is repaired after the disruption, and what relation becomes intelligible during the brake failure?
+
+2. **What makes each change enough?** Why does the first depend on both performers together, why does the wrist tap become a focal repair point, and why is Eli's improvised movement the decisive cue in the third?
+
+3. **What remains afterward?** Why do all three results persist in what the pair can do together, even though they arise through different structures?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Integration × Distributed × Efficacy**, **Repair × Focal × Efficacy**, and **Relating × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“in operation,” “the burden moves,”** and **“answered”** reveal about coordinated action?
 
 ## Don't Decide Yet
 
@@ -5923,6 +5971,18 @@ She left it there.
 **Opening × Focal × Bearing → #11 — “from here, either way”**
 
 The chapter shows that opening and settlement can coexist at different scales. One fact can become fixed while the larger interpretive field remains open, and uncertainty can become more structured without becoming failure.
+
+### Five questions
+
+1. **What changed in each event?** What interpretive possibilities open in the reading group, what fact becomes settled by the interview, and what new interpretation opens later?
+
+2. **What makes each change enough?** Why does the first opening depend on several interpretations, why is the interview focal in settling Daniel's status, and why is Celia's interpretation focal in the third?
+
+3. **What remains afterward?** Why do the first and third results persist through their relation to the text, while Daniel's death stands as an established fact?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Distributed × Bearing**, **Settlement × Focal × Standing**, and **Opening × Focal × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“reachable across,” “chosen,”** and **“from here, either way”** reveal about interpretation that can remain open while one fact is settled?
 
 ## Not to Scale
 
@@ -6238,6 +6298,18 @@ Then it reached its limit.
 **Differentiation × Focal × Efficacy → #3 — “this far”**
 
 The chapter separates representation from resemblance. A map can preserve one web of relations, reorganize itself while remaining a whole, and still have a practical boundary beyond which competent use requires another source.
+
+### Five questions
+
+1. **What changed in each event?** What relation becomes clear between the metro diagram and the network, what becomes integrated when the new line is added, and what boundary becomes operative in Tomas's later use?
+
+2. **What makes each change enough?** Why does the first depend on several preserved and distorted relations, why does the second require several features to be reorganized together, and why is the physical interchange the focal boundary in the third?
+
+3. **What remains afterward?** Why do the first two results persist through relations, while the third persists as a practical limit on use?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Distributed × Bearing**, **Integration × Distributed × Bearing**, and **Differentiation × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“each changes the other,” “held together across,”** and **“this far”** reveal about a representation that works by preserving some relations and not others?
 
 ## Nothing to Fix
 
@@ -6618,6 +6690,18 @@ There was nothing to fix.
 
 A new relation can illuminate without explaining everything. The chapter then repairs an overreach by releasing its authority and ends with action becoming possible before interpretation is complete.
 
+### Five questions
+
+1. **What changed in each event?** What new relation changes Ruth's understanding, what overreach is repaired by Tom's intervention, and what practical question becomes settled when Ruth keeps one thing and gives away another?
+
+2. **What makes each change enough?** Why is the ticket focal in the first event, why does the second complete by releasing a total explanation, and why does the third depend on several considerations across two objects?
+
+3. **What remains afterward?** Why does the first result persist through a relation, the second as a better-bounded determination, and the third as changed continuation?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Release × Standing**, and **Settlement × Distributed × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“held against,” “a better limit,”** and **“settled across the cases”** reveal about understanding that can deepen without explaining everything?
+
 ## Say It Another Way
 
 Elena's father had written the speech in Spanish.
@@ -6921,6 +7005,18 @@ And sometimes saying something different reveals that nobody can point cleanly t
 
 Translation opens several viable routes rather than one exact substitute. A live utterance can make one route effective, while later continuity depends on a relation carried across changing words.
 
+### Five questions
+
+1. **What changed in each event?** What possibilities open when Elena and her father make different translations, what further possibility opens in the improvised wedding version, and what relation persists across Sofia's later wording?
+
+2. **What makes each change enough?** Why does the first depend on several renderings, why is the live utterance focal in the second, and why does the third depend on continuity across several versions?
+
+3. **What remains afterward?** Why do the first and third persist through relations to the original and later versions, while the second persists in successful communicative action?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Opening × Distributed × Bearing**, **Opening × Focal × Efficacy**, and **Relating × Distributed × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“reachable across,” “more ways open,”** and **“each changes the other”** reveal about preserving sense through changed wording?
+
 ## Close Enough to Predict
 
 Mina worked at a science museum where the pendulum was popular for the wrong reason.
@@ -7158,6 +7254,18 @@ Just not everywhere.
 
 The chapter makes adequacy range-sensitive. A model's success varies across cases, an apparent failure can be corrected by one decisive test, and a learned boundary can persist as practical restraint in later use.
 
+### Five questions
+
+1. **What changed in each event?** What difference in the model's adequacy becomes clear, what attribution is repaired when the sensor is replaced, and what boundary becomes operative in the colleague's later use?
+
+2. **What makes each change enough?** Why does the first depend on a range of cases, why is replacing the sensor decisive in the second, and why is the out-of-range application focal in the third?
+
+3. **What remains afterward?** Why does the first result persist through the relation between swing size and adequacy, the second as an established correction, and the third as a practical limit on use?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Bearing**, **Repair × Focal × Standing**, and **Differentiation × Focal × Efficacy**.
+
+5. **How do the short expressions compress those forms?** What do **“this, here,” “set right,”** and **“this far”** reveal about an approximation that is useful because its range can be discerned?
+
 ## Original
 
 The staircase had been repaired so many times that Lea no longer trusted the word original.
@@ -7374,6 +7482,18 @@ It made the question more exact.
 **Integration × Distributed × Bearing → #41 — “held together across”**
 
 The staircase becomes intelligible as historically differentiated, then repair preserves it through relations among retained and replaced parts. Integration can succeed before the question of originality receives a final answer.
+
+### Five questions
+
+1. **What changed in each event?** What historical differences become visible in the staircase, what is repaired through selective replacement, and what becomes integrated as the new material joins the working whole?
+
+2. **What makes each change enough?** Why does the first depend on several periods and materials, why does the repair depend on several local decisions, and why does the third depend on relations across new and retained parts?
+
+3. **What remains afterward?** Why does the first result stand, while the second and third persist through relations among parts of the staircase?
+
+4. **How do those answers produce the three coordinates?** Reconstruct **Differentiation × Distributed × Standing**, **Repair × Distributed × Bearing**, and **Integration × Distributed × Bearing**.
+
+5. **How do the short expressions compress those forms?** What do **“within this,” “right between both,”** and **“held together across”** reveal about continuity through material change?
 
 ## That's Not How It Happened
 
