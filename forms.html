@@ -40,7 +40,7 @@
     tr:last-child td{border-bottom:0} td:last-child,th:last-child{border-right:0}
     .group td{background:var(--accent-soft)!important;font:700 12px/1.2 ui-sans-serif,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em}
     .pill{display:inline-block;border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:2px 8px;font:700 12px/1.4 ui-sans-serif,system-ui,sans-serif;white-space:nowrap}
-    .short{font-weight:700}.muted{color:var(--muted)} .status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
+    .short{font-weight:700}.field-link{display:inline-block;margin-top:5px;color:var(--accent);text-decoration:none;font:700 11px/1.4 ui-sans-serif,system-ui,sans-serif}.field-link:hover{text-decoration:underline}.muted{color:var(--muted)} .status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
     @media(max-width:720px){.brand{display:none}.toolbar{width:100%}main{padding:18px 8px 48px}.intro{padding:20px 16px}.toolbar{gap:4px}.control{padding:0 9px;font-size:12px}.table-wrap{max-height:76vh}}
   </style></head>
 <body>
@@ -122,7 +122,7 @@ var usageHtml=x.uses.length
 var tHref="definitions.html#definition-"+slugify(x.t);
 var cHref="definitions.html#definition-"+slugify(x.c);
 var pHref="definitions.html#definition-"+slugify(x.p);
-tr.innerHTML="<td>"+x.n+"</td><td class='short'>"+x.short+"</td><td><a class='definition-link' href='"+tHref+"'>"+x.t+"</a></td><td><a class='definition-link' href='"+cHref+"'>"+x.c+"</a></td><td><a class='definition-link' href='"+pHref+"'>"+x.p+"</a></td><td>"+x.t+" × "+x.c+" × "+x.p+"</td><td>"+x.gloss+"</td><td class='usage'>"+usageHtml+"</td>";tbody.appendChild(tr)
+tr.innerHTML="<td>"+x.n+"</td><td><span class='short'>"+x.short+"</span><br><a class='field-link' href='semantic-fields.html?form="+x.n+"'>Five semantic attractors</a></td><td><a class='definition-link' href='"+tHref+"'>"+x.t+"</a></td><td><a class='definition-link' href='"+cHref+"'>"+x.c+"</a></td><td><a class='definition-link' href='"+pHref+"'>"+x.p+"</a></td><td>"+x.t+" × "+x.c+" × "+x.p+"</td><td>"+x.gloss+"</td><td class='usage'>"+usageHtml+"</td>";tbody.appendChild(tr)
 });
 }
 ["t","c","p","s"].forEach(function(id){document.getElementById(id).addEventListener(id==="s"?"input":"change",render)});
