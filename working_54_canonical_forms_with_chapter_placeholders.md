@@ -793,3 +793,49 @@ The chapter shows three different ways reality can push back: an old answer can 
 **Integration × Distributed × Standing → #40 — “each in its place”**
 
 The first two events differentiate the dimensions; the third integrates them. This is the chapter where the coordinate system itself becomes an object of understanding: first its distinctions stand out, then they are organized into a provisional whole.
+
+
+### Chapter 8 — There
+
+#### Three events
+
+**1. Karim discovers that a shallow cut, rather than a drilled hole, determines the correct orientation of a desk leg.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Karim and Amira assemble the desk, undo an incorrect step and adjust it until it stands steadily.**  
+**Repair × Distributed × Efficacy → #33 — “turn where it fails”**
+
+**3. Amira later uses the same kind of directed attention to help another child and to diagnose the desk herself.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+A single relation can make orientation intelligible, but repairing the whole desk requires several coordinated corrections. What survives most strongly is not the original answer but a distributed capacity to direct attention and continue effectively.
+
+### Chapter 9 — Still About That
+
+#### Three events
+
+**1. Ben promises to attend Amira's school play and arrives seven minutes after it begins.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. Ben and the others compare different descriptions of the promise to determine what undertaking remained at issue.**  
+**Differentiation × Distributed × Bearing → #5 — “this, here”**
+
+**3. A later promise to collect a package affects Ben's decision to leave work before the shop closes.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+The same undertaking can survive changes in wording because later events still bear on it. The chapter distinguishes continuity of relation from identity of expression, and then shows that a relation can persist not only as something understood but as something that changes action.
+
+### Chapter 10 — What Yesterday Still Wants
+
+#### Three events
+
+**1. An unexplained warning keeps people from using a broken tap until someone ignores it and exposes the fault.**  
+**Opening × Release × Standing → #16 — “free to choose”**
+
+**2. Nora's forgotten note about smoke-alarm batteries later restores an unfinished task to her attention.**  
+**Opening × Focal × Efficacy → #12 — “more ways open”**
+
+**3. Ben's memory of the screws used on the curtain rail is contradicted when Nora compares his new screws with an old one.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+What survives from the past can reopen a possibility, restore a task, or correct a memory. The chapter therefore separates persistence from uninterrupted presence: something can matter again after having fallen out of attention.
