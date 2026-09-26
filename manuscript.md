@@ -1341,7 +1341,7 @@ Sometimes one particular thing decided the matter. The name on the message settl
 
 Sometimes no single part was enough. The whole train route had to be available. A bracket, plug and wall all had to hold. Several things together made the difference.
 
-And sometimes something became enough because an old concern stopped governing the next move. Once the guard said the tickets would be accepted, the missed connection was still inconvenient, but it no longer controlled the whole journey. Once they knew the stain in Karim's new flat was old, the question of an active leak lost its grip.
+And sometimes something became enough because an old concern stopped governing the next move. This was not another kind of change; it was a different answer to the question of why the change counted as enough. Once the guard said the tickets would be accepted, the missed connection was still inconvenient, but it no longer controlled the whole journey. Once they knew the stain in Karim's new flat was old, the question of an active leak lost its grip.
 
 Leila added three marks beneath the six.
 
@@ -1375,9 +1375,9 @@ It did.
 
 Six kinds of change. Three ways a change might become enough. Three broad ways something might remain.
 
-If the three lists really were independent enough to cross, they yielded fifty-four candidate combinations.
+If the three lists really were independent enough to cross, they yielded fifty-four candidate combinations. The fifty-four belonged to the crossing itself: an event could later instantiate one of those coordinates without being what created it.
 
-Nothing in the number proved that these were the only possibilities, or even that every crossing would survive close inspection. They had not inspected every kind of understanding people could ever have. The number was not sacred. One of the six might need splitting. Two might turn out to overlap. One of the three later questions might cut the territory in a different way.
+Nothing in the number proved that these were the only possibilities, that every coordinate would appear among the cases they happened to examine, or even that every crossing would survive close inspection. They had not inspected every kind of understanding people could ever have. The number was not sacred. One of the six might need splitting. Two might turn out to overlap. One of the three later questions might cut the territory in a different way.
 
 But crossing the questions did something useful.
 
@@ -4502,7 +4502,7 @@ And it was still capable of becoming larger again.
 **3. Mara helps Tess hear the musical relation through demonstration rather than explanation alone.**  
 **Relating × Focal × Bearing → #20 — “held against”**
 
-All three occupy the same cell because the change is a newly heard relation, sufficiency gathers around one decisive musical link, and what remains is the bearing among parts. The chapter shows how one form can deepen without changing coordinate.
+The same coordinate recurs as the musical relation deepens from cello, to clarinet, to Tess's hearing.
 
 ### Five questions
 
@@ -4514,7 +4514,7 @@ All three occupy the same cell because the change is a newly heard relation, suf
 
 4. **How do those answers produce the same coordinate three times?** Reconstruct **Relating × Focal × Bearing** in each event.
 
-5. **How does “held against” compress all three?** What is each musical passage being heard against, and why does that relation matter?
+5. **Why is “held against” an adequate compression in all three events?** Explain it from what is actually heard, not by repeating the coordinate labels.
 
 ## You Had to Be There
 
@@ -5287,7 +5287,7 @@ The manager did not ask.
 **3. During a brake failure, Sana understands how to coordinate with Eli from his improvised movement.**  
 **Relating × Focal × Efficacy → #21 — “answered”**
 
-Successful coordination can arise from distributed organization without shared explanation, then be repaired around one common cue, and later emerge from an improvised relation. Shared action does not require identical inner accounts.
+The three events move from successful coordination, through an explicit repair, to improvised response without requiring identical accounts of the action.
 
 ### Five questions
 
@@ -5299,7 +5299,7 @@ Successful coordination can arise from distributed organization without shared e
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Integration × Distributed × Efficacy**, **Repair × Focal × Efficacy**, and **Relating × Focal × Efficacy**.
 
-5. **How do the short expressions compress those forms?** What do **“in operation,” “the burden moves,”** and **“answered”** reveal about coordinated action?
+5. **What does each short expression let you say about the coordinated action that the other two would not?** Use **“in operation,” “the burden moves,”** and **“answered”** to show the difference.
 
 ## Don't Decide Yet
 
@@ -6260,7 +6260,7 @@ There was nothing to fix.
 **3. Ruth eventually gives away the coat while keeping the ticket without resolving everything it means to her.**  
 **Settlement × Distributed × Efficacy → #51 — “settled across the cases”**
 
-A new relation can illuminate without explaining everything. The chapter then repairs an overreach by releasing its authority and ends with action becoming possible before interpretation is complete.
+The ticket changes Ruth's understanding without licensing a total explanation, and action becomes possible before interpretation is complete.
 
 ### Five questions
 
@@ -6272,7 +6272,7 @@ A new relation can illuminate without explaining everything. The chapter then re
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Release × Standing**, and **Settlement × Distributed × Efficacy**.
 
-5. **How do the short expressions compress those forms?** What do **“held against,” “a better limit,”** and **“settled across the cases”** reveal about understanding that can deepen without explaining everything?
+5. **Why do the three short expressions not collapse into one lesson?** Show what **“held against,” “a better limit,”** and **“settled across the cases”** each preserve from Ruth's situation.
 
 ## Say It Another Way
 
@@ -8377,7 +8377,7 @@ The understanding was not.
 **3. A reader later gives Lia an interpretation of Mara's departure that Lia herself had not formed.**  
 **Opening × Focal × Bearing → #11 — “from here, either way”**
 
-The same fictional action can first fail through its relation to what came before, then be repaired by changing that relation, and later open into an interpretation the author did not possess. Intelligibility here exceeds both isolated action and authorial intention.
+The same departure first fails against what came before, then becomes intelligible through revision, and later supports an interpretation Lia did not possess.
 
 ### Five questions
 
@@ -8389,7 +8389,7 @@ The same fictional action can first fail through its relation to what came befor
 
 4. **How do those answers produce the three coordinates?** Reconstruct **Relating × Focal × Bearing**, **Repair × Focal × Bearing**, and **Opening × Focal × Bearing**.
 
-5. **How do the short expressions compress those forms?** What do **“held against,” “rightly weighted,”** and **“from here, either way”** reveal about how one action can fail, become intelligible, and remain open to further interpretation?
+5. **Read the three short expressions back through the same departure.** Why does **“held against”** fit first, **“rightly weighted”** after revision, and **“from here, either way”** when the reader speaks?
 
 ## The Drawer Comes Out
 
