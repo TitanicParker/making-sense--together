@@ -42,9 +42,18 @@
     .pill{display:inline-block;border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:2px 8px;font:700 12px/1.4 ui-sans-serif,system-ui,sans-serif;white-space:nowrap}
     .short{font-weight:700}.field-link{display:inline-block;margin-top:5px;color:var(--accent);text-decoration:none;font:700 11px/1.4 ui-sans-serif,system-ui,sans-serif}.field-link:hover{text-decoration:underline}.muted{color:var(--muted)} .status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
     @media(max-width:720px){.brand{display:none}.toolbar{width:100%}main{padding:18px 8px 48px}.intro{padding:20px 16px}.toolbar{gap:4px}.control{padding:0 9px;font-size:12px}.table-wrap{max-height:76vh}}
-  </style></head>
+  
+.mobile-nav-toggle{display:none}
+@media(max-width:760px){
+  .topbar{flex-wrap:wrap}
+  .mobile-nav-toggle{display:inline-flex;margin-left:auto}
+  .topbar .toolbar{display:none;width:100%;flex-wrap:wrap;overflow:visible;padding:4px 0 2px}
+  .topbar.nav-open .toolbar{display:flex}
+  .topbar .toolbar .control{flex:0 0 auto}
+}
+</style></head>
 <body>
-<header class="topbar"><div class="brand">Making Sense Together · 54 Forms</div><div class="toolbar">
+<header class="topbar"><div class="brand">Making Sense Together · 54 Forms</div><button class="control mobile-nav-toggle" id="mobileNavToggle" aria-expanded="false" aria-controls="siteToolbar">Menu</button><div class="toolbar" id="siteToolbar">
 <a class="control" href="strongest-claim.html">Claim</a><a class="control" href="index.html">Reader</a><a class="control" href="definitions.html">Definitions</a><a class="control" href="semantic-fields.html">Semantic Field</a><a class="control" href="method.html">Method</a><button class="control" id="theme" aria-label="Toggle theme">◐</button>
 </div></header>
 <main><section class="panel">
@@ -138,4 +147,23 @@ tr.innerHTML="<td>"+x.n+"</td><td><span class='short'>"+x.short+"</span><br><a c
 var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";
 document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")};
 })();
-</script></body></html>
+</script>
+<script>
+(function(){
+  var topbar=document.querySelector('.topbar');
+  var toggle=document.getElementById('mobileNavToggle');
+  if(!topbar||!toggle)return;
+  function closeMenu(){
+    topbar.classList.remove('nav-open');
+    toggle.setAttribute('aria-expanded','false');
+    toggle.textContent='Menu';
+  }
+  toggle.addEventListener('click',function(){
+    var open=topbar.classList.toggle('nav-open');
+    toggle.setAttribute('aria-expanded',open?'true':'false');
+    toggle.textContent=open?'Close':'Menu';
+  });
+  window.addEventListener('resize',function(){if(window.innerWidth>760)closeMenu()});
+})();
+</script>
+</body></html>
