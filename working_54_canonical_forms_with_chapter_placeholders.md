@@ -697,3 +697,53 @@ Use one row per discrete event statement. Population has begun; unfilled classif
 | 109 | 37 | 1 | Nora and Ben remove the old repaired drawer and allow it to be discarded during the kitchen renovation. | **Settlement** — the old drawer's practical role in the kitchen is brought to an end. | **Release** — completion occurs by letting the repaired object itself cease to govern what comes next. | **Efficacy** — the result remains as a changed continuation in which the renovation can proceed without preserving the old drawer. | **Settlement × Release × Efficacy** | **#54 — “nothing further is owed”** |  |
 | 110 | 37 | 2 | Nora applies the old lifting test to a new sticking drawer, finds that it changes nothing and discovers a spatula behind the organiser. | **Repair** — the inherited fault expectation is corrected when the old test fails and the actual obstruction is found. | **Focal** — the spatula is the decisive locus that makes the new diagnosis sufficient. | **Standing** — the corrected determination remains established: this drawer is sticking because of the obstruction, not the old fault. | **Repair × Focal × Standing** | **#28 — “set right”** |  |
 | 111 | 37 | 3 | Nora recognizes that something from the earlier repair has continued even though the old drawer, exact memory and original answer have not. | **Differentiation** — what has continued becomes distinguishable from the old object, exact memory and original answer that did not continue. | **Distributed** — several contrasts across the earlier and later occasions jointly make that distinction sufficient. | **Bearing** — what remains does so through its bearing across the two episodes rather than as one unchanged object, memory or answer. | **Differentiation × Distributed × Bearing** | **#5 — “this, here”** |  |
+
+
+## Working Pedagogical Codas
+
+These are compressed end-of-chapter codas for the manuscript rewrite. The literary chapter should quietly prepare the distinctions named here without overtly teaching the coordinate system in the scene.
+
+### Chapter 2 — Enough
+
+#### Three events
+
+**1. Ben and Nora decide that the soup is good enough to serve.**  
+**Settlement × Focal × Efficacy → #48 — “arrived”**
+
+**2. Nora and Leila make the curtain rail secure enough for its expected use, but a child later overloads it.**  
+**Repair × Focal × Bearing → #29 — “rightly weighted”**
+
+**3. Leila later checks the expected load before deciding how to mount a coat rack.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+All three completions are **Focal**, but “enough” is doing different work: a question can be settled so action proceeds, a repair can be adequate only relative to a governing load, and a relation can guide the next decision. The chapter separates stopping, adequacy and practical consequence without treating any of them as finality.
+
+### Chapter 3 — What You Get to Keep
+
+#### Three events
+
+**1. Nora identifies and labels the breaker controlling the kitchen-wall sockets.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**2. Rewiring makes Nora's old breaker location wrong while leaving other parts of what she learned useful.**  
+**Differentiation × Release × Bearing → #8 — “more and less”**
+
+**3. Nora passes useful information about the breaker to Arun, who later knows when a similar procedure should be abandoned.**  
+**Differentiation × Focal × Efficacy → #3 — “this far”**
+
+What persists from an understanding need not persist uniformly. One determination can stand, one part can lose authority when conditions change, and a surviving distinction can remain chiefly as a limit on future action. Persistence is selective rather than all-or-nothing.
+
+### Chapter 4 — Look Again
+
+#### Three events
+
+**1. Nora and Leila correct which platform their train is leaving from.**  
+**Repair × Focal × Standing → #28 — “set right”**
+
+**2. The guard confirms that their tickets will remain valid after a delay causes them to miss their connection.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**3. Nora passes the guard's information to other delayed passengers while telling them they can verify it themselves.**  
+**Opening × Distributed × Efficacy → #15 — “available throughout”**
+
+The first two events both leave a **Standing** result, but one corrects an error while the other settles a live question. The third changes scale: what one person learned becomes distributed access for others and persists in what they can now do with it.
