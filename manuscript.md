@@ -4337,17 +4337,7 @@ She heard it immediately. The held violin note now sat differently in the phrase
 
 After that she could not quite hear the passage as she had before.
 
-Nothing had been solved in the ordinary sense.
-
-There had been no fault like a cracked runner, no wrong platform, no broken fuse, no question written on the back of a photograph.
-
-Nobody had asked, “What does this passage mean?”
-
-Mara had not arrived at rehearsal bothered by uncertainty.
-
-She had been able to play.
-
-Then something became audible.
+Nothing had been repaired or answered. Mara had been able to play. Then something became audible.
 
 A week later a younger violinist named Tess joined the orchestra.
 
@@ -4652,53 +4642,9 @@ Mateo laughed.
 
 This time at that.
 
-A joke can arrive quickly.
+A joke can arrive faster than its explanation: a pause, a tone, a mismatch. Laying the pieces out afterward can make the result seem smaller than it felt.
 
-Faster than an explanation.
-
-Sometimes before the person has decided exactly what they noticed.
-
-A pause, a tone, a mismatch, a word used at the wrong level of seriousness. The pieces can fall together in a second.
-
-Afterward, trying to lay them out one by one can make the result seem smaller than it felt.
-
-Hannah knew this because she had once tried to explain a family joke to a friend.
-
-Her aunt had spent years saying, “We are not the kind of family who makes a fuss.”
-
-This sentence was usually spoken during arguments involving three phone calls, two offended cousins and at least one person bringing food nobody had asked for.
-
-At her aunt’s birthday, a waiter brought the wrong cake.
-
-Her aunt looked at it and said, very calmly, “We won’t make a fuss.”
-
-Every member of the family began laughing.
-
-The waiter looked alarmed.
-
-Hannah tried to explain.
-
-“She always says that.”
-
-Her friend waited.
-
-“But they do make a fuss.”
-
-“Yes.”
-
-“So?”
-
-“So that was funny.”
-
-Her friend smiled because Hannah wanted her to.
-
-That was worse.
-
-The family had not laughed because the sentence contained a hidden code. They had laughed because years of earlier moments had suddenly crowded into one harmless sentence.
-
-The waiter heard six ordinary words.
-
-They heard a history.
+Hannah had once tried to explain a family joke to a friend. Her aunt's habitual “We are not the kind of family who makes a fuss” was funny to the family precisely because years of fussing sat behind it. Her friend understood the explanation and still did not laugh.
 
 The following week Mateo told Hannah a joke from his childhood in Spanish.
 
@@ -4953,19 +4899,7 @@ They went again.
 
 This time he asked her not to tell him anything.
 
-He rode farther.
-
-Then farther again.
-
-The difficulty moved.
-
-At first he could not stay upright.
-
-Then he could stay upright but not turn.
-
-Then he could turn but looked at the ground whenever anyone approached.
-
-Each success created a new place to fail.
+He rode farther. Then farther again. The difficulty moved from staying upright to turning, then to looking ahead when someone approached.
 
 Aisha rode a slow circle around him.
 
@@ -5330,25 +5264,7 @@ Eli laughed.
 
 Perhaps.
 
-There are ways of acting together that require almost no account of what the other person thinks.
-
-A practiced cue.
-
-A pressure through a shared object.
-
-A glance.
-
-A rhythm.
-
-Sometimes that is enough.
-
-Sometimes it is dangerously thin.
-
-A team can perform well while carrying different stories about why the performance works.
-
-Those stories may never matter.
-
-Until something changes.
+A team could perform well while carrying different stories about why the performance worked. Those stories might never matter until something changed.
 
 At the end of the run, the stage manager thanked them.
 
@@ -5511,11 +5427,7 @@ Farah said, “Does that settle it?”
 
 Nobody answered quickly.
 
-The author might have intended one thing.
-
-The story might still support more than the author noticed.
-
-Or perhaps that was too convenient.
+The author might have intended one thing. The story might still support more than the author noticed.
 
 Celia had always disliked discussions that ended with “It can mean anything.”
 
@@ -5856,23 +5768,7 @@ Nia smiled.
 
 “It seems helpful to me.”
 
-They began listing what might count.
-
-Same station names.
-
-Same line colours.
-
-Same network.
-
-Same order of stops.
-
-Same visual positions.
-
-Same conventions.
-
-Same purpose.
-
-No version kept all of them unchanged.
+They began listing what might count: station names, line colours, order of stops, visual positions, purpose. No version kept all of them unchanged.
 
 A year later passengers would call the new diagram “the map” as if nothing difficult had happened.
 
@@ -6606,21 +6502,7 @@ They found a video from one of the guests.
 
 Elena transcribed her father's English as he had spoken it.
 
-Now there were three texts.
-
-The Spanish pages.
-
-The translation she had prepared.
-
-The speech he had actually given.
-
-None could simply replace the others.
-
-The first held phrases the English could not carry.
-
-The second showed what Elena had thought mattered enough to preserve.
-
-The third belonged to the room, the faces, the pauses and whatever her father had changed when he saw Sofia listening.
+Now there were three texts: the Spanish pages, Elena's prepared translation and the speech her father had actually given. None simply replaced the others.
 
 A month later, Sofia sent Elena a message.
 
@@ -6851,39 +6733,11 @@ THIS SHORTCUT HAS A RANGE.
 
 Mina preferred that.
 
-One afternoon the same boy returned with his school.
-
-He recognized her.
-
-"Does it still break if I pull it high?"
-
-"The prediction does."
-
-"Not the pendulum."
-
-"Please do not test the other interpretation."
-
-He used the large mark.
-
-The numbers separated.
-
-This time he did not look disappointed.
+When the same boy returned with his school, he tried the large mark again. This time the separating numbers did not look like failure.
 
 "So that's where it stops being close enough."
 
 "Yes."
-
-"Could you make a formula that works there too?"
-
-"Yes."
-
-"Why don't you use that one?"
-
-Mina looked at the class waiting behind him.
-
-"Because then I would need another sign explaining the formula."
-
-He laughed.
 
 Later, Mina used the simple equation while checking a new display. She knew what she was asking of it, and where she would stop asking.
 
@@ -7004,13 +6858,7 @@ Underneath, someone had pencilled a date.
 
 Marcus laughed.
 
-The tread itself turned out to be older than the repair but younger than the staircase.
-
-A photograph in the library archive showed the stair before 1900 with a different balustrade.
-
-Another record showed repairs after a fire.
-
-What looked like one old object was already a history of replacements.
+The tread was older than the repair but younger than the staircase. Archive photographs showed earlier balustrades and repairs after a fire. The old object was already a history of replacements.
 
 Lea cut a new piece of oak for the third tread.
 
