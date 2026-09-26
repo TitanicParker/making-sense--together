@@ -134,17 +134,15 @@ Nora opened it once, then closed it herself.
 
 "Now."
 
-Ben had noticed the dropping edge. Nora had tried lifting the drawer. He had doubted the glue. She had watched the split close under pressure. They had not needed to notice the same things at the same time.
-
-"There" gave them somewhere to look. "Again" gave them a movement to repeat. "Now" came only after the drawer had survived the test.
+Ben had noticed the dropping edge. Nora had tried lifting the drawer. He had doubted the glue. She had watched the split close under pressure. They had not needed to notice the same things at the same time. One of them could point; the other could look. One could repeat a movement; the other could watch what changed. By morning, the loaded drawer gave them something neither had to argue into place.
 
 Months later, in a different flat, Nora pulled open a bedside drawer that sagged as it came toward her.
 
 She did not remember the kitchen repair as a sequence of sentences. She did not picture the mugs, the onions, or which screw Ben had pressed with his thumb.
 
-She lifted the front of the drawer.
+She lifted the front and pulled again.
 
-It moved more freely.
+This time the sag almost disappeared.
 
 A friend standing beside her asked, "What are you doing?"
 
@@ -167,6 +165,12 @@ Her friend watched the edge.
 "Different?"
 
 "Yes."
+
+Nora let go.
+
+"Your turn."
+
+Her friend tried it once without lifting, then again with the front raised.
 
 "Does that mean the runner's split?"
 
