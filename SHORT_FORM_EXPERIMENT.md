@@ -94,4 +94,8 @@ The 54 canonical ultra-short expressions are frozen for the present edition.
 
 They should be assessed as compact recognition cues inside a larger system, not as miniature logical definitions.
 
-Future experiments may generate alternative 3–5 word expressions for each coordinate, but those alternatives should be treated as a semantic field around the invariant rather than as replacements unless compelling evidence warrants a canonical change.
+A subsequent semantic-field exercise generated ten alternative 3–5 word attractors for each coordinate. The result reinforced a compositional pattern: Transformation supplies the kind of change, Completion supplies the shape of enoughness, and Persistence supplies the mode in which the result remains available.
+
+The full raw generation is not published as part of the site. Five readable, structurally useful, meaningfully varied attractors per coordinate are curated in `semantic-fields.html`. They are presented as a semantic field around the invariant, not as replacements for the canonical expressions.
+
+The public-facing account of the experiments and their limits is available in `method.html`.
