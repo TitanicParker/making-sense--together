@@ -514,7 +514,16 @@
         padding: 0;
       }
     }
-  </style>
+  
+.mobile-nav-toggle{display:none}
+@media(max-width:760px){
+  .topbar{flex-wrap:wrap}
+  .mobile-nav-toggle{display:inline-flex;margin-left:auto}
+  .topbar .toolbar{display:none;width:100%;flex-wrap:wrap;overflow:visible;padding:4px 0 2px}
+  .topbar.nav-open .toolbar{display:flex}
+  .topbar .toolbar .control{flex:0 0 auto}
+}
+</style>
 </head>
 <body>
   <!-- toolbar-nav-version: 2 -->
@@ -522,7 +531,7 @@
 
   <header class="topbar">
     <div class="brand" id="brand">Making Sense Together</div>
-    <div class="toolbar">
+    <button class="control mobile-nav-toggle" id="mobileNavToggle" aria-expanded="false" aria-controls="siteToolbar">Menu</button><div class="toolbar" id="siteToolbar">
       <a class="control nav-pill" href="./strongest-claim.html" aria-label="Read The Strongest Claim">Claim</a>
       <a class="control nav-pill" href="./definitions.html" aria-label="Open definitions">Definitions</a>
       <a class="control nav-pill" href="./forms.html" aria-label="Open 54 canonical forms">54 Forms</a>
@@ -845,5 +854,24 @@
       window.addEventListener("resize", updateProgress);
     })();
   </script>
+
+<script>
+(function(){
+  var topbar=document.querySelector('.topbar');
+  var toggle=document.getElementById('mobileNavToggle');
+  if(!topbar||!toggle)return;
+  function closeMenu(){
+    topbar.classList.remove('nav-open');
+    toggle.setAttribute('aria-expanded','false');
+    toggle.textContent='Menu';
+  }
+  toggle.addEventListener('click',function(){
+    var open=topbar.classList.toggle('nav-open');
+    toggle.setAttribute('aria-expanded',open?'true':'false');
+    toggle.textContent=open?'Close':'Menu';
+  });
+  window.addEventListener('resize',function(){if(window.innerWidth>760)closeMenu()});
+})();
+</script>
 </body>
 </html>
