@@ -991,3 +991,79 @@ A relation first explains one result, then opens inferential reach across furthe
 **Differentiation × Focal × Bearing → #2 — “this, not that”**
 
 All three occupy the same cell because each turns on a decisive distinction whose force is relational: physical possibility is not the same as permission, obligation or rule-governed use. Repetition here shows that one form can recur across different materials without becoming a generic slogan.
+
+
+### Chapter 21 — You Know This Part
+
+#### Three events
+
+**1. Mara begins hearing her violin passage differently after listening to the preceding cello line.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**2. The conductor makes Mara notice that the passage also relates to a clarinet entrance.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+**3. Mara helps Tess hear the musical relation through demonstration rather than explanation alone.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+All three occupy the same cell because the change is a newly heard relation, sufficiency gathers around one decisive musical link, and what remains is the bearing among parts. The chapter shows how one form can deepen without changing coordinate.
+
+### Chapter 22 — You Had to Be There
+
+#### Three events
+
+**1. Hannah's explanation of a joke fails to make Mateo find it funny.**  
+**Differentiation × Focal × Bearing → #2 — “this, not that”**
+
+**2. A later situation with the same kind of mismatch makes Mateo laugh.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+**3. Similar words in another meeting fail to produce the joke because the relevant situation is absent.**  
+**Relating × Focal × Bearing → #20 — “held against”**
+
+The chapter distinguishes explanation from uptake, then shows that a relation can either remain as dependence on context or take effect immediately in response. Similar words do not guarantee the same intelligibility because the situation itself can be constitutive.
+
+### Chapter 23 — Don't Tell Me How
+
+#### Three events
+
+**1. Aisha's verbal instructions fail to teach Sami how to balance a bicycle.**  
+**Differentiation × Focal × Standing → #1 — “this”**
+
+**2. Sami learns to ride by practising and following Aisha's movements.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**3. Teaching Sami makes Aisha notice a cycling movement that she had been performing without attending to it.**  
+**Differentiation × Focal × Standing → #1 — “this”**
+
+The chapter separates saying from doing, then shows a skill emerging through coordinated practice rather than a single instruction. Teaching also makes previously tacit structure available as an explicit distinction.
+
+### Chapter 24 — Same Direction
+
+#### Three events
+
+**1. Eli and Sana successfully move the stage wall while unknowingly using different cues.**  
+**Integration × Distributed × Efficacy → #42 — “in operation”**
+
+**2. A disrupted performance exposes their different cues and leads them to establish a shared wrist-tap cue.**  
+**Repair × Focal × Efficacy → #30 — “the burden moves”**
+
+**3. During a brake failure, Sana understands how to coordinate with Eli from his improvised movement.**  
+**Relating × Focal × Efficacy → #21 — “answered”**
+
+Successful coordination can arise from distributed organization without shared explanation, then be repaired around one common cue, and later emerge from an improvised relation. Shared action does not require identical inner accounts.
+
+### Chapter 25 — Don't Decide Yet
+
+#### Three events
+
+**1. A reading group develops several competing interpretations of why Mara leaves the hallway light on.**  
+**Opening × Distributed × Bearing → #14 — “reachable across”**
+
+**2. An author interview establishes that Daniel is dead without settling why Mara keeps the light on.**  
+**Settlement × Focal × Standing → #46 — “chosen”**
+
+**3. Celia later develops another interpretation and leaves it explicitly uncertain.**  
+**Opening × Focal × Bearing → #11 — “from here, either way”**
+
+The chapter shows that opening and settlement can coexist at different scales. One fact can become fixed while the larger interpretive field remains open, and uncertainty can become more structured without becoming failure.
