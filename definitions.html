@@ -8,7 +8,7 @@
     button,input,select{font:inherit;color:inherit}
     .topbar{position:sticky;top:0;z-index:20;min-height:56px;display:flex;align-items:center;gap:12px;padding:8px 16px;border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(12px)}
     .brand{min-width:0;flex:1;font:700 14px/1.2 ui-sans-serif,system-ui,sans-serif;letter-spacing:.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-    .toolbar{display:flex;align-items:center;gap:6px}
+    .toolbar{display:flex;align-items:center;gap:6px;overflow-x:auto;scrollbar-width:none}.toolbar::-webkit-scrollbar{display:none}
     .control{border:1px solid var(--line);background:var(--paper-2);border-radius:999px;min-width:36px;height:36px;padding:0 11px;cursor:pointer;font:13px ui-sans-serif,system-ui,sans-serif;text-decoration:none;display:inline-flex;align-items:center;justify-content:center}
     .control:hover{border-color:var(--accent)}
     main{max-width:1180px;margin:0 auto;padding:34px 18px 72px}
@@ -40,11 +40,11 @@
     .group td{background:var(--accent-soft)!important;font:700 12px/1.2 ui-sans-serif,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em}
     .pill{display:inline-block;border:1px solid var(--line);background:var(--paper);border-radius:999px;padding:2px 8px;font:700 12px/1.4 ui-sans-serif,system-ui,sans-serif;white-space:nowrap}
     .short{font-weight:700}.muted{color:var(--muted)} .status{padding:28px;text-align:center;color:var(--muted);font-family:ui-sans-serif,system-ui,sans-serif}
-    @media(max-width:720px){main{padding:18px 8px 48px}.intro{padding:20px 16px}.toolbar{gap:4px}.control{padding:0 9px;font-size:12px}.table-wrap{max-height:76vh}}
+    @media(max-width:720px){.brand{display:none}.toolbar{width:100%}main{padding:18px 8px 48px}.intro{padding:20px 16px}.toolbar{gap:4px}.control{padding:0 9px;font-size:12px}.table-wrap{max-height:76vh}}
   </style></head>
 <body>
 <header class="topbar"><div class="brand">Making Sense Together · Definitions</div><div class="toolbar">
-<a class="control" href="index.html">Reader</a><a class="control" href="forms.html">54 Forms</a><button class="control" id="theme" aria-label="Toggle theme">◐</button>
+<a class="control" href="index.html">Reader</a><a class="control" href="forms.html">54 Forms</a><a class="control" href="semantic-fields.html">Semantic Field</a><a class="control" href="method.html">Method</a><button class="control" id="theme" aria-label="Toggle theme">◐</button>
 </div></header>
 <main><section class="panel">
 <div class="intro"><h1>The 15 definitions</h1><p class="lede">A lookup table for the three questions, the three dimensions, and the twelve definitions that answer them. Start with the event; use the table to decide what to notice.</p><div class="orientation"><strong>Scope.</strong> These questions concern a completed local achievement of intelligibility at the scale under discussion: something has become different, that difference has become sufficient for the live matter, and the achieved result is available in some mode for what follows.<br><br><strong>Discern the three answers independently.</strong> Knowing what changed does not tell you what made that change sufficient; neither answer tells you how the achieved result remains available. <span class="triad">What changed? → Transformation · What made it sufficient? → Completion · What remained? → Persistence</span><div class="axis-map"><a class="axis-card" href="#definition-transformation-pattern"><strong>What changed?</strong>Transformation Pattern</a><a class="axis-card" href="#definition-completion-topology"><strong>What made it sufficient?</strong>Completion Topology</a><a class="axis-card" href="#definition-persistence-mode"><strong>What remained?</strong>Persistence Mode</a></div><div class="reading-path">Reading path: <span>event → three questions → definition → coordinate → manuscript cases</span></div></div></div>
