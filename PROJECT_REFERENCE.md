@@ -6,7 +6,7 @@ This file records the current canonical structure of the project so that future 
 
 The current project is a public reading environment with six principal surfaces:
 
-- `manuscript.md` — the 37-chapter book source, including 111 coda events and five-question discernment sections.
+- `manuscript.md` — Chapter Zero, 37 numbered chapters, and an Afterword; the numbered chapters contain 111 coda events and five-question discernment sections.
 - `index.html` — the primary reader, including chapter navigation, technical-layer styling, direct form links, the live three-question guide, and optional Practice mode.
 - `definitions.html` — the canonical definition and discernment guide.
 - `forms.html` — the 54-form reference, including filtering, manuscript usage, exact form links, and revision conditions for the generated field.
@@ -25,6 +25,10 @@ The two older lookup pages are redirects only:
 The three questions analyse a **completed local achievement of intelligibility at the scale under discussion**.
 
 They are not a universal admission test for whether anything whatsoever is intelligible. A larger matter may remain unresolved while a local matter becomes complete enough for inquiry or action to continue.
+
+The manuscript now frames the minimal phenomenon as plausibly **prelinguistic and not uniquely human**: situated organisms can encounter action-relevant insufficiency, reorganize their engagement, reach a local basis for proceeding or withholding action, and retain consequences that alter later engagement. This is the project's current "earthliness" claim.
+
+That claim does **not** establish that the exact 6 × 3 × 3 taxonomy is biologically universal, evolutionarily conserved, or mechanistically unified. Those remain open empirical questions.
 
 ## Three dimensions
 
@@ -114,6 +118,18 @@ There is therefore no isolated “form 55” while these three answer sets remai
 
 The current manuscript contains 111 selected event-instantiations. It is not required to instantiate every generated coordinate.
 
+## Intellectual positioning
+
+Adversarial precedent research found direct or partial antecedents for the broad phenomenon in Dewey, Weick, Dervin, Wittgenstein, Peirce, ecological and enactive approaches, distributed cognition, ethnomethodology, and situated-action traditions.
+
+The project should therefore not claim to have originated the general idea of situated sense-making. Its stronger current originality claim is that it treats **locally completed intelligibility transitions** as a common comparative unit across otherwise separated domains and proposes a three-dimensional morphology that independently asks:
+
+1. what changed;
+2. what made the change sufficient;
+3. how the achieved result remains available.
+
+The strongest present empirical objection is mechanistic underdetermination: similar functional patterns may arise from different underlying mechanisms. Future evidence should therefore test whether the proposed distinctions predict dissociations in transfer, reacquisition, context sensitivity, error, social transmission, or other observable outcomes.
+
 ## Coda method
 
 Each chapter contains:
@@ -177,7 +193,9 @@ Current canon is determined by:
 
 A healthy current build should have:
 
-- 37 chapter headings
+- 1 Chapter Zero heading
+- 37 numbered chapter headings
+- 1 Afterword heading
 - 37 `### Three events` sections
 - 37 `### Five questions` sections
 - 111 numbered coda event statements
