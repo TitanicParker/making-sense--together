@@ -23,10 +23,19 @@ table{width:100%;border-collapse:collapse;margin:18px 0;font:13px/1.45 ui-sans-s
 code{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;background:var(--paper);padding:2px 5px;border-radius:4px}.small{font:13px/1.55 ui-sans-serif,system-ui,sans-serif;color:var(--muted)}
 a{color:var(--accent)}blockquote{margin:1.4em 0;padding:.2em 0 .2em 18px;border-left:3px solid var(--line);font-size:1.05rem}
 @media(max-width:760px){.brand{display:none}.topbar{padding:8px}.toolbar{width:100%}.control{font-size:12px;padding:0 9px}main{padding:18px 8px 50px}.paper{padding:26px 18px}.path{grid-template-columns:1fr 1fr}}
+
+.mobile-nav-toggle{display:none}
+@media(max-width:760px){
+  .topbar{flex-wrap:wrap}
+  .mobile-nav-toggle{display:inline-flex;margin-left:auto}
+  .topbar .toolbar{display:none;width:100%;flex-wrap:wrap;overflow:visible;padding:4px 0 2px}
+  .topbar.nav-open .toolbar{display:flex}
+  .topbar .toolbar .control{flex:0 0 auto}
+}
 </style>
 </head>
 <body>
-<header class="topbar"><div class="brand">Making Sense Together · Method</div><div class="toolbar">
+<header class="topbar"><div class="brand">Making Sense Together · Method</div><button class="control mobile-nav-toggle" id="mobileNavToggle" aria-expanded="false" aria-controls="siteToolbar">Menu</button><div class="toolbar" id="siteToolbar">
 <a class="control" href="strongest-claim.html">Claim</a>
 <a class="control" href="index.html">Reader</a>
 <a class="control" href="definitions.html">Definitions</a>
@@ -134,5 +143,24 @@ a{color:var(--accent)}blockquote{margin:1.4em 0;padding:.2em 0 .2em 18px;border-
 </article></main>
 <script>
 (function(){var saved=localStorage.getItem("reader-theme");if(saved==="dark")document.documentElement.dataset.theme="dark";document.getElementById("theme").onclick=function(){var d=document.documentElement.dataset.theme==="dark";document.documentElement.dataset.theme=d?"":"dark";localStorage.setItem("reader-theme",d?"light":"dark")}})();
+</script>
+
+<script>
+(function(){
+  var topbar=document.querySelector('.topbar');
+  var toggle=document.getElementById('mobileNavToggle');
+  if(!topbar||!toggle)return;
+  function closeMenu(){
+    topbar.classList.remove('nav-open');
+    toggle.setAttribute('aria-expanded','false');
+    toggle.textContent='Menu';
+  }
+  toggle.addEventListener('click',function(){
+    var open=topbar.classList.toggle('nav-open');
+    toggle.setAttribute('aria-expanded',open?'true':'false');
+    toggle.textContent=open?'Close':'Menu';
+  });
+  window.addEventListener('resize',function(){if(window.innerWidth>760)closeMenu()});
+})();
 </script>
 </body></html>
