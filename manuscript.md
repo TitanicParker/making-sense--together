@@ -432,7 +432,7 @@ Leila smiled.
 
 "Knowledge relocated."
 
-The old understanding had not vanished completely. Nora still knew that the dead sockets were likely connected to a breaker rather than individually broken. She still knew where the board was and what kind of test would tell them whether they had found the right switch. What had failed was one smaller piece: which exact switch controlled that wall.
+The old understanding had not vanished completely. Nora still knew that the dead sockets were likely connected to a breaker rather than individually broken. She still knew where the board was and what kind of test would tell them whether they had found the right switch. What had failed was one smaller piece, and it was the piece her hand had reached for first: which exact switch controlled that wall.
 
 That mattered.
 
@@ -478,7 +478,7 @@ Nora had not given him her memory of the kettle, the old labels, the electrician
 
 Months later, when Arun's own hallway lights failed, he opened his fuse box and looked first for a tripped breaker. He found one. Reset it. The lights stayed dark.
 
-Instead of trying every switch, he stopped.
+Instead of trying every switch, he stopped. The familiar first move had told him as much as it could.
 
 Different house. Different fault.
 
@@ -613,6 +613,8 @@ Nobody had changed their mind because the others outvoted them. They had listene
 
 A minute later the train rounded the bend and entered platform six.
 
+Whatever they had heard before, the train was there.
+
 That settled more than the announcement had.
 
 On the train, Nora said, "I definitely heard four the first time."
@@ -707,7 +709,7 @@ The woman looked relieved.
 
 "That's what she told us. You can check with her too."
 
-Nora did not ask the woman to trust her private certainty. She passed on what she had been told and left the way back to its source open.
+Nora did not ask the woman to trust her private certainty. She passed on what she had been told and gave the couple somewhere to go if they wanted to check it themselves.
 
 Months later, Nora would remember the journey mainly as the day the platforms kept changing. Leila remembered the bad coffee they bought during the forty-minute wait.
 
@@ -792,7 +794,7 @@ Karim read the message over Leila's shoulder.
 
 The message changed the parcel without changing the cardboard at all. A moment earlier it was an awkward object with an unclear destination. Now they knew who had ordered it, that the address was stale, and what the person wanted them to do.
 
-They did not need to agree about whether opening it would have been justified. That question no longer mattered.
+They did not need to agree about whether opening it would have been justified. That question no longer mattered. Karim would hold the parcel; the sister would collect it.
 
 Karim took the box downstairs.
 
@@ -846,7 +848,9 @@ They called the building manager, who arrived with a step ladder and a moisture 
 
 A slow bead of water was forming on a copper joint.
 
-Leila looked at Karim.
+Leila watched it gather, then looked back at the dark patch.
+
+She looked at Karim.
 
 He held up a hand.
 
@@ -924,7 +928,9 @@ The old leak had survived in Karim's memory, but not as a ready-made answer. It 
 
 The new situation supplied something the old one could not: the stain might not be active at all.
 
-Later, when the landlord confirmed it was from an old repaired leak, Karim messaged Leila one word.
+Later, the landlord confirmed it was from an old repaired leak. The stain remained; the leak did not.
+
+Karim messaged Leila one word.
 
 "History."
 
