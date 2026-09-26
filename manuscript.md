@@ -1377,7 +1377,9 @@ Six kinds of change. Three ways a change might become enough. Three broad ways s
 
 If the three lists really were independent enough to cross, they yielded fifty-four candidate combinations. The fifty-four belonged to the crossing itself: an event could later instantiate one of those coordinates without being what created it.
 
-Nothing in the number proved that these were the only possibilities, that every coordinate would appear among the cases they happened to examine, or even that every crossing would survive close inspection. They had not inspected every kind of understanding people could ever have. The number was not sacred. One of the six might need splitting. Two might turn out to overlap. One of the three later questions might cut the territory in a different way.
+Nothing in the number proved that these were the only distinctions the inquiry would ever need, that every coordinate would appear among the cases they happened to examine, or even that every crossing would survive inspection. The number was not sacred. If a later intelligible case required a seventh kind of change, the field would not gain a solitary fifty-fifth form; the whole Transformation row would expand, yielding sixty-three crossings. A fourth way of becoming sufficient, or a fourth mode of persistence, would yield seventy-two. If one present definition divided, two collapsed together, or the dimensions failed to cross independently, the field would have to be regenerated.
+
+What could count against the map, then, was not merely another case. It was a case they could make intelligible but could not adequately disclose using the present answers to the three questions.
 
 But crossing the questions did something useful.
 
