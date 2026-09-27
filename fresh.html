@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Fresh — the current Making Sense Together essay manuscript.">
+<title>Fresh — Making Sense Together</title>
+<script src="https://cdn.jsdelivr.net/npm/marked@15.0.7/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
+<style>
+:root{color-scheme:light;--paper:#f6f0e5;--paper2:#fffdf8;--ink:#27241f;--muted:#716b61;--line:#d9d0c2;--accent:#70543c;--soft:#eadfce;--shadow:0 18px 55px rgba(50,40,28,.11)}
+html[data-theme="dark"]{color-scheme:dark;--paper:#171614;--paper2:#201e1b;--ink:#eee9df;--muted:#aaa297;--line:#3b3732;--accent:#d5b28d;--soft:#342b23;--shadow:0 18px 55px rgba(0,0,0,.28)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:Georgia,"Times New Roman",serif;line-height:1.72}
+.topbar{position:sticky;top:0;z-index:30;min-height:56px;display:flex;align-items:center;gap:12px;padding:8px 16px;border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--paper) 92%,transparent);backdrop-filter:blur(12px)}
+.brand{flex:1;font:700 14px/1.2 ui-sans-serif,system-ui,sans-serif}.toolbar{display:flex;gap:6px;overflow-x:auto}.control{border:1px solid var(--line);background:var(--paper2);border-radius:999px;height:36px;padding:0 11px;display:inline-flex;align-items:center;text-decoration:none;color:var(--ink);font:13px/1 ui-sans-serif,system-ui,sans-serif;white-space:nowrap}.control[aria-current="page"]{background:var(--soft);font-weight:800}
+.tabswrap{position:sticky;top:56px;z-index:25;border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--paper) 94%,transparent);backdrop-filter:blur(12px)}
+.tabs{max-width:900px;margin:auto;padding:10px 16px;display:flex;gap:8px;overflow-x:auto}.tab{border:1px solid var(--line);background:var(--paper2);border-radius:999px;padding:7px 11px;color:var(--ink);text-decoration:none;font:700 12px/1 ui-sans-serif,system-ui,sans-serif;white-space:nowrap}.tab:hover{border-color:var(--accent)}
+main{max-width:980px;margin:auto;padding:42px 18px 90px}.paper{max-width:760px;margin:auto;background:var(--paper2);border:1px solid var(--line);box-shadow:var(--shadow);padding:48px 54px 72px}
+.paper>h1:first-child{font-size:clamp(2.4rem,6vw,4.4rem);line-height:.98;letter-spacing:-.04em;margin:.1em 0 .2em}.paper>h2:first-of-type{margin-top:.4em;color:var(--muted);font-weight:400}
+.chapter{scroll-margin-top:122px;padding-top:2.6em;margin-top:2.6em;border-top:1px solid var(--line)}.chapter h1{font-size:clamp(2rem,4.5vw,3rem);line-height:1.04;letter-spacing:-.03em;margin:0 0 .8em}.chapter h2{font-size:1.45em;margin:2.3em 0 .7em}.chapter h3{font-size:1.15em;margin:2em 0 .6em}blockquote{border-left:3px solid var(--accent);margin:1.7em 0;padding:.2em 0 .2em 1.2em;color:var(--muted)}a{color:var(--accent)}code{background:var(--soft);padding:.1em .3em;border-radius:4px}
+.status{text-align:center;color:var(--muted);padding:14vh 20px;font-family:ui-sans-serif,system-ui,sans-serif}
+@media(max-width:760px){.brand{display:none}.topbar{padding:6px 8px;min-height:44px}.tabswrap{top:44px}.tabs{padding:6px 8px}.control{height:32px;font-size:11px}.paper{border:0;box-shadow:none;padding:26px 6vw 52px}.chapter{scroll-margin-top:94px}main{padding:0 0 64px;background:var(--paper2)}}
+</style>
+</head>
+<body>
+<header class="topbar"><div class="brand">Making Sense Together · Fresh</div><div class="toolbar">
+<a class="control" href="strongest-claim.html">Claim</a>
+<a class="control" href="index.html">Reader</a>
+<a class="control" href="definitions.html">Definitions</a>
+<a class="control" href="forms.html">54 Forms</a>
+<a class="control" href="semantic-fields.html">Semantic Field</a>
+<a class="control" href="method.html">Method</a>
+<a class="control" href="essays.html">Essays</a>
+<a class="control" aria-current="page" href="fresh.html">Fresh</a>
+</div></header>
+<div class="tabswrap"><nav class="tabs" id="tabs" aria-label="Fresh chapters"></nav></div>
+<main><div class="status" id="status">Opening Fresh…</div><article class="paper" id="paper" hidden></article></main>
+<script>
+(function(){
+ const paper=document.getElementById('paper'), status=document.getElementById('status'), tabs=document.getElementById('tabs');
+ function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
+ fetch('Fresh.md?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Could not load Fresh.md');return r.text()}).then(md=>{
+   paper.innerHTML=DOMPurify.sanitize(marked.parse(md));
+   const h1s=Array.from(paper.querySelectorAll('h1'));
+   h1s.forEach((h,i)=>{h.id=slug(h.textContent)||('section-'+i)});
+   const chapterHeads=h1s.filter(h=>/^Chapter\s+\d+/i.test(h.textContent.trim()));
+   chapterHeads.forEach((h,i)=>{
+     const sec=document.createElement('section'); sec.className='chapter'; sec.id=h.id+'-section';
+     h.parentNode.insertBefore(sec,h); let n=h;
+     while(n && (n===h || n.tagName!=='H1')){const next=n.nextSibling;sec.appendChild(n);n=next;}
+     const m=h.textContent.match(/^Chapter\s+(\d+)/i); const label=m?m[1]:String(i+1);
+     const a=document.createElement('a');a.className='tab';a.href='#'+sec.id;a.textContent='Ch '+label;a.title=h.textContent;tabs.appendChild(a);
+   });
+   status.hidden=true;paper.hidden=false;
+   if(location.hash){const t=document.querySelector(location.hash);if(t)setTimeout(()=>t.scrollIntoView(),50);}
+ }).catch(e=>{status.textContent=e.message});
+})();
+</script>
+</body></html>
