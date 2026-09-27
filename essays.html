@@ -149,7 +149,7 @@ h1{margin:0 0 18px;font-size:clamp(2.8rem,7vw,5.8rem);line-height:.94;letter-spa
 
 <script>
 (function(){
-  var cards=Array.from(document.querySelectorAll('.essay-card[data-file]'));
+  var cards=Array.from(document.querySelectorAll('.essay-card.pending[data-file]'));
   cards.forEach(function(card){
     var file=card.getAttribute('data-file');
     fetch(file,{cache:'no-store'}).then(function(r){
