@@ -1,0 +1,75 @@
+name: Publish Fresh transfer
+
+on:
+  push:
+    paths:
+      - ".transfer/fresh.lz.b64.part05"
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild Fresh.md and essay files
+        shell: python
+        run: |
+          from pathlib import Path
+          import base64, re
+
+          parts = [Path(f".transfer/fresh.lz.b64.part{i:02d}").read_text().strip() for i in range(6)]
+          packed = base64.b64decode("".join(parts))
+
+          out = bytearray()
+          i = 0
+          while i < len(packed):
+              tag = packed[i]
+              i += 1
+              if tag < 128:
+                  n = tag + 1
+                  out.extend(packed[i:i+n])
+                  i += n
+              else:
+                  n = (tag - 128) + 3
+                  dist = (packed[i] << 8) | packed[i+1]
+                  i += 2
+                  start = len(out) - dist
+                  for k in range(n):
+                      out.append(out[start + k])
+
+          text = out.decode("utf-8")
+          Path("Fresh.md").write_text(text, encoding="utf-8")
+
+          matches = list(re.finditer(r"(?m)^#{1,2} Chapter (\d+) — .+$", text))
+          slugs = {
+              1: "01-the-54-ways-something-becomes-enough.md",
+              2: "02-what-happens-next.md",
+              3: "03-what-language-lets-us-do-together.md",
+              4: "04-what-translation-has-to-keep.md",
+              5: "05-growing-into-sense.md",
+              6: "06-what-we-keep.md",
+              7: "07-how-understanding-outlives-us.md",
+              8: "08-nobody-starts-from-zero.md",
+              9: "09-when-an-answer-looks-finished-but-isnt.md",
+              10: "10-designing-for-enough.md",
+              11: "11-what-we-were-looking-at-all-along.md",
+          }
+
+          Path("essays").mkdir(exist_ok=True)
+          for idx, match in enumerate(matches):
+              n = int(match.group(1))
+              end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
+              chapter = text[match.start():end].strip() + "\n"
+              Path("essays", slugs[n]).write_text(chapter, encoding="utf-8")
+
+      - name: Commit rebuilt manuscript
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Fresh.md essays/
+          git diff --cached --quiet && exit 0
+          git commit -m "Transfer full Fresh manuscript and essays"
+          git push
