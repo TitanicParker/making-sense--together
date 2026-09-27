@@ -41,13 +41,13 @@ main{max-width:980px;margin:auto;padding:42px 18px 90px}.paper{max-width:760px;m
  function slug(s){return s.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
  fetch('Fresh.md?v='+Date.now(),{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error('Could not load Fresh.md');return r.text()}).then(md=>{
    paper.innerHTML=DOMPurify.sanitize(marked.parse(md));
-   const h1s=Array.from(paper.querySelectorAll('h1'));
+   const h1s=Array.from(paper.querySelectorAll('h1,h2'));
    h1s.forEach((h,i)=>{h.id=slug(h.textContent)||('section-'+i)});
    const chapterHeads=h1s.filter(h=>/^Chapter\s+\d+/i.test(h.textContent.trim()));
    chapterHeads.forEach((h,i)=>{
      const sec=document.createElement('section'); sec.className='chapter'; sec.id=h.id+'-section';
      h.parentNode.insertBefore(sec,h); let n=h;
-     while(n && (n===h || n.tagName!=='H1')){const next=n.nextSibling;sec.appendChild(n);n=next;}
+     while(n){const next=n.nextSibling;sec.appendChild(n);n=next;if(n && /^(H1|H2)$/.test(n.tagName) && /^Chapter\\s+\\d+/i.test(n.textContent.trim())) break;}
      const m=h.textContent.match(/^Chapter\s+(\d+)/i); const label=m?m[1]:String(i+1);
      const a=document.createElement('a');a.className='tab';a.href='#'+sec.id;a.textContent='Ch '+label;a.title=h.textContent;tabs.appendChild(a);
    });
